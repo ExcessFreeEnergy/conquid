@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Caesar: De Bello Gallico Vocabulary</title>
+  <title>Caesar: De Bello Gallico Vocabulary Arena</title>
   
   <!-- PWA & Mobile Meta Tags -->
   <meta name="theme-color" content="#1e252b">
@@ -44,24 +44,29 @@
 <body class="h-full flex flex-col bg-[#14181d] text-gray-200 antialiased overflow-x-hidden parchment-pattern">
 
   <!-- App Header -->
-  <header class="sticky top-0 z-30 bg-[#1b2229]/95 backdrop-blur-md border-b border-[#2e3a45] shadow-md px-4 py-3">
+  <header class="sticky top-0 z-30 bg-[#1b2229]/95 backdrop-blur-md border-b border-[#2e3a45] shadow-md px-3 sm:px-4 py-2.5">
     <div class="max-w-xl mx-auto flex items-center justify-between">
       
-      <!-- Brand & Logo -->
-      <div class="flex items-center gap-3">
-        <img src="icons/logo.png" alt="Roman Helmet" class="w-10 h-10 rounded-xl shadow-md border border-[#cba34e]/50 object-cover">
+      <!-- Brand, Logo & Rank -->
+      <div class="flex items-center gap-2.5">
+        <img src="icons/logo.png" alt="Roman Helmet" class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl shadow-md border border-[#cba34e]/50 object-cover">
         <div>
-          <h1 class="text-lg font-cinzel font-bold tracking-wider text-gold-gradient">CAESAR</h1>
-          <p class="text-[10px] tracking-widest uppercase text-gray-400 font-cinzel">De Bello Gallico</p>
+          <div class="flex items-center gap-2">
+            <h1 class="text-base sm:text-lg font-cinzel font-bold tracking-wider text-gold-gradient">CAESAR</h1>
+            <span id="user-rank-badge" class="px-2 py-0.5 bg-[#14181d] border border-[#cba34e]/40 rounded-full text-[10px] sm:text-xs font-cinzel font-semibold flex items-center gap-1 shadow-sm">
+              <span>🏛️</span> <span>Tiro</span>
+            </span>
+          </div>
+          <p class="text-[9px] sm:text-[10px] tracking-widest uppercase text-gray-400 font-cinzel">De Bello Gallico</p>
         </div>
       </div>
 
       <!-- Action & Pool Indicators -->
-      <div class="flex items-center gap-2.5">
+      <div class="flex items-center gap-2">
         <!-- Active Pool Badge -->
         <div class="flex items-center gap-1.5 px-2.5 py-1 bg-[#14181d] border border-[#cba34e]/40 rounded-full text-xs" title="Active Pool: exactly 10 words being studied">
           <span class="w-2 h-2 rounded-full bg-[#cba34e] animate-pulse"></span>
-          <span class="text-gray-300 font-medium">Pool:</span>
+          <span class="text-gray-300 font-medium hidden sm:inline">Pool:</span>
           <span id="active-pool-count" class="font-mono font-semibold text-[#fae09c]">10/10</span>
         </div>
 
@@ -76,15 +81,38 @@
     </div>
   </header>
 
+  <!-- Game Modes Navigation Bar (Scrollable on mobile) -->
+  <nav class="bg-[#171d23] border-b border-[#2e3a45] px-2 py-2">
+    <div class="max-w-xl mx-auto flex items-center gap-1.5 overflow-x-auto tab-scroll-container">
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#cba34e] text-gray-950 font-bold" data-mode="cards">
+        <span>🎴</span> <span>Cards</span>
+      </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="drill">
+        <span>⚔️</span> <span>Drill</span>
+      </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="match">
+        <span>🛡️</span> <span>Match</span>
+      </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="scribe">
+        <span>📜</span> <span>Scribe</span>
+      </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="sprint">
+        <span>⚡</span> <span>Sprint</span>
+      </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="cloze">
+        <span>🏛️</span> <span>Cloze</span>
+      </button>
+    </div>
+  </nav>
+
   <!-- Main Container -->
-  <main class="flex-1 max-w-xl w-full mx-auto p-4 flex flex-col justify-between">
+  <main class="flex-1 max-w-xl w-full mx-auto p-3 sm:p-4 flex flex-col justify-between">
     
     <!-- Stage Selector & Progress Header -->
-    <div class="space-y-3 mb-2">
-      
+    <div class="space-y-2.5 mb-2">
       <!-- Stage Dropdown -->
       <div class="relative">
-        <select id="stage-select" class="w-full appearance-none bg-[#1b2229] border border-[#2e3a45] text-sm text-gray-200 py-2.5 px-3.5 pr-8 rounded-xl focus:outline-none focus:border-[#cba34e] transition">
+        <select id="stage-select" class="w-full appearance-none bg-[#1b2229] border border-[#2e3a45] text-xs sm:text-sm text-gray-200 py-2.5 px-3.5 pr-8 rounded-xl focus:outline-none focus:border-[#cba34e] transition">
           <option value="ALL">All Stages (Complete Work: 3,290 words)</option>
         </select>
         <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-[#cba34e]">
@@ -94,115 +122,217 @@
         </div>
       </div>
 
-      <!-- Stage Context Description -->
+      <!-- Stage Stats -->
       <div class="flex items-center justify-between text-xs px-1">
-        <span id="current-stage-title" class="font-medium text-gray-300 truncate max-w-[70%]">Entire Work (Books 1–8)</span>
+        <span class="text-gray-400 font-cinzel">Stage Mastery:</span>
         <span class="text-[#cba34e] font-mono font-semibold">
           <span id="mastered-count">0</span> / <span id="total-count">3,290</span> (<span id="progress-pct">0%</span>)
         </span>
       </div>
 
-      <!-- Visual Progress Bar -->
+      <!-- Progress Bar -->
       <div class="w-full bg-[#1b2229] h-2 rounded-full overflow-hidden border border-[#2e3a45]/60">
         <div id="progress-bar" class="h-full bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#fae09c] transition-all duration-300 w-0"></div>
       </div>
-
     </div>
 
-    <!-- Flashcard Area with 3D Flip Animation -->
-    <div id="flashcard" class="perspective-1000 my-auto py-2">
-      <div id="card-container" class="card-container">
-        
-        <!-- CARD FRONT -->
-        <div class="card-face card-front p-6 justify-between select-none roman-border">
+    <!-- ============================================== -->
+    <!-- VIEW 0: FLASHCARDS WITH GRADED RECALL          -->
+    <!-- ============================================== -->
+    <div id="view-cards" class="game-view flex-1 flex flex-col justify-center my-auto py-1">
+      <div class="perspective-1000">
+        <div id="card-container" class="card-container">
           
-          <!-- Top Badges -->
-          <div class="flex items-center justify-between text-xs">
-            <span id="card-stage-badge" class="px-2.5 py-1 bg-[#2e3a45]/80 text-[#fae09c] font-cinzel tracking-wider rounded-lg border border-[#cba34e]/30">
-              Book 1 Chunk 1
-            </span>
-            <span id="card-review-badge" class="hidden px-2.5 py-1 bg-amber-950/80 text-amber-300 font-cinzel font-semibold tracking-wider rounded-lg border border-amber-600/50 flex items-center gap-1">
-              <span>★</span> Spaced Review
-            </span>
-          </div>
-
-          <!-- Central Latin Headword -->
-          <div class="my-auto text-center space-y-3 px-2">
-            <div id="card-headword" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c] tracking-wide leading-tight">
-              dīvidō, -ere, dīvīsī, dīvīsum
-            </div>
-            <div>
-              <span id="card-pos" class="inline-block text-xs uppercase tracking-wider font-semibold px-2.5 py-1 bg-[#2e3a45]/70 text-gray-300 rounded-md">
-                Verb (3rd)
+          <!-- CARD FRONT -->
+          <div class="card-face card-front p-6 justify-between select-none roman-border">
+            <div class="flex items-center justify-between text-xs">
+              <span id="card-stage-badge" class="px-2.5 py-1 bg-[#2e3a45]/80 text-[#fae09c] font-cinzel tracking-wider rounded-lg border border-[#cba34e]/30">
+                Book 1 Chunk 1
+              </span>
+              <span id="card-review-badge" class="hidden px-2.5 py-1 bg-amber-950/80 text-amber-300 font-cinzel font-semibold tracking-wider rounded-lg border border-amber-600/50 flex items-center gap-1">
+                <span>★</span> Spaced Review
               </span>
             </div>
-            <p class="text-xs text-gray-400 font-lora italic pt-2">
-              In Caesar: <span id="card-first-seen" class="text-gray-200 not-italic font-medium">"divisa" (Bk 1, Ch 1)</span>
-            </p>
-          </div>
 
-          <!-- Bottom Prompt -->
-          <div class="text-center text-[11px] text-[#cba34e]/80 flex items-center justify-center gap-1.5 pt-2">
-            <svg class="w-3.5 h-3.5 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
-            </svg>
-            <span>Tap card to reveal definition (Spacebar)</span>
-          </div>
-
-        </div>
-
-        <!-- CARD BACK -->
-        <div class="card-face card-back p-6 justify-between select-none roman-border">
-          
-          <!-- Top Latin Citation Reference -->
-          <div class="flex items-center justify-between text-xs border-b border-[#2e3a45] pb-2.5">
-            <span id="card-back-headword" class="font-lora text-sm font-medium text-[#cba34e] truncate max-w-[65%]">
-              divido
-            </span>
-            <span id="card-frequency-badge" class="text-[11px] font-mono text-gray-400">
-              24 occurrences
-            </span>
-          </div>
-
-          <!-- Central Definition -->
-          <div class="my-auto text-center space-y-4 px-2">
-            <div class="text-xs uppercase tracking-widest text-[#cba34e] font-cinzel">English Meaning</div>
-            <div id="card-definition" class="text-xl sm:text-2xl font-medium text-white leading-relaxed">
-              divide, separate, distribute, distinguish
+            <div class="my-auto text-center space-y-3 px-2">
+              <div id="card-headword" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c] tracking-wide leading-tight">
+                dīvidō, -ere, dīvīsī, dīvīsum
+              </div>
+              <div>
+                <span id="card-pos" class="inline-block text-xs uppercase tracking-wider font-semibold px-2.5 py-1 bg-[#2e3a45]/70 text-gray-300 rounded-md">
+                  Verb (3rd)
+                </span>
+              </div>
+              <p class="text-xs text-gray-400 font-lora italic pt-2">
+                In Caesar: <span id="card-first-seen" class="text-gray-200 not-italic font-medium">"divisa" (Bk 1, Ch 1)</span>
+              </p>
             </div>
-            <div id="card-first-seen-context" class="text-xs text-gray-400 font-lora italic pt-1">
-              First appeared as "divisa" in Bk 1, Ch 1
+
+            <div class="flex items-center justify-between text-[11px] text-[#cba34e]/80 pt-2 border-t border-[#2e3a45]/40">
+              <span class="flex items-center gap-1">
+                <span>Tap card to reveal</span>
+              </span>
+              <div id="card-mastery-dots" class="flex items-center gap-1" title="Mastery progress (3 correct to master)">
+                <span class="w-2.5 h-2.5 rounded-full bg-[#cba34e]"></span>
+                <span class="w-2.5 h-2.5 rounded-full bg-[#2e3a45]"></span>
+                <span class="w-2.5 h-2.5 rounded-full bg-[#2e3a45]"></span>
+              </div>
             </div>
           </div>
 
-          <!-- Action Buttons (Study Again vs Mastered) -->
-          <div class="grid grid-cols-2 gap-3 pt-3">
-            <button id="btn-study-again" class="py-3 px-3 bg-[#2a1c1d] hover:bg-[#a62d2d] active:scale-[0.98] border border-[#a62d2d]/60 text-red-200 hover:text-white text-xs sm:text-sm font-semibold rounded-xl transition flex items-center justify-center gap-1.5 shadow-md">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
-              </svg>
-              <span>Study Again</span>
-              <span class="text-[10px] opacity-60 hidden sm:inline">(1 / ←)</span>
-            </button>
-            <button id="btn-mastered" class="py-3 px-3 bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#e0ba63] hover:brightness-110 active:scale-[0.98] text-gray-950 text-xs sm:text-sm font-bold rounded-xl transition flex items-center justify-center gap-1.5 shadow-lg">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path>
-              </svg>
-              <span>Mastered</span>
-              <span class="text-[10px] opacity-70 hidden sm:inline">(2 / →)</span>
-            </button>
+          <!-- CARD BACK -->
+          <div class="card-face card-back p-6 justify-between select-none roman-border">
+            <div class="flex items-center justify-between text-xs border-b border-[#2e3a45] pb-2">
+              <span id="card-back-headword" class="font-lora text-sm font-medium text-[#cba34e] truncate max-w-[65%]">
+                divido
+              </span>
+              <span class="text-[11px] font-cinzel text-gray-400">English Meaning</span>
+            </div>
+
+            <div class="my-auto text-center space-y-3 px-2">
+              <div id="card-definition" class="text-xl sm:text-2xl font-medium text-white leading-relaxed">
+                divide, separate, distribute, distinguish
+              </div>
+              <div id="card-snippet" class="text-xs text-gray-400 font-lora italic pt-1 line-clamp-3">
+                "Gallia est omnis divisa in partes tres..."
+              </div>
+            </div>
+
+            <!-- 3 Graded Response Buttons -->
+            <div class="grid grid-cols-3 gap-2 pt-2">
+              <button id="btn-card-forgot" class="py-2.5 px-2 bg-[#2a1c1d] hover:bg-[#a62d2d] border border-[#a62d2d]/60 text-red-200 hover:text-white text-xs font-semibold rounded-xl transition flex flex-col items-center shadow-md">
+                <span>🔴 Forgot</span>
+                <span class="text-[9px] opacity-60">(1 / ←)</span>
+              </button>
+              <button id="btn-card-hard" class="py-2.5 px-2 bg-[#2e2b1f] hover:bg-[#786326] border border-[#cba34e]/40 text-amber-200 hover:text-white text-xs font-semibold rounded-xl transition flex flex-col items-center shadow-md">
+                <span>🟡 Hard</span>
+                <span class="text-[9px] opacity-60">(2 / ↓)</span>
+              </button>
+              <button id="btn-card-mastered" class="py-2.5 px-2 bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#e0ba63] hover:brightness-110 text-gray-950 text-xs font-bold rounded-xl transition flex flex-col items-center shadow-lg">
+                <span>🟢 Mastered</span>
+                <span class="text-[9px] opacity-70">(3 / →)</span>
+              </button>
+            </div>
           </div>
 
         </div>
+      </div>
+    </div>
 
+    <!-- ============================================== -->
+    <!-- VIEW 1: LEGIONARY DRILL (4-Choice MCQ)         -->
+    <!-- ============================================== -->
+    <div id="view-drill" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
+      <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-2 roman-border shadow-xl">
+        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Multiple Choice Drill</span>
+        <div id="drill-word" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c]">
+          incolō
+        </div>
+        <div id="drill-pos" class="text-xs text-gray-400">
+          Verb (3rd)
+        </div>
+      </div>
+
+      <div id="drill-options" class="space-y-2.5 pt-4">
+        <!-- 4 Options populated via JS -->
+      </div>
+    </div>
+
+    <!-- ============================================== -->
+    <!-- VIEW 2: GLADIATOR MATCH (Pair Matching)        -->
+    <!-- ============================================== -->
+    <div id="view-match" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
+      <div class="text-center text-xs text-gray-400 mb-2">
+        <span class="font-cinzel text-[#cba34e]">Gladiator Match:</span> Tap a Latin word, then tap its English match!
+      </div>
+      <div class="grid grid-cols-2 gap-2.5 flex-1 items-stretch">
+        <div id="match-latin-col" class="space-y-2 flex flex-col justify-around"></div>
+        <div id="match-eng-col" class="space-y-2 flex flex-col justify-around"></div>
+      </div>
+    </div>
+
+    <!-- ============================================== -->
+    <!-- VIEW 3: CAESAR'S SCRIBE (Type / Recall)        -->
+    <!-- ============================================== -->
+    <div id="view-scribe" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
+      <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-3 roman-border shadow-xl">
+        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Type-in Active Recall</span>
+        <div id="scribe-definition" class="text-xl sm:text-2xl font-semibold text-white leading-snug">
+          divide, separate, distribute
+        </div>
+        <div id="scribe-pos" class="text-xs text-gray-400">
+          Verb (3rd)
+        </div>
+        <div id="scribe-hint" class="font-mono text-sm tracking-widest text-[#fae09c] bg-[#14181d] py-1.5 px-3 rounded-lg border border-[#2e3a45]">
+          Hint: d _ v _ d _
+        </div>
+      </div>
+
+      <div class="space-y-3 pt-4">
+        <div id="scribe-feedback" class="text-xs min-h-[20px] text-center font-semibold"></div>
+        <div class="flex gap-2">
+          <input type="text" id="scribe-input" autocorrect="off" autocapitalize="none" autocomplete="off" spellcheck="false" placeholder="Type Latin word (macrons optional)..." class="flex-1 bg-[#1b2229] border border-[#2e3a45] text-base text-gray-200 px-4 py-3 rounded-xl focus:outline-none focus:border-[#cba34e]">
+          <button id="btn-scribe-submit" class="px-5 py-3 bg-[#cba34e] hover:bg-[#e0ba63] text-gray-950 font-bold rounded-xl transition shadow-md">
+            Verify
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============================================== -->
+    <!-- VIEW 4: SHIELD WALL (True/False Sprint)        -->
+    <!-- ============================================== -->
+    <div id="view-sprint" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
+      <div id="sprint-card-box" class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-8 text-center space-y-4 roman-border shadow-xl transition-all duration-200">
+        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Shield Wall: True or False?</span>
+        <div id="sprint-word" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c]">
+          Gallia
+        </div>
+        <div id="sprint-pos" class="text-xs text-gray-400">
+          Proper Noun
+        </div>
+        <div class="text-xs uppercase tracking-widest text-gray-400 font-cinzel pt-2">Means:</div>
+        <div id="sprint-definition" class="text-lg sm:text-xl font-medium text-white leading-snug">
+          Gaul (transalpine region)
+        </div>
+      </div>
+
+      <div class="grid grid-cols-2 gap-3 pt-6">
+        <button id="btn-sprint-false" class="py-4 bg-[#2a1c1d] hover:bg-[#a62d2d] border border-[#a62d2d]/60 text-red-200 hover:text-white font-bold text-sm sm:text-base rounded-xl transition flex items-center justify-center gap-2 shadow-lg">
+          <span>❌ FALSUM</span>
+          <span class="text-xs opacity-60 hidden sm:inline">(F / ←)</span>
+        </button>
+        <button id="btn-sprint-true" class="py-4 bg-emerald-950/80 hover:bg-emerald-800 border border-emerald-600/60 text-emerald-200 hover:text-white font-bold text-sm sm:text-base rounded-xl transition flex items-center justify-center gap-2 shadow-lg">
+          <span>⚔️ VERUM</span>
+          <span class="text-xs opacity-60 hidden sm:inline">(V / →)</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- ============================================== -->
+    <!-- VIEW 5: CAESAR'S BATTLEFIELD (Authentic Cloze) -->
+    <!-- ============================================== -->
+    <div id="view-cloze" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
+      <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-3 roman-border shadow-xl">
+        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Authentic Caesar Sentence Cloze</span>
+        <div id="cloze-sentence" class="font-lora text-lg sm:text-xl text-gray-200 leading-relaxed text-left">
+          Gallia est omnis _______ in partes tres...
+        </div>
+        <div id="cloze-citation" class="text-xs text-gray-400 italic text-left pt-1">
+          Bk 1, Ch 1
+        </div>
+      </div>
+
+      <div id="cloze-options" class="space-y-2.5 pt-4">
+        <!-- 4 Options populated via JS -->
       </div>
     </div>
 
     <!-- Footer Controls -->
-    <footer class="pt-3 pb-1 border-t border-[#2e3a45]/50 flex items-center justify-between text-xs text-gray-400">
+    <footer class="pt-3 pb-1 border-t border-[#2e3a45]/50 flex items-center justify-between text-xs text-gray-400 mt-2">
       <div class="flex items-center gap-2">
-        <span class="text-[#cba34e]">SPQR</span>
-        <span>· Order of Appearance</span>
+        <span class="text-[#cba34e] font-cinzel font-semibold">SPQR</span>
+        <span>· Active 10 + Spaced Review</span>
       </div>
       <button id="btn-reset" class="hover:text-red-400 transition" title="Clear all local study progress">
         Reset Progress
@@ -214,8 +344,6 @@
   <!-- Search & Complete Dictionary Modal -->
   <div id="search-modal" class="hidden fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
     <div class="bg-[#1b2229] border border-[#2e3a45] rounded-2xl w-full max-w-lg max-h-[85vh] flex flex-col shadow-2xl">
-      
-      <!-- Search Header -->
       <div class="p-4 border-b border-[#2e3a45] flex items-center justify-between gap-3">
         <div class="relative flex-1">
           <input type="text" id="search-input" placeholder="Search 3,290 Latin words, definitions..." class="w-full bg-[#14181d] border border-[#2e3a45] text-sm text-gray-200 pl-9 pr-3 py-2 rounded-xl focus:outline-none focus:border-[#cba34e]">
@@ -230,11 +358,7 @@
         </button>
       </div>
 
-      <!-- Search List -->
-      <div id="search-results" class="p-4 overflow-y-auto space-y-2 flex-1">
-        <!-- Injected via JavaScript -->
-      </div>
-
+      <div id="search-results" class="p-4 overflow-y-auto space-y-2 flex-1"></div>
     </div>
   </div>
 

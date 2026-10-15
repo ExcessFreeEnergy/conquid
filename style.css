@@ -1,4 +1,4 @@
-/* Custom Roman Theme & 3D Flip Card Styles */
+/* Custom Roman Theme & Interactive Game Modes */
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap');
 
@@ -38,7 +38,7 @@ body {
 
 .card-container {
   width: 100%;
-  height: 380px;
+  min-height: 380px;
   position: relative;
   transition: transform 0.45s cubic-bezier(0.34, 1.25, 0.64, 1);
   transform-style: preserve-3d;
@@ -116,6 +116,51 @@ body {
 .parchment-pattern {
   background-image: radial-gradient(rgba(203, 163, 78, 0.04) 1px, transparent 1px);
   background-size: 16px 16px;
+}
+
+/* Shake Animation for incorrect feedback */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-8px); }
+  40%, 80% { transform: translateX(8px); }
+}
+
+.animate-shake {
+  animation: shake 0.4s ease-in-out;
+}
+
+/* Success Pulse */
+@keyframes goldPulse {
+  0% { box-shadow: 0 0 0 0 rgba(203, 163, 78, 0.7); }
+  70% { box-shadow: 0 0 0 14px rgba(203, 163, 78, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(203, 163, 78, 0); }
+}
+
+.animate-gold-pulse {
+  animation: goldPulse 0.5s ease-out;
+}
+
+/* Active Match Tile selection glow */
+.tile-selected {
+  border-color: #cba34e !important;
+  background-color: rgba(203, 163, 78, 0.18) !important;
+  box-shadow: 0 0 15px rgba(203, 163, 78, 0.4);
+}
+
+.tile-matched {
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.9);
+  transition: all 0.35s ease-out;
+}
+
+/* Mobile Scroll snap for game tabs */
+.tab-scroll-container {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.tab-scroll-container::-webkit-scrollbar {
+  display: none;
 }
 
 /* Custom Scrollbar */
