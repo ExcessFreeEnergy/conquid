@@ -171,9 +171,16 @@ class CaesarApp {
 
   async loadData() {
     try {
-      const resp = await fetch('data/words.json');
-      if (!resp.ok) throw new Error('Failed to load words.json');
-      this.words = await resp.json();
+      if (window.CAESAR_WORDS && Array.isArray(window.CAESAR_WORDS) && window.CAESAR_WORDS.length > 0) {
+        this.words = window.CAESAR_WORDS;
+      } else {
+        let resp = await fetch('data/words.json').catch(() => null);
+        if (!resp || !resp.ok) {
+          resp = await fetch('./data/words.json');
+        }
+        if (!resp || !resp.ok) throw new Error('Failed to load words.json');
+        this.words = await resp.json();
+      }
       
       this.wordsById.clear();
       this.stages = [];
@@ -194,7 +201,10 @@ class CaesarApp {
       this.nextCard();
     } catch (err) {
       console.error('Error loading data:', err);
-      alert('Unable to load vocabulary data. Please check your internet connection or reload.');
+      // Only alert if we genuinely have no words loaded
+      if (!this.words || this.words.length === 0) {
+        alert('Unable to load vocabulary data. Please reload the page.');
+      }
     }
   }
 
