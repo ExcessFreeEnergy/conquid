@@ -1,0 +1,5542 @@
+{
+  "book": 7,
+  "title": "Commentarii de Bello Gallico - Book 7 Unique Vocabulary",
+  "new_word_count": 369,
+  "words": [
+    {
+      "rank": 2740,
+      "book_rank": 1,
+      "lemma": "Quieta",
+      "headword": "Quieta",
+      "pos": "Adjective",
+      "definition": "at rest; quiet, tranquil, calm, peaceful; orderly; neutral; still; idle",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "Quieta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2741,
+      "book_rank": 2,
+      "lemma": "Clodius",
+      "headword": "Clodius, i, m.",
+      "pos": "Noun",
+      "definition": "Claudian; of Claudius gens",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "Clodii"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2742,
+      "book_rank": 3,
+      "lemma": "junior",
+      "headword": "junior, oris",
+      "pos": "Noun",
+      "definition": "younger man, junior",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "iuniores"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2743,
+      "book_rank": 4,
+      "lemma": "Transalpinus",
+      "headword": "Transalpinus, a, um",
+      "pos": "Adjective",
+      "definition": "of/belonging to/situated in the region beyond the Alps",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "Transalpinam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2744,
+      "book_rank": 5,
+      "lemma": "adfingo",
+      "headword": "adfingo, is, ere, finxi, fictum",
+      "pos": "Verb",
+      "definition": "add to, attach; aggravate; embellish, counterfeit, forge; claim wrongly",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "adfingunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2745,
+      "book_rank": 6,
+      "lemma": "urbanus",
+      "headword": "urbanus, a, um",
+      "pos": "Adjective",
+      "definition": "of the city; courteous; witty, urbane",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "urbano"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2746,
+      "book_rank": 7,
+      "lemma": "recido",
+      "headword": "recido, is, ere, cidi, cisum",
+      "pos": "Verb",
+      "definition": "fall/sink back, lapse/relapse/revert; fall to earth; come to naught; rebound on",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "recidere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2747,
+      "book_rank": 8,
+      "lemma": "deposco",
+      "headword": "deposco, is, ere, depoposci, -",
+      "pos": "Verb",
+      "definition": "demand peremptorily; ask for earnestly; require; request earnestly; challenge",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "deposcunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2748,
+      "book_rank": 9,
+      "lemma": "clandestinus",
+      "headword": "clandestinus, a, um",
+      "pos": "Adjective",
+      "definition": "secret, hidden, concealed, clandestine; acting/done/made secretly/silently",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 1,
+        "surface_form": "clandestina"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2749,
+      "book_rank": 10,
+      "lemma": "agito",
+      "headword": "agito, as, are",
+      "pos": "Verb",
+      "definition": "stir/drive/shake/move about; revolve; live; control, ride; consider, pursue",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 2,
+        "surface_form": "agitatis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2750,
+      "book_rank": 11,
+      "lemma": "caerimonia",
+      "headword": "caerimonia, ae, f.",
+      "pos": "Noun",
+      "definition": "ceremony; sacred rite/ritual/usage; holy dread, reverence, worship; sanctity",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 2,
+        "surface_form": "caerimonia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2751,
+      "book_rank": 12,
+      "lemma": "Cotuatus",
+      "headword": "Cotuatus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "Cotuato"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2752,
+      "book_rank": 13,
+      "lemma": "Conconnetodumnus",
+      "headword": "Conconnetodumnus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "Conconnetodumno"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2753,
+      "book_rank": 14,
+      "lemma": "Cenabum",
+      "headword": "Cenabum, i, n.",
+      "pos": "Noun",
+      "definition": "Cenabum; town in Gaul; Orleans",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "Cenabum"
+      },
+      "book_frequency": 8,
+      "total_frequency": 10
+    },
+    {
+      "rank": 2754,
+      "book_rank": 15,
+      "lemma": "civis",
+      "headword": "civis, is, m.",
+      "pos": "Noun",
+      "definition": "fellow citizen; countryman/woman; citizen, free person; a Roman citizen",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "cives"
+      },
+      "book_frequency": 5,
+      "total_frequency": 10
+    },
+    {
+      "rank": 2755,
+      "book_rank": 16,
+      "lemma": "negotior",
+      "headword": "negotior, aris, ari",
+      "pos": "Noun",
+      "definition": "pain, trouble, annoyance, distress; work, business, activity, job",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "negotiandi"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2756,
+      "book_rank": 17,
+      "lemma": "Fufius",
+      "headword": "Fufius, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "Fufium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2757,
+      "book_rank": 18,
+      "lemma": "cieo",
+      "headword": "cieo, es, ere, ciui, citum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "Citam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2758,
+      "book_rank": 19,
+      "lemma": "ubicumque",
+      "headword": "ubicumque, adv.",
+      "pos": "Adverb",
+      "definition": "wherever, in whatever place; in any place, wherever that may be, somewhere",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 3,
+        "surface_form": "ubicumque"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2759,
+      "book_rank": 20,
+      "lemma": "Similis",
+      "headword": "Similis, e",
+      "pos": "Verb",
+      "definition": "imitate, copy; pretend ; look like; simulate; counterfeit; feint",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Simili"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2760,
+      "book_rank": 21,
+      "lemma": "Vercingetorix",
+      "headword": "Vercingetorīx, -īgis, m.",
+      "pos": "Proper Noun",
+      "definition": "Vercingetorix (Arvernian chieftain who united the Gallic tribes in revolt against Caesar)",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Vercingetorix"
+      },
+      "book_frequency": 42,
+      "total_frequency": 42
+    },
+    {
+      "rank": 2761,
+      "book_rank": 22,
+      "lemma": "Celtillus",
+      "headword": "Celtillus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Celtilli"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2762,
+      "book_rank": 23,
+      "lemma": "Arvernus",
+      "headword": "Arvernus, i, m.",
+      "pos": "Noun",
+      "definition": "Arverni",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Arvernus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2763,
+      "book_rank": 24,
+      "lemma": "Gobannitio",
+      "headword": "Gobannitio, ōnis, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Gobannitio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2764,
+      "book_rank": 25,
+      "lemma": "patruus",
+      "headword": "patruus, i, m.",
+      "pos": "Noun",
+      "definition": "severe reprover; type of harshness/censoriousness/finding fault; \"Dutch uncle\"",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "patruo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2765,
+      "book_rank": 26,
+      "lemma": "Gergovia",
+      "headword": "Gergovia, ae, f.",
+      "pos": "Noun",
+      "definition": "Gergovia",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Gergovia"
+      },
+      "book_frequency": 12,
+      "total_frequency": 12
+    },
+    {
+      "rank": 2766,
+      "book_rank": 27,
+      "lemma": "adversarius",
+      "headword": "adversarius, ii, m.",
+      "pos": "Noun",
+      "definition": "enemy, adversary, antagonist, opponent, rival, foe; of an opposing party",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "adversarios"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7
+    },
+    {
+      "rank": 2767,
+      "book_rank": 28,
+      "lemma": "Rex",
+      "headword": "Rex, regis, m.",
+      "pos": "Noun",
+      "definition": "king",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Rex"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2768,
+      "book_rank": 29,
+      "lemma": "Cadurci",
+      "headword": "Cadurci, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Cadurcos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2769,
+      "book_rank": 30,
+      "lemma": "Lemouices",
+      "headword": "Lemouices",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Lemovices"
+      },
+      "book_frequency": 4,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2770,
+      "book_rank": 31,
+      "lemma": "Andus",
+      "headword": "Andus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "Andos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2771,
+      "book_rank": 32,
+      "lemma": "seueritas",
+      "headword": "seueritas",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "severitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2772,
+      "book_rank": 33,
+      "lemma": "delictum",
+      "headword": "delictum, i, n.",
+      "pos": "Noun",
+      "definition": "fault/offense/misdeed/crime/transgression; sin; act short of standard; defect",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "delicto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2773,
+      "book_rank": 34,
+      "lemma": "deseco",
+      "headword": "deseco, as, are, cui, ctum",
+      "pos": "Verb",
+      "definition": "sever; cut off ; cut/carve from/out/away; cut/reap/mow",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "desectis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2774,
+      "book_rank": 35,
+      "lemma": "effodio",
+      "headword": "effodio, is, ere, fodi, fossum",
+      "pos": "Verb",
+      "definition": "dig out, excavate; gouge out",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "effossis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2775,
+      "book_rank": 36,
+      "lemma": "documentum",
+      "headword": "documentum, i, n.",
+      "pos": "Noun",
+      "definition": "lesson, instruction; warning, example; document; proof",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 4,
+        "surface_form": "documento"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2776,
+      "book_rank": 37,
+      "lemma": "Lucterius",
+      "headword": "Lucterius, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 5,
+        "surface_form": "Lucterium"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12
+    },
+    {
+      "rank": 2777,
+      "book_rank": 38,
+      "lemma": "Cadurcus",
+      "headword": "Cadurcus, a, um",
+      "pos": "Noun",
+      "definition": "coverlet ; marriage bed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 5,
+        "surface_form": "Cadurcum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2778,
+      "book_rank": 39,
+      "lemma": "recte",
+      "headword": "recte, adv.",
+      "pos": "Adverb",
+      "definition": "vertically; rightly, correctly, properly, well",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 6,
+        "surface_form": "recte"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2779,
+      "book_rank": 40,
+      "lemma": "Nitiobriges",
+      "headword": "Nitiobriges",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "Nitiobriges"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2780,
+      "book_rank": 41,
+      "lemma": "Gabali",
+      "headword": "Gabali, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "Gabalos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2781,
+      "book_rank": 42,
+      "lemma": "anteverto",
+      "headword": "anteverto, is, ere, verti, versum",
+      "pos": "Verb",
+      "definition": "act first, get ahead; anticipate; forestall; give priority; take precedence",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "antevertendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2782,
+      "book_rank": 43,
+      "lemma": "provincialis",
+      "headword": "provincialis, is, m.",
+      "pos": "Noun",
+      "definition": "provincial",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "provincialibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2783,
+      "book_rank": 44,
+      "lemma": "Arecomici",
+      "headword": "Arecomici, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "Arecomicis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2784,
+      "book_rank": 45,
+      "lemma": "supplementum",
+      "headword": "supplementum, i, n.",
+      "pos": "Noun",
+      "definition": "reinforcements; supplies; that which fills out",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "supplementum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2785,
+      "book_rank": 46,
+      "lemma": "Helvii",
+      "headword": "Helvii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 7,
+        "surface_form": "Helvios"
+      },
+      "book_frequency": 5,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2786,
+      "book_rank": 47,
+      "lemma": "Cevenna",
+      "headword": "Cevenna",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 8,
+        "surface_form": "Cevenna"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2787,
+      "book_rank": 48,
+      "lemma": "ni",
+      "headword": "ni, conj. sub.",
+      "pos": "Adverb",
+      "definition": "if ...  not; unless",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 8,
+        "surface_form": "nive"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2788,
+      "book_rank": 49,
+      "lemma": "discutio",
+      "headword": "discutio, is, ere, ussi, ussum",
+      "pos": "Verb",
+      "definition": "strike down; shatter, shake violently; dissipate, bring to naught; plead case",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 8,
+        "surface_form": "discussa"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2789,
+      "book_rank": 50,
+      "lemma": "sudor",
+      "headword": "sudor, oris, m.",
+      "pos": "Noun",
+      "definition": "sweat; hard labor",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 8,
+        "surface_form": "sudore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2790,
+      "book_rank": 51,
+      "lemma": "pervagor",
+      "headword": "pervagor, aris, ari",
+      "pos": "Verb",
+      "definition": "wander or range through, rove about; pervade, spread widely; extend",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 9,
+        "surface_form": "pervagentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2791,
+      "book_rank": 52,
+      "lemma": "Vienna",
+      "headword": "Vienna, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 9,
+        "surface_form": "Viennam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2792,
+      "book_rank": 53,
+      "lemma": "Gorgobina",
+      "headword": "Gorgobina, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 9,
+        "surface_form": "Gorgobinam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2793,
+      "book_rank": 54,
+      "lemma": "Helveticus",
+      "headword": "Helveticus, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 9,
+        "surface_form": "Helvetico"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2794,
+      "book_rank": 55,
+      "lemma": "subvectio",
+      "headword": "subvectio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "transporting  to a center",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 10,
+        "surface_form": "subvectionibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2795,
+      "book_rank": 56,
+      "lemma": "perpetior",
+      "headword": "perpetior, eris, i, perpessus sum",
+      "pos": "Verb",
+      "definition": "endure to the full",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 10,
+        "surface_form": "perpeti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2796,
+      "book_rank": 57,
+      "lemma": "Vellaunodunum",
+      "headword": "Vellaunodunum, i, n.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 11,
+        "surface_form": "Vellaunodunum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2797,
+      "book_rank": 58,
+      "lemma": "circumvallo",
+      "headword": "circumvallo, as, are",
+      "pos": "Verb",
+      "definition": "surround with wall/siegeworks; blockade; beset, surround with troops/barriers",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 11,
+        "surface_form": "circumvallavit"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2798,
+      "book_rank": 59,
+      "lemma": "excubo",
+      "headword": "excubo, is, ere, cubui, cubitum",
+      "pos": "Verb",
+      "definition": "sleep/lie in the open/out of doors; keep watch; be attentive",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 11,
+        "surface_form": "excubare"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2799,
+      "book_rank": 60,
+      "lemma": "Cenabensis",
+      "headword": "Cenabensis, e",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 11,
+        "surface_form": "Cenabenses"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2800,
+      "book_rank": 61,
+      "lemma": "silentium",
+      "headword": "silentium, ii, n.",
+      "pos": "Noun",
+      "definition": "silence",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 11,
+        "surface_form": "silentio"
+      },
+      "book_frequency": 10,
+      "total_frequency": 10
+    },
+    {
+      "rank": 2801,
+      "book_rank": 62,
+      "lemma": "obvius",
+      "headword": "obvius, a, um",
+      "pos": "Adjective",
+      "definition": "in the way, easy; hostile; exposed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 12,
+        "surface_form": "obviam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2802,
+      "book_rank": 63,
+      "lemma": "Auaricum",
+      "headword": "Auaricum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 13,
+        "surface_form": "Avaricum"
+      },
+      "book_frequency": 12,
+      "total_frequency": 12
+    },
+    {
+      "rank": 2803,
+      "book_rank": 64,
+      "lemma": "abundo",
+      "headword": "abundo, as, are",
+      "pos": "Verb",
+      "definition": "abound , have in large measure; overdo, exceed; overflow; be rich/numerous",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 14,
+        "surface_form": "abundent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2804,
+      "book_rank": 65,
+      "lemma": "detrecto",
+      "headword": "detrecto, as, are",
+      "pos": "Verb",
+      "definition": "disparage/belittle, speak/write slightingly of; reduce/depreciate/detract from",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 14,
+        "surface_form": "detractandam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2805,
+      "book_rank": 66,
+      "lemma": "receptaculum",
+      "headword": "receptaculum, i, n.",
+      "pos": "Noun",
+      "definition": "receptacle; place of refuge, shelter",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 14,
+        "surface_form": "receptacula"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2806,
+      "book_rank": 67,
+      "lemma": "acerbus",
+      "headword": "acerbus, a, um",
+      "pos": "Adjective",
+      "definition": "harsh, strident, bitter, sour; unripe, green, unfinished; grievous; gloomy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 14,
+        "surface_form": "acerba"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2807,
+      "book_rank": 68,
+      "lemma": "conjunx",
+      "headword": "conjunx, iugis, f.",
+      "pos": "Noun",
+      "definition": "spouse/mate/consort; husband/wife/bride/fiancee/intended; concubine; yokemate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 14,
+        "surface_form": "coniuges"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2808,
+      "book_rank": 69,
+      "lemma": "solor",
+      "headword": "solor, aris, ari",
+      "pos": "Verb",
+      "definition": "solace, console, comfort; soothe, ease, lighten, relieve, assuage, mitigate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 15,
+        "surface_form": "solati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2809,
+      "book_rank": 70,
+      "lemma": "recipero",
+      "headword": "recipero, as, are",
+      "pos": "Verb",
+      "definition": "restore, restore to health; refresh, recuperate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 15,
+        "surface_form": "reciperaturos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2810,
+      "book_rank": 71,
+      "lemma": "pulcher",
+      "headword": "pulcher, chra, chrum",
+      "pos": "Adjective",
+      "definition": "pretty; beautiful; handsome; noble, illustrious",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 15,
+        "surface_form": "pulcherrimam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2811,
+      "book_rank": 72,
+      "lemma": "perangustus",
+      "headword": "perangustus, a, um",
+      "pos": "Adjective",
+      "definition": "very narrow",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 15,
+        "surface_form": "perangustum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2812,
+      "book_rank": 73,
+      "lemma": "dissuadeo",
+      "headword": "dissuadeo, es, ere, suasi, suasum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 15,
+        "surface_form": "dissuadente"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2813,
+      "book_rank": 74,
+      "lemma": "apparo",
+      "headword": "apparo, as, are",
+      "pos": "Verb",
+      "definition": "it is apparent/evident/clear/certain/visible/noticeable/found; it appears",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "apparare"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2814,
+      "book_rank": 75,
+      "lemma": "tenuitas",
+      "headword": "tenuitas, atis, f.",
+      "pos": "Noun",
+      "definition": "thinness/fineness/leanness; poverty; frugality; simpleness ; subtlety",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "tenuitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2815,
+      "book_rank": 76,
+      "lemma": "indiligentia",
+      "headword": "indiligentia, ae, f.",
+      "pos": "Noun",
+      "definition": "negligence, want of care; want of concern",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "indiligentia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2816,
+      "book_rank": 77,
+      "lemma": "majestas",
+      "headword": "majestas, atis, f.",
+      "pos": "Noun",
+      "definition": "majesty, dignity ; majesty of people/state; sovereignty",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "maiestate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2817,
+      "book_rank": 78,
+      "lemma": "ignominia",
+      "headword": "ignominia, ae, f.",
+      "pos": "Noun",
+      "definition": "disgrace, ignominy, dishonor",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "ignominiam"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2818,
+      "book_rank": 79,
+      "lemma": "nusquam",
+      "headword": "nusquam, adv.",
+      "pos": "Adverb",
+      "definition": "nowhere; on no occasion",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "nusquam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2819,
+      "book_rank": 80,
+      "lemma": "acerbitas",
+      "headword": "acerbitas, atis, f.",
+      "pos": "Noun",
+      "definition": "harshness, severity; bitterness, sourness, ill feeling; anguish, hardship",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "acerbitates"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2820,
+      "book_rank": 81,
+      "lemma": "parento",
+      "headword": "parento, as, are",
+      "pos": "Verb",
+      "definition": "perform rites at tombs; make appeasement offering",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 17,
+        "surface_form": "parentarent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2821,
+      "book_rank": 82,
+      "lemma": "interrumpo",
+      "headword": "interrumpo, is, ere, rupi, ruptum",
+      "pos": "Verb",
+      "definition": "drive a gap in, break up; cut short, interrupt",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "interruptis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2822,
+      "book_rank": 83,
+      "lemma": "fiducia",
+      "headword": "fiducia, ae, f.",
+      "pos": "Noun",
+      "definition": "trust, confidence; faith, reliance; courage",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "fiducia"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2823,
+      "book_rank": 84,
+      "lemma": "haesito",
+      "headword": "haesito, as, are, intr.",
+      "pos": "Verb",
+      "definition": "stick hesitate, be undecided; be stuck",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "haesitantes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2824,
+      "book_rank": 85,
+      "lemma": "indignor",
+      "headword": "indignor, aris, ari",
+      "pos": "Adjective",
+      "definition": "unworthy, undeserving, undeserved; unbecoming; shameful; intolerable; cruel",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "Indignantes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2825,
+      "book_rank": 86,
+      "lemma": "exposco",
+      "headword": "exposco, is, ere, poposci, poscitum",
+      "pos": "Verb",
+      "definition": "request, ask for, demand; demand the surrender of",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "exposcentes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2826,
+      "book_rank": 87,
+      "lemma": "condemno",
+      "headword": "condemno, as, are",
+      "pos": "Verb",
+      "definition": "condemn, doom, convict; find guilty;  sentence; blame, censure, impugn",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 19,
+        "surface_form": "condemnari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2827,
+      "book_rank": 88,
+      "lemma": "proditio",
+      "headword": "proditio, onis, f.",
+      "pos": "Noun",
+      "definition": "treason, betrayal",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "proditionis"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2828,
+      "book_rank": 89,
+      "lemma": "insimulo",
+      "headword": "insimulo, as, are",
+      "pos": "Verb",
+      "definition": "together; in company; at the same time ; at once",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "insimulatus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2829,
+      "book_rank": 90,
+      "lemma": "fortuitus",
+      "headword": "fortuitus, a, um",
+      "pos": "Adjective",
+      "definition": "casual, accidental, fortuitous, happening by chance",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "fortuito"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2830,
+      "book_rank": 91,
+      "lemma": "beneficiotali",
+      "headword": "beneficiotali",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "beneficiotali"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2831,
+      "book_rank": 92,
+      "lemma": "palustris",
+      "headword": "palustris, tris, tre",
+      "pos": "Adjective",
+      "definition": "marshy; of marshes",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "palustri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2832,
+      "book_rank": 93,
+      "lemma": "mollities",
+      "headword": "mollities, ei, f.",
+      "pos": "Noun",
+      "definition": "softness, tenderness; weakness, effeminacy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "mollitiem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2833,
+      "book_rank": 94,
+      "lemma": "turpiter",
+      "headword": "turpiter, adv.",
+      "pos": "Adverb",
+      "definition": "repulsively, disgracefully, shamelessly; in an ugly/unsightly manner",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "turpiter"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2834,
+      "book_rank": 95,
+      "lemma": "sincerus",
+      "headword": "sincerus, a, um",
+      "pos": "Adjective",
+      "definition": "pure, w/no admixture of foreign material; clear/unclouded; free from fever",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "sincere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2835,
+      "book_rank": 96,
+      "lemma": "interrogo",
+      "headword": "interrogo, as, are",
+      "pos": "Verb",
+      "definition": "ask, question, interrogate, examine; indict; go to law with, sue",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "interrogati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2836,
+      "book_rank": 97,
+      "lemma": "sufficio",
+      "headword": "sufficio, is, ere, feci, fectum",
+      "pos": "Verb",
+      "definition": "be sufficient, suffice; stand up to; be capable/qualified; provide, appoint",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "sufficere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2837,
+      "book_rank": 98,
+      "lemma": "vester",
+      "headword": "vester, vestra, vestrum",
+      "pos": "Possessive Adjective",
+      "definition": "your, yours (plural)",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "vestro"
+      },
+      "book_frequency": 5,
+      "total_frequency": 5
+    },
+    {
+      "rank": 2838,
+      "book_rank": 99,
+      "lemma": "sanguen",
+      "headword": "sanguen, ĭnĭs, n. (arch.)",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 20,
+        "surface_form": "sanguine"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2839,
+      "book_rank": 100,
+      "lemma": "concrepo",
+      "headword": "concrepo, as, are, pui, pitum",
+      "pos": "Verb",
+      "definition": "make noise , grate/creak; sound, crash/clash, rattle; snap",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 21,
+        "surface_form": "concrepat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2840,
+      "book_rank": 101,
+      "lemma": "approbo",
+      "headword": "approbo, as, are",
+      "pos": "Verb",
+      "definition": "approve, commend, endorse; prove; confirm; justify; allow; make good",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 21,
+        "surface_form": "approbant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2841,
+      "book_rank": 102,
+      "lemma": "sollertia",
+      "headword": "sollertia, ae, f.",
+      "pos": "Noun",
+      "definition": "skill, cleverness; resourcefulness",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "sollertiae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2842,
+      "book_rank": 103,
+      "lemma": "imito",
+      "headword": "imito",
+      "pos": "Verb",
+      "definition": "imitate/copy/mimic; follow; make an imitation/reproduction; resemble; simulate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "imitanda"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2843,
+      "book_rank": 104,
+      "lemma": "laqueus",
+      "headword": "laqueus, i, m.",
+      "pos": "Noun",
+      "definition": "noose, halter; snare, trap; lasso; bond, tie",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "laqueis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2844,
+      "book_rank": 105,
+      "lemma": "sciens",
+      "headword": "sciens, entis",
+      "pos": "Adjective",
+      "definition": "conscious of ; aware/cognizant; knowledgeable/skilled, expert",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "scientius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2845,
+      "book_rank": 106,
+      "lemma": "ferraria",
+      "headword": "ferraria, ae, f.",
+      "pos": "Noun",
+      "definition": "of/concerned with iron, iron-",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "ferrariae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2846,
+      "book_rank": 107,
+      "lemma": "usitatus",
+      "headword": "usitatus, a, um",
+      "pos": "Adjective",
+      "definition": "usual, customary, ordinary, common, familiar, everyday; commonly used/practiced",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "usitatum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2847,
+      "book_rank": 108,
+      "lemma": "corium",
+      "headword": "corium, i, n.",
+      "pos": "Noun",
+      "definition": "skin/leather/hide; peel/rind/shell/outer cover; layer/coating; thong/strap/whip",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "coriis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2848,
+      "book_rank": 109,
+      "lemma": "intego",
+      "headword": "intego, is, ere, texi, tectum",
+      "pos": "Verb",
+      "definition": "cover; cover over",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "intexerant"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2849,
+      "book_rank": 110,
+      "lemma": "pix",
+      "headword": "pix, ĭcis, f.",
+      "pos": "Noun",
+      "definition": "pitch, tar",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 22,
+        "surface_form": "pice"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2850,
+      "book_rank": 111,
+      "lemma": "Mus",
+      "headword": "Mus, muris, m.",
+      "pos": "Noun",
+      "definition": "muse ; sciences/poetry",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "Muri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2851,
+      "book_rank": 112,
+      "lemma": "effarcio",
+      "headword": "effarcio, is, ire, farsi, fartum",
+      "pos": "Verb",
+      "definition": "stuff full",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "effarciuntur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2852,
+      "book_rank": 113,
+      "lemma": "coagmento",
+      "headword": "coagmento, as, are",
+      "pos": "Verb",
+      "definition": "join/fasten together, connect; make by joining/construct; fit  together",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "coagmentatis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2853,
+      "book_rank": 114,
+      "lemma": "expleo",
+      "headword": "expleo, es, ere, eui, etum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "expleatur"
+      },
+      "book_frequency": 6,
+      "total_frequency": 6
+    },
+    {
+      "rank": 2854,
+      "book_rank": 115,
+      "lemma": "alternus",
+      "headword": "alternus, a, um",
+      "pos": "Verb",
+      "definition": "do by turns, vary; alternate, waver, ebb and flow; bear/crop in alternate years",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "alternis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2855,
+      "book_rank": 116,
+      "lemma": "linea",
+      "headword": "linea, ae, f.",
+      "pos": "Noun",
+      "definition": "made of flax or linen",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "lineis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2856,
+      "book_rank": 117,
+      "lemma": "distraho",
+      "headword": "distraho, is, ere, traxi, tractum",
+      "pos": "Verb",
+      "definition": "draw/pull/tear apart, wrench, separate, divide; sell in parcels; distract",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 23,
+        "surface_form": "distrahi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2857,
+      "book_rank": 118,
+      "lemma": "fumo",
+      "headword": "fumo, as, are",
+      "pos": "Verb",
+      "definition": "smoke, steam, vapor, fume",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "fumare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2858,
+      "book_rank": 119,
+      "lemma": "fax",
+      "headword": "fax, facis, f.",
+      "pos": "Noun",
+      "definition": "torch, firebrand, fire; flame of love; torment",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "faces"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2859,
+      "book_rank": 120,
+      "lemma": "materies",
+      "headword": "materies, ei, f.",
+      "pos": "Noun",
+      "definition": "material, matter, substance; food/fuel; breeding stock; topic, subject matter",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "materiem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2860,
+      "book_rank": 121,
+      "lemma": "eminus",
+      "headword": "eminus, adv.",
+      "pos": "Adverb",
+      "definition": "at/from a distance/long range/afar; beyond sword reach, a spear's throw off",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "eminus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2861,
+      "book_rank": 122,
+      "lemma": "curro",
+      "headword": "curro, is, ere, cucurri, cursum",
+      "pos": "Verb",
+      "definition": "chariot, light horse vehicle; triumphal chariot; triumph; wheels on plow; cart",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "curreretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2862,
+      "book_rank": 123,
+      "lemma": "restinguo",
+      "headword": "restinguo, is, ere, nxi, nctum",
+      "pos": "Verb",
+      "definition": "extinguish, quench, put out; exterminate, destroy; assuage, allay, mitigate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 24,
+        "surface_form": "restinguendum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2863,
+      "book_rank": 124,
+      "lemma": "deuro",
+      "headword": "deuro, is, ere, ussi, ustum",
+      "pos": "Verb",
+      "definition": "burn down/up/thoroughly, consume; destroy/wither/blast",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "deustos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2864,
+      "book_rank": 125,
+      "lemma": "pluteus",
+      "headword": "pluteus, i, m.",
+      "pos": "Noun",
+      "definition": "movable screen; breastwork, shed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "pluteos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2865,
+      "book_rank": 126,
+      "lemma": "inspecto",
+      "headword": "inspecto, as, are",
+      "pos": "Verb",
+      "definition": "look at, observe; look on, watch",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "inspectantibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2866,
+      "book_rank": 127,
+      "lemma": "dignus",
+      "headword": "dignus, a, um",
+      "pos": "Verb",
+      "definition": "deem/consider/think worthy/becoming/deserving/fit ; deign, condescend",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "dignum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2867,
+      "book_rank": 128,
+      "lemma": "praetereo",
+      "headword": "praetereo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "pass/go by; disregard/neglect/omit/miss; surpass/excel; go overdue; pass over",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "praetereundum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2868,
+      "book_rank": 129,
+      "lemma": "sebum",
+      "headword": "sebum, i, n.",
+      "pos": "Noun",
+      "definition": "suet, tallow, hard animal fat",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "sebi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2869,
+      "book_rank": 130,
+      "lemma": "gleba",
+      "headword": "gleba, ae, ou glaeba",
+      "pos": "Noun",
+      "definition": "clod/lump of earth/turf; land, soil; hard soil; piece, lump, mass",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "glebas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2870,
+      "book_rank": 131,
+      "lemma": "scorpio",
+      "headword": "scorpio, ōnis, m.",
+      "pos": "Noun",
+      "definition": "scorpion; ; small catapult; plant",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "scorpio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2871,
+      "book_rank": 132,
+      "lemma": "fungor",
+      "headword": "fungor, eris, i, functus sum",
+      "pos": "Verb",
+      "definition": "perform, execute, discharge ; be engaged in",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "fungebatur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2872,
+      "book_rank": 133,
+      "lemma": "propugnator",
+      "headword": "propugnator, oris, m.",
+      "pos": "Noun",
+      "definition": "defender; champion",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 25,
+        "surface_form": "propugnatoribus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2873,
+      "book_rank": 134,
+      "lemma": "persto",
+      "headword": "persto, as, are, stiti (steti), statum",
+      "pos": "Verb",
+      "definition": "stand firm; last, endure; persevere, persist in",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 26,
+        "surface_form": "perstare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2874,
+      "book_rank": 135,
+      "lemma": "promota",
+      "headword": "promota",
+      "pos": "Noun",
+      "definition": "preferred thing",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 27,
+        "surface_form": "promota"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2875,
+      "book_rank": 136,
+      "lemma": "aliquando",
+      "headword": "aliquando, adv.",
+      "pos": "Adverb",
+      "definition": "sometime , at any time, ever; finally; before too late; at length",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 27,
+        "surface_form": "aliquando"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2876,
+      "book_rank": 137,
+      "lemma": "forum",
+      "headword": "forum, i, n.",
+      "pos": "Noun",
+      "definition": "gangway in a ship; row of benches erected for games/circus; cell of bees",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "foro"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8
+    },
+    {
+      "rank": 2877,
+      "book_rank": 138,
+      "lemma": "patens",
+      "headword": "patens, entis",
+      "pos": "Adjective",
+      "definition": "open, accessible",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "patentioribus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2878,
+      "book_rank": 139,
+      "lemma": "cuneatim",
+      "headword": "cuneatim, adv.",
+      "pos": "Adverb",
+      "definition": "in a closely packed/wedge formation; in the form of a wedge, wedge-shaped",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "cuneatim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2879,
+      "book_rank": 140,
+      "lemma": "depugno",
+      "headword": "depugno, as, are",
+      "pos": "Verb",
+      "definition": "fight hard/it out, do battle; fight against and kill ; stop fighting",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "depugnarent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2880,
+      "book_rank": 141,
+      "lemma": "infans",
+      "headword": "infans, antis, m.",
+      "pos": "Noun",
+      "definition": "speechless, inarticulate; new born; childish, foolish",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "infantibus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2881,
+      "book_rank": 142,
+      "lemma": "seditio",
+      "headword": "seditio, onis, f.",
+      "pos": "Noun",
+      "definition": "sedition, riot, strife,rebellion",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "seditio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2882,
+      "book_rank": 143,
+      "lemma": "disparo",
+      "headword": "disparo, as, are",
+      "pos": "Verb",
+      "definition": "disappear, vanish, vanish out of sight",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 28,
+        "surface_form": "disparandos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2883,
+      "book_rank": 144,
+      "lemma": "artificium",
+      "headword": "artificium, ii, n.",
+      "pos": "Noun",
+      "definition": "art/craft/trade; skill/talent/craftsmanship; art work; method/trick; technology",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "artificio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2884,
+      "book_rank": 145,
+      "lemma": "proventus",
+      "headword": "proventus, us, m.",
+      "pos": "Noun",
+      "definition": "outcome, result; success",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "proventus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2885,
+      "book_rank": 146,
+      "lemma": "nimium",
+      "headword": "nimium, adv.",
+      "pos": "Adverb",
+      "definition": "too, too much; very, very much, beyond measure, excessive, too great",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "nimia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2886,
+      "book_rank": 147,
+      "lemma": "obsequor",
+      "headword": "obsequor, eris, i, cutus sum",
+      "pos": "Verb",
+      "definition": "yield to; humor",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "obsequentia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2887,
+      "book_rank": 148,
+      "lemma": "sano",
+      "headword": "sano, as, are",
+      "pos": "Verb",
+      "definition": "sound; healthy; sensible; sober; sane",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "sanaturum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2888,
+      "book_rank": 149,
+      "lemma": "obsisto",
+      "headword": "obsisto, is, ere, stiti, -",
+      "pos": "Verb",
+      "definition": "oppose, resist; stand in the way; make a stand against, withstand",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 29,
+        "surface_form": "obsistere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2889,
+      "book_rank": 150,
+      "lemma": "ingratus",
+      "headword": "ingratus, a, um",
+      "pos": "Adjective",
+      "definition": "unpleasant; ungrateful; thankless",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 30,
+        "surface_form": "ingrata"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2890,
+      "book_rank": 151,
+      "lemma": "adfirmatio",
+      "headword": "adfirmatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "affirmation, strengthening of belief; assertion, dogmatic/positive statement",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 30,
+        "surface_form": "adfirmatio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2891,
+      "book_rank": 152,
+      "lemma": "donum",
+      "headword": "donum, i, n.",
+      "pos": "Verb",
+      "definition": "present, grant; forgive; give , bestow",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 31,
+        "surface_form": "donis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2892,
+      "book_rank": 153,
+      "lemma": "subdolus",
+      "headword": "subdolus, a, um",
+      "pos": "Adjective",
+      "definition": "sly, deceitful, treacherous",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 31,
+        "surface_form": "subdola"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2893,
+      "book_rank": 154,
+      "lemma": "permagnus",
+      "headword": "permagnus, a, um",
+      "pos": "Adjective",
+      "definition": "very great",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 31,
+        "surface_form": "permagnus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2894,
+      "book_rank": 155,
+      "lemma": "Teutomatus",
+      "headword": "Teutomatus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 31,
+        "surface_form": "Teutomatus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2895,
+      "book_rank": 156,
+      "lemma": "Ollovico",
+      "headword": "Ollovico",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 31,
+        "surface_form": "Olloviconis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2896,
+      "book_rank": 157,
+      "lemma": "regius",
+      "headword": "regius, a, um",
+      "pos": "Noun",
+      "definition": "palace, court; residence",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 32,
+        "surface_form": "regiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2897,
+      "book_rank": 158,
+      "lemma": "Convictolitavis",
+      "headword": "Convictolitavis",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 32,
+        "surface_form": "Convictolitavem"
+      },
+      "book_frequency": 7,
+      "total_frequency": 7
+    },
+    {
+      "rank": 2898,
+      "book_rank": 159,
+      "lemma": "Cotus",
+      "headword": "Cotus",
+      "pos": "Noun",
+      "definition": "flint-stone; whetstone, hone, grinding stone; rocks ; any hard stone",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 32,
+        "surface_form": "Cotum"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2899,
+      "book_rank": 160,
+      "lemma": "Valetiacus",
+      "headword": "Valetiacus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 32,
+        "surface_form": "Valetiacus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2900,
+      "book_rank": 161,
+      "lemma": "detrimentosus",
+      "headword": "detrimentosus, a, um",
+      "pos": "Adjective",
+      "definition": "harmful, detrimental, hurtful",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "detrimentosum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2901,
+      "book_rank": 162,
+      "lemma": "orno",
+      "headword": "orno, as, are",
+      "pos": "Verb",
+      "definition": "equip; dress; decorate, honor; furnish, adorn, garnish, trim",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "ornasset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2902,
+      "book_rank": 163,
+      "lemma": "praeverto",
+      "headword": "praeverto, is, ere, ti, sum",
+      "pos": "Verb",
+      "definition": "anticipate; preoccupy, attend to first; outstrip, outrun",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "praevertendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2903,
+      "book_rank": 164,
+      "lemma": "magistra",
+      "headword": "magistra, ae, f.",
+      "pos": "Noun",
+      "definition": "teacher, tutor, master, expert, chief; pilot of a ship; rabbi",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "magistra"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2904,
+      "book_rank": 165,
+      "lemma": "Decetia",
+      "headword": "Decetia, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "Decetiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2905,
+      "book_rank": 166,
+      "lemma": "sacerdos",
+      "headword": "sacerdos, dotis, m.",
+      "pos": "Noun",
+      "definition": "priest, priestess",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 33,
+        "surface_form": "sacerdotes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2906,
+      "book_rank": 167,
+      "lemma": "devinco",
+      "headword": "devinco, is, ere, uici, uictum",
+      "pos": "Verb",
+      "definition": "tie/bind up, hold/fix fast; subjugate; obligate/oblige/constrain; unite closely",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 34,
+        "surface_form": "devicta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6
+    },
+    {
+      "rank": 2907,
+      "book_rank": 168,
+      "lemma": "Elaver",
+      "headword": "Elaver, ĕris, n.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 34,
+        "surface_form": "Elaver"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2908,
+      "book_rank": 169,
+      "lemma": "necubi",
+      "headword": "necubi, adv. conj.",
+      "pos": "Adverb",
+      "definition": "lest anywhere/at any place; lest on any occasion; that nowhere",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 35,
+        "surface_form": "necubi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2909,
+      "book_rank": 170,
+      "lemma": "autumnus",
+      "headword": "autumnus, i, m.",
+      "pos": "Noun",
+      "definition": "autumn; autumn fruits, harvest",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 35,
+        "surface_form": "autumnum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2910,
+      "book_rank": 171,
+      "lemma": "horribilis",
+      "headword": "horribilis, e",
+      "pos": "Adjective",
+      "definition": "awful, horrible, terrible; monstrous; rough",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 36,
+        "surface_form": "horribilem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2911,
+      "book_rank": 172,
+      "lemma": "nimis",
+      "headword": "nimis, adv.",
+      "pos": "Adverb",
+      "definition": "very much; too much; exceedingly",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 36,
+        "surface_form": "nimis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2912,
+      "book_rank": 173,
+      "lemma": "adjudico",
+      "headword": "adjudico, as, are",
+      "pos": "Verb",
+      "definition": "adjudge, impute, attribute, ascribe ; award , assign",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 37,
+        "surface_form": "adiudicatum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2913,
+      "book_rank": 174,
+      "lemma": "Litaviccus",
+      "headword": "Litaviccus",
+      "pos": "Noun",
+      "definition": "Litaviccus",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 37,
+        "surface_form": "Litaviccus"
+      },
+      "book_frequency": 14,
+      "total_frequency": 14
+    },
+    {
+      "rank": 2914,
+      "book_rank": 175,
+      "lemma": "disceptator",
+      "headword": "disceptator, ōris, m.",
+      "pos": "Noun",
+      "definition": "arbitrator",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 37,
+        "surface_form": "disceptatorem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2915,
+      "book_rank": 176,
+      "lemma": "lacrimo",
+      "headword": "lacrimo, as, are",
+      "pos": "Verb",
+      "definition": "tear; exuded gum/sap; bit of lead; quicksilver from ore; weeping ; dirge",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "lacrimans"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2916,
+      "book_rank": 177,
+      "lemma": "Eporedorix",
+      "headword": "Eporedorix, igis, m.",
+      "pos": "Noun",
+      "definition": "Eporedorix",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "Eporedorix"
+      },
+      "book_frequency": 10,
+      "total_frequency": 10
+    },
+    {
+      "rank": 2917,
+      "book_rank": 178,
+      "lemma": "Uiridomarus",
+      "headword": "Uiridomarus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "Viridomarus"
+      },
+      "book_frequency": 7,
+      "total_frequency": 7
+    },
+    {
+      "rank": 2918,
+      "book_rank": 179,
+      "lemma": "quasi",
+      "headword": "quasi, conj.",
+      "pos": "Adverb",
+      "definition": "as if, just as if, as though; as it were; about",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "Quasi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2919,
+      "book_rank": 180,
+      "lemma": "nefarius",
+      "headword": "nefarius, a, um",
+      "pos": "Adjective",
+      "definition": "wicked, evil, offending moral law; criminal, abominable; horrible/vile/foul",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "nefario"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2920,
+      "book_rank": 181,
+      "lemma": "indigne",
+      "headword": "indigne, adv.",
+      "pos": "Adverb",
+      "definition": "undeservedly; unjustly; unworthily; unbecomingly; shamefully; outrageously",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "indignissime"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2921,
+      "book_rank": 182,
+      "lemma": "mendacium",
+      "headword": "mendacium, ii, n.",
+      "pos": "Noun",
+      "definition": "lie, lying, falsehood, untruth; counterfeit, fraud",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 38,
+        "surface_form": "mendacio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2922,
+      "book_rank": 183,
+      "lemma": "pravius",
+      "headword": "pravius, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 39,
+        "surface_form": "pravis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2923,
+      "book_rank": 184,
+      "lemma": "neglegere",
+      "headword": "neglegere",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 39,
+        "surface_form": "neglegere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2924,
+      "book_rank": 185,
+      "lemma": "momentum",
+      "headword": "momentum, i, n.",
+      "pos": "Noun",
+      "definition": "moment, importance, influence; motion, movement; impulse, effort",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 39,
+        "surface_form": "momento"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2925,
+      "book_rank": 186,
+      "lemma": "fraus",
+      "headword": "fraus, fraudis, f.",
+      "pos": "Noun",
+      "definition": "fraud; trickery, deceit; imposition, offense, crime; delusion",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 40,
+        "surface_form": "fraude"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2926,
+      "book_rank": 187,
+      "lemma": "nefas",
+      "headword": "nefas, n.",
+      "pos": "Noun",
+      "definition": "sin, violation of divine law, impious act",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 40,
+        "surface_form": "nefas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2927,
+      "book_rank": 188,
+      "lemma": "patronus",
+      "headword": "patronus, i, m.",
+      "pos": "Noun",
+      "definition": "patron; advocate; defender, protector",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 40,
+        "surface_form": "patronos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2928,
+      "book_rank": 189,
+      "lemma": "proclino",
+      "headword": "proclino, as, are",
+      "pos": "Verb",
+      "definition": "tilt forward; cause to totter",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 42,
+        "surface_form": "proclinatam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2929,
+      "book_rank": 190,
+      "lemma": "pudeo",
+      "headword": "pudeo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 42,
+        "surface_form": "pudeat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2930,
+      "book_rank": 191,
+      "lemma": "Aristius",
+      "headword": "Aristius, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 42,
+        "surface_form": "Aristium"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2931,
+      "book_rank": 192,
+      "lemma": "Cabillonum",
+      "headword": "Cabillonum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 42,
+        "surface_form": "Cabillono"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2932,
+      "book_rank": 193,
+      "lemma": "contamino",
+      "headword": "contamino, as, are",
+      "pos": "Verb",
+      "definition": "action/fact of touching, contact; contact communicating infection, contagion",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 43,
+        "surface_form": "contaminati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2933,
+      "book_rank": 194,
+      "lemma": "compendium",
+      "headword": "compendium, i, n.",
+      "pos": "Noun",
+      "definition": "gain, profit; sparing/saving; abridgement, compendium; shorthand; a short cut",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 43,
+        "surface_form": "compendio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2934,
+      "book_rank": 195,
+      "lemma": "exterreo",
+      "headword": "exterreo, es, ere, terrui, territus",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 43,
+        "surface_form": "exterriti"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2935,
+      "book_rank": 196,
+      "lemma": "mitis",
+      "headword": "mitis, e",
+      "pos": "Adjective",
+      "definition": "mild, meek, gentle, placid, soothing; clement; ripe, sweet and juicy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 43,
+        "surface_form": "mitissime"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2936,
+      "book_rank": 197,
+      "lemma": "quemadmodum",
+      "headword": "quemadmodum, conj. et adv. interr.",
+      "pos": "Adverb",
+      "definition": "in what way, how; as, just as; to the extent that",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 43,
+        "surface_form": "quemadmodum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2937,
+      "book_rank": 198,
+      "lemma": "dorsum",
+      "headword": "dorsum, i, n.",
+      "pos": "Noun",
+      "definition": "down, downwards, beneath, below; ; in lower situation",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 44,
+        "surface_form": "dorsum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2938,
+      "book_rank": 199,
+      "lemma": "tumultuosus",
+      "headword": "tumultuosus, a, um",
+      "pos": "Adjective",
+      "definition": "turbulent, full of commotion or uproar",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "tumultuosius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2939,
+      "book_rank": 200,
+      "lemma": "mulus",
+      "headword": "mulus, i, m.",
+      "pos": "Noun",
+      "definition": "she-mule; mule",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "mulorum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2940,
+      "book_rank": 201,
+      "lemma": "mulio",
+      "headword": "mulio, onis, m.",
+      "pos": "Noun",
+      "definition": "muleteer, mule driver, mule-skinner",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "muliones"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2941,
+      "book_rank": 202,
+      "lemma": "cassis",
+      "headword": "cassis, idis, f.",
+      "pos": "Noun",
+      "definition": "helmet ; wearer of a helmet; war, active service",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "cassidibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2942,
+      "book_rank": 203,
+      "lemma": "circumvehor",
+      "headword": "circumvehor, eris, i, uectus sum",
+      "pos": "Verb",
+      "definition": "make rounds of; travel/ride round/in succession/past; flow round",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "circumvehi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2943,
+      "book_rank": 204,
+      "lemma": "ostentatio",
+      "headword": "ostentatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "exhibition, display; showing off",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "ostentationis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2944,
+      "book_rank": 205,
+      "lemma": "Longus",
+      "headword": "Longus, a, um",
+      "pos": "Adjective",
+      "definition": "long; tall; tedious, taking long time; boundless; far; of specific length/time",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "Longo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2945,
+      "book_rank": 206,
+      "lemma": "muto",
+      "headword": "muto, as, are",
+      "pos": "Verb",
+      "definition": "penis",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 45,
+        "surface_form": "mutari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3
+    },
+    {
+      "rank": 2946,
+      "book_rank": 207,
+      "lemma": "Oppidius",
+      "headword": "Oppidius, ii, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "Oppidi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2947,
+      "book_rank": 208,
+      "lemma": "anfractus",
+      "headword": "anfractus",
+      "pos": "Noun",
+      "definition": "bend, curvature; circuit,  round, orbit; spiral, coil; circumlocution",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "anfractus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2948,
+      "book_rank": 209,
+      "lemma": "mollio",
+      "headword": "mollio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "soften, mitigate, make easier; civilize, tame, enfeeble",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "molliendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2949,
+      "book_rank": 210,
+      "lemma": "cliuum",
+      "headword": "cliuum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "clivum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2950,
+      "book_rank": 211,
+      "lemma": "praeduco",
+      "headword": "praeduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "extend; construct",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "praeduxerant"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2951,
+      "book_rank": 212,
+      "lemma": "conquiesco",
+      "headword": "conquiesco, is, ere, quieui, quietum",
+      "pos": "Verb",
+      "definition": "rest, take repose/be quiet, nap/go to sleep; have respite/pause from",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 46,
+        "surface_form": "conquieverat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2952,
+      "book_rank": 213,
+      "lemma": "receptus",
+      "headword": "receptus, us, m.",
+      "pos": "Verb",
+      "definition": "recover; receive, admit",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "receptui"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2953,
+      "book_rank": 214,
+      "lemma": "cano",
+      "headword": "cano, is, ere, cecini, cantum",
+      "pos": "Verb",
+      "definition": "white, gray; aged, old, wise; hoary; foamy, white-capped; white w/snow/frost",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "cani"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2954,
+      "book_rank": 215,
+      "lemma": "sonus",
+      "headword": "sonus, i, m.",
+      "pos": "Verb",
+      "definition": "make a noise/sound; speak/utter, emit sound; be spoken of ; express/denote",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "sono"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2955,
+      "book_rank": 216,
+      "lemma": "vestis",
+      "headword": "vestis, is, f.",
+      "pos": "Noun",
+      "definition": "garment, clothing, blanket; clothes; robe",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "vestem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2956,
+      "book_rank": 217,
+      "lemma": "pectus",
+      "headword": "pectus, oris, n.",
+      "pos": "Noun",
+      "definition": "breast, heart; feeling, soul, mind",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "pectore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2957,
+      "book_rank": 218,
+      "lemma": "promineo",
+      "headword": "promineo, es, ere, nŭi, intr.",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "prominentes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2958,
+      "book_rank": 219,
+      "lemma": "Avaricensis",
+      "headword": "Avaricensis, e",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "Avaricensibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2959,
+      "book_rank": 220,
+      "lemma": "manipularis",
+      "headword": "manipularis, e",
+      "pos": "Noun",
+      "definition": "soldier of a maniple; common soldier, private; marine; comrades",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "manipulares"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2960,
+      "book_rank": 221,
+      "lemma": "excepto",
+      "headword": "excepto, as, are",
+      "pos": "Verb",
+      "definition": "take out, take up; inhale, take",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 47,
+        "surface_form": "exceptans"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2961,
+      "book_rank": 222,
+      "lemma": "profero",
+      "headword": "profero, fers, ferre, tuli, latum",
+      "pos": "Verb",
+      "definition": "bring forward; advance; defer; discover; mention",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 48,
+        "surface_form": "proferre"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2962,
+      "book_rank": 223,
+      "lemma": "praemetuo",
+      "headword": "praemetuo, is, ere",
+      "pos": "Verb",
+      "definition": "fear beforehand",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 49,
+        "surface_form": "praemetuens"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2963,
+      "book_rank": 224,
+      "lemma": "libeo",
+      "headword": "libeo, v.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 49,
+        "surface_form": "libere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2964,
+      "book_rank": 225,
+      "lemma": "similitudo",
+      "headword": "similitudo, inis, f.",
+      "pos": "Noun",
+      "definition": "likeness, imitation; similarity, resemblance; by-word ; parable",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "similitudine"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2965,
+      "book_rank": 226,
+      "lemma": "humo",
+      "headword": "humo, as, are",
+      "pos": "Verb",
+      "definition": "ground, soil, earth, land, country",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "humeris"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2966,
+      "book_rank": 227,
+      "lemma": "exero",
+      "headword": "exero, is, ere, erui, ertum",
+      "pos": "Verb",
+      "definition": "stretch forth; thrust out ; put out ; lay bare, uncover",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "exsertis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2967,
+      "book_rank": 228,
+      "lemma": "Petronius",
+      "headword": "Petronius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "Petronius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2968,
+      "book_rank": 229,
+      "lemma": "excido",
+      "headword": "excido, is, ere, cidi",
+      "pos": "Verb",
+      "definition": "perish; disappear; escape, fall out; be deprived of; lose control of senses",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "excidere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2969,
+      "book_rank": 230,
+      "lemma": "auxiliaris",
+      "headword": "auxiliaris, e",
+      "pos": "Noun",
+      "definition": "auxiliary troops ; allies",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "auxiliari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2970,
+      "book_rank": 231,
+      "lemma": "sanguis",
+      "headword": "sanguis, inis, m.",
+      "pos": "Noun",
+      "definition": "blood; family",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 50,
+        "surface_form": "sanguis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2971,
+      "book_rank": 232,
+      "lemma": "intolerans",
+      "headword": "intolerans, antis",
+      "pos": "Adjective",
+      "definition": "insufferable, unbearable; unable to endure; impatient ; intolerant",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 51,
+        "surface_form": "intolerantius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2972,
+      "book_rank": 233,
+      "lemma": "advoco",
+      "headword": "advoco, as, are",
+      "pos": "Verb",
+      "definition": "call, summon, invite, convoke, call for; call in as counsel; invoke the Gods",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 52,
+        "surface_form": "advocata"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2973,
+      "book_rank": 234,
+      "lemma": "licentia",
+      "headword": "licentia, ae, f.",
+      "pos": "Noun",
+      "definition": "freedom, liberty; license, disorderliness; outspokenness",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 52,
+        "surface_form": "licentiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2974,
+      "book_rank": 235,
+      "lemma": "modestia",
+      "headword": "modestia, ae, f.",
+      "pos": "Noun",
+      "definition": "restraint, temperateness; discipline; modesty",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 52,
+        "surface_form": "modestiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2975,
+      "book_rank": 236,
+      "lemma": "continentia",
+      "headword": "continentia, ae, f.",
+      "pos": "Noun",
+      "definition": "restraint/self-control/abstinence/holding back/repression",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 52,
+        "surface_form": "continentiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2976,
+      "book_rank": 237,
+      "lemma": "admaturo",
+      "headword": "admaturo, as, āre",
+      "pos": "Verb",
+      "definition": "hasten ; bring to maturity, mature, ripen",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 54,
+        "surface_form": "admaturari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2977,
+      "book_rank": 238,
+      "lemma": "breviter",
+      "headword": "breviter, adv.",
+      "pos": "Adverb",
+      "definition": "shortly, briefly, in a nut shell; quickly; for/within a short distance/time",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 54,
+        "surface_form": "breviter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2978,
+      "book_rank": 239,
+      "lemma": "multo",
+      "headword": "multo, as, are",
+      "pos": "Verb",
+      "definition": "much, by much, a great deal, very; most; by far; long",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 54,
+        "surface_form": "multatos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2979,
+      "book_rank": 240,
+      "lemma": "extorqueo",
+      "headword": "extorqueo, es, ere, torsi, tortum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 54,
+        "surface_form": "extortis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2980,
+      "book_rank": 241,
+      "lemma": "aueho",
+      "headword": "aueho",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 55,
+        "surface_form": "avexerunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2981,
+      "book_rank": 242,
+      "lemma": "corrumpo",
+      "headword": "corrumpo, is, ere, rupi, ruptum",
+      "pos": "Verb",
+      "definition": "spoil/rot; taint/contaminate; damage/ruin, undo; destroy/deface; digest; infect",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 55,
+        "surface_form": "corruperunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2982,
+      "book_rank": 243,
+      "lemma": "nix",
+      "headword": "nix, niuis, f.",
+      "pos": "Verb",
+      "definition": "support oneself, rest/lean  ; struggle/strive, exert oneself",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 55,
+        "surface_form": "nivibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2983,
+      "book_rank": 244,
+      "lemma": "abjungo",
+      "headword": "abjungo, xi, ctum",
+      "pos": "Verb",
+      "definition": "unyoke, remove, separate; unharness; remove part, split; cut off from, detach",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 56,
+        "surface_form": "abiuncto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2984,
+      "book_rank": 245,
+      "lemma": "brachium",
+      "headword": "brachium, ii, n.",
+      "pos": "Noun",
+      "definition": "arm; lower arm, forearm; claw; branch, shoot; earthwork connecting forts",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 56,
+        "surface_form": "brachia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2985,
+      "book_rank": 246,
+      "lemma": "humerus",
+      "headword": "humerus, i, m.",
+      "pos": "Noun",
+      "definition": "upper arm, shoulder",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 56,
+        "surface_form": "humeri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2986,
+      "book_rank": 247,
+      "lemma": "repleo",
+      "headword": "repleo, es, ere, eui, etum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 56,
+        "surface_form": "repleto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2987,
+      "book_rank": 248,
+      "lemma": "Camulogenus",
+      "headword": "Camulogenus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 57,
+        "surface_form": "Camulogeno"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2988,
+      "book_rank": 249,
+      "lemma": "confio",
+      "headword": "confio, fieris, fĭĕri, factus sum (passif de conficio)",
+      "pos": "Verb",
+      "definition": "be finished off/killed/dispatched/subdued/reduced/pacified/defeated finally",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 58,
+        "surface_form": "confieri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2989,
+      "book_rank": 250,
+      "lemma": "Metiosedum",
+      "headword": "Metiosedum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 58,
+        "surface_form": "Metiosedum"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 2990,
+      "book_rank": 251,
+      "lemma": "deprendo",
+      "headword": "deprendo, is, ere, di, sum",
+      "pos": "Verb",
+      "definition": "seize/catch; catch napping/redhanded; surprise/pounce on; arrest; intercept",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 58,
+        "surface_form": "Deprensis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2991,
+      "book_rank": 252,
+      "lemma": "infidelis",
+      "headword": "infidelis, e",
+      "pos": "Adjective",
+      "definition": "treacherous, disloyal",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 59,
+        "surface_form": "infideles"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2992,
+      "book_rank": 253,
+      "lemma": "acquiro",
+      "headword": "acquiro, is, ere, i, situm",
+      "pos": "Verb",
+      "definition": "acquire , obtain, gain, get; add to stock; accrue",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 59,
+        "surface_form": "adquireret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2993,
+      "book_rank": 254,
+      "lemma": "industrius",
+      "headword": "industrius, a, um",
+      "pos": "Adjective",
+      "definition": "industriously; diligently; assiduously; vigorously",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 60,
+        "surface_form": "industrie"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2994,
+      "book_rank": 255,
+      "lemma": "sono",
+      "headword": "sono, as, are, sonui, sonitum",
+      "pos": "Verb",
+      "definition": "make a noise/sound; speak/utter, emit sound; be spoken of ; express/denote",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 60,
+        "surface_form": "sonitu"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2995,
+      "book_rank": 256,
+      "lemma": "tumultuor",
+      "headword": "tumultuor, aris, ari",
+      "pos": "Verb",
+      "definition": "make commotion/disturbance/uproar/armed rising; scrap/scrimmage; be confused",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 61,
+        "surface_form": "tumultuari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2996,
+      "book_rank": 257,
+      "lemma": "duodecimus",
+      "headword": "duodecimus, a, um",
+      "pos": "Adjective",
+      "definition": "twelve",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 62,
+        "surface_form": "duodecima"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 2997,
+      "book_rank": 258,
+      "lemma": "permisceo",
+      "headword": "permisceo, es, ere, miscui, mixtum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 62,
+        "surface_form": "permixti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2998,
+      "book_rank": 259,
+      "lemma": "indulgentia",
+      "headword": "indulgentia, ae, f.",
+      "pos": "Noun",
+      "definition": "leniency, concession, pardon; kindness, gentleness; favor bounty; indulging",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 63,
+        "surface_form": "indulgentiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 2999,
+      "book_rank": 260,
+      "lemma": "resido",
+      "headword": "resido, is, ere, sēdi, sessum, intr.",
+      "pos": "Verb",
+      "definition": "sit down/on/in; settle; be perched; remain seated/idle/fixed/in place; squat",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 64,
+        "surface_form": "resedisse"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3000,
+      "book_rank": 261,
+      "lemma": "Donnotaurus",
+      "headword": "Donnotaurus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 65,
+        "surface_form": "Donnotauro"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3001,
+      "book_rank": 262,
+      "lemma": "paco",
+      "headword": "paco, as, are",
+      "pos": "Verb",
+      "definition": "pacify, subdue",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 65,
+        "surface_form": "pacaverat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3002,
+      "book_rank": 263,
+      "lemma": "otium",
+      "headword": "otium, ii, n.",
+      "pos": "Noun",
+      "definition": "leisure; spare time; holiday; ease/rest/peace/quiet; tranquility/calm; lull",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 66,
+        "surface_form": "otium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3003,
+      "book_rank": 264,
+      "lemma": "circumirentur",
+      "headword": "circumirentur",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 67,
+        "surface_form": "circumirentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3004,
+      "book_rank": 265,
+      "lemma": "comitia",
+      "headword": "comitia, orum, n.",
+      "pos": "Noun",
+      "definition": "place in Forum where comitia were held; comitia , assembly; elections",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 67,
+        "surface_form": "comitiis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3005,
+      "book_rank": 266,
+      "lemma": "Cavarillus",
+      "headword": "Cavarillus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 67,
+        "surface_form": "Cavarillus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3006,
+      "book_rank": 267,
+      "lemma": "fugo",
+      "headword": "fugo, as, are",
+      "pos": "Verb",
+      "definition": "put to flight, rout; chase away; drive into exile",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 68,
+        "surface_form": "Fugato"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3007,
+      "book_rank": 268,
+      "lemma": "Alesia",
+      "headword": "Alesia, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 68,
+        "surface_form": "Alesiam"
+      },
+      "book_frequency": 10,
+      "total_frequency": 12
+    },
+    {
+      "rank": 3008,
+      "book_rank": 269,
+      "lemma": "Mandubii",
+      "headword": "Mandubii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 68,
+        "surface_form": "Mandubiorum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 3009,
+      "book_rank": 270,
+      "lemma": "subluo",
+      "headword": "subluo, is, ere, lui, lutum",
+      "pos": "Verb",
+      "definition": "wash, flow at the base of",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 69,
+        "surface_form": "subluebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3010,
+      "book_rank": 271,
+      "lemma": "fastigium",
+      "headword": "fastigium, ii, n.",
+      "pos": "Noun",
+      "definition": "peak, summit, top; slope, declivity, descent; gable, roof; sharp point, tip",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 69,
+        "surface_form": "fastigio"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5
+    },
+    {
+      "rank": 3011,
+      "book_rank": 272,
+      "lemma": "maceria",
+      "headword": "maceria, ae, f.",
+      "pos": "Noun",
+      "definition": "wall",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 69,
+        "surface_form": "maceriam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3012,
+      "book_rank": 273,
+      "lemma": "excubitor",
+      "headword": "excubitor, ōris, m.",
+      "pos": "Noun",
+      "definition": "sentinel; watchman",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 69,
+        "surface_form": "excubitoribus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3013,
+      "book_rank": 274,
+      "lemma": "irruptio",
+      "headword": "irruptio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "attack, sally, assault; violent/forcible entry",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 70,
+        "surface_form": "irruptio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3014,
+      "book_rank": 275,
+      "lemma": "octoginta",
+      "headword": "octoginta, num.",
+      "pos": "Word",
+      "definition": "eighty",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 71,
+        "surface_form": "octoginta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3015,
+      "book_rank": 276,
+      "lemma": "viritim",
+      "headword": "viritim, adv.",
+      "pos": "Adverb",
+      "definition": "man by man; individually",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 71,
+        "surface_form": "viritim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3016,
+      "book_rank": 277,
+      "lemma": "Fossa",
+      "headword": "Fossa, ae, f.",
+      "pos": "Noun",
+      "definition": "ditch, trench, canal; moat; dike, fosse",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 72,
+        "surface_form": "Fossam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3017,
+      "book_rank": 278,
+      "lemma": "tantundem",
+      "headword": "tantundem, adv.",
+      "pos": "Adverb",
+      "definition": "just as much",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 72,
+        "surface_form": "tantundem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3018,
+      "book_rank": 279,
+      "lemma": "campestris",
+      "headword": "campestris, tris, tre.",
+      "pos": "Noun",
+      "definition": "deities who presided over contests/games ; country deities",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 72,
+        "surface_form": "campestribus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 3019,
+      "book_rank": 280,
+      "lemma": "deriuo",
+      "headword": "deriuo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 72,
+        "surface_form": "derivata"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3020,
+      "book_rank": 281,
+      "lemma": "emineo",
+      "headword": "emineo, es, ere, ui, -",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 72,
+        "surface_form": "eminentibus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 3021,
+      "book_rank": 282,
+      "lemma": "materio",
+      "headword": "materio, as, are",
+      "pos": "Verb",
+      "definition": "material, matter, substance; food/fuel; breeding stock; topic, subject matter",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "materiari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3022,
+      "book_rank": 283,
+      "lemma": "delibro",
+      "headword": "delibro, as, are",
+      "pos": "Verb",
+      "definition": "peel, remove/strip the bark ; strip/take off",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "delibratis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3023,
+      "book_rank": 284,
+      "lemma": "cacumen",
+      "headword": "cacumen, minis, n.",
+      "pos": "Noun",
+      "definition": "top, peak, summit; shoot, blade of grass, tip of tree/branch; zenith; limit",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "cacuminibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3024,
+      "book_rank": 285,
+      "lemma": "stipes",
+      "headword": "stipes, pitis, m.",
+      "pos": "Noun",
+      "definition": "post, stake",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "stipites"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3025,
+      "book_rank": 286,
+      "lemma": "implico",
+      "headword": "implico, is, ere, plic(a)ui, plic(i ou a)tum",
+      "pos": "Verb",
+      "definition": "implicate; involve/engage/entangle/embroil; interweave/fold/twine w/itself",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "implicati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3026,
+      "book_rank": 287,
+      "lemma": "cippus",
+      "headword": "cippus, i, m.",
+      "pos": "Noun",
+      "definition": "stocks/fetter/prison; tree stump; bulwark of sharpened stakes",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "cippos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3027,
+      "book_rank": 288,
+      "lemma": "quincunx",
+      "headword": "quincunx, ūncis, m.",
+      "pos": "Noun",
+      "definition": "quincunx, the five on dice; 5/12, esp. of an as = 5 unciae",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "quincuncem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3028,
+      "book_rank": 289,
+      "lemma": "scrobis",
+      "headword": "scrobis, is, m.",
+      "pos": "Noun",
+      "definition": "ditch, trench; dike",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "scrobes"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 3029,
+      "book_rank": 290,
+      "lemma": "fodio",
+      "headword": "fodio, is, ere, fodi, fossum",
+      "pos": "Verb",
+      "definition": "dig, dig out/up; stab",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "fodiebantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3030,
+      "book_rank": 291,
+      "lemma": "teres",
+      "headword": "teres, teretis",
+      "pos": "Verb",
+      "definition": "smooth; tapering",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "teretes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3031,
+      "book_rank": 292,
+      "lemma": "stabilio",
+      "headword": "stabilio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "make firm, establish",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "stabiliendi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3032,
+      "book_rank": 293,
+      "lemma": "exculco",
+      "headword": "exculco, as, are",
+      "pos": "Verb",
+      "definition": "trample down",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "exculcabantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3033,
+      "book_rank": 294,
+      "lemma": "octonus",
+      "headword": "octonus, ae, a",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "octoni"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3034,
+      "book_rank": 295,
+      "lemma": "flos",
+      "headword": "flos, oris, m.",
+      "pos": "Noun",
+      "definition": "flower, blossom; youthful prime",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "floris"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3035,
+      "book_rank": 296,
+      "lemma": "lilium",
+      "headword": "lilium, ii, n.",
+      "pos": "Noun",
+      "definition": "lily; \"lily\" trap",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "lilium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3036,
+      "book_rank": 297,
+      "lemma": "hamus",
+      "headword": "hamus, i, m.",
+      "pos": "Noun",
+      "definition": "hook; barb of an arrow; spike",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "hamis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3037,
+      "book_rank": 298,
+      "lemma": "infigo",
+      "headword": "infigo, is, ere, fixi, fixum",
+      "pos": "Verb",
+      "definition": "fasten , fix, implant, affix; impose; drive/thrust in",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "infixis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3038,
+      "book_rank": 299,
+      "lemma": "infodio",
+      "headword": "infodio, is, ere, fōdi, fossum",
+      "pos": "Verb",
+      "definition": "bury, inter",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "infodiebantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3039,
+      "book_rank": 300,
+      "lemma": "dissero",
+      "headword": "dissero, is, ere, serui, sertum",
+      "pos": "Verb",
+      "definition": "plant/sow at intervals; scatter/distribute, plant here/there; separate/part",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "disserebantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3040,
+      "book_rank": 301,
+      "lemma": "stimulus",
+      "headword": "stimulus, i, m.",
+      "pos": "Noun",
+      "definition": "spur/goad; trap/spike in earth; prick/sting/cause of torment/torture instrument",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 73,
+        "surface_form": "stimulos"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3041,
+      "book_rank": 302,
+      "lemma": "quattuordecim",
+      "headword": "quattuordecim, num.",
+      "pos": "Word",
+      "definition": "fourteen",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 74,
+        "surface_form": "quattuordecim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3042,
+      "book_rank": 303,
+      "lemma": "exterus",
+      "headword": "exterus, a, um",
+      "pos": "Adjective",
+      "definition": "outer/external; outward; on outside, far; of another country, foreign; strange",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 74,
+        "surface_form": "exteriorem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3
+    },
+    {
+      "rank": 3043,
+      "book_rank": 304,
+      "lemma": "conveho",
+      "headword": "conveho, is, ere, vexi, vectum",
+      "pos": "Verb",
+      "definition": "bring/carry/bear together/to one place; collect, gather; get in",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 74,
+        "surface_form": "convectum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3044,
+      "book_rank": 305,
+      "lemma": "confundo",
+      "headword": "confundo, is, ere, fudi, fusum",
+      "pos": "Verb",
+      "definition": "pour/mix/mass/bring together; combine/unite/blend/merge; spread over, diffuse",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "confusa"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3045,
+      "book_rank": 306,
+      "lemma": "discerno",
+      "headword": "discerno, is, ere, creui, cretum",
+      "pos": "Verb",
+      "definition": "see, discern; distinguish, separate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "discernere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3046,
+      "book_rank": 307,
+      "lemma": "Ambivareti",
+      "headword": "Ambivareti, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Ambivaretis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3047,
+      "book_rank": 308,
+      "lemma": "Brannovices",
+      "headword": "Brannovices, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Brannovicibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3048,
+      "book_rank": 309,
+      "lemma": "Blannovii",
+      "headword": "Blannovii",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Blannoviis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3049,
+      "book_rank": 310,
+      "lemma": "Eleuteti",
+      "headword": "Eleuteti, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Eleutetis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3050,
+      "book_rank": 311,
+      "lemma": "Vellavii",
+      "headword": "Vellavii",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Vellaviis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3051,
+      "book_rank": 312,
+      "lemma": "Petrocorii",
+      "headword": "Petrocorii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Petrocoriis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3052,
+      "book_rank": 313,
+      "lemma": "Cenomani",
+      "headword": "Cenomani, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Cenomanis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3053,
+      "book_rank": 314,
+      "lemma": "Boia",
+      "headword": "Boia, ae, f.",
+      "pos": "Noun",
+      "definition": "Boli , a people of Cisalpine Gaul - in Caesar's \"Gallic War\"",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Boiis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3054,
+      "book_rank": 315,
+      "lemma": "Curiosolites",
+      "headword": "Curiosolites",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Curiosolites"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3055,
+      "book_rank": 316,
+      "lemma": "Ambibarii",
+      "headword": "Ambibarii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Ambibarii"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3056,
+      "book_rank": 317,
+      "lemma": "Caletes",
+      "headword": "Caletes, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 75,
+        "surface_form": "Caletes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3057,
+      "book_rank": 318,
+      "lemma": "immunis",
+      "headword": "immunis, e",
+      "pos": "Adjective",
+      "definition": "free from taxes/tribute, exempt; immune",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "immunem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3058,
+      "book_rank": 319,
+      "lemma": "consensio",
+      "headword": "consensio, ionis, f.",
+      "pos": "Noun",
+      "definition": "agreement , consent, accordance, harmony; unanimity; plot, conspiracy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "consensio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3059,
+      "book_rank": 320,
+      "lemma": "incumbo",
+      "headword": "incumbo, is, ere, cubui, -cubitum",
+      "pos": "Verb",
+      "definition": "lean forward/over/on, press on; attack, apply force; fall on",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "incumberent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3060,
+      "book_rank": 321,
+      "lemma": "recenseo",
+      "headword": "recenseo, es, ere, censui, censum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "recensebantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3061,
+      "book_rank": 322,
+      "lemma": "Vercassivellaunus",
+      "headword": "Vercassivellaunus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "Vercassivellauno"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4
+    },
+    {
+      "rank": 3062,
+      "book_rank": 323,
+      "lemma": "consobrinus",
+      "headword": "consobrinus, i, m.",
+      "pos": "Noun",
+      "definition": "first cousin ; ; children of sisters ; relation",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 76,
+        "surface_form": "consobrino"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3063,
+      "book_rank": 324,
+      "lemma": "Critognatus",
+      "headword": "Critognatus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "Critognati"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3064,
+      "book_rank": 325,
+      "lemma": "iste",
+      "headword": "iste, a, ud, pron.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "ista"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3065,
+      "book_rank": 326,
+      "lemma": "mollitia",
+      "headword": "mollitia, ae, f.",
+      "pos": "Noun",
+      "definition": "softness, tenderness; weakness, effeminacy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "mollitia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3066,
+      "book_rank": 327,
+      "lemma": "patienter",
+      "headword": "patienter, adv.",
+      "pos": "Adverb",
+      "definition": "patiently; with patience/toleration",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "patienter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3067,
+      "book_rank": 328,
+      "lemma": "praeterquam",
+      "headword": "praeterquam, adv.",
+      "pos": "Adverb",
+      "definition": "except, besides, beyond, contrary to",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "praeterquam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3068,
+      "book_rank": 329,
+      "lemma": "expolio",
+      "headword": "expolio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "polish; refine",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "exspoliare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3069,
+      "book_rank": 330,
+      "lemma": "stultitia",
+      "headword": "stultitia, ae, f.",
+      "pos": "Noun",
+      "definition": "folly, stupidity",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "stultitia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3070,
+      "book_rank": 331,
+      "lemma": "imbecillitas",
+      "headword": "imbecillitas, atis, f.",
+      "pos": "Noun",
+      "definition": "weakness, feebleness; moral/intellectual weakness",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "imbecillitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3071,
+      "book_rank": 332,
+      "lemma": "prosterno",
+      "headword": "prosterno, is, ere, straui, stratum",
+      "pos": "Verb",
+      "definition": "knock over, lay low; strike down, overthrow; exhaust; debase/demean; prostrate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "prosternere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3072,
+      "book_rank": 333,
+      "lemma": "praesaepio",
+      "headword": "praesaepio, is, ire, saepsi, saeptum",
+      "pos": "Verb",
+      "definition": "crib, manger, stall ; brothel; haunt, lodging, home turf",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "praesaepto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3073,
+      "book_rank": 334,
+      "lemma": "testis",
+      "headword": "testis, is, m.",
+      "pos": "Noun",
+      "definition": "testicle",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "testibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3074,
+      "book_rank": 335,
+      "lemma": "Teutones",
+      "headword": "Teutones, um, m.",
+      "pos": "Noun",
+      "definition": "Teutoni, German tribe from Baltic, migrated w/Cimbri, smashed by Marius 102 BC",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "Teutonum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3075,
+      "book_rank": 336,
+      "lemma": "subigo",
+      "headword": "subigo, is, ere, egi, actum",
+      "pos": "Verb",
+      "definition": "conquer, subjugate; compel",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "subacti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3076,
+      "book_rank": 337,
+      "lemma": "invidia",
+      "headword": "invidia, ae, f.",
+      "pos": "Noun",
+      "definition": "hate/hatred/dislike; envy/jealousy/spite/ill will; use of words/acts to arouse",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "invidia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4
+    },
+    {
+      "rank": 3077,
+      "book_rank": 338,
+      "lemma": "aeternus",
+      "headword": "aeternus, a, um",
+      "pos": "Adjective",
+      "definition": "eternal/everlasting/imperishable; perpetual, w/out start/end",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "aeternam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3078,
+      "book_rank": 339,
+      "lemma": "injungo",
+      "headword": "injungo, is, ere, iunxi, iunctum",
+      "pos": "Verb",
+      "definition": "enjoin, charge, bring/impose upon; unite; join/fasten/attach",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "iniungere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5
+    },
+    {
+      "rank": 3079,
+      "book_rank": 340,
+      "lemma": "securis",
+      "headword": "securis, is, f.",
+      "pos": "Noun",
+      "definition": "ax , hatchet, chopper;  blow; vine-dresser's blade",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 77,
+        "surface_form": "securibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3080,
+      "book_rank": 341,
+      "lemma": "maestus",
+      "headword": "maestus, a, um",
+      "pos": "Adjective",
+      "definition": "sad/unhappy; mournful/gloomy; mourning; stern/grim; ill-omened/inauspicious",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 80,
+        "surface_form": "maesti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3081,
+      "book_rank": 342,
+      "lemma": "harpago",
+      "headword": "harpago, as, are",
+      "pos": "Verb",
+      "definition": "hook; grappling iron",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 81,
+        "surface_form": "harpagonum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3082,
+      "book_rank": 343,
+      "lemma": "librile",
+      "headword": "librile, is, n.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 81,
+        "surface_form": "librilibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3083,
+      "book_rank": 344,
+      "lemma": "tenebrae",
+      "headword": "tenebrae, arum, f. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 81,
+        "surface_form": "tenebris"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3084,
+      "book_rank": 345,
+      "lemma": "Antonius",
+      "headword": "Antonius, ii, m.",
+      "pos": "Noun",
+      "definition": "Antony/Anthony",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 81,
+        "surface_form": "Antonius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 19
+    },
+    {
+      "rank": 3085,
+      "book_rank": 346,
+      "lemma": "transfodio",
+      "headword": "transfodio, is, ere, fōdi, fossum",
+      "pos": "Verb",
+      "definition": "transfix, pierce, impale",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 82,
+        "surface_form": "transfodiebantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3086,
+      "book_rank": 347,
+      "lemma": "circumplecto",
+      "headword": "circumplecto, is, ere",
+      "pos": "Verb",
+      "definition": "encompass; embrace/clasp; surround/encircle; enclose ; cover roundabout",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 83,
+        "surface_form": "circumplecti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3087,
+      "book_rank": 348,
+      "lemma": "Caninius",
+      "headword": "Caninius, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 83,
+        "surface_form": "Caninius"
+      },
+      "book_frequency": 2,
+      "total_frequency": 17
+    },
+    {
+      "rank": 3088,
+      "book_rank": 349,
+      "lemma": "Rebilus",
+      "headword": "Rebilus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 83,
+        "surface_form": "Rebilus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4
+    },
+    {
+      "rank": 3089,
+      "book_rank": 350,
+      "lemma": "pactum",
+      "headword": "pactum, i, n.",
+      "pos": "Noun",
+      "definition": "bargain, agreement; manner",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 83,
+        "surface_form": "pacto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3090,
+      "book_rank": 351,
+      "lemma": "definio",
+      "headword": "definio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "finish off/put an end/end the life; determine, settle; specify, sum up; assert",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 83,
+        "surface_form": "definiunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3091,
+      "book_rank": 352,
+      "lemma": "musculus",
+      "headword": "musculus, i, m.",
+      "pos": "Noun",
+      "definition": "little mouse, small rodent; common mouse; various  creatures; mussel",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 84,
+        "surface_form": "musculos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3092,
+      "book_rank": 353,
+      "lemma": "decliuitas",
+      "headword": "decliuitas",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 85,
+        "surface_form": "declivitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3093,
+      "book_rank": 354,
+      "lemma": "contego",
+      "headword": "contego, is, ere, texi, tectum",
+      "pos": "Verb",
+      "definition": "cover up, conceal, hide; protect; clothe; roof over; bury/entomb; strew thickly",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 85,
+        "surface_form": "contegit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3094,
+      "book_rank": 355,
+      "lemma": "succumbo",
+      "headword": "succumbo, is, ere, cubui, cubitum",
+      "pos": "Verb",
+      "definition": "sink/fall/lie/break down; succumb/collapse ; suffer/concede defeat",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 86,
+        "surface_form": "succumbant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3095,
+      "book_rank": 356,
+      "lemma": "dimicatio",
+      "headword": "dimicatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "fight; instance of a battle/engagement; combat; struggle, conflict; contest",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 86,
+        "surface_form": "dimicationum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6
+    },
+    {
+      "rank": 3096,
+      "book_rank": 357,
+      "lemma": "Restitutus",
+      "headword": "Restitutus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 87,
+        "surface_form": "Restituto"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3097,
+      "book_rank": 358,
+      "lemma": "praesidus",
+      "headword": "praesidus",
+      "pos": "Noun",
+      "definition": "protector; guard; guardian; defender; chief; president, governor, procurator",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 87,
+        "surface_form": "praesidus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3098,
+      "book_rank": 359,
+      "lemma": "adcelero",
+      "headword": "adcelero, as, are",
+      "pos": "Verb",
+      "definition": "speed up, quicken, hurry; make haste, act quickly, hasten; accelerate",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 87,
+        "surface_form": "Accelerat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3099,
+      "book_rank": 360,
+      "lemma": "devexus",
+      "headword": "devexus, a, um",
+      "pos": "Adjective",
+      "definition": "sloping/inclining downwards/downhill/away; steep; shelving; declining/sinking",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 88,
+        "surface_form": "devexa"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3100,
+      "book_rank": 361,
+      "lemma": "Sedulius",
+      "headword": "Sedulius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 88,
+        "surface_form": "Sedulius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3101,
+      "book_rank": 362,
+      "lemma": "vivus",
+      "headword": "vivus, a, um",
+      "pos": "Verb",
+      "definition": "be alive, live; survive; reside",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 88,
+        "surface_form": "vivus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3102,
+      "book_rank": 363,
+      "lemma": "septuaginta",
+      "headword": "septuaginta, num.",
+      "pos": "Word",
+      "definition": "seventy",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 88,
+        "surface_form": "septuaginta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3103,
+      "book_rank": 364,
+      "lemma": "necessitatium",
+      "headword": "necessitatium",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 89,
+        "surface_form": "necessitatium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3104,
+      "book_rank": 365,
+      "lemma": "uiuum",
+      "headword": "uiuum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 89,
+        "surface_form": "vivum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2
+    },
+    {
+      "rank": 3105,
+      "book_rank": 366,
+      "lemma": "Sempronius",
+      "headword": "Sempronius, a, um",
+      "pos": "Adjective",
+      "definition": "Sempronian; of gens Sempronia",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 90,
+        "surface_form": "Sempronium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3106,
+      "book_rank": 367,
+      "lemma": "Rutilus",
+      "headword": "Rutilus, a, um",
+      "pos": "Verb",
+      "definition": "redden, make reddish; have a reddish glow",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 90,
+        "surface_form": "Rutilum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3107,
+      "book_rank": 368,
+      "lemma": "Cabillo",
+      "headword": "Cabillo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 90,
+        "surface_form": "Cabilloni"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    },
+    {
+      "rank": 3108,
+      "book_rank": 369,
+      "lemma": "Matisco",
+      "headword": "Matisco, ōnis, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 7,
+        "chapter": 90,
+        "surface_form": "Matisco"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1
+    }
+  ]
+}
