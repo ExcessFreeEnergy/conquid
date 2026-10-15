@@ -33,7 +33,7 @@ class CaesarApp {
       mastered: new Set(),
       masteryScores: {},   // { [id]: score (0 to 3) }
       activePool: [],      // Exactly 10 active word IDs
-      selectedStage: 'ALL',// 'ALL' or specific stage
+      selectedStage: 'Book 1 Subsection 1',// Default to stage 1 (not ALL)
       currentMode: 'cards',// 'cards', 'drill', 'match', 'scribe', 'sprint', 'cloze'
       streak: 0,
       totalReviewed: 0,
@@ -320,13 +320,18 @@ class CaesarApp {
   }
 
   populateStageSelect() {
-    this.elStageSelect.innerHTML = '<option value="ALL">All Stages (Complete Work: 3,290 words)</option>';
+    this.elStageSelect.innerHTML = '';
     this.stages.forEach((stage) => {
       const opt = document.createElement('option');
       opt.value = stage;
-      opt.textContent = stage;
+      const count = this.words.filter((w) => w.s === stage).length;
+      opt.textContent = `${stage} (${count} words)`;
       this.elStageSelect.appendChild(opt);
     });
+    const optAll = document.createElement('option');
+    optAll.value = 'ALL';
+    optAll.textContent = `All Books (Complete Work: ${this.words.length.toLocaleString()} words)`;
+    this.elStageSelect.appendChild(optAll);
   }
 
   loadProgress() {
@@ -337,13 +342,29 @@ class CaesarApp {
         this.state.mastered = new Set(parsed.mastered || []);
         this.state.masteryScores = parsed.masteryScores || {};
         this.state.activePool = parsed.activePool || [];
-        this.state.selectedStage = parsed.selectedStage || 'ALL';
+
+        // Migrate any old 'Chunk' names to 'Subsection'
+        let savedStage = parsed.selectedStage;
+        if (savedStage && typeof savedStage === 'string' && savedStage.includes('Chunk')) {
+          savedStage = savedStage.replace('Chunk', 'Subsection');
+        }
+
+        // If previously saved as ALL or invalid stage, default to the first stage
+        if (!savedStage || savedStage === 'ALL' || !this.stages.includes(savedStage)) {
+          this.state.selectedStage = this.stages[0] || 'Book 1 Subsection 1';
+        } else {
+          this.state.selectedStage = savedStage;
+        }
+
         this.state.currentMode = parsed.currentMode || 'cards';
         this.state.streak = parsed.streak || 0;
         this.state.totalReviewed = parsed.totalReviewed || 0;
+      } else {
+        this.state.selectedStage = this.stages[0] || 'Book 1 Subsection 1';
       }
     } catch (e) {
       console.warn('LocalStorage error:', e);
+      this.state.selectedStage = this.stages[0] || 'Book 1 Subsection 1';
     }
     this.elStageSelect.value = this.state.selectedStage;
   }

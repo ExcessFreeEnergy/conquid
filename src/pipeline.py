@@ -212,7 +212,7 @@ def run_pipeline(
                 dict_info = dictionary.lookup(lemma)
                 
                 if num_chunks_in_book > 1:
-                    stage_label = f"Book {b} Chunk {c_id}"
+                    stage_label = f"Book {b} Subsection {c_id}"
                 else:
                     stage_label = f"Book {b}"
 
@@ -272,12 +272,12 @@ def run_pipeline(
             toks = chunk_tokens.get(stage_key, 0)
             cum_counter += len(words)
             
-            stage_name = f"Book {b} Chunk {c_id}" if num_chunks > 1 else f"Book {b}"
+            stage_name = f"Book {b} Subsection {c_id}" if num_chunks > 1 else f"Book {b}"
             ch_range = f"Chapters {chk['start_chapter']}–{chk['end_chapter']}"
             
             # File name
             if num_chunks > 1:
-                filename = f"book_{b}_chunk_{c_id}_vocab.json"
+                filename = f"book_{b}_subsection_{c_id}_vocab.json"
             else:
                 filename = f"book_{b}_vocab.json"  # already written, but can write dedicated stage if desired
                 
