@@ -101,10 +101,48 @@ class CaesarApp {
     this.cardSnippet = document.getElementById('card-snippet');
     this.cardMasteryDots = document.getElementById('card-mastery-dots');
 
+    // Card Flip & Touch Gestures
     this.cardContainer.addEventListener('click', (e) => {
       if (e.target.closest('button')) return;
       this.flipCard();
     });
+
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let touchStartTime = 0;
+
+    this.cardContainer.addEventListener('touchstart', (e) => {
+      if (!e.changedTouches || e.changedTouches.length === 0) return;
+      touchStartX = e.changedTouches[0].screenX;
+      touchStartY = e.changedTouches[0].screenY;
+      touchStartTime = Date.now();
+    }, { passive: true });
+
+    this.cardContainer.addEventListener('touchend', (e) => {
+      if (e.target.closest('button')) return;
+      if (!e.changedTouches || e.changedTouches.length === 0) return;
+      const touchEndX = e.changedTouches[0].screenX;
+      const touchEndY = e.changedTouches[0].screenY;
+      const diffX = touchEndX - touchStartX;
+      const diffY = touchEndY - touchStartY;
+      const elapsed = Date.now() - touchStartTime;
+
+      if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY)) {
+        // Horizontal swipe gesture
+        if (this.isFlipped) {
+          if (diffX < 0) {
+            // Swipe Left -> Forgot
+            this.gradeCard(0);
+          } else {
+            // Swipe Right -> Mastered
+            this.gradeCard(3);
+          }
+        }
+      } else if (Math.abs(diffX) < 15 && Math.abs(diffY) < 15 && elapsed < 400) {
+        // Clean mobile tap
+        this.flipCard();
+      }
+    }, { passive: true });
 
     // 3 Graded Card Buttons
     document.getElementById('btn-card-forgot').addEventListener('click', (e) => {
@@ -185,6 +223,14 @@ class CaesarApp {
 
   initKeyboardShortcuts() {
     document.addEventListener('keydown', (e) => {
+      // Don't intercept when user is typing in inputs
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+        if (e.key === 'Escape' && !this.searchModal.classList.contains('hidden')) {
+          this.closeSearch();
+        }
+        return;
+      }
+
       if (!this.searchModal.classList.contains('hidden')) {
         if (e.key === 'Escape') this.closeSearch();
         return;
@@ -192,23 +238,39 @@ class CaesarApp {
 
       // Mode-specific shortcuts
       if (this.state.currentMode === 'cards') {
-        if (e.code === 'Space' || e.key === 'Enter') {
+        const isSpace = e.code === 'Space' || e.key === ' ' || e.key === 'Spacebar';
+        if (isSpace || e.key === 'Enter' || e.key === 'ArrowUp') {
           e.preventDefault();
           this.flipCard();
         } else if (this.isFlipped) {
-          if (e.key === '1' || e.key === 'ArrowLeft') this.gradeCard(0);
-          else if (e.key === '2' || e.key === 'ArrowDown') this.gradeCard(1);
-          else if (e.key === '3' || e.key === 'ArrowRight') this.gradeCard(3);
+          if (e.key === '1' || e.key === 'ArrowLeft') {
+            e.preventDefault();
+            this.gradeCard(0);
+          } else if (e.key === '2' || e.key === 'ArrowDown') {
+            e.preventDefault();
+            this.gradeCard(1);
+          } else if (e.key === '3' || e.key === 'ArrowRight') {
+            e.preventDefault();
+            this.gradeCard(3);
+          }
         }
       } else if (this.state.currentMode === 'drill' || this.state.currentMode === 'cloze') {
         if (['1', '2', '3', '4'].includes(e.key)) {
           const btns = document.querySelectorAll('.quiz-option-btn');
           const idx = parseInt(e.key, 10) - 1;
-          if (btns[idx]) btns[idx].click();
+          if (btns[idx]) {
+            e.preventDefault();
+            btns[idx].click();
+          }
         }
       } else if (this.state.currentMode === 'sprint') {
-        if (e.key === 'ArrowLeft' || e.key.toLowerCase() === 'f') this.checkSprintAnswer(false);
-        else if (e.key === 'ArrowRight' || e.key.toLowerCase() === 'v' || e.key.toLowerCase() === 't') this.checkSprintAnswer(true);
+        if (e.key === 'ArrowLeft' || e.key.toLowerCase() === 'f') {
+          e.preventDefault();
+          this.checkSprintAnswer(false);
+        } else if (e.key === 'ArrowRight' || e.key.toLowerCase() === 'v' || e.key.toLowerCase() === 't') {
+          e.preventDefault();
+          this.checkSprintAnswer(true);
+        }
       }
     });
   }
@@ -460,7 +522,6 @@ class CaesarApp {
   }
 
   flipCard() {
-    if (!this.currentWord) return;
     this.isFlipped = !this.isFlipped;
     this.cardContainer.classList.toggle('is-flipped', this.isFlipped);
   }
@@ -887,6 +948,14 @@ class CaesarApp {
   }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-  window.caesarApp = new CaesarApp();
-});
+function initCaesarApp() {
+  if (!window.caesarApp) {
+    window.caesarApp = new CaesarApp();
+  }
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initCaesarApp);
+} else {
+  initCaesarApp();
+}

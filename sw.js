@@ -1,4 +1,4 @@
-const CACHE_NAME = 'caesar-vocab-v2';
+const CACHE_NAME = 'caesar-vocab-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -14,12 +14,13 @@ const ASSETS_TO_CACHE = [
 ];
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
       return Promise.allSettled(
         ASSETS_TO_CACHE.map((url) => cache.add(url).catch((e) => console.warn('Cache error for', url, e)))
       );
-    }).then(() => self.skipWaiting())
+    })
   );
 });
 
@@ -41,28 +42,39 @@ self.addEventListener('fetch', (event) => {
   // Only handle GET requests
   if (event.request.method !== 'GET') return;
 
-  event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        // Return cached asset, fetch fresh copy in background
-        fetch(event.request).then((networkResponse) => {
+  const url = new URL(event.request.url);
+  const isCodeAsset = url.pathname.endsWith('.html') ||
+                      url.pathname.endsWith('.js') ||
+                      url.pathname.endsWith('.css') ||
+                      url.pathname === '/' ||
+                      url.pathname.endsWith('/');
+
+  if (isCodeAsset) {
+    // Network first for app code so updates appear immediately
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
           if (networkResponse && networkResponse.status === 200) {
-            caches.open(CACHE_NAME).then((cache) => {
-              cache.put(event.request, networkResponse);
-            });
+            const copy = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
           }
-        }).catch(() => {});
-        return cachedResponse;
-      }
-      return fetch(event.request).then((networkResponse) => {
-        if (networkResponse && networkResponse.status === 200) {
-          const responseToCache = networkResponse.clone();
-          caches.open(CACHE_NAME).then((cache) => {
-            cache.put(event.request, responseToCache);
-          });
-        }
-        return networkResponse;
-      });
-    })
-  );
+          return networkResponse;
+        })
+        .catch(() => caches.match(event.request))
+    );
+  } else {
+    // Cache first for media / images / static fonts
+    event.respondWith(
+      caches.match(event.request).then((cachedResponse) => {
+        if (cachedResponse) return cachedResponse;
+        return fetch(event.request).then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const copy = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          }
+          return networkResponse;
+        });
+      })
+    );
+  }
 });
