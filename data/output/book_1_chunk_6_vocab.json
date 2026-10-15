@@ -1,17 +1,23 @@
 {
   "book": 1,
+  "stage": "Book 1 Chunk 6",
+  "stage_id": "1.6",
   "chunk": 6,
   "title": "Parley & Decisive Defeat of Ariovistus",
   "chapters": "Chapters 41–54",
   "running_tokens": 2093,
   "new_word_count": 180,
-  "cumulative_book_1_words": 1354,
+  "cumulative_words": 1354,
   "words": [
     {
       "rank": 1175,
       "book": 1,
       "book_rank": 1175,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 1,
       "lemma": "alacritas",
       "headword": "alacritas, atis, f.",
       "pos": "Noun",
@@ -22,16 +28,17 @@
         "surface_form": "alacritas"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 1
+      "total_frequency": 3
     },
     {
       "rank": 1176,
       "book": 1,
       "book_rank": 1176,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 2,
       "lemma": "innascor",
       "headword": "innascor, eris, i, nātus sum, intr.",
       "pos": "Verb",
@@ -42,16 +49,17 @@
         "surface_form": "innata"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 2
+      "total_frequency": 2
     },
     {
       "rank": 1177,
       "book": 1,
       "book_rank": 1177,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 3,
       "lemma": "umquam",
       "headword": "umquam, adv.",
       "pos": "Adverb",
@@ -62,16 +70,17 @@
         "surface_form": "umquam"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 3
+      "total_frequency": 5
     },
     {
       "rank": 1178,
       "book": 1,
       "book_rank": 1178,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 4,
       "lemma": "satisfactio",
       "headword": "satisfactio, ōnis, f.",
       "pos": "Noun",
@@ -82,16 +91,17 @@
         "surface_form": "satisfactio"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 4
+      "total_frequency": 2
     },
     {
       "rank": 1179,
       "book": 1,
       "book_rank": 1179,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 5,
       "lemma": "exquiro",
       "headword": "exquiro, is, ere, iui, itum",
       "pos": "Verb",
@@ -102,16 +112,17 @@
         "surface_form": "exquisito"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 5
+      "total_frequency": 2
     },
     {
       "rank": 1180,
       "book": 1,
       "book_rank": 1180,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 6,
       "lemma": "quinquaginta",
       "headword": "quinquaginta, num.",
       "pos": "Word",
@@ -122,16 +133,17 @@
         "surface_form": "quinquaginta"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 6
+      "total_frequency": 4
     },
     {
       "rank": 1181,
       "book": 1,
       "book_rank": 1181,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 7,
       "lemma": "Septimus",
       "headword": "Septimus, a, um",
       "pos": "Adjective",
@@ -142,16 +154,17 @@
         "surface_form": "Septimo"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 7
+      "total_frequency": 2
     },
     {
       "rank": 1182,
       "book": 1,
       "book_rank": 1182,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 8,
       "lemma": "respuo",
       "headword": "respuo, is, ere, ui, -",
       "pos": "Verb",
@@ -162,16 +175,17 @@
         "surface_form": "respuit"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 8
+      "total_frequency": 1
     },
     {
       "rank": 1183,
       "book": 1,
       "book_rank": 1183,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 9,
       "lemma": "sanitas",
       "headword": "sanitas, atis, f.",
       "pos": "Noun",
@@ -182,16 +196,17 @@
         "surface_form": "sanitatem"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 9
+      "total_frequency": 3
     },
     {
       "rank": 1184,
       "book": 1,
       "book_rank": 1184,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 10,
       "lemma": "denego",
       "headword": "denego, as, are",
       "pos": "Verb",
@@ -202,16 +217,17 @@
         "surface_form": "denegasset"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 10
+      "total_frequency": 2
     },
     {
       "rank": 1185,
       "book": 1,
       "book_rank": 1185,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 11,
       "lemma": "ultro",
       "headword": "ultro, adv.",
       "pos": "Adverb",
@@ -222,16 +238,17 @@
         "surface_form": "ultro"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 11
+      "total_frequency": 11
     },
     {
       "rank": 1186,
       "book": 1,
       "book_rank": 1186,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 12,
       "lemma": "pertinacia",
       "headword": "pertinacia, ae, f.",
       "pos": "Noun",
@@ -242,16 +259,17 @@
         "surface_form": "pertinacia"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 12
+      "total_frequency": 4
     },
     {
       "rank": 1187,
       "book": 1,
       "book_rank": 1187,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 13,
       "lemma": "quintus",
       "headword": "quintus, a, um",
       "pos": "Adjective",
@@ -262,16 +280,17 @@
         "surface_form": "quintus"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 13
+      "total_frequency": 9
     },
     {
       "rank": 1188,
       "book": 1,
       "book_rank": 1188,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 14,
       "lemma": "citro",
       "headword": "citro, adv.",
       "pos": "Adverb",
@@ -282,16 +301,17 @@
         "surface_form": "citro"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 14
+      "total_frequency": 1
     },
     {
       "rank": 1189,
       "book": 1,
       "book_rank": 1189,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 15,
       "lemma": "pedes",
       "headword": "pedes, itis, m.",
       "pos": "Noun",
@@ -302,16 +322,17 @@
         "surface_form": "peditem"
       },
       "book_frequency": 2,
-      "total_frequency": 22,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 15
+      "total_frequency": 22
     },
     {
       "rank": 1190,
       "book": 1,
       "book_rank": 1190,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 16,
       "lemma": "uterque",
       "headword": "uterque, utraque, utrumque",
       "pos": "Word",
@@ -322,16 +343,17 @@
         "surface_form": "uterque"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 16
+      "total_frequency": 6
     },
     {
       "rank": 1191,
       "book": 1,
       "book_rank": 1191,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 17,
       "lemma": "interpono",
       "headword": "interpono, is, ere, posui, positum",
       "pos": "Verb",
@@ -342,16 +364,17 @@
         "surface_form": "interposita"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 17
+      "total_frequency": 16
     },
     {
       "rank": 1192,
       "book": 1,
       "book_rank": 1192,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 18,
       "lemma": "detraho",
       "headword": "detraho, is, ere, traxi, tractum",
       "pos": "Verb",
@@ -362,16 +385,17 @@
         "surface_form": "detractis"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 18
+      "total_frequency": 9
     },
     {
       "rank": 1193,
       "book": 1,
       "book_rank": 1193,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 19,
       "lemma": "legionarius",
       "headword": "legionarius, a, um",
       "pos": "Adjective",
@@ -382,16 +406,17 @@
         "surface_form": "legionarios"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 19
+      "total_frequency": 7
     },
     {
       "rank": 1194,
       "book": 1,
       "book_rank": 1194,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 20,
       "lemma": "impono",
       "headword": "impono, is, ere, sui, situm",
       "pos": "Verb",
@@ -402,16 +427,17 @@
         "surface_form": "imponere"
       },
       "book_frequency": 3,
-      "total_frequency": 9,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 20
+      "total_frequency": 9
     },
     {
       "rank": 1195,
       "book": 1,
       "book_rank": 1195,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 21,
       "lemma": "irridicule",
       "headword": "irridicule, adv.",
       "pos": "Adverb",
@@ -422,16 +448,17 @@
         "surface_form": "inridicule"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 21
+      "total_frequency": 1
     },
     {
       "rank": 1196,
       "book": 1,
       "book_rank": 1196,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 22,
       "lemma": "rescribo",
       "headword": "rescribo, is, ere, scripsi, scriptum",
       "pos": "Verb",
@@ -442,16 +469,17 @@
         "surface_form": "rescribere"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 22
+      "total_frequency": 1
     },
     {
       "rank": 1197,
       "book": 1,
       "book_rank": 1197,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 23,
       "lemma": "planities",
       "headword": "planities, ei, f.",
       "pos": "Noun",
@@ -462,16 +490,17 @@
         "surface_form": "Planities"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 23
+      "total_frequency": 10
     },
     {
       "rank": 1198,
       "book": 1,
       "book_rank": 1198,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 24,
       "lemma": "tumulus",
       "headword": "tumulus, i, m.",
       "pos": "Noun",
@@ -482,16 +511,17 @@
         "surface_form": "tumulus"
       },
       "book_frequency": 3,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 24
+      "total_frequency": 7
     },
     {
       "rank": 1199,
       "book": 1,
       "book_rank": 1199,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 25,
       "lemma": "terrenus",
       "headword": "terrenus, a, um",
       "pos": "Adjective",
@@ -502,16 +532,17 @@
         "surface_form": "terrenus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 25
+      "total_frequency": 1
     },
     {
       "rank": 1200,
       "book": 1,
       "book_rank": 1200,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 26,
       "lemma": "grandis",
       "headword": "grandis, e",
       "pos": "Adjective",
@@ -522,16 +553,17 @@
         "surface_form": "grandis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 26
+      "total_frequency": 4
     },
     {
       "rank": 1201,
       "book": 1,
       "book_rank": 1201,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 27,
       "lemma": "aequus",
       "headword": "aequus, a, um",
       "pos": "Adjective",
@@ -542,16 +574,17 @@
         "surface_form": "aequum"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 27
+      "total_frequency": 16
     },
     {
       "rank": 1202,
       "book": 1,
       "book_rank": 1202,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 28,
       "lemma": "deueho",
       "headword": "deueho",
       "pos": "Word",
@@ -562,16 +595,17 @@
         "surface_form": "devexerat"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 28
+      "total_frequency": 2
     },
     {
       "rank": 1203,
       "book": 1,
       "book_rank": 1203,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 29,
       "lemma": "deni",
       "headword": "deni, ae, a, pl.",
       "pos": "Word",
@@ -582,16 +616,17 @@
         "surface_form": "denos"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 29
+      "total_frequency": 2
     },
     {
       "rank": 1204,
       "book": 1,
       "book_rank": 1204,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 30,
       "lemma": "ventus",
       "headword": "ventus, i, m.",
       "pos": "Noun",
@@ -602,16 +637,17 @@
         "surface_form": "ventum"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 30
+      "total_frequency": 18
     },
     {
       "rank": 1205,
       "book": 1,
       "book_rank": 1205,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 31,
       "lemma": "munus",
       "headword": "munus, eris, n.",
       "pos": "Noun",
@@ -622,16 +658,17 @@
         "surface_form": "munera"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 31
+      "total_frequency": 4
     },
     {
       "rank": 1206,
       "book": 1,
       "book_rank": 1206,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 32,
       "lemma": "doceo",
       "headword": "doceo, es, ere, cui, ctum",
       "pos": "Verb",
@@ -642,16 +679,17 @@
         "surface_form": "docebat"
       },
       "book_frequency": 2,
-      "total_frequency": 26,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 32
+      "total_frequency": 26
     },
     {
       "rank": 1207,
       "book": 1,
       "book_rank": 1207,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 33,
       "lemma": "adeo",
       "headword": "adeo, is, ire, ii, itum",
       "pos": "Verb",
@@ -662,16 +700,17 @@
         "surface_form": "aditum"
       },
       "book_frequency": 1,
-      "total_frequency": 46,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 33
+      "total_frequency": 46
     },
     {
       "rank": 1208,
       "book": 1,
       "book_rank": 1208,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 34,
       "lemma": "justus",
       "headword": "justus, a, um",
       "pos": "Noun",
@@ -682,16 +721,17 @@
         "surface_form": "iustam"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 34
+      "total_frequency": 12
     },
     {
       "rank": 1209,
       "book": 1,
       "book_rank": 1209,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 35,
       "lemma": "praemium",
       "headword": "praemium, ii, n.",
       "pos": "Noun",
@@ -702,16 +742,17 @@
         "surface_form": "praemia"
       },
       "book_frequency": 3,
-      "total_frequency": 22,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 35
+      "total_frequency": 22
     },
     {
       "rank": 1210,
       "book": 1,
       "book_rank": 1210,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 36,
       "lemma": "necessitudo",
       "headword": "necessitudo, inis, f.",
       "pos": "Noun",
@@ -722,16 +763,17 @@
         "surface_form": "necessitudinis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 36
+      "total_frequency": 1
     },
     {
       "rank": 1211,
       "book": 1,
       "book_rank": 1211,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 37,
       "lemma": "consulo",
       "headword": "consulo, is, ere, sului, sultum",
       "pos": "Verb",
@@ -742,16 +784,17 @@
         "surface_form": "consulta"
       },
       "book_frequency": 2,
-      "total_frequency": 27,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 37
+      "total_frequency": 27
     },
     {
       "rank": 1212,
       "book": 1,
       "book_rank": 1212,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 38,
       "lemma": "quotiens",
       "headword": "quotiens, adv.",
       "pos": "Adverb",
@@ -762,16 +805,17 @@
         "surface_form": "quotiens"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 38
+      "total_frequency": 2
     },
     {
       "rank": 1213,
       "book": 1,
       "book_rank": 1213,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 39,
       "lemma": "honorificus",
       "headword": "honorificus, a, um",
       "pos": "Adjective",
@@ -782,16 +826,17 @@
         "surface_form": "honorifica"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 39
+      "total_frequency": 4
     },
     {
       "rank": 1214,
       "book": 1,
       "book_rank": 1214,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 40,
       "lemma": "deperdo",
       "headword": "deperdo, is, ere, didi, ditum",
       "pos": "Verb",
@@ -802,16 +847,17 @@
         "surface_form": "deperdere"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 40
+      "total_frequency": 3
     },
     {
       "rank": 1215,
       "book": 1,
       "book_rank": 1215,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 41,
       "lemma": "dignitas",
       "headword": "dignitas, atis, f.",
       "pos": "Noun",
@@ -822,16 +868,17 @@
         "surface_form": "dignitate"
       },
       "book_frequency": 1,
-      "total_frequency": 27,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 41
+      "total_frequency": 27
     },
     {
       "rank": 1216,
       "book": 1,
       "book_rank": 1216,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 42,
       "lemma": "auctus",
       "headword": "auctus, us, m.",
       "pos": "Noun",
@@ -842,16 +889,17 @@
         "surface_form": "auctiores"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 42
+      "total_frequency": 2
     },
     {
       "rank": 1217,
       "book": 1,
       "book_rank": 1217,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 43,
       "lemma": "adfero",
       "headword": "adfero, fers, ferre, adttuli att-, adlatum all-",
       "pos": "Verb",
@@ -862,16 +910,17 @@
         "surface_form": "attulissent"
       },
       "book_frequency": 2,
-      "total_frequency": 21,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 43
+      "total_frequency": 21
     },
     {
       "rank": 1218,
       "book": 1,
       "book_rank": 1218,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 44,
       "lemma": "remitto",
       "headword": "remitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -882,16 +931,17 @@
         "surface_form": "remittere"
       },
       "book_frequency": 2,
-      "total_frequency": 23,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 44
+      "total_frequency": 23
     },
     {
       "rank": 1219,
       "book": 1,
       "book_rank": 1219,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 45,
       "lemma": "at",
       "headword": "at, conj. coord.",
       "pos": "Conjunction",
@@ -902,16 +952,17 @@
         "surface_form": "at"
       },
       "book_frequency": 2,
-      "total_frequency": 38,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 45
+      "total_frequency": 38
     },
     {
       "rank": 1220,
       "book": 1,
       "book_rank": 1220,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 46,
       "lemma": "decerto",
       "headword": "decerto, as, are",
       "pos": "Verb",
@@ -922,16 +973,17 @@
         "surface_form": "decertare"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 46
+      "total_frequency": 7
     },
     {
       "rank": 1221,
       "book": 1,
       "book_rank": 1221,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 47,
       "lemma": "iniquus",
       "headword": "iniquus, a, um",
       "pos": "Adjective",
@@ -942,16 +994,17 @@
         "surface_form": "iniquum"
       },
       "book_frequency": 2,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 47
+      "total_frequency": 18
     },
     {
       "rank": 1222,
       "book": 1,
       "book_rank": 1222,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 48,
       "lemma": "ornamentum",
       "headword": "ornamentum, i, n.",
       "pos": "Noun",
@@ -962,16 +1015,17 @@
         "surface_form": "ornamento"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 48
+      "total_frequency": 2
     },
     {
       "rank": 1223,
       "book": 1,
       "book_rank": 1223,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 49,
       "lemma": "detrimentum",
       "headword": "detrimentum, i, n.",
       "pos": "Noun",
@@ -982,16 +1036,17 @@
         "surface_form": "detrimento"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 49
+      "total_frequency": 18
     },
     {
       "rank": 1224,
       "book": 1,
       "book_rank": 1224,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 50,
       "lemma": "subtraho",
       "headword": "subtraho, is, ere, traxi, tractum",
       "pos": "Verb",
@@ -1002,16 +1057,17 @@
         "surface_form": "subtrahantur"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 50
+      "total_frequency": 3
     },
     {
       "rank": 1225,
       "book": 1,
       "book_rank": 1225,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 51,
       "lemma": "libenter",
       "headword": "libenter, adv.",
       "pos": "Adverb",
@@ -1022,16 +1078,17 @@
         "surface_form": "libenter"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 51
+      "total_frequency": 10
     },
     {
       "rank": 1226,
       "book": 1,
       "book_rank": 1226,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 52,
       "lemma": "testimonium",
       "headword": "testimonium, i, n.",
       "pos": "Noun",
@@ -1042,16 +1099,17 @@
         "surface_form": "testimonium"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 52
+      "total_frequency": 8
     },
     {
       "rank": 1227,
       "book": 1,
       "book_rank": 1227,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 53,
       "lemma": "egressus",
       "headword": "egressus, us, m.",
       "pos": "Noun",
@@ -1062,16 +1120,17 @@
         "surface_form": "egressum"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 53
+      "total_frequency": 7
     },
     {
       "rank": 1228,
       "book": 1,
       "book_rank": 1228,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 54,
       "lemma": "sicut",
       "headword": "sicut, adv.",
       "pos": "Adverb",
@@ -1082,16 +1141,17 @@
         "surface_form": "sicut"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 54
+      "total_frequency": 5
     },
     {
       "rank": 1229,
       "book": 1,
       "book_rank": 1229,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 55,
       "lemma": "interpello",
       "headword": "interpello, as, are",
       "pos": "Verb",
@@ -1102,16 +1162,17 @@
         "surface_form": "interpellaremus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 55
+      "total_frequency": 1
     },
     {
       "rank": 1230,
       "book": 1,
       "book_rank": 1230,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 56,
       "lemma": "contentio",
       "headword": "contentio, onis, f.",
       "pos": "Noun",
@@ -1122,16 +1183,17 @@
         "surface_form": "contentionibus"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 56
+      "total_frequency": 11
     },
     {
       "rank": 1231,
       "book": 1,
       "book_rank": 1231,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 57,
       "lemma": "suspicor",
       "headword": "suspicor, aris, ari",
       "pos": "Verb",
@@ -1142,16 +1204,17 @@
         "surface_form": "suspicari"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 57
+      "total_frequency": 8
     },
     {
       "rank": 1232,
       "book": 1,
       "book_rank": 1232,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 58,
       "lemma": "simulo",
       "headword": "simulo, as, are",
       "pos": "Verb",
@@ -1162,16 +1225,17 @@
         "surface_form": "simulata"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 58
+      "total_frequency": 2
     },
     {
       "rank": 1233,
       "book": 1,
       "book_rank": 1233,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 59,
       "lemma": "opprimo",
       "headword": "opprimo, is, ere, pressi, pressum",
       "pos": "Verb",
@@ -1182,16 +1246,17 @@
         "surface_form": "opprimendi"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 59
+      "total_frequency": 18
     },
     {
       "rank": 1234,
       "book": 1,
       "book_rank": 1234,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 60,
       "lemma": "deduco",
       "headword": "deduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -1202,16 +1267,17 @@
         "surface_form": "deducat"
       },
       "book_frequency": 2,
-      "total_frequency": 42,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 60
+      "total_frequency": 42
     },
     {
       "rank": 1235,
       "book": 1,
       "book_rank": 1235,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 61,
       "lemma": "regio",
       "headword": "regio, onis, f.",
       "pos": "Noun",
@@ -1222,16 +1288,17 @@
         "surface_form": "regionibus"
       },
       "book_frequency": 1,
-      "total_frequency": 48,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 61
+      "total_frequency": 48
     },
     {
       "rank": 1236,
       "book": 1,
       "book_rank": 1236,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 62,
       "lemma": "gratus",
       "headword": "gratus, a, um",
       "pos": "Adjective",
@@ -1242,16 +1309,17 @@
         "surface_form": "gratum"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 62
+      "total_frequency": 2
     },
     {
       "rank": 1237,
       "book": 1,
       "book_rank": 1237,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 63,
       "lemma": "remuneror",
       "headword": "remuneror, aris, ari",
       "pos": "Verb",
@@ -1262,16 +1330,17 @@
         "surface_form": "remuneraturum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 63
+      "total_frequency": 1
     },
     {
       "rank": 1238,
       "book": 1,
       "book_rank": 1238,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 64,
       "lemma": "labor",
       "headword": "labor, eris, i, lapsus sum",
       "pos": "Noun",
@@ -1282,16 +1351,17 @@
         "surface_form": "labore"
       },
       "book_frequency": 1,
-      "total_frequency": 31,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 64
+      "total_frequency": 31
     },
     {
       "rank": 1239,
       "book": 1,
       "book_rank": 1239,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 65,
       "lemma": "sententia",
       "headword": "sententia, ae, f.",
       "pos": "Noun",
@@ -1302,16 +1372,17 @@
         "surface_form": "sententiam"
       },
       "book_frequency": 1,
-      "total_frequency": 26,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 65
+      "total_frequency": 26
     },
     {
       "rank": 1240,
       "book": 1,
       "book_rank": 1240,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 66,
       "lemma": "desero",
       "headword": "desero, is, ere, ui, desertum",
       "pos": "Verb",
@@ -1322,16 +1393,17 @@
         "surface_form": "desereret"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 66
+      "total_frequency": 11
     },
     {
       "rank": 1241,
       "book": 1,
       "book_rank": 1241,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 67,
       "lemma": "potius",
       "headword": "potius, adv.",
       "pos": "Adverb",
@@ -1342,16 +1414,17 @@
         "surface_form": "potius"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 67
+      "total_frequency": 10
     },
     {
       "rank": 1242,
       "book": 1,
       "book_rank": 1242,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 68,
       "lemma": "Ruteni",
       "headword": "Ruteni, orum, m.",
       "pos": "Noun",
@@ -1362,16 +1435,17 @@
         "surface_form": "Rutenos"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 68
+      "total_frequency": 7
     },
     {
       "rank": 1243,
       "book": 1,
       "book_rank": 1243,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 69,
       "lemma": "Q",
       "headword": "Q",
       "pos": "Noun",
@@ -1382,16 +1456,17 @@
         "surface_form": "Q"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 69
+      "total_frequency": 13
     },
     {
       "rank": 1244,
       "book": 1,
       "book_rank": 1244,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 70,
       "lemma": "Fabius",
       "headword": "Fabius, i, m.",
       "pos": "Noun",
@@ -1402,16 +1477,17 @@
         "surface_form": "Fabio"
       },
       "book_frequency": 1,
-      "total_frequency": 26,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 70
+      "total_frequency": 26
     },
     {
       "rank": 1245,
       "book": 1,
       "book_rank": 1245,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 71,
       "lemma": "Maximus",
       "headword": "Maximus, i, m.",
       "pos": "Noun",
@@ -1422,16 +1498,17 @@
         "surface_form": "Maximo"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 71
+      "total_frequency": 1
     },
     {
       "rank": 1246,
       "book": 1,
       "book_rank": 1246,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 72,
       "lemma": "ignosco",
       "headword": "ignosco, is, ere, noui, notum",
       "pos": "Verb",
@@ -1442,16 +1519,17 @@
         "surface_form": "ignovisset"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 72
+      "total_frequency": 4
     },
     {
       "rank": 1247,
       "book": 1,
       "book_rank": 1247,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 73,
       "lemma": "redigo",
       "headword": "redigo, is, ere, egi, actum",
       "pos": "Verb",
@@ -1462,16 +1540,17 @@
         "surface_form": "redegisset"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 73
+      "total_frequency": 12
     },
     {
       "rank": 1248,
       "book": 1,
       "book_rank": 1248,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 74,
       "lemma": "observo",
       "headword": "observo, as, are",
       "pos": "Verb",
@@ -1482,16 +1561,17 @@
         "surface_form": "observari"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 74
+      "total_frequency": 4
     },
     {
       "rank": 1249,
       "book": 1,
       "book_rank": 1249,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 75,
       "lemma": "adequito",
       "headword": "adequito, as, are",
       "pos": "Verb",
@@ -1502,16 +1582,17 @@
         "surface_form": "adequitare"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 75
+      "total_frequency": 1
     },
     {
       "rank": 1250,
       "book": 1,
       "book_rank": 1250,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 76,
       "lemma": "lapis",
       "headword": "lapis, idis, m.",
       "pos": "Noun",
@@ -1522,16 +1603,17 @@
         "surface_form": "lapides"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 76
+      "total_frequency": 8
     },
     {
       "rank": 1251,
       "book": 1,
       "book_rank": 1251,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 77,
       "lemma": "etsi",
       "headword": "etsi, conj. sub.",
       "pos": "Conjunction",
@@ -1542,16 +1624,17 @@
         "surface_form": "etsi"
       },
       "book_frequency": 1,
-      "total_frequency": 28,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 77
+      "total_frequency": 28
     },
     {
       "rank": 1252,
       "book": 1,
       "book_rank": 1252,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 78,
       "lemma": "ecfero",
       "headword": "ecfero, cf. effero",
       "pos": "Word",
@@ -1562,16 +1645,17 @@
         "surface_form": "elatum"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 78
+      "total_frequency": 5
     },
     {
       "rank": 1253,
       "book": 1,
       "book_rank": 1253,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 79,
       "lemma": "interdico",
       "headword": "interdico, is, ere, dixi, dictum",
       "pos": "Verb",
@@ -1582,16 +1666,17 @@
         "surface_form": "interdixisset"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 79
+      "total_frequency": 8
     },
     {
       "rank": 1254,
       "book": 1,
       "book_rank": 1254,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 80,
       "lemma": "dirimo",
       "headword": "dirimo, is, ere, emi, emptum",
       "pos": "Verb",
@@ -1602,16 +1687,17 @@
         "surface_form": "diremisset"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 80
+      "total_frequency": 1
     },
     {
       "rank": 1255,
       "book": 1,
       "book_rank": 1255,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 81,
       "lemma": "inicio",
       "headword": "inicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -1622,16 +1708,17 @@
         "surface_form": "iniectum"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 81
+      "total_frequency": 5
     },
     {
       "rank": 1256,
       "book": 1,
       "book_rank": 1256,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 82,
       "lemma": "fera",
       "headword": "fera, ae, f.",
       "pos": "Verb",
@@ -1642,16 +1729,17 @@
         "surface_form": "feris"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 82
+      "total_frequency": 4
     },
     {
       "rank": 1257,
       "book": 1,
       "book_rank": 1257,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 83,
       "lemma": "Commodus",
       "headword": "Commodus, a, um",
       "pos": "Adjective",
@@ -1662,16 +1750,17 @@
         "surface_form": "Commodissimum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 83
+      "total_frequency": 1
     },
     {
       "rank": 1258,
       "book": 1,
       "book_rank": 1258,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 84,
       "lemma": "Procillus",
       "headword": "Procillus, i, m.",
       "pos": "Noun",
@@ -1682,16 +1771,17 @@
         "surface_form": "Procillum"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 84
+      "total_frequency": 2
     },
     {
       "rank": 1259,
       "book": 1,
       "book_rank": 1259,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 85,
       "lemma": "Caburus",
       "headword": "Caburus, i, m.",
       "pos": "Noun",
@@ -1702,16 +1792,17 @@
         "surface_form": "Caburi"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 85
+      "total_frequency": 2
     },
     {
       "rank": 1260,
       "book": 1,
       "book_rank": 1260,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 86,
       "lemma": "adulescens",
       "headword": "adulescens, entis, m.",
       "pos": "Noun",
@@ -1722,16 +1813,17 @@
         "surface_form": "adulescentem"
       },
       "book_frequency": 2,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 86
+      "total_frequency": 18
     },
     {
       "rank": 1261,
       "book": 1,
       "book_rank": 1261,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 87,
       "lemma": "Flaccus",
       "headword": "Flaccus, i, m.",
       "pos": "Verb",
@@ -1742,16 +1834,17 @@
         "surface_form": "Flacco"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 87
+      "total_frequency": 1
     },
     {
       "rank": 1262,
       "book": 1,
       "book_rank": 1262,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 88,
       "lemma": "dono",
       "headword": "dono, as, are",
       "pos": "Verb",
@@ -1762,16 +1855,17 @@
         "surface_form": "donatus"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 88
+      "total_frequency": 2
     },
     {
       "rank": 1263,
       "book": 1,
       "book_rank": 1263,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 89,
       "lemma": "scientia",
       "headword": "scientia, ae, f.",
       "pos": "Noun",
@@ -1782,16 +1876,17 @@
         "surface_form": "scientiam"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 89
+      "total_frequency": 3
     },
     {
       "rank": 1264,
       "book": 1,
       "book_rank": 1264,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 90,
       "lemma": "longinquus",
       "headword": "longinquus, a, um",
       "pos": "Verb",
@@ -1802,16 +1897,17 @@
         "surface_form": "longinqua"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 90
+      "total_frequency": 5
     },
     {
       "rank": 1265,
       "book": 1,
       "book_rank": 1265,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 91,
       "lemma": "pecco",
       "headword": "pecco, as, are",
       "pos": "Verb",
@@ -1822,16 +1918,17 @@
         "surface_form": "peccandi"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 91
+      "total_frequency": 2
     },
     {
       "rank": 1266,
       "book": 1,
       "book_rank": 1266,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 92,
       "lemma": "Metius",
       "headword": "Metius, ii, m.",
       "pos": "Verb",
@@ -1842,16 +1939,17 @@
         "surface_form": "Metium"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 92
+      "total_frequency": 2
     },
     {
       "rank": 1267,
       "book": 1,
       "book_rank": 1267,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 93,
       "lemma": "conspicio",
       "headword": "conspicio, is, ere, spexi, spectum",
       "pos": "Verb",
@@ -1862,16 +1960,17 @@
         "surface_form": "conspexisset"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 93
+      "total_frequency": 18
     },
     {
       "rank": 1268,
       "book": 1,
       "book_rank": 1268,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 94,
       "lemma": "conclamo",
       "headword": "conclamo, as, are",
       "pos": "Verb",
@@ -1882,16 +1981,17 @@
         "surface_form": "conclamavit"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 94
+      "total_frequency": 10
     },
     {
       "rank": 1269,
       "book": 1,
       "book_rank": 1269,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 95,
       "lemma": "speculor",
       "headword": "speculor, aris, ari",
       "pos": "Noun",
@@ -1902,16 +2002,17 @@
         "surface_form": "speculandi"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 95
+      "total_frequency": 3
     },
     {
       "rank": 1270,
       "book": 1,
       "book_rank": 1270,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 96,
       "lemma": "catena",
       "headword": "catena, ae, f.",
       "pos": "Verb",
@@ -1922,16 +2023,17 @@
         "surface_form": "catenas"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 96
+      "total_frequency": 4
     },
     {
       "rank": 1271,
       "book": 1,
       "book_rank": 1271,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 97,
       "lemma": "conicio",
       "headword": "conicio, is, ere, jēci, jectum",
       "pos": "Verb",
@@ -1942,16 +2044,17 @@
         "surface_form": "coniecit"
       },
       "book_frequency": 2,
-      "total_frequency": 33,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 97
+      "total_frequency": 33
     },
     {
       "rank": 1272,
       "book": 1,
       "book_rank": 1272,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 98,
       "lemma": "promoueo",
       "headword": "promoueo",
       "pos": "Word",
@@ -1962,16 +2065,17 @@
         "surface_form": "promovit"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 98
+      "total_frequency": 4
     },
     {
       "rank": 1273,
       "book": 1,
       "book_rank": 1273,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 99,
       "lemma": "ultra",
       "headword": "ultra, adv.",
       "pos": "Adverb",
@@ -1982,16 +2086,17 @@
         "surface_form": "ultra"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 99
+      "total_frequency": 3
     },
     {
       "rank": 1274,
       "book": 1,
       "book_rank": 1274,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 100,
       "lemma": "continuus",
       "headword": "continuus, a, um",
       "pos": "Adjective",
@@ -2002,16 +2107,17 @@
         "surface_form": "continuos"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 100
+      "total_frequency": 7
     },
     {
       "rank": 1275,
       "book": 1,
       "book_rank": 1275,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 101,
       "lemma": "produco",
       "headword": "produco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -2022,16 +2128,17 @@
         "surface_form": "produxit"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 101
+      "total_frequency": 15
     },
     {
       "rank": 1276,
       "book": 1,
       "book_rank": 1276,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 102,
       "lemma": "genus",
       "headword": "genus, eris, n.",
       "pos": "Noun",
@@ -2042,16 +2149,17 @@
         "surface_form": "Genus"
       },
       "book_frequency": 1,
-      "total_frequency": 37,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 102
+      "total_frequency": 37
     },
     {
       "rank": 1277,
       "book": 1,
       "book_rank": 1277,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 103,
       "lemma": "exerceo",
       "headword": "exerceo, es, ere, cui, citum",
       "pos": "Verb",
@@ -2062,16 +2170,17 @@
         "surface_form": "exercuerant"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 103
+      "total_frequency": 5
     },
     {
       "rank": 1278,
       "book": 1,
       "book_rank": 1278,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 104,
       "lemma": "totidem",
       "headword": "totidem, adv.",
       "pos": "Adjective",
@@ -2082,16 +2191,17 @@
         "surface_form": "totidem"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 104
+      "total_frequency": 8
     },
     {
       "rank": 1279,
       "book": 1,
       "book_rank": 1279,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 105,
       "lemma": "velox",
       "headword": "velox, ocis",
       "pos": "Adjective",
@@ -2102,16 +2212,17 @@
         "surface_form": "velocissimi"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 105
+      "total_frequency": 2
     },
     {
       "rank": 1280,
       "book": 1,
       "book_rank": 1280,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 106,
       "lemma": "versor",
       "headword": "versor, aris, ari, atus sum",
       "pos": "Verb",
@@ -2122,16 +2233,17 @@
         "surface_form": "versabantur"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 106
+      "total_frequency": 11
     },
     {
       "rank": 1281,
       "book": 1,
       "book_rank": 1281,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 107,
       "lemma": "durus",
       "headword": "durus, a, um",
       "pos": "Verb",
@@ -2142,16 +2254,17 @@
         "surface_form": "durius"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 107
+      "total_frequency": 7
     },
     {
       "rank": 1282,
       "book": 1,
       "book_rank": 1282,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 108,
       "lemma": "decido",
       "headword": "decido, is, ere, cidi",
       "pos": "Verb",
@@ -2162,16 +2275,17 @@
         "surface_form": "deciderat"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 108
+      "total_frequency": 1
     },
     {
       "rank": 1283,
       "book": 1,
       "book_rank": 1283,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 109,
       "lemma": "circumsisto",
       "headword": "circumsisto, is, ere, steti",
       "pos": "Verb",
@@ -2182,16 +2296,17 @@
         "surface_form": "circumsistebant"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 109
+      "total_frequency": 8
     },
     {
       "rank": 1284,
       "book": 1,
       "book_rank": 1284,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 110,
       "lemma": "prodeo",
       "headword": "prodeo, is, ire, prodii, proditum",
       "pos": "Verb",
@@ -2202,16 +2317,17 @@
         "surface_form": "prodeundum"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 110
+      "total_frequency": 4
     },
     {
       "rank": 1285,
       "book": 1,
       "book_rank": 1285,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 111,
       "lemma": "celeritas",
       "headword": "celeritas, atis, f.",
       "pos": "Noun",
@@ -2222,16 +2338,17 @@
         "surface_form": "celeritas"
       },
       "book_frequency": 1,
-      "total_frequency": 34,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 111
+      "total_frequency": 34
     },
     {
       "rank": 1286,
       "book": 1,
       "book_rank": 1286,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 112,
       "lemma": "iuba",
       "headword": "iuba",
       "pos": "Word",
@@ -2242,16 +2359,17 @@
         "surface_form": "iubis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 112
+      "total_frequency": 1
     },
     {
       "rank": 1287,
       "book": 1,
       "book_rank": 1287,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 113,
       "lemma": "cursus",
       "headword": "cursus, us, m.",
       "pos": "Noun",
@@ -2262,16 +2380,17 @@
         "surface_form": "cursum"
       },
       "book_frequency": 1,
-      "total_frequency": 14,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 113
+      "total_frequency": 14
     },
     {
       "rank": 1288,
       "book": 1,
       "book_rank": 1288,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 114,
       "lemma": "adaequo",
       "headword": "adaequo, as, are",
       "pos": "Verb",
@@ -2282,16 +2401,17 @@
         "surface_form": "adaequarent"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 114
+      "total_frequency": 6
     },
     {
       "rank": 1289,
       "book": 1,
       "book_rank": 1289,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 115,
       "lemma": "idoneus",
       "headword": "idoneus, a, um",
       "pos": "Adjective",
@@ -2302,16 +2422,17 @@
         "surface_form": "idoneum"
       },
       "book_frequency": 1,
-      "total_frequency": 22,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 115
+      "total_frequency": 22
     },
     {
       "rank": 1290,
       "book": 1,
       "book_rank": 1290,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 116,
       "lemma": "expedio",
       "headword": "expedio, is, ire, i(u)i , itum",
       "pos": "Verb",
@@ -2322,16 +2443,17 @@
         "surface_form": "expedita"
       },
       "book_frequency": 1,
-      "total_frequency": 17,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 116
+      "total_frequency": 17
     },
     {
       "rank": 1291,
       "book": 1,
       "book_rank": 1291,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 117,
       "lemma": "terreo",
       "headword": "terreo, es, ere, ui, itum",
       "pos": "Verb",
@@ -2342,16 +2464,17 @@
         "surface_form": "terrerent"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 117
+      "total_frequency": 7
     },
     {
       "rank": 1292,
       "book": 1,
       "book_rank": 1292,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 118,
       "lemma": "setius",
       "headword": "setius, adv.",
       "pos": "Adverb",
@@ -2362,16 +2485,17 @@
         "surface_form": "setius"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 118
+      "total_frequency": 4
     },
     {
       "rank": 1293,
       "book": 1,
       "book_rank": 1293,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 119,
       "lemma": "propulso",
       "headword": "propulso, as, are",
       "pos": "Verb",
@@ -2382,16 +2506,17 @@
         "surface_form": "propulsare"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 119
+      "total_frequency": 2
     },
     {
       "rank": 1294,
       "book": 1,
       "book_rank": 1294,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 120,
       "lemma": "paulum",
       "headword": "paulum, adv.",
       "pos": "Adverb",
@@ -2402,16 +2527,17 @@
         "surface_form": "paulum"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 120
+      "total_frequency": 18
     },
     {
       "rank": 1295,
       "book": 1,
       "book_rank": 1295,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 121,
       "lemma": "progredior",
       "headword": "progredior, eris, i, gressus sum",
       "pos": "Verb",
@@ -2422,16 +2548,17 @@
         "surface_form": "progressus"
       },
       "book_frequency": 1,
-      "total_frequency": 30,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 121
+      "total_frequency": 30
     },
     {
       "rank": 1296,
       "book": 1,
       "book_rank": 1296,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 122,
       "lemma": "meridies",
       "headword": "meridies, ei, m.",
       "pos": "Noun",
@@ -2442,16 +2569,17 @@
         "surface_form": "meridiem"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 122
+      "total_frequency": 7
     },
     {
       "rank": 1297,
       "book": 1,
       "book_rank": 1297,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 123,
       "lemma": "utrimque",
       "headword": "utrimque, adv.",
       "pos": "Adverb",
@@ -2462,16 +2590,17 @@
         "surface_form": "utrimque"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 123
+      "total_frequency": 9
     },
     {
       "rank": 1298,
       "book": 1,
       "book_rank": 1298,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 124,
       "lemma": "usque",
       "headword": "usque, prep. (+ acc.)",
       "pos": "Adverb",
@@ -2482,16 +2611,17 @@
         "surface_form": "usque"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 124
+      "total_frequency": 12
     },
     {
       "rank": 1299,
       "book": 1,
       "book_rank": 1299,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 125,
       "lemma": "Soli",
       "headword": "Soli, orum, m.",
       "pos": "Noun",
@@ -2502,16 +2632,17 @@
         "surface_form": "Solis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 125
+      "total_frequency": 1
     },
     {
       "rank": 1300,
       "book": 1,
       "book_rank": 1300,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 126,
       "lemma": "sors",
       "headword": "sors, sortis, f.",
       "pos": "Noun",
@@ -2522,16 +2653,17 @@
         "surface_form": "sortibus"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 126
+      "total_frequency": 5
     },
     {
       "rank": 1301,
       "book": 1,
       "book_rank": 1301,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 127,
       "lemma": "vaticinatio",
       "headword": "vaticinatio, ionis, f.",
       "pos": "Noun",
@@ -2542,16 +2674,17 @@
         "surface_form": "vaticinationibus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 127
+      "total_frequency": 1
     },
     {
       "rank": 1302,
       "book": 1,
       "book_rank": 1302,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 128,
       "lemma": "declaro",
       "headword": "declaro, as, are",
       "pos": "Verb",
@@ -2562,16 +2695,17 @@
         "surface_form": "declararent"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 128
+      "total_frequency": 2
     },
     {
       "rank": 1303,
       "book": 1,
       "book_rank": 1303,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 129,
       "lemma": "fas",
       "headword": "fas, n. indécl.",
       "pos": "Noun",
@@ -2582,16 +2716,17 @@
         "surface_form": "fas"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 129
+      "total_frequency": 4
     },
     {
       "rank": 1304,
       "book": 1,
       "book_rank": 1304,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 130,
       "lemma": "luna",
       "headword": "luna, ae, f.",
       "pos": "Verb",
@@ -2602,16 +2737,17 @@
         "surface_form": "lunam"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 130
+      "total_frequency": 2
     },
     {
       "rank": 1305,
       "book": 1,
       "book_rank": 1305,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 131,
       "lemma": "alarius",
       "headword": "alarius, a, um",
       "pos": "Noun",
@@ -2622,16 +2758,17 @@
         "surface_form": "alarios"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 131
+      "total_frequency": 2
     },
     {
       "rank": 1306,
       "book": 1,
       "book_rank": 1306,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 132,
       "lemma": "species",
       "headword": "species, ei, f",
       "pos": "Noun",
@@ -2642,16 +2779,17 @@
         "surface_form": "speciem"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 132
+      "total_frequency": 13
     },
     {
       "rank": 1307,
       "book": 1,
       "book_rank": 1307,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 133,
       "lemma": "generatim",
       "headword": "generatim, adv.",
       "pos": "Adverb",
@@ -2662,16 +2800,17 @@
         "surface_form": "generatim"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 133
+      "total_frequency": 2
     },
     {
       "rank": 1308,
       "book": 1,
       "book_rank": 1308,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 134,
       "lemma": "Marcomani",
       "headword": "Marcomani, orum, m. pl.",
       "pos": "Noun",
@@ -2682,16 +2821,17 @@
         "surface_form": "Marcomanos"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 134
+      "total_frequency": 1
     },
     {
       "rank": 1309,
       "book": 1,
       "book_rank": 1309,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 135,
       "lemma": "Triboci",
       "headword": "Triboci, orum, m.",
       "pos": "Noun",
@@ -2702,16 +2842,17 @@
         "surface_form": "Tribocos"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 135
+      "total_frequency": 2
     },
     {
       "rank": 1310,
       "book": 1,
       "book_rank": 1310,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 136,
       "lemma": "Vangiones",
       "headword": "Vangiones, um, m.",
       "pos": "Noun",
@@ -2722,16 +2863,17 @@
         "surface_form": "Vangiones"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 136
+      "total_frequency": 1
     },
     {
       "rank": 1311,
       "book": 1,
       "book_rank": 1311,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 137,
       "lemma": "Nemetes",
       "headword": "Nemetes, um, m.",
       "pos": "Noun",
@@ -2742,16 +2884,17 @@
         "surface_form": "Nemetes"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 137
+      "total_frequency": 2
     },
     {
       "rank": 1312,
       "book": 1,
       "book_rank": 1312,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 138,
       "lemma": "Sedusii",
       "headword": "Sedusii, orum, m.",
       "pos": "Noun",
@@ -2762,16 +2905,17 @@
         "surface_form": "Sedusios"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 138
+      "total_frequency": 1
     },
     {
       "rank": 1313,
       "book": 1,
       "book_rank": 1313,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 139,
       "lemma": "raeda",
       "headword": "raeda, raeda (rēda), ae, f.",
       "pos": "Noun",
@@ -2782,16 +2926,17 @@
         "surface_form": "raedis"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 139
+      "total_frequency": 2
     },
     {
       "rank": 1314,
       "book": 1,
       "book_rank": 1314,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 140,
       "lemma": "quaestor",
       "headword": "quaestor, oris, m.",
       "pos": "Noun",
@@ -2802,16 +2947,17 @@
         "surface_form": "quaestorem"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 140
+      "total_frequency": 13
     },
     {
       "rank": 1315,
       "book": 1,
       "book_rank": 1315,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 141,
       "lemma": "dexter",
       "headword": "dexter, tra, trum",
       "pos": "Adjective",
@@ -2822,16 +2968,17 @@
         "surface_form": "dextro"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 141
+      "total_frequency": 8
     },
     {
       "rank": 1316,
       "book": 1,
       "book_rank": 1316,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 142,
       "lemma": "cornu",
       "headword": "cornu, us, n.",
       "pos": "Noun",
@@ -2842,16 +2989,17 @@
         "surface_form": "cornu"
       },
       "book_frequency": 3,
-      "total_frequency": 14,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 142
+      "total_frequency": 14
     },
     {
       "rank": 1317,
       "book": 1,
       "book_rank": 1317,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 143,
       "lemma": "repente",
       "headword": "repente, adv.",
       "pos": "Adverb",
@@ -2862,16 +3010,17 @@
         "surface_form": "repente"
       },
       "book_frequency": 1,
-      "total_frequency": 17,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 143
+      "total_frequency": 17
     },
     {
       "rank": 1318,
       "book": 1,
       "book_rank": 1318,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 144,
       "lemma": "procurro",
       "headword": "procurro, is, ere, curri (cucurri), cursum",
       "pos": "Verb",
@@ -2882,16 +3031,17 @@
         "surface_form": "procurrerunt"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 144
+      "total_frequency": 6
     },
     {
       "rank": 1319,
       "book": 1,
       "book_rank": 1319,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 145,
       "lemma": "comminus",
       "headword": "comminus, adv.",
       "pos": "Adverb",
@@ -2902,16 +3052,17 @@
         "surface_form": "comminus"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 145
+      "total_frequency": 4
     },
     {
       "rank": 1320,
       "book": 1,
       "book_rank": 1320,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 146,
       "lemma": "excipio",
       "headword": "excipio, is, ere, cepi, ceptum",
       "pos": "Verb",
@@ -2922,16 +3073,17 @@
         "surface_form": "exceperunt"
       },
       "book_frequency": 1,
-      "total_frequency": 17,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 146
+      "total_frequency": 17
     },
     {
       "rank": 1321,
       "book": 1,
       "book_rank": 1321,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 147,
       "lemma": "phalanga",
       "headword": "phalanga",
       "pos": "Noun",
@@ -2942,16 +3094,17 @@
         "surface_form": "phalanga"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 147
+      "total_frequency": 1
     },
     {
       "rank": 1322,
       "book": 1,
       "book_rank": 1322,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 148,
       "lemma": "insilio",
       "headword": "insilio, is, ire, silŭi, sultum",
       "pos": "Verb",
@@ -2962,16 +3115,17 @@
         "surface_form": "insilirent"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 148
+      "total_frequency": 1
     },
     {
       "rank": 1323,
       "book": 1,
       "book_rank": 1323,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 149,
       "lemma": "revello",
       "headword": "revello, is, ere, velli, vulsum",
       "pos": "Verb",
@@ -2982,16 +3136,17 @@
         "surface_form": "revellerent"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 149
+      "total_frequency": 2
     },
     {
       "rank": 1324,
       "book": 1,
       "book_rank": 1324,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 150,
       "lemma": "desuper",
       "headword": "desuper, adv.",
       "pos": "Adverb",
@@ -3002,16 +3157,17 @@
         "surface_form": "desuper"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 150
+      "total_frequency": 1
     },
     {
       "rank": 1325,
       "book": 1,
       "book_rank": 1325,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 151,
       "lemma": "premo",
       "headword": "premo, is, ere, pressi, pressum",
       "pos": "Verb",
@@ -3022,16 +3178,17 @@
         "surface_form": "premebant"
       },
       "book_frequency": 1,
-      "total_frequency": 25,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 151
+      "total_frequency": 25
     },
     {
       "rank": 1326,
       "book": 1,
       "book_rank": 1326,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 152,
       "lemma": "subsidium",
       "headword": "subsidium, ii, n.",
       "pos": "Noun",
@@ -3042,16 +3199,17 @@
         "surface_form": "subsidio"
       },
       "book_frequency": 1,
-      "total_frequency": 27,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 152
+      "total_frequency": 27
     },
     {
       "rank": 1327,
       "book": 1,
       "book_rank": 1327,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 153,
       "lemma": "tergum",
       "headword": "tergum, i, n.",
       "pos": "Noun",
@@ -3062,16 +3220,17 @@
         "surface_form": "terga"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 153
+      "total_frequency": 12
     },
     {
       "rank": 1328,
       "book": 1,
       "book_rank": 1328,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 154,
       "lemma": "verto",
       "headword": "verto, is, ere, uerti, uersum",
       "pos": "Verb",
@@ -3082,16 +3241,17 @@
         "surface_form": "verterunt"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 154
+      "total_frequency": 13
     },
     {
       "rank": 1329,
       "book": 1,
       "book_rank": 1329,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 155,
       "lemma": "fugio",
       "headword": "fugio, is, ere, fugi",
       "pos": "Verb",
@@ -3102,16 +3262,17 @@
         "surface_form": "fugere"
       },
       "book_frequency": 1,
-      "total_frequency": 20,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 155
+      "total_frequency": 20
     },
     {
       "rank": 1330,
       "book": 1,
       "book_rank": 1330,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 156,
       "lemma": "vis",
       "headword": "vis, -, f.",
       "pos": "Noun",
@@ -3122,16 +3283,17 @@
         "surface_form": "viribus"
       },
       "book_frequency": 1,
-      "total_frequency": 19,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 156
+      "total_frequency": 19
     },
     {
       "rank": 1331,
       "book": 1,
       "book_rank": 1331,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 157,
       "lemma": "trano",
       "headword": "trano, as, are",
       "pos": "Verb",
@@ -3142,16 +3304,17 @@
         "surface_form": "tranare"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 157
+      "total_frequency": 1
     },
     {
       "rank": 1332,
       "book": 1,
       "book_rank": 1332,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 158,
       "lemma": "invenio",
       "headword": "invenio, is, ire, ueni, uentum",
       "pos": "Verb",
@@ -3162,16 +3325,17 @@
         "surface_form": "inventis"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 158
+      "total_frequency": 10
     },
     {
       "rank": 1333,
       "book": 1,
       "book_rank": 1333,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 159,
       "lemma": "navicula",
       "headword": "navicula, ae, f.",
       "pos": "Noun",
@@ -3182,16 +3346,17 @@
         "surface_form": "naviculam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 159
+      "total_frequency": 1
     },
     {
       "rank": 1334,
       "book": 1,
       "book_rank": 1334,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 160,
       "lemma": "nanciscor",
       "headword": "nanciscor, eris, i, nactus sum",
       "pos": "Verb",
@@ -3202,16 +3367,17 @@
         "surface_form": "nactus"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 160
+      "total_frequency": 16
     },
     {
       "rank": 1335,
       "book": 1,
       "book_rank": 1335,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 161,
       "lemma": "Suebus",
       "headword": "Suebus, a, um",
       "pos": "Noun",
@@ -3222,16 +3388,17 @@
         "surface_form": "Sueba"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 161
+      "total_frequency": 1
     },
     {
       "rank": 1336,
       "book": 1,
       "book_rank": 1336,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 162,
       "lemma": "natio",
       "headword": "natio, onis, f.",
       "pos": "Noun",
@@ -3242,16 +3409,17 @@
         "surface_form": "natio"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 162
+      "total_frequency": 16
     },
     {
       "rank": 1337,
       "book": 1,
       "book_rank": 1337,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 163,
       "lemma": "Voccio",
       "headword": "Voccio",
       "pos": "Word",
@@ -3262,16 +3430,17 @@
         "surface_form": "Voccionis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 163
+      "total_frequency": 1
     },
     {
       "rank": 1338,
       "book": 1,
       "book_rank": 1338,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 164,
       "lemma": "pereo",
       "headword": "pereo, is, ire, ii, itum",
       "pos": "Verb",
@@ -3282,16 +3451,17 @@
         "surface_form": "periit"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 164
+      "total_frequency": 4
     },
     {
       "rank": 1339,
       "book": 1,
       "book_rank": 1339,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 165,
       "lemma": "trinus",
       "headword": "trinus, a, um",
       "pos": "Adjective",
@@ -3302,16 +3472,17 @@
         "surface_form": "trinis"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 165
+      "total_frequency": 6
     },
     {
       "rank": 1340,
       "book": 1,
       "book_rank": 1340,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 166,
       "lemma": "vincio",
       "headword": "vincio, is, ire, uinxi, uinctum",
       "pos": "Verb",
@@ -3322,16 +3493,17 @@
         "surface_form": "vinctus"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 166
+      "total_frequency": 2
     },
     {
       "rank": 1341,
       "book": 1,
       "book_rank": 1341,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 167,
       "lemma": "traho",
       "headword": "traho, is, ere, traxi, tractum",
       "pos": "Verb",
@@ -3342,16 +3514,17 @@
         "surface_form": "traheretur"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 167
+      "total_frequency": 2
     },
     {
       "rank": 1342,
       "book": 1,
       "book_rank": 1342,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 168,
       "lemma": "incido",
       "headword": "incido, is, ere, cidi (in + cado)",
       "pos": "Verb",
@@ -3362,16 +3535,17 @@
         "surface_form": "incidit"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 168
+      "total_frequency": 8
     },
     {
       "rank": 1343,
       "book": 1,
       "book_rank": 1343,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 169,
       "lemma": "voluptas",
       "headword": "voluptas, atis, f.",
       "pos": "Noun",
@@ -3382,16 +3556,17 @@
         "surface_form": "voluptatem"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 169
+      "total_frequency": 3
     },
     {
       "rank": 1344,
       "book": 1,
       "book_rank": 1344,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 170,
       "lemma": "honestus",
       "headword": "honestus, a, um",
       "pos": "Adjective",
@@ -3402,16 +3577,17 @@
         "surface_form": "honestissimum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 170
+      "total_frequency": 3
     },
     {
       "rank": 1345,
       "book": 1,
       "book_rank": 1345,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 171,
       "lemma": "hospes",
       "headword": "hospes, itis, m.",
       "pos": "Noun",
@@ -3422,16 +3598,17 @@
         "surface_form": "hospitem"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 171
+      "total_frequency": 3
     },
     {
       "rank": 1346,
       "book": 1,
       "book_rank": 1346,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 172,
       "lemma": "gratulatio",
       "headword": "gratulatio, onis n.f.",
       "pos": "Noun",
@@ -3442,16 +3619,17 @@
         "surface_form": "gratulatio"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 172
+      "total_frequency": 3
     },
     {
       "rank": 1347,
       "book": 1,
       "book_rank": 1347,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 173,
       "lemma": "ter",
       "headword": "ter, adv.",
       "pos": "Adverb",
@@ -3462,16 +3640,17 @@
         "surface_form": "ter"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 173
+      "total_frequency": 1
     },
     {
       "rank": 1348,
       "book": 1,
       "book_rank": 1348,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 174,
       "lemma": "statim",
       "headword": "statim, adv.",
       "pos": "Adverb",
@@ -3482,16 +3661,17 @@
         "surface_form": "statim"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 174
+      "total_frequency": 9
     },
     {
       "rank": 1349,
       "book": 1,
       "book_rank": 1349,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 175,
       "lemma": "neco",
       "headword": "neco, as, are",
       "pos": "Verb",
@@ -3502,16 +3682,17 @@
         "surface_form": "necaretur"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 175
+      "total_frequency": 6
     },
     {
       "rank": 1350,
       "book": 1,
       "book_rank": 1350,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 176,
       "lemma": "reservo",
       "headword": "reservo, as, are",
       "pos": "Verb",
@@ -3522,16 +3703,17 @@
         "surface_form": "reservaretur"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 176
+      "total_frequency": 4
     },
     {
       "rank": 1351,
       "book": 1,
       "book_rank": 1351,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 177,
       "lemma": "incolumis",
       "headword": "incolumis, e",
       "pos": "Adjective",
@@ -3542,16 +3724,17 @@
         "surface_form": "incolumem"
       },
       "book_frequency": 1,
-      "total_frequency": 19,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 177
+      "total_frequency": 19
     },
     {
       "rank": 1352,
       "book": 1,
       "book_rank": 1352,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 178,
       "lemma": "aestas",
       "headword": "aestas, tatis, f.",
       "pos": "Noun",
@@ -3562,16 +3745,17 @@
         "surface_form": "aestate"
       },
       "book_frequency": 1,
-      "total_frequency": 14,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 178
+      "total_frequency": 14
     },
     {
       "rank": 1353,
       "book": 1,
       "book_rank": 1353,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 179,
       "lemma": "paulo",
       "headword": "paulo, adv.",
       "pos": "Adverb",
@@ -3582,16 +3766,17 @@
         "surface_form": "paulo"
       },
       "book_frequency": 1,
-      "total_frequency": 34,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 179
+      "total_frequency": 34
     },
     {
       "rank": 1354,
       "book": 1,
       "book_rank": 1354,
       "stage": "Book 1 Chunk 6",
+      "stage_id": "1.6",
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 180,
       "lemma": "praepono",
       "headword": "praepono, is, ere, posui, positum",
       "pos": "Verb",
@@ -3602,10 +3787,7 @@
         "surface_form": "praeposuit"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 6,
-      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
-      "chunk_rank": 180
+      "total_frequency": 2
     }
   ]
 }

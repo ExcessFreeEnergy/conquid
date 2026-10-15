@@ -1,17 +1,23 @@
 {
   "book": 1,
+  "stage": "Book 1 Chunk 4",
+  "stage_id": "1.4",
   "chunk": 4,
   "title": "Battle of Bibracte & Helvetian Surrender",
   "chapters": "Chapters 20–29",
   "running_tokens": 1263,
   "new_word_count": 203,
-  "cumulative_book_1_words": 954,
+  "cumulative_words": 954,
   "words": [
     {
       "rank": 752,
       "book": 1,
       "book_rank": 752,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 1,
       "lemma": "lacrima",
       "headword": "lacrima, ae, f.",
       "pos": "Noun",
@@ -22,16 +28,17 @@
         "surface_form": "lacrimis"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 1
+      "total_frequency": 2
     },
     {
       "rank": 753,
       "book": 1,
       "book_rank": 753,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 2,
       "lemma": "complector",
       "headword": "complector, eris, i, complexus sum",
       "pos": "Verb",
@@ -42,16 +49,17 @@
         "surface_form": "complexus"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 2
+      "total_frequency": 3
     },
     {
       "rank": 754,
       "book": 1,
       "book_rank": 754,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 3,
       "lemma": "obsecro",
       "headword": "obsecro, as, are",
       "pos": "Verb",
@@ -62,16 +70,17 @@
         "surface_form": "obsecrare"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 3
+      "total_frequency": 3
     },
     {
       "rank": 755,
       "book": 1,
       "book_rank": 755,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 4,
       "lemma": "scio",
       "headword": "scio, is, ire, sciui, scitum",
       "pos": "Verb",
@@ -82,16 +91,17 @@
         "surface_form": "scire"
       },
       "book_frequency": 4,
-      "total_frequency": 27,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 4
+      "total_frequency": 27
     },
     {
       "rank": 756,
       "book": 1,
       "book_rank": 756,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 5,
       "lemma": "nec",
       "headword": "nec, adv.",
       "pos": "Verb",
@@ -102,16 +112,17 @@
         "surface_form": "nec"
       },
       "book_frequency": 3,
-      "total_frequency": 43,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 5
+      "total_frequency": 43
     },
     {
       "rank": 757,
       "book": 1,
       "book_rank": 757,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 6,
       "lemma": "quisquam",
       "headword": "quisquam, quaequam, quidquam ou quic-",
       "pos": "Word",
@@ -122,16 +133,17 @@
         "surface_form": "quemquam"
       },
       "book_frequency": 2,
-      "total_frequency": 32,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 6
+      "total_frequency": 32
     },
     {
       "rank": 758,
       "book": 1,
       "book_rank": 758,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 7,
       "lemma": "adulescentia",
       "headword": "adulescentia, ae, f.",
       "pos": "Noun",
@@ -142,16 +154,17 @@
         "surface_form": "adulescentiam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 7
+      "total_frequency": 1
     },
     {
       "rank": 759,
       "book": 1,
       "book_rank": 759,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 8,
       "lemma": "cerno",
       "headword": "cerno, is, ere, creui, cretum",
       "pos": "Verb",
@@ -162,16 +175,17 @@
         "surface_form": "crevisset"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 8
+      "total_frequency": 9
     },
     {
       "rank": 760,
       "book": 1,
       "book_rank": 760,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 9,
       "lemma": "ops",
       "headword": "ops, opis, f.",
       "pos": "Noun",
@@ -182,16 +196,17 @@
         "surface_form": "opibus"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 9
+      "total_frequency": 10
     },
     {
       "rank": 761,
       "book": 1,
       "book_rank": 761,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 10,
       "lemma": "nervus",
       "headword": "nervus, i, m.",
       "pos": "Noun",
@@ -202,16 +217,17 @@
         "surface_form": "nervis"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 10
+      "total_frequency": 2
     },
     {
       "rank": 762,
       "book": 1,
       "book_rank": 762,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 11,
       "lemma": "minuo",
       "headword": "minuo, is, ere, ui, utum",
       "pos": "Verb",
@@ -222,16 +238,17 @@
         "surface_form": "minuendam"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 11
+      "total_frequency": 11
     },
     {
       "rank": 763,
       "book": 1,
       "book_rank": 763,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 12,
       "lemma": "pernicies",
       "headword": "pernicies, iei, f.",
       "pos": "Noun",
@@ -242,16 +259,17 @@
         "surface_form": "perniciem"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 12
+      "total_frequency": 3
     },
     {
       "rank": 764,
       "book": 1,
       "book_rank": 764,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 13,
       "lemma": "amor",
       "headword": "amor, oris, m.",
       "pos": "Noun",
@@ -262,16 +280,17 @@
         "surface_form": "amore"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 13
+      "total_frequency": 4
     },
     {
       "rank": 765,
       "book": 1,
       "book_rank": 765,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 14,
       "lemma": "fraternus",
       "headword": "fraternus, a, um",
       "pos": "Adjective",
@@ -282,16 +301,17 @@
         "surface_form": "fraterno"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 14
+      "total_frequency": 2
     },
     {
       "rank": 766,
       "book": 1,
       "book_rank": 766,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 15,
       "lemma": "existimatio",
       "headword": "existimatio, ionis, f.",
       "pos": "Noun",
@@ -302,16 +322,17 @@
         "surface_form": "existimatio"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 15
+      "total_frequency": 2
     },
     {
       "rank": 767,
       "book": 1,
       "book_rank": 767,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 16,
       "lemma": "vulgus",
       "headword": "vulgus, i, n.",
       "pos": "Noun",
@@ -322,16 +343,17 @@
         "surface_form": "vulgi"
       },
       "book_frequency": 3,
-      "total_frequency": 10,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 16
+      "total_frequency": 10
     },
     {
       "rank": 768,
       "book": 1,
       "book_rank": 768,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 17,
       "lemma": "verbum",
       "headword": "verbum, i, n.",
       "pos": "Noun",
@@ -342,16 +364,17 @@
         "surface_form": "verbis"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 17
+      "total_frequency": 4
     },
     {
       "rank": 769,
       "book": 1,
       "book_rank": 769,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 18,
       "lemma": "fleo",
       "headword": "fleo, es, ere, fleui, fletum",
       "pos": "Verb",
@@ -362,16 +385,17 @@
         "surface_form": "flens"
       },
       "book_frequency": 5,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 18
+      "total_frequency": 8
     },
     {
       "rank": 770,
       "book": 1,
       "book_rank": 770,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 19,
       "lemma": "dextra",
       "headword": "dextra, ou dextera, ae, f.",
       "pos": "Noun",
@@ -382,16 +406,17 @@
         "surface_form": "dextram"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 19
+      "total_frequency": 6
     },
     {
       "rank": 771,
       "book": 1,
       "book_rank": 771,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 20,
       "lemma": "prendo",
       "headword": "prendo, is, ere, prendi, prensum",
       "pos": "Verb",
@@ -402,16 +427,17 @@
         "surface_form": "prendit"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 20
+      "total_frequency": 1
     },
     {
       "rank": 772,
       "book": 1,
       "book_rank": 772,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 21,
       "lemma": "consolor",
       "headword": "consolor, aris, ari",
       "pos": "Verb",
@@ -422,16 +448,17 @@
         "surface_form": "consolatus"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 21
+      "total_frequency": 5
     },
     {
       "rank": 773,
       "book": 1,
       "book_rank": 773,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 22,
       "lemma": "oro",
       "headword": "oro, as, are",
       "pos": "Verb",
@@ -442,16 +469,17 @@
         "surface_form": "orandi"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 22
+      "total_frequency": 15
     },
     {
       "rank": 774,
       "book": 1,
       "book_rank": 774,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 23,
       "lemma": "tantum",
       "headword": "tantum, adv.",
       "pos": "Adverb",
@@ -462,16 +490,17 @@
         "surface_form": "tanti"
       },
       "book_frequency": 7,
-      "total_frequency": 94,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 23
+      "total_frequency": 94
     },
     {
       "rank": 775,
       "book": 1,
       "book_rank": 775,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 24,
       "lemma": "condono",
       "headword": "condono, as, are",
       "pos": "Verb",
@@ -482,16 +511,17 @@
         "surface_form": "condonet"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 24
+      "total_frequency": 3
     },
     {
       "rank": 776,
       "book": 1,
       "book_rank": 776,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 25,
       "lemma": "adhibeo",
       "headword": "adhibeo, es, ere, ui, itum",
       "pos": "Verb",
@@ -502,16 +532,17 @@
         "surface_form": "adhibet"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 25
+      "total_frequency": 7
     },
     {
       "rank": 777,
       "book": 1,
       "book_rank": 777,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 26,
       "lemma": "reprehendo",
       "headword": "reprehendo, is, ere, di, sum",
       "pos": "Verb",
@@ -522,16 +553,17 @@
         "surface_form": "reprehendat"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 26
+      "total_frequency": 4
     },
     {
       "rank": 778,
       "book": 1,
       "book_rank": 778,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 27,
       "lemma": "moneo",
       "headword": "moneo, es, ere, ui, itum",
       "pos": "Verb",
@@ -542,16 +574,17 @@
         "surface_form": "monet"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 27
+      "total_frequency": 9
     },
     {
       "rank": 779,
       "book": 1,
       "book_rank": 779,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 28,
       "lemma": "uito",
       "headword": "uito",
       "pos": "Word",
@@ -562,16 +595,17 @@
         "surface_form": "vitet"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 28
+      "total_frequency": 9
     },
     {
       "rank": 780,
       "book": 1,
       "book_rank": 780,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 29,
       "lemma": "praeteritus",
       "headword": "praeteritus, a, um",
       "pos": "Noun",
@@ -582,16 +616,17 @@
         "surface_form": "praeterita"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 29
+      "total_frequency": 2
     },
     {
       "rank": 781,
       "book": 1,
       "book_rank": 781,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 30,
       "lemma": "custos",
       "headword": "custos, odis, m.",
       "pos": "Noun",
@@ -602,16 +637,17 @@
         "surface_form": "custodes"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 30
+      "total_frequency": 5
     },
     {
       "rank": 782,
       "book": 1,
       "book_rank": 782,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 31,
       "lemma": "loquor",
       "headword": "loquor, eris, i, locutus sum",
       "pos": "Verb",
@@ -622,16 +658,17 @@
         "surface_form": "loquatur"
       },
       "book_frequency": 4,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 31
+      "total_frequency": 8
     },
     {
       "rank": 783,
       "book": 1,
       "book_rank": 783,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 32,
       "lemma": "consido",
       "headword": "consido, is, ere, sedi, sessum",
       "pos": "Verb",
@@ -642,16 +679,17 @@
         "surface_form": "consedisse"
       },
       "book_frequency": 5,
-      "total_frequency": 25,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 32
+      "total_frequency": 25
     },
     {
       "rank": 784,
       "book": 1,
       "book_rank": 784,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 33,
       "lemma": "octo",
       "headword": "octo, num.",
       "pos": "Word",
@@ -662,16 +700,17 @@
         "surface_form": "octo"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 33
+      "total_frequency": 4
     },
     {
       "rank": 785,
       "book": 1,
       "book_rank": 785,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 34,
       "lemma": "qualis",
       "headword": "qualis, e",
       "pos": "Adjective",
@@ -682,16 +721,17 @@
         "surface_form": "qualis"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 34
+      "total_frequency": 3
     },
     {
       "rank": 786,
       "book": 1,
       "book_rank": 786,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 35,
       "lemma": "circumeo",
       "headword": "circumeo, is, ire, ii, itum",
       "pos": "Verb",
@@ -702,16 +742,17 @@
         "surface_form": "circuitu"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 35
+      "total_frequency": 11
     },
     {
       "rank": 787,
       "book": 1,
       "book_rank": 787,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 36,
       "lemma": "ascendo",
       "headword": "ascendo, is, ere, ascendi, ascensum",
       "pos": "Verb",
@@ -722,16 +763,17 @@
         "surface_form": "ascensus"
       },
       "book_frequency": 2,
-      "total_frequency": 20,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 36
+      "total_frequency": 20
     },
     {
       "rank": 788,
       "book": 1,
       "book_rank": 788,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 37,
       "lemma": "facilis",
       "headword": "facilis, e",
       "pos": "Adjective",
@@ -742,16 +784,17 @@
         "surface_form": "facilem"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 37
+      "total_frequency": 4
     },
     {
       "rank": 789,
       "book": 1,
       "book_rank": 789,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 38,
       "lemma": "praetor",
       "headword": "praetor, oris, m.",
       "pos": "Noun",
@@ -762,16 +805,17 @@
         "surface_form": "praetore"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 38
+      "total_frequency": 1
     },
     {
       "rank": 790,
       "book": 1,
       "book_rank": 790,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 39,
       "lemma": "Considius",
       "headword": "Considius, i, m.",
       "pos": "Noun",
@@ -782,16 +826,17 @@
         "surface_form": "Considius"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 39
+      "total_frequency": 3
     },
     {
       "rank": 791,
       "book": 1,
       "book_rank": 791,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 40,
       "lemma": "militaris",
       "headword": "militaris, e",
       "pos": "Noun",
@@ -802,16 +847,17 @@
         "surface_form": "militaris"
       },
       "book_frequency": 2,
-      "total_frequency": 18,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 40
+      "total_frequency": 18
     },
     {
       "rank": 792,
       "book": 1,
       "book_rank": 792,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 41,
       "lemma": "peritus",
       "headword": "peritus, a, um",
       "pos": "Adjective",
@@ -822,16 +868,17 @@
         "surface_form": "peritissimus"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 41
+      "total_frequency": 3
     },
     {
       "rank": 793,
       "book": 1,
       "book_rank": 793,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 42,
       "lemma": "Sulla",
       "headword": "Sulla, ae, m.",
       "pos": "Noun",
@@ -842,16 +889,17 @@
         "surface_form": "Sullae"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 42
+      "total_frequency": 1
     },
     {
       "rank": 794,
       "book": 1,
       "book_rank": 794,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 43,
       "lemma": "postea",
       "headword": "postea, adv.",
       "pos": "Adverb",
@@ -862,16 +910,17 @@
         "surface_form": "postea"
       },
       "book_frequency": 6,
-      "total_frequency": 18,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 43
+      "total_frequency": 18
     },
     {
       "rank": 795,
       "book": 1,
       "book_rank": 795,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 44,
       "lemma": "Crassus",
       "headword": "Crassus, a, um",
       "pos": "Adjective",
@@ -882,16 +931,17 @@
         "surface_form": "Crassi"
       },
       "book_frequency": 2,
-      "total_frequency": 30,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 44
+      "total_frequency": 30
     },
     {
       "rank": 796,
       "book": 1,
       "book_rank": 796,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 45,
       "lemma": "lux",
       "headword": "lux, lucis, f.",
       "pos": "Verb",
@@ -902,16 +952,17 @@
         "surface_form": "luce"
       },
       "book_frequency": 1,
-      "total_frequency": 20,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 45
+      "total_frequency": 20
     },
     {
       "rank": 797,
       "book": 1,
       "book_rank": 797,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 46,
       "lemma": "Lucius",
       "headword": "Lucius, i, m.",
       "pos": "Noun",
@@ -922,16 +973,17 @@
         "surface_form": "Lucio"
       },
       "book_frequency": 1,
-      "total_frequency": 17,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 46
+      "total_frequency": 17
     },
     {
       "rank": 798,
       "book": 1,
       "book_rank": 798,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 47,
       "lemma": "longus",
       "headword": "longus, a, um",
       "pos": "Adjective",
@@ -942,16 +994,17 @@
         "surface_form": "longius"
       },
       "book_frequency": 3,
-      "total_frequency": 65,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 47
+      "total_frequency": 65
     },
     {
       "rank": 799,
       "book": 1,
       "book_rank": 799,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 48,
       "lemma": "captivus",
       "headword": "captivus, a, um",
       "pos": "Adjective",
@@ -962,16 +1015,17 @@
         "surface_form": "captivis"
       },
       "book_frequency": 2,
-      "total_frequency": 25,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 48
+      "total_frequency": 25
     },
     {
       "rank": 800,
       "book": 1,
       "book_rank": 800,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 49,
       "lemma": "comperio",
       "headword": "comperio, is, ire, peri, pertum",
       "pos": "Verb",
@@ -982,16 +1036,17 @@
         "surface_form": "comperit"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 49
+      "total_frequency": 11
     },
     {
       "rank": 801,
       "book": 1,
       "book_rank": 801,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 50,
       "lemma": "equus",
       "headword": "equus, i, m.",
       "pos": "Noun",
@@ -1002,16 +1057,17 @@
         "surface_form": "equo"
       },
       "book_frequency": 8,
-      "total_frequency": 38,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 50
+      "total_frequency": 38
     },
     {
       "rank": 802,
       "book": 1,
       "book_rank": 802,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 51,
       "lemma": "admitto",
       "headword": "admitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -1022,16 +1078,17 @@
         "surface_form": "admisso"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 51
+      "total_frequency": 6
     },
     {
       "rank": 803,
       "book": 1,
       "book_rank": 803,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 52,
       "lemma": "accurro",
       "headword": "accurro, is, ere, curri, cursum",
       "pos": "Verb",
@@ -1042,16 +1099,17 @@
         "surface_form": "accurrit"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 52
+      "total_frequency": 2
     },
     {
       "rank": 804,
       "book": 1,
       "book_rank": 804,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 53,
       "lemma": "Gallicus",
       "headword": "Gallicus, a, um",
       "pos": "Adjective",
@@ -1062,16 +1120,17 @@
         "surface_form": "Gallicis"
       },
       "book_frequency": 3,
-      "total_frequency": 17,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 53
+      "total_frequency": 17
     },
     {
       "rank": 805,
       "book": 1,
       "book_rank": 805,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 54,
       "lemma": "collis",
       "headword": "collis, is, m.",
       "pos": "Noun",
@@ -1082,16 +1141,17 @@
         "surface_form": "collem"
       },
       "book_frequency": 3,
-      "total_frequency": 23,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 54
+      "total_frequency": 23
     },
     {
       "rank": 806,
       "book": 1,
       "book_rank": 806,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 55,
       "lemma": "subduco",
       "headword": "subduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -1102,16 +1162,17 @@
         "surface_form": "subducit"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 55
+      "total_frequency": 6
     },
     {
       "rank": 807,
       "book": 1,
       "book_rank": 807,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 56,
       "lemma": "acies",
       "headword": "acies, ei, f.",
       "pos": "Noun",
@@ -1122,16 +1183,17 @@
         "surface_form": "aciem"
       },
       "book_frequency": 18,
-      "total_frequency": 50,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 56
+      "total_frequency": 50
     },
     {
       "rank": 808,
       "book": 1,
       "book_rank": 808,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 57,
       "lemma": "instruo",
       "headword": "instruo, is, ere, struxi, structum",
       "pos": "Verb",
@@ -1142,16 +1204,17 @@
         "surface_form": "instruit"
       },
       "book_frequency": 6,
-      "total_frequency": 30,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 57
+      "total_frequency": 30
     },
     {
       "rank": 809,
       "book": 1,
       "book_rank": 809,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 58,
       "lemma": "praeceptum",
       "headword": "praeceptum, i, n.",
       "pos": "Noun",
@@ -1162,16 +1225,17 @@
         "surface_form": "praeceptum"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 58
+      "total_frequency": 7
     },
     {
       "rank": 810,
       "book": 1,
       "book_rank": 810,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 59,
       "lemma": "nisi",
       "headword": "nisi, conj. sub.",
       "pos": "Conjunction",
@@ -1182,16 +1246,17 @@
         "surface_form": "nisi"
       },
       "book_frequency": 4,
-      "total_frequency": 26,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 59
+      "total_frequency": 26
     },
     {
       "rank": 811,
       "book": 1,
       "book_rank": 811,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 60,
       "lemma": "prope",
       "headword": "prope, adv., prep. (+ acc.)",
       "pos": "Adverb",
@@ -1202,16 +1267,17 @@
         "surface_form": "prope"
       },
       "book_frequency": 1,
-      "total_frequency": 23,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 60
+      "total_frequency": 23
     },
     {
       "rank": 812,
       "book": 1,
       "book_rank": 812,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 61,
       "lemma": "uiso",
       "headword": "uiso",
       "pos": "Word",
@@ -1222,16 +1288,17 @@
         "surface_form": "visae"
       },
       "book_frequency": 5,
-      "total_frequency": 23,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 61
+      "total_frequency": 23
     },
     {
       "rank": 813,
       "book": 1,
       "book_rank": 813,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 62,
       "lemma": "impetus",
       "headword": "impetus, us, m.",
       "pos": "Noun",
@@ -1242,16 +1309,17 @@
         "surface_form": "impetus"
       },
       "book_frequency": 8,
-      "total_frequency": 54,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 62
+      "total_frequency": 54
     },
     {
       "rank": 814,
       "book": 1,
       "book_rank": 814,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 63,
       "lemma": "abstineo",
       "headword": "abstineo, es, ere, tinui, tentum",
       "pos": "Verb",
@@ -1262,16 +1330,17 @@
         "surface_form": "abstinebat"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 63
+      "total_frequency": 3
     },
     {
       "rank": 815,
       "book": 1,
       "book_rank": 815,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 64,
       "lemma": "denique",
       "headword": "denique, adv.",
       "pos": "Adverb",
@@ -1282,16 +1351,17 @@
         "surface_form": "denique"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 64
+      "total_frequency": 4
     },
     {
       "rank": 816,
       "book": 1,
       "book_rank": 816,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 65,
       "lemma": "timor",
       "headword": "timor, oris, m.",
       "pos": "Noun",
@@ -1302,16 +1372,17 @@
         "surface_form": "timore"
       },
       "book_frequency": 9,
-      "total_frequency": 50,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 65
+      "total_frequency": 50
     },
     {
       "rank": 817,
       "book": 1,
       "book_rank": 817,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 66,
       "lemma": "intervallum",
       "headword": "intervallum, i, n.",
       "pos": "Noun",
@@ -1322,16 +1393,17 @@
         "surface_form": "intervallo"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 66
+      "total_frequency": 11
     },
     {
       "rank": 818,
       "book": 1,
       "book_rank": 818,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 67,
       "lemma": "postridie",
       "headword": "postridie, adv.",
       "pos": "Adverb",
@@ -1342,16 +1414,17 @@
         "surface_form": "Postridie"
       },
       "book_frequency": 3,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 67
+      "total_frequency": 7
     },
     {
       "rank": 819,
       "book": 1,
       "book_rank": 819,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 68,
       "lemma": "biduum",
       "headword": "biduum, i, n.",
       "pos": "Noun",
@@ -1362,16 +1435,17 @@
         "surface_form": "biduum"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 68
+      "total_frequency": 8
     },
     {
       "rank": 820,
       "book": 1,
       "book_rank": 820,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 69,
       "lemma": "supersum",
       "headword": "supersum, es, esse, fui",
       "pos": "Verb",
@@ -1382,16 +1456,17 @@
         "surface_form": "supererat"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 69
+      "total_frequency": 7
     },
     {
       "rank": 821,
       "book": 1,
       "book_rank": 821,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 70,
       "lemma": "Bibrax",
       "headword": "Bibrax, actis, f.",
       "pos": "Noun",
@@ -1402,16 +1477,17 @@
         "surface_form": "Bibracte"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 70
+      "total_frequency": 9
     },
     {
       "rank": 822,
       "book": 1,
       "book_rank": 822,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 71,
       "lemma": "copiosus",
       "headword": "copiosus, a, um",
       "pos": "Adjective",
@@ -1422,16 +1498,17 @@
         "surface_form": "copiosissimo"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 71
+      "total_frequency": 2
     },
     {
       "rank": 823,
       "book": 1,
       "book_rank": 823,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 72,
       "lemma": "prospicio",
       "headword": "prospicio, is, ere, spexi, spectum",
       "pos": "Verb",
@@ -1442,16 +1519,17 @@
         "surface_form": "prospiciendum"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 72
+      "total_frequency": 6
     },
     {
       "rank": 824,
       "book": 1,
       "book_rank": 824,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 73,
       "lemma": "fugitiuus",
       "headword": "fugitiuus",
       "pos": "Word",
@@ -1462,16 +1540,17 @@
         "surface_form": "fugitivos"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 73
+      "total_frequency": 1
     },
     {
       "rank": 825,
       "book": 1,
       "book_rank": 825,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 74,
       "lemma": "Aemilius",
       "headword": "Aemilius, i, m.",
       "pos": "Noun",
@@ -1482,16 +1561,17 @@
         "surface_form": "Aemilii"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 74
+      "total_frequency": 1
     },
     {
       "rank": 826,
       "book": 1,
       "book_rank": 826,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 75,
       "lemma": "decurio",
       "headword": "decurio, onis, m.",
       "pos": "Noun",
@@ -1502,16 +1582,17 @@
         "surface_form": "decurionis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 75
+      "total_frequency": 1
     },
     {
       "rank": 827,
       "book": 1,
       "book_rank": 827,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 76,
       "lemma": "seu",
       "headword": "seu, conj. sub.",
       "pos": "Conjunction",
@@ -1522,16 +1603,17 @@
         "surface_form": "seu"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 76
+      "total_frequency": 9
     },
     {
       "rank": 828,
       "book": 1,
       "book_rank": 828,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 77,
       "lemma": "pridie",
       "headword": "pridie, adv.",
       "pos": "Adverb",
@@ -1542,16 +1624,17 @@
         "surface_form": "pridie"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 77
+      "total_frequency": 8
     },
     {
       "rank": 829,
       "book": 1,
       "book_rank": 829,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 78,
       "lemma": "intercludo",
       "headword": "intercludo, is, ere, clūsi, clūsum",
       "pos": "Verb",
@@ -1562,16 +1645,17 @@
         "surface_form": "intercludi"
       },
       "book_frequency": 2,
-      "total_frequency": 13,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 78
+      "total_frequency": 13
     },
     {
       "rank": 830,
       "book": 1,
       "book_rank": 830,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 79,
       "lemma": "confido",
       "headword": "confido, is, ere, confisus sum",
       "pos": "Verb",
@@ -1582,16 +1666,17 @@
         "surface_form": "confiderent"
       },
       "book_frequency": 4,
-      "total_frequency": 26,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 79
+      "total_frequency": 26
     },
     {
       "rank": 831,
       "book": 1,
       "book_rank": 831,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 80,
       "lemma": "commuto",
       "headword": "commuto, as, are",
       "pos": "Verb",
@@ -1602,16 +1687,17 @@
         "surface_form": "commutato"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 80
+      "total_frequency": 5
     },
     {
       "rank": 832,
       "book": 1,
       "book_rank": 832,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 81,
       "lemma": "converto",
       "headword": "converto, is, ere, uerti, uersum",
       "pos": "Verb",
@@ -1622,16 +1708,17 @@
         "surface_form": "converso"
       },
       "book_frequency": 3,
-      "total_frequency": 16,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 81
+      "total_frequency": 16
     },
     {
       "rank": 833,
       "book": 1,
       "book_rank": 833,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 82,
       "lemma": "postquam",
       "headword": "postquam, conj. sub.",
       "pos": "Conjunction",
@@ -1642,16 +1729,17 @@
         "surface_form": "Postquam"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 82
+      "total_frequency": 8
     },
     {
       "rank": 834,
       "book": 1,
       "book_rank": 834,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 83,
       "lemma": "adverto",
       "headword": "adverto, (aduorto) is, ere, uerti, uersum",
       "pos": "Verb",
@@ -1662,16 +1750,17 @@
         "surface_form": "advertit"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 83
+      "total_frequency": 3
     },
     {
       "rank": 835,
       "book": 1,
       "book_rank": 835,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 84,
       "lemma": "sustineo",
       "headword": "sustineo, es, ere, tinui, tentum",
       "pos": "Verb",
@@ -1682,16 +1771,17 @@
         "surface_form": "sustineret"
       },
       "book_frequency": 4,
-      "total_frequency": 45,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 84
+      "total_frequency": 45
     },
     {
       "rank": 836,
       "book": 1,
       "book_rank": 836,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 85,
       "lemma": "medius",
       "headword": "medius, a, um",
       "pos": "Adjective",
@@ -1702,16 +1792,17 @@
         "surface_form": "medio"
       },
       "book_frequency": 2,
-      "total_frequency": 31,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 85
+      "total_frequency": 31
     },
     {
       "rank": 837,
       "book": 1,
       "book_rank": 837,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 86,
       "lemma": "triplex",
       "headword": "triplex, icis",
       "pos": "Adjective",
@@ -1722,16 +1813,17 @@
         "surface_form": "triplicem"
       },
       "book_frequency": 3,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 86
+      "total_frequency": 4
     },
     {
       "rank": 838,
       "book": 1,
       "book_rank": 838,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 87,
       "lemma": "ueteranus",
       "headword": "ueteranus",
       "pos": "Word",
@@ -1742,16 +1834,17 @@
         "surface_form": "veteranarum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 87
+      "total_frequency": 1
     },
     {
       "rank": 839,
       "book": 1,
       "book_rank": 839,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 88,
       "lemma": "supra",
       "headword": "supra, adv.",
       "pos": "Adverb",
@@ -1762,16 +1855,17 @@
         "surface_form": "supra"
       },
       "book_frequency": 1,
-      "total_frequency": 27,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 88
+      "total_frequency": 27
     },
     {
       "rank": 840,
       "book": 1,
       "book_rank": 840,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 89,
       "lemma": "compleo",
       "headword": "compleo, es, ere, pleui, pletum",
       "pos": "Verb",
@@ -1782,16 +1876,17 @@
         "surface_form": "compleret"
       },
       "book_frequency": 1,
-      "total_frequency": 21,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 89
+      "total_frequency": 21
     },
     {
       "rank": 841,
       "book": 1,
       "book_rank": 841,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 90,
       "lemma": "impedimentum",
       "headword": "impedimentum, i, n.",
       "pos": "Noun",
@@ -1802,16 +1897,17 @@
         "surface_form": "impedimenta"
       },
       "book_frequency": 6,
-      "total_frequency": 59,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 90
+      "total_frequency": 59
     },
     {
       "rank": 842,
       "book": 1,
       "book_rank": 842,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 91,
       "lemma": "sarcina",
       "headword": "sarcina, ae, f.",
       "pos": "Noun",
@@ -1822,16 +1918,17 @@
         "surface_form": "sarcinas"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 91
+      "total_frequency": 5
     },
     {
       "rank": 843,
       "book": 1,
       "book_rank": 843,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 92,
       "lemma": "munio",
       "headword": "munio, is, ire, iui, itum",
       "pos": "Verb",
@@ -1842,16 +1939,17 @@
         "surface_form": "muniri"
       },
       "book_frequency": 5,
-      "total_frequency": 45,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 92
+      "total_frequency": 45
     },
     {
       "rank": 844,
       "book": 1,
       "book_rank": 844,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 93,
       "lemma": "jusso",
       "headword": "jusso, ere",
       "pos": "Verb",
@@ -1862,16 +1960,17 @@
         "surface_form": "iussit"
       },
       "book_frequency": 5,
-      "total_frequency": 30,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 93
+      "total_frequency": 30
     },
     {
       "rank": 845,
       "book": 1,
       "book_rank": 845,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 94,
       "lemma": "confertus",
       "headword": "confertus, a, um",
       "pos": "Adjective",
@@ -1882,16 +1981,17 @@
         "surface_form": "confertissima"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 94
+      "total_frequency": 9
     },
     {
       "rank": 846,
       "book": 1,
       "book_rank": 846,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 95,
       "lemma": "reicio",
       "headword": "reicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -1902,16 +2002,17 @@
         "surface_form": "reiecto"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 95
+      "total_frequency": 6
     },
     {
       "rank": 847,
       "book": 1,
       "book_rank": 847,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 96,
       "lemma": "phalanx",
       "headword": "phalanx, angis, f.",
       "pos": "Noun",
@@ -1922,16 +2023,17 @@
         "surface_form": "phalange"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 96
+      "total_frequency": 3
     },
     {
       "rank": 848,
       "book": 1,
       "book_rank": 848,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 97,
       "lemma": "succedo",
       "headword": "succedo, is, ere, cessi, cessum",
       "pos": "Verb",
@@ -1942,16 +2044,17 @@
         "surface_form": "successerunt"
       },
       "book_frequency": 2,
-      "total_frequency": 17,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 97
+      "total_frequency": 17
     },
     {
       "rank": 849,
       "book": 1,
       "book_rank": 849,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 98,
       "lemma": "deinde",
       "headword": "deinde, adv.",
       "pos": "Adverb",
@@ -1962,16 +2065,17 @@
         "surface_form": "deinde"
       },
       "book_frequency": 4,
-      "total_frequency": 13,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 98
+      "total_frequency": 13
     },
     {
       "rank": 850,
       "book": 1,
       "book_rank": 850,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 99,
       "lemma": "aequo",
       "headword": "aequo, as, are",
       "pos": "Verb",
@@ -1982,16 +2086,17 @@
         "surface_form": "aequato"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 99
+      "total_frequency": 3
     },
     {
       "rank": 851,
       "book": 1,
       "book_rank": 851,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 100,
       "lemma": "cohortor",
       "headword": "cohortor, aris, ari",
       "pos": "Noun",
@@ -2002,16 +2107,17 @@
         "surface_form": "cohortatus"
       },
       "book_frequency": 1,
-      "total_frequency": 22,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 100
+      "total_frequency": 22
     },
     {
       "rank": 852,
       "book": 1,
       "book_rank": 852,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 101,
       "lemma": "pilum",
       "headword": "pilum, i, n.",
       "pos": "Noun",
@@ -2022,16 +2128,17 @@
         "surface_form": "pilis"
       },
       "book_frequency": 4,
-      "total_frequency": 14,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 101
+      "total_frequency": 14
     },
     {
       "rank": 853,
       "book": 1,
       "book_rank": 853,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 102,
       "lemma": "perfringo",
       "headword": "perfringo, is, ere, fregi, fractum",
       "pos": "Verb",
@@ -2042,16 +2149,17 @@
         "surface_form": "perfregerunt"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 102
+      "total_frequency": 2
     },
     {
       "rank": 854,
       "book": 1,
       "book_rank": 854,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 103,
       "lemma": "disicio",
       "headword": "disicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -2062,16 +2170,17 @@
         "surface_form": "disiecta"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 103
+      "total_frequency": 5
     },
     {
       "rank": 855,
       "book": 1,
       "book_rank": 855,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 104,
       "lemma": "gladius",
       "headword": "gladius, i, m.",
       "pos": "Noun",
@@ -2082,16 +2191,17 @@
         "surface_form": "gladiis"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 104
+      "total_frequency": 12
     },
     {
       "rank": 856,
       "book": 1,
       "book_rank": 856,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 105,
       "lemma": "destringo",
       "headword": "destringo, is, ere, strinxi, strictum",
       "pos": "Verb",
@@ -2102,16 +2212,17 @@
         "surface_form": "destrictis"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 105
+      "total_frequency": 3
     },
     {
       "rank": 857,
       "book": 1,
       "book_rank": 857,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 106,
       "lemma": "pugna",
       "headword": "pugna, ae, f.",
       "pos": "Verb",
@@ -2122,16 +2233,17 @@
         "surface_form": "pugnam"
       },
       "book_frequency": 3,
-      "total_frequency": 35,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 106
+      "total_frequency": 35
     },
     {
       "rank": 858,
       "book": 1,
       "book_rank": 858,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 107,
       "lemma": "scutum",
       "headword": "scutum, i, n.",
       "pos": "Noun",
@@ -2142,16 +2254,17 @@
         "surface_form": "scutis"
       },
       "book_frequency": 3,
-      "total_frequency": 10,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 107
+      "total_frequency": 10
     },
     {
       "rank": 859,
       "book": 1,
       "book_rank": 859,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 108,
       "lemma": "ictus",
       "headword": "ictus, us, m.",
       "pos": "Noun",
@@ -2162,16 +2275,17 @@
         "surface_form": "ictu"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 108
+      "total_frequency": 3
     },
     {
       "rank": 860,
       "book": 1,
       "book_rank": 860,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 109,
       "lemma": "transfigo",
       "headword": "transfigo, is, ere, fixi, fixum",
       "pos": "Verb",
@@ -2182,16 +2296,17 @@
         "surface_form": "transfixis"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 109
+      "total_frequency": 3
     },
     {
       "rank": 861,
       "book": 1,
       "book_rank": 861,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 110,
       "lemma": "colligo",
       "headword": "colligo, is, ere, legi, lectum",
       "pos": "Verb",
@@ -2202,16 +2317,17 @@
         "surface_form": "conligatis"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 110
+      "total_frequency": 11
     },
     {
       "rank": 862,
       "book": 1,
       "book_rank": 862,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 111,
       "lemma": "ferrum",
       "headword": "ferrum, i, n.",
       "pos": "Noun",
@@ -2222,16 +2338,17 @@
         "surface_form": "ferrum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 111
+      "total_frequency": 3
     },
     {
       "rank": 863,
       "book": 1,
       "book_rank": 863,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 112,
       "lemma": "inflecto",
       "headword": "inflecto, is, ere, flexi, flexum",
       "pos": "Verb",
@@ -2242,16 +2359,17 @@
         "surface_form": "inflexisset"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 112
+      "total_frequency": 2
     },
     {
       "rank": 864,
       "book": 1,
       "book_rank": 864,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 113,
       "lemma": "evello",
       "headword": "evello, is, ere, uolsi (uulsi), uulsum",
       "pos": "Verb",
@@ -2262,16 +2380,17 @@
         "surface_form": "evellere"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 113
+      "total_frequency": 1
     },
     {
       "rank": 865,
       "book": 1,
       "book_rank": 865,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 114,
       "lemma": "sinister",
       "headword": "sinister, tra, trum",
       "pos": "Adjective",
@@ -2282,16 +2401,17 @@
         "surface_form": "sinistra"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 114
+      "total_frequency": 7
     },
     {
       "rank": 866,
       "book": 1,
       "book_rank": 866,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 115,
       "lemma": "commodus",
       "headword": "commodus, a, um",
       "pos": "Adjective",
@@ -2302,16 +2422,17 @@
         "surface_form": "commode"
       },
       "book_frequency": 3,
-      "total_frequency": 14,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 115
+      "total_frequency": 14
     },
     {
       "rank": 867,
       "book": 1,
       "book_rank": 867,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 116,
       "lemma": "pugno",
       "headword": "pugno, as, are",
       "pos": "Verb",
@@ -2322,16 +2443,17 @@
         "surface_form": "pugnare"
       },
       "book_frequency": 10,
-      "total_frequency": 59,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 116
+      "total_frequency": 59
     },
     {
       "rank": 868,
       "book": 1,
       "book_rank": 868,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 117,
       "lemma": "bracchium",
       "headword": "bracchium, ii, n.",
       "pos": "Noun",
@@ -2342,16 +2464,17 @@
         "surface_form": "bracchio"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 117
+      "total_frequency": 1
     },
     {
       "rank": 869,
       "book": 1,
       "book_rank": 869,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 118,
       "lemma": "praeopto",
       "headword": "praeopto, as, are",
       "pos": "Verb",
@@ -2362,16 +2485,17 @@
         "surface_form": "praeoptarent"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 118
+      "total_frequency": 1
     },
     {
       "rank": 870,
       "book": 1,
       "book_rank": 870,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 119,
       "lemma": "manus",
       "headword": "manus, us, f.",
       "pos": "Noun",
@@ -2382,16 +2506,17 @@
         "surface_form": "manu"
       },
       "book_frequency": 5,
-      "total_frequency": 56,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 119
+      "total_frequency": 56
     },
     {
       "rank": 871,
       "book": 1,
       "book_rank": 871,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 120,
       "lemma": "emitto",
       "headword": "emitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -2402,16 +2527,17 @@
         "surface_form": "emittere"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 120
+      "total_frequency": 7
     },
     {
       "rank": 872,
       "book": 1,
       "book_rank": 872,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 121,
       "lemma": "nudus",
       "headword": "nudus, a, um",
       "pos": "Verb",
@@ -2422,16 +2548,17 @@
         "surface_form": "nudo"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 121
+      "total_frequency": 3
     },
     {
       "rank": 873,
       "book": 1,
       "book_rank": 873,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 122,
       "lemma": "corpus",
       "headword": "corpus, oris, n.",
       "pos": "Noun",
@@ -2442,16 +2569,17 @@
         "surface_form": "corpore"
       },
       "book_frequency": 2,
-      "total_frequency": 14,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 122
+      "total_frequency": 14
     },
     {
       "rank": 874,
       "book": 1,
       "book_rank": 874,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 123,
       "lemma": "tandem",
       "headword": "tandem, adv.",
       "pos": "Adverb",
@@ -2462,16 +2590,17 @@
         "surface_form": "Tandem"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 123
+      "total_frequency": 6
     },
     {
       "rank": 875,
       "book": 1,
       "book_rank": 875,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 124,
       "lemma": "vulnus",
       "headword": "vulnus, ĕris, n.",
       "pos": "Noun",
@@ -2482,16 +2611,17 @@
         "surface_form": "vulneribus"
       },
       "book_frequency": 4,
-      "total_frequency": 25,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 124
+      "total_frequency": 25
     },
     {
       "rank": 876,
       "book": 1,
       "book_rank": 876,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 125,
       "lemma": "defessus",
       "headword": "defessus, a, um",
       "pos": "Adjective",
@@ -2502,16 +2632,17 @@
         "surface_form": "defessi"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 125
+      "total_frequency": 9
     },
     {
       "rank": 877,
       "book": 1,
       "book_rank": 877,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 126,
       "lemma": "refero",
       "headword": "refero, fers, ferre, tuli, latum",
       "pos": "Verb",
@@ -2522,16 +2653,17 @@
         "surface_form": "referre"
       },
       "book_frequency": 6,
-      "total_frequency": 22,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 126
+      "total_frequency": 22
     },
     {
       "rank": 878,
       "book": 1,
       "book_rank": 878,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 127,
       "lemma": "subsum",
       "headword": "subsum, es, esse, fui",
       "pos": "Verb",
@@ -2542,16 +2674,17 @@
         "surface_form": "suberit"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 127
+      "total_frequency": 4
     },
     {
       "rank": 879,
       "book": 1,
       "book_rank": 879,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 128,
       "lemma": "Boi",
       "headword": "Boi",
       "pos": "Noun",
@@ -2562,16 +2695,17 @@
         "surface_form": "Boi"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 128
+      "total_frequency": 1
     },
     {
       "rank": 880,
       "book": 1,
       "book_rank": 880,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 129,
       "lemma": "claudo",
       "headword": "claudo, (cludo) is, ere, clausi, clausum",
       "pos": "Verb",
@@ -2582,16 +2716,17 @@
         "surface_form": "claudebant"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 129
+      "total_frequency": 10
     },
     {
       "rank": 881,
       "book": 1,
       "book_rank": 881,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 130,
       "lemma": "aperio",
       "headword": "aperio, is, ire, ui, apertum",
       "pos": "Verb",
@@ -2602,16 +2737,17 @@
         "surface_form": "aperto"
       },
       "book_frequency": 2,
-      "total_frequency": 22,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 130
+      "total_frequency": 22
     },
     {
       "rank": 882,
       "book": 1,
       "book_rank": 882,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 131,
       "lemma": "circumvenio",
       "headword": "circumvenio, is, ire, ueni, uentum",
       "pos": "Verb",
@@ -2622,16 +2758,17 @@
         "surface_form": "circumvenire"
       },
       "book_frequency": 3,
-      "total_frequency": 28,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 131
+      "total_frequency": 28
     },
     {
       "rank": 883,
       "book": 1,
       "book_rank": 883,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 132,
       "lemma": "conspicor",
       "headword": "conspicor, aris, ari",
       "pos": "Verb",
@@ -2642,16 +2779,17 @@
         "surface_form": "conspicati"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 132
+      "total_frequency": 11
     },
     {
       "rank": 884,
       "book": 1,
       "book_rank": 884,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 133,
       "lemma": "rursus",
       "headword": "rursus, adv.",
       "pos": "Adverb",
@@ -2662,16 +2800,17 @@
         "surface_form": "rursus"
       },
       "book_frequency": 1,
-      "total_frequency": 27,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 133
+      "total_frequency": 27
     },
     {
       "rank": 885,
       "book": 1,
       "book_rank": 885,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 134,
       "lemma": "redintegro",
       "headword": "redintegro, as, are",
       "pos": "Verb",
@@ -2682,16 +2821,17 @@
         "surface_form": "redintegrare"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 134
+      "total_frequency": 7
     },
     {
       "rank": 886,
       "book": 1,
       "book_rank": 886,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 135,
       "lemma": "signum",
       "headword": "signum, i, n.",
       "pos": "Noun",
@@ -2702,16 +2842,17 @@
         "surface_form": "signa"
       },
       "book_frequency": 5,
-      "total_frequency": 49,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 135
+      "total_frequency": 49
     },
     {
       "rank": 887,
       "book": 1,
       "book_rank": 887,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 136,
       "lemma": "bipertito",
       "headword": "bipertito, adv.",
       "pos": "Adverb",
@@ -2722,16 +2863,17 @@
         "surface_form": "bipertito"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 136
+      "total_frequency": 2
     },
     {
       "rank": 888,
       "book": 1,
       "book_rank": 888,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 137,
       "lemma": "vinco",
       "headword": "vinco, is, ere, uici, uictum",
       "pos": "Verb",
@@ -2742,16 +2884,17 @@
         "surface_form": "victis"
       },
       "book_frequency": 11,
-      "total_frequency": 27,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 137
+      "total_frequency": 27
     },
     {
       "rank": 889,
       "book": 1,
       "book_rank": 889,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 138,
       "lemma": "submoveo",
       "headword": "submoveo, es, ere, moui, motum",
       "pos": "Verb",
@@ -2762,16 +2905,17 @@
         "surface_form": "submotis"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 138
+      "total_frequency": 6
     },
     {
       "rank": 890,
       "book": 1,
       "book_rank": 890,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 139,
       "lemma": "resisto",
       "headword": "resisto, is, ere, stiti",
       "pos": "Verb",
@@ -2782,16 +2926,17 @@
         "surface_form": "resisteret"
       },
       "book_frequency": 2,
-      "total_frequency": 31,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 139
+      "total_frequency": 31
     },
     {
       "rank": 891,
       "book": 1,
       "book_rank": 891,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 140,
       "lemma": "venio",
       "headword": "venio, is, ire, ueni, uentum",
       "pos": "Verb",
@@ -2802,16 +2947,17 @@
         "surface_form": "venientes"
       },
       "book_frequency": 14,
-      "total_frequency": 109,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 140
+      "total_frequency": 109
     },
     {
       "rank": 892,
       "book": 1,
       "book_rank": 892,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 141,
       "lemma": "anceps",
       "headword": "anceps, cipitis",
       "pos": "Adjective",
@@ -2822,16 +2968,17 @@
         "surface_form": "ancipiti"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 141
+      "total_frequency": 2
     },
     {
       "rank": 893,
       "book": 1,
       "book_rank": 893,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 142,
       "lemma": "acriter",
       "headword": "acriter, adv.",
       "pos": "Adverb",
@@ -2842,16 +2989,17 @@
         "surface_form": "acriter"
       },
       "book_frequency": 3,
-      "total_frequency": 15,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 142
+      "total_frequency": 15
     },
     {
       "rank": 894,
       "book": 1,
       "book_rank": 894,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 143,
       "lemma": "hora",
       "headword": "hora, ae, f.",
       "pos": "Noun",
@@ -2862,16 +3010,17 @@
         "surface_form": "hora"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 143
+      "total_frequency": 16
     },
     {
       "rank": 895,
       "book": 1,
       "book_rank": 895,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 144,
       "lemma": "vesper",
       "headword": "vesper, eri et eris, m.",
       "pos": "Noun",
@@ -2882,16 +3031,17 @@
         "surface_form": "vesperum"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 144
+      "total_frequency": 5
     },
     {
       "rank": 896,
       "book": 1,
       "book_rank": 896,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 145,
       "lemma": "nox",
       "headword": "nox, noctis, f.",
       "pos": "Noun",
@@ -2902,16 +3052,17 @@
         "surface_form": "noctem"
       },
       "book_frequency": 6,
-      "total_frequency": 50,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 145
+      "total_frequency": 50
     },
     {
       "rank": 897,
       "book": 1,
       "book_rank": 897,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 146,
       "lemma": "vallum",
       "headword": "vallum, i, n.",
       "pos": "Noun",
@@ -2922,16 +3073,17 @@
         "surface_form": "vallo"
       },
       "book_frequency": 1,
-      "total_frequency": 43,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 146
+      "total_frequency": 43
     },
     {
       "rank": 898,
       "book": 1,
       "book_rank": 898,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 147,
       "lemma": "obicio",
       "headword": "obicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -2942,16 +3094,17 @@
         "surface_form": "obiecerunt"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 147
+      "total_frequency": 6
     },
     {
       "rank": 899,
       "book": 1,
       "book_rank": 899,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 148,
       "lemma": "coicio",
       "headword": "coicio, is, ere",
       "pos": "Verb",
@@ -2962,16 +3115,17 @@
         "surface_form": "coiciebant"
       },
       "book_frequency": 4,
-      "total_frequency": 12,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 148
+      "total_frequency": 12
     },
     {
       "rank": 900,
       "book": 1,
       "book_rank": 900,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 149,
       "lemma": "rota",
       "headword": "rota, ae, f.",
       "pos": "Verb",
@@ -2982,16 +3136,17 @@
         "surface_form": "rotas"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 149
+      "total_frequency": 2
     },
     {
       "rank": 901,
       "book": 1,
       "book_rank": 901,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 150,
       "lemma": "matara",
       "headword": "matara, ae, f.",
       "pos": "Noun",
@@ -3002,16 +3157,17 @@
         "surface_form": "mataras"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 150
+      "total_frequency": 1
     },
     {
       "rank": 902,
       "book": 1,
       "book_rank": 902,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 151,
       "lemma": "tragula",
       "headword": "tragula, ae, f.",
       "pos": "Noun",
@@ -3022,16 +3178,17 @@
         "surface_form": "tragulas"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 151
+      "total_frequency": 4
     },
     {
       "rank": 903,
       "book": 1,
       "book_rank": 903,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 152,
       "lemma": "subicio",
       "headword": "subicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -3042,16 +3199,17 @@
         "surface_form": "subiciebant"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 152
+      "total_frequency": 7
     },
     {
       "rank": 904,
       "book": 1,
       "book_rank": 904,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 153,
       "lemma": "vulnero",
       "headword": "vulnero, as, are",
       "pos": "Verb",
@@ -3062,16 +3220,17 @@
         "surface_form": "vulnerabant"
       },
       "book_frequency": 2,
-      "total_frequency": 20,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 153
+      "total_frequency": 20
     },
     {
       "rank": 905,
       "book": 1,
       "book_rank": 905,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 154,
       "lemma": "intermitto",
       "headword": "intermitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -3082,16 +3241,17 @@
         "surface_form": "intermisso"
       },
       "book_frequency": 5,
-      "total_frequency": 37,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 154
+      "total_frequency": 37
     },
     {
       "rank": 906,
       "book": 1,
       "book_rank": 906,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 155,
       "lemma": "Lingo",
       "headword": "Lingo, is, ĕre, xī, ctum",
       "pos": "Verb",
@@ -3102,16 +3262,17 @@
         "surface_form": "Lingonum"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 155
+      "total_frequency": 8
     },
     {
       "rank": 907,
       "book": 1,
       "book_rank": 907,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 156,
       "lemma": "sepelio",
       "headword": "sepelio, is, ire, iui (ii), ultum",
       "pos": "Verb",
@@ -3122,16 +3283,17 @@
         "surface_form": "sepulturam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 156
+      "total_frequency": 1
     },
     {
       "rank": 908,
       "book": 1,
       "book_rank": 908,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 157,
       "lemma": "triduum",
       "headword": "triduum, i, n.",
       "pos": "Noun",
@@ -3142,16 +3304,17 @@
         "surface_form": "triduum"
       },
       "book_frequency": 4,
-      "total_frequency": 10,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 157
+      "total_frequency": 10
     },
     {
       "rank": 909,
       "book": 1,
       "book_rank": 909,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 158,
       "lemma": "moror",
       "headword": "moror, aris, ari",
       "pos": "Verb",
@@ -3162,16 +3325,17 @@
         "surface_form": "morati"
       },
       "book_frequency": 2,
-      "total_frequency": 29,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 158
+      "total_frequency": 29
     },
     {
       "rank": 910,
       "book": 1,
       "book_rank": 910,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 159,
       "lemma": "Lingones",
       "headword": "Lingones, um, m. pl.",
       "pos": "Noun",
@@ -3182,16 +3346,17 @@
         "surface_form": "Lingonas"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 159
+      "total_frequency": 1
     },
     {
       "rank": 911,
       "book": 1,
       "book_rank": 911,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 160,
       "lemma": "littera",
       "headword": "littera, ae, f.",
       "pos": "Noun",
@@ -3202,16 +3367,17 @@
         "surface_form": "litteras"
       },
       "book_frequency": 2,
-      "total_frequency": 28,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 160
+      "total_frequency": 28
     },
     {
       "rank": 912,
       "book": 1,
       "book_rank": 912,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 161,
       "lemma": "nuntius",
       "headword": "nuntius, ii, m.",
       "pos": "Verb",
@@ -3222,16 +3388,17 @@
         "surface_form": "nuntios"
       },
       "book_frequency": 2,
-      "total_frequency": 34,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 161
+      "total_frequency": 34
     },
     {
       "rank": 913,
       "book": 1,
       "book_rank": 913,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 162,
       "lemma": "iuuo",
       "headword": "iuuo",
       "pos": "Word",
@@ -3242,16 +3409,17 @@
         "surface_form": "iuvarent"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 162
+      "total_frequency": 5
     },
     {
       "rank": 914,
       "book": 1,
       "book_rank": 914,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 163,
       "lemma": "inopia",
       "headword": "inopia, ae, f.",
       "pos": "Noun",
@@ -3262,16 +3430,17 @@
         "surface_form": "inopia"
       },
       "book_frequency": 1,
-      "total_frequency": 25,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 163
+      "total_frequency": 25
     },
     {
       "rank": 915,
       "book": 1,
       "book_rank": 915,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 164,
       "lemma": "deditio",
       "headword": "deditio, onis, f.",
       "pos": "Noun",
@@ -3282,16 +3451,17 @@
         "surface_form": "deditio"
       },
       "book_frequency": 2,
-      "total_frequency": 21,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 164
+      "total_frequency": 21
     },
     {
       "rank": 916,
       "book": 1,
       "book_rank": 916,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 165,
       "lemma": "proicio",
       "headword": "proicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -3302,16 +3472,17 @@
         "surface_form": "proiecissent"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 165
+      "total_frequency": 11
     },
     {
       "rank": 917,
       "book": 1,
       "book_rank": 917,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 166,
       "lemma": "suppliciter",
       "headword": "suppliciter, adv.",
       "pos": "Adverb",
@@ -3322,16 +3493,17 @@
         "surface_form": "suppliciter"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 166
+      "total_frequency": 1
     },
     {
       "rank": 918,
       "book": 1,
       "book_rank": 918,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 167,
       "lemma": "pareo",
       "headword": "pareo, es, ere, ui, itum",
       "pos": "Verb",
@@ -3342,16 +3514,17 @@
         "surface_form": "paruerunt"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 167
+      "total_frequency": 13
     },
     {
       "rank": 919,
       "book": 1,
       "book_rank": 919,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 168,
       "lemma": "servos",
       "headword": "servos, cf. seruus",
       "pos": "Word",
@@ -3362,16 +3535,17 @@
         "surface_form": "servos"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 168
+      "total_frequency": 8
     },
     {
       "rank": 920,
       "book": 1,
       "book_rank": 920,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 169,
       "lemma": "perfugio",
       "headword": "perfugio, is, ere, fugi, -",
       "pos": "Verb",
@@ -3382,16 +3556,17 @@
         "surface_form": "perfugissent"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 169
+      "total_frequency": 2
     },
     {
       "rank": 921,
       "book": 1,
       "book_rank": 921,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 170,
       "lemma": "posco",
       "headword": "posco, is, ere, poposci",
       "pos": "Verb",
@@ -3402,16 +3577,17 @@
         "surface_form": "poposcit"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 170
+      "total_frequency": 5
     },
     {
       "rank": 922,
       "book": 1,
       "book_rank": 922,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 171,
       "lemma": "conquiro",
       "headword": "conquiro, is, ere, quisiui, quisitum",
       "pos": "Verb",
@@ -3422,16 +3598,17 @@
         "surface_form": "conquiruntur"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 171
+      "total_frequency": 7
     },
     {
       "rank": 923,
       "book": 1,
       "book_rank": 923,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 172,
       "lemma": "Verbigenus",
       "headword": "Verbigenus, us, m.",
       "pos": "Noun",
@@ -3442,16 +3619,17 @@
         "surface_form": "Verbigenus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 172
+      "total_frequency": 1
     },
     {
       "rank": 924,
       "book": 1,
       "book_rank": 924,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 173,
       "lemma": "trado",
       "headword": "trado, is, ere, didi, ditum",
       "pos": "Verb",
@@ -3462,16 +3640,17 @@
         "surface_form": "traditis"
       },
       "book_frequency": 4,
-      "total_frequency": 37,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 173
+      "total_frequency": 37
     },
     {
       "rank": 925,
       "book": 1,
       "book_rank": 925,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 174,
       "lemma": "salus",
       "headword": "salus, utis, f.",
       "pos": "Noun",
@@ -3482,16 +3661,17 @@
         "surface_form": "salutis"
       },
       "book_frequency": 5,
-      "total_frequency": 52,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 174
+      "total_frequency": 52
     },
     {
       "rank": 926,
       "book": 1,
       "book_rank": 926,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 175,
       "lemma": "dediticius",
       "headword": "dediticius, a, um",
       "pos": "Adjective",
@@ -3502,16 +3682,17 @@
         "surface_form": "dediticiorum"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 175
+      "total_frequency": 4
     },
     {
       "rank": 927,
       "book": 1,
       "book_rank": 927,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 176,
       "lemma": "occulto",
       "headword": "occulto, as, are",
       "pos": "Verb",
@@ -3522,16 +3703,17 @@
         "surface_form": "occultari"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 176
+      "total_frequency": 13
     },
     {
       "rank": 928,
       "book": 1,
       "book_rank": 928,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 177,
       "lemma": "ignoro",
       "headword": "ignoro, as, are",
       "pos": "Verb",
@@ -3542,16 +3724,17 @@
         "surface_form": "ignorari"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 177
+      "total_frequency": 8
     },
     {
       "rank": 929,
       "book": 1,
       "book_rank": 929,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 178,
       "lemma": "egredior",
       "headword": "egredior, eris, i, egressus sum",
       "pos": "Verb",
@@ -3562,16 +3745,17 @@
         "surface_form": "egressi"
       },
       "book_frequency": 1,
-      "total_frequency": 21,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 178
+      "total_frequency": 21
     },
     {
       "rank": 930,
       "book": 1,
       "book_rank": 930,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 179,
       "lemma": "rescio",
       "headword": "rescio, is, ire, ii-iui, itum",
       "pos": "Verb",
@@ -3582,16 +3766,17 @@
         "surface_form": "resciit"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 179
+      "total_frequency": 1
     },
     {
       "rank": 931,
       "book": 1,
       "book_rank": 931,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 180,
       "lemma": "reduco",
       "headword": "reduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -3602,16 +3787,17 @@
         "surface_form": "reducerent"
       },
       "book_frequency": 6,
-      "total_frequency": 28,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 180
+      "total_frequency": 28
     },
     {
       "rank": 932,
       "book": 1,
       "book_rank": 932,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 181,
       "lemma": "purgo",
       "headword": "purgo, as, are",
       "pos": "Verb",
@@ -3622,16 +3808,17 @@
         "surface_form": "purgati"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 181
+      "total_frequency": 4
     },
     {
       "rank": 933,
       "book": 1,
       "book_rank": 933,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 182,
       "lemma": "obses",
       "headword": "obses, idis, m.",
       "pos": "Noun",
@@ -3642,16 +3829,17 @@
         "surface_form": "obsidibus"
       },
       "book_frequency": 4,
-      "total_frequency": 28,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 182
+      "total_frequency": 28
     },
     {
       "rank": 934,
       "book": 1,
       "book_rank": 934,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 183,
       "lemma": "perfuga",
       "headword": "perfuga, ae, m.",
       "pos": "Verb",
@@ -3662,16 +3850,17 @@
         "surface_form": "perfugis"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 183
+      "total_frequency": 7
     },
     {
       "rank": 935,
       "book": 1,
       "book_rank": 935,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 184,
       "lemma": "unde",
       "headword": "unde, adv. interr. ou rel.",
       "pos": "Adverb",
@@ -3682,16 +3871,17 @@
         "surface_form": "unde"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 184
+      "total_frequency": 12
     },
     {
       "rank": 936,
       "book": 1,
       "book_rank": 936,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 185,
       "lemma": "frux",
       "headword": "frux, cf. fruges",
       "pos": "Noun",
@@ -3702,16 +3892,17 @@
         "surface_form": "frugibus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 185
+      "total_frequency": 1
     },
     {
       "rank": 937,
       "book": 1,
       "book_rank": 937,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 186,
       "lemma": "amitto",
       "headword": "amitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -3722,16 +3913,17 @@
         "surface_form": "amissis"
       },
       "book_frequency": 2,
-      "total_frequency": 24,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 186
+      "total_frequency": 24
     },
     {
       "rank": 938,
       "book": 1,
       "book_rank": 938,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 187,
       "lemma": "fames",
       "headword": "fames, is, f.",
       "pos": "Noun",
@@ -3742,16 +3934,17 @@
         "surface_form": "famem"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 187
+      "total_frequency": 7
     },
     {
       "rank": 939,
       "book": 1,
       "book_rank": 939,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 188,
       "lemma": "tolero",
       "headword": "tolero, as, are",
       "pos": "Verb",
@@ -3762,16 +3955,17 @@
         "surface_form": "tolerarent"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 188
+      "total_frequency": 5
     },
     {
       "rank": 940,
       "book": 1,
       "book_rank": 940,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 189,
       "lemma": "ratio",
       "headword": "ratio, ōnis, f.",
       "pos": "Noun",
@@ -3782,16 +3976,17 @@
         "surface_form": "ratio"
       },
       "book_frequency": 5,
-      "total_frequency": 48,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 189
+      "total_frequency": 48
     },
     {
       "rank": 941,
       "book": 1,
       "book_rank": 941,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 190,
       "lemma": "uaco",
       "headword": "uaco",
       "pos": "Word",
@@ -3802,16 +3997,17 @@
         "surface_form": "vacare"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 190
+      "total_frequency": 5
     },
     {
       "rank": 942,
       "book": 1,
       "book_rank": 942,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 191,
       "lemma": "bonitas",
       "headword": "bonitas, atis, f.",
       "pos": "Noun",
@@ -3822,16 +4018,17 @@
         "surface_form": "bonitatem"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 191
+      "total_frequency": 1
     },
     {
       "rank": 943,
       "book": 1,
       "book_rank": 943,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 192,
       "lemma": "par",
       "headword": "par, paris",
       "pos": "Verb",
@@ -3842,16 +4039,17 @@
         "surface_form": "parem"
       },
       "book_frequency": 4,
-      "total_frequency": 21,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 192
+      "total_frequency": 21
     },
     {
       "rank": 944,
       "book": 1,
       "book_rank": 944,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 193,
       "lemma": "condicio",
       "headword": "condicio, onis, f.",
       "pos": "Noun",
@@ -3862,16 +4060,17 @@
         "surface_form": "condicionem"
       },
       "book_frequency": 3,
-      "total_frequency": 24,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 193
+      "total_frequency": 24
     },
     {
       "rank": 945,
       "book": 1,
       "book_rank": 945,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 194,
       "lemma": "tabula",
       "headword": "tabula, ae, f.",
       "pos": "Noun",
@@ -3882,16 +4081,17 @@
         "surface_form": "tabulae"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 194
+      "total_frequency": 2
     },
     {
       "rank": 946,
       "book": 1,
       "book_rank": 946,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 195,
       "lemma": "Graeci",
       "headword": "Graeci, orum, m.",
       "pos": "Noun",
@@ -3902,16 +4102,17 @@
         "surface_form": "Graecis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 195
+      "total_frequency": 4
     },
     {
       "rank": 947,
       "book": 1,
       "book_rank": 947,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 196,
       "lemma": "nominatim",
       "headword": "nominatim, adv.",
       "pos": "Adverb",
@@ -3922,16 +4123,17 @@
         "surface_form": "nominatim"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 196
+      "total_frequency": 5
     },
     {
       "rank": 948,
       "book": 1,
       "book_rank": 948,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 197,
       "lemma": "quot",
       "headword": "quot, pron.",
       "pos": "Adjective",
@@ -3942,16 +4144,17 @@
         "surface_form": "quot"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 197
+      "total_frequency": 3
     },
     {
       "rank": 949,
       "book": 1,
       "book_rank": 949,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 198,
       "lemma": "puer",
       "headword": "puer, eri, m.",
       "pos": "Noun",
@@ -3962,16 +4165,17 @@
         "surface_form": "pueri"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 198
+      "total_frequency": 5
     },
     {
       "rank": 950,
       "book": 1,
       "book_rank": 950,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 199,
       "lemma": "mulier",
       "headword": "mulier, is, f.",
       "pos": "Noun",
@@ -3982,16 +4186,17 @@
         "surface_form": "mulieres"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 199
+      "total_frequency": 8
     },
     {
       "rank": 951,
       "book": 1,
       "book_rank": 951,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 200,
       "lemma": "caput",
       "headword": "caput, itis, n.",
       "pos": "Noun",
@@ -4002,16 +4207,17 @@
         "surface_form": "capitum"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 200
+      "total_frequency": 9
     },
     {
       "rank": 952,
       "book": 1,
       "book_rank": 952,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 201,
       "lemma": "nonaginta",
       "headword": "nonaginta, indecl.",
       "pos": "Word",
@@ -4022,16 +4228,17 @@
         "surface_form": "nonaginta"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 201
+      "total_frequency": 1
     },
     {
       "rank": 953,
       "book": 1,
       "book_rank": 953,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 202,
       "lemma": "redeo",
       "headword": "redeo, is, ire, ii, itum",
       "pos": "Verb",
@@ -4042,16 +4249,17 @@
         "surface_form": "redierunt"
       },
       "book_frequency": 1,
-      "total_frequency": 19,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 202
+      "total_frequency": 19
     },
     {
       "rank": 954,
       "book": 1,
       "book_rank": 954,
       "stage": "Book 1 Chunk 4",
+      "stage_id": "1.4",
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 203,
       "lemma": "censeo",
       "headword": "censeo, es, ere, censui, censum",
       "pos": "Verb",
@@ -4062,10 +4270,7 @@
         "surface_form": "censu"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 4,
-      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
-      "chunk_rank": 203
+      "total_frequency": 9
     }
   ]
 }

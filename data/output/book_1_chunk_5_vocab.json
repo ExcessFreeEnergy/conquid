@@ -1,17 +1,23 @@
 {
   "book": 1,
+  "stage": "Book 1 Chunk 5",
+  "stage_id": "1.5",
   "chunk": 5,
   "title": "The German Threat & Mutiny at Vesontio",
   "chapters": "Chapters 30–40",
   "running_tokens": 2119,
   "new_word_count": 220,
-  "cumulative_book_1_words": 1174,
+  "cumulative_words": 1174,
   "words": [
     {
       "rank": 955,
       "book": 1,
       "book_rank": 955,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 1,
       "lemma": "gratulor",
       "headword": "gratulor, aris, ari",
       "pos": "Verb",
@@ -22,16 +28,17 @@
         "surface_form": "gratulatum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 1
+      "total_frequency": 1
     },
     {
       "rank": 956,
       "book": 1,
       "book_rank": 956,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 2,
       "lemma": "tametsi",
       "headword": "tametsi, conj.",
       "pos": "Conjunction",
@@ -42,16 +49,17 @@
         "surface_form": "tametsi"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 2
+      "total_frequency": 6
     },
     {
       "rank": 957,
       "book": 1,
       "book_rank": 957,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 3,
       "lemma": "uetus",
       "headword": "uetus",
       "pos": "Word",
@@ -62,16 +70,17 @@
         "surface_form": "veteribus"
       },
       "book_frequency": 3,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 3
+      "total_frequency": 10
     },
     {
       "rank": 958,
       "book": 1,
       "book_rank": 958,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 4,
       "lemma": "repeto",
       "headword": "repeto, is, ere, iui/ii, titum",
       "pos": "Verb",
@@ -82,16 +91,17 @@
         "surface_form": "repetisset"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 4
+      "total_frequency": 3
     },
     {
       "rank": 959,
       "book": 1,
       "book_rank": 959,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 5,
       "lemma": "terra",
       "headword": "terra, ae, f.",
       "pos": "Noun",
@@ -102,16 +112,17 @@
         "surface_form": "terrae"
       },
       "book_frequency": 2,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 5
+      "total_frequency": 14
     },
     {
       "rank": 960,
       "book": 1,
       "book_rank": 960,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 6,
       "lemma": "florens",
       "headword": "florens, entis",
       "pos": "Adjective",
@@ -122,16 +133,17 @@
         "surface_form": "florentissimis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 6
+      "total_frequency": 1
     },
     {
       "rank": 961,
       "book": 1,
       "book_rank": 961,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 7,
       "lemma": "domicilium",
       "headword": "domicilium, i, n.",
       "pos": "Noun",
@@ -142,16 +154,17 @@
         "surface_form": "domicilio"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 7
+      "total_frequency": 4
     },
     {
       "rank": 962,
       "book": 1,
       "book_rank": 962,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 8,
       "lemma": "oportunus",
       "headword": "oportunus, a, um",
       "pos": "Adjective",
@@ -162,16 +175,17 @@
         "surface_form": "oportunissimum"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 8
+      "total_frequency": 5
     },
     {
       "rank": 963,
       "book": 1,
       "book_rank": 963,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 9,
       "lemma": "fructuosus",
       "headword": "fructuosus, a, um",
       "pos": "Adjective",
@@ -182,16 +196,17 @@
         "surface_form": "fructuosissimum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 9
+      "total_frequency": 1
     },
     {
       "rank": 964,
       "book": 1,
       "book_rank": 964,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 10,
       "lemma": "stipendiarius",
       "headword": "stipendiarius, a, um",
       "pos": "Adjective",
@@ -202,16 +217,17 @@
         "surface_form": "stipendiarias"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 10
+      "total_frequency": 1
     },
     {
       "rank": 965,
       "book": 1,
       "book_rank": 965,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 11,
       "lemma": "indico",
       "headword": "indico, is, ere, dixi, dictum",
       "pos": "Verb",
@@ -222,16 +238,17 @@
         "surface_form": "indicere"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 11
+      "total_frequency": 8
     },
     {
       "rank": 966,
       "book": 1,
       "book_rank": 966,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 12,
       "lemma": "quidam",
       "headword": "quidam, quaedam, quoddam/quiddam",
       "pos": "Word",
@@ -242,16 +259,17 @@
         "surface_form": "quasdam"
       },
       "book_frequency": 2,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 12
+      "total_frequency": 21
     },
     {
       "rank": 967,
       "book": 1,
       "book_rank": 967,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 13,
       "lemma": "communis",
       "headword": "communis, e",
       "pos": "Noun",
@@ -262,16 +280,17 @@
         "surface_form": "communi"
       },
       "book_frequency": 4,
-      "total_frequency": 30,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 13
+      "total_frequency": 30
     },
     {
       "rank": 968,
       "book": 1,
       "book_rank": 968,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 14,
       "lemma": "consensus",
       "headword": "consensus, us, m.",
       "pos": "Noun",
@@ -282,16 +301,17 @@
         "surface_form": "consensu"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 14
+      "total_frequency": 9
     },
     {
       "rank": 969,
       "book": 1,
       "book_rank": 969,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 15,
       "lemma": "permitto",
       "headword": "permitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -302,16 +322,17 @@
         "surface_form": "permissa"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 15
+      "total_frequency": 12
     },
     {
       "rank": 970,
       "book": 1,
       "book_rank": 970,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 16,
       "lemma": "sancio",
       "headword": "sancio, is, ire, sanxi, sanctum",
       "pos": "Verb",
@@ -322,16 +343,17 @@
         "surface_form": "sanxerunt"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 16
+      "total_frequency": 2
     },
     {
       "rank": 971,
       "book": 1,
       "book_rank": 971,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 17,
       "lemma": "occultus",
       "headword": "occultus, a, um",
       "pos": "Noun",
@@ -342,16 +364,17 @@
         "surface_form": "occulto"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 17
+      "total_frequency": 11
     },
     {
       "rank": 972,
       "book": 1,
       "book_rank": 972,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 18,
       "lemma": "laboro",
       "headword": "laboro, as, are",
       "pos": "Verb",
@@ -362,16 +385,17 @@
         "surface_form": "laborare"
       },
       "book_frequency": 2,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 18
+      "total_frequency": 21
     },
     {
       "rank": 973,
       "book": 1,
       "book_rank": 973,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 19,
       "lemma": "cruciatus",
       "headword": "cruciatus, us, m.",
       "pos": "Noun",
@@ -382,16 +406,17 @@
         "surface_form": "cruciatum"
       },
       "book_frequency": 3,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 19
+      "total_frequency": 9
     },
     {
       "rank": 974,
       "book": 1,
       "book_rank": 974,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 20,
       "lemma": "factio",
       "headword": "factio, onis, f.",
       "pos": "Noun",
@@ -402,16 +427,17 @@
         "surface_form": "factiones"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 20
+      "total_frequency": 9
     },
     {
       "rank": 975,
       "book": 1,
       "book_rank": 975,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 21,
       "lemma": "Arverni",
       "headword": "Arverni, orum, m.",
       "pos": "Noun",
@@ -422,16 +448,17 @@
         "surface_form": "Arvernos"
       },
       "book_frequency": 3,
-      "total_frequency": 27,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 21
+      "total_frequency": 27
     },
     {
       "rank": 976,
       "book": 1,
       "book_rank": 976,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 22,
       "lemma": "tantopere",
       "headword": "tantopere, adv.",
       "pos": "Adverb",
@@ -442,16 +469,17 @@
         "surface_form": "tantopere"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 22
+      "total_frequency": 1
     },
     {
       "rank": 977,
       "book": 1,
       "book_rank": 977,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 23,
       "lemma": "potentatus",
       "headword": "potentatus, us, m.",
       "pos": "Noun",
@@ -462,16 +490,17 @@
         "surface_form": "potentatu"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 23
+      "total_frequency": 1
     },
     {
       "rank": 978,
       "book": 1,
       "book_rank": 978,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 24,
       "lemma": "merces",
       "headword": "merces, edis, f.",
       "pos": "Noun",
@@ -482,16 +511,17 @@
         "surface_form": "mercede"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 24
+      "total_frequency": 1
     },
     {
       "rank": 979,
       "book": 1,
       "book_rank": 979,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 25,
       "lemma": "arcesso",
       "headword": "arcesso, is, ere, iui, itum",
       "pos": "Verb",
@@ -502,16 +532,17 @@
         "surface_form": "arcesserentur"
       },
       "book_frequency": 2,
-      "total_frequency": 16,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 25
+      "total_frequency": 16
     },
     {
       "rank": 980,
       "book": 1,
       "book_rank": 980,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 26,
       "lemma": "ferio",
       "headword": "ferio, is, ire",
       "pos": "Verb",
@@ -522,16 +553,17 @@
         "surface_form": "feri"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 26
+      "total_frequency": 3
     },
     {
       "rank": 981,
       "book": 1,
       "book_rank": 981,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 27,
       "lemma": "barbarus",
       "headword": "barbarus, a, um",
       "pos": "Adjective",
@@ -542,16 +574,17 @@
         "surface_form": "barbari"
       },
       "book_frequency": 5,
-      "total_frequency": 42,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 27
+      "total_frequency": 42
     },
     {
       "rank": 982,
       "book": 1,
       "book_rank": 982,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 28,
       "lemma": "adamo",
       "headword": "adamo, as, are",
       "pos": "Verb",
@@ -562,16 +595,17 @@
         "surface_form": "adamassent"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 28
+      "total_frequency": 1
     },
     {
       "rank": 983,
       "book": 1,
       "book_rank": 983,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 29,
       "lemma": "nunc",
       "headword": "nunc, adv.",
       "pos": "Adverb",
@@ -582,16 +616,17 @@
         "surface_form": "nunc"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 29
+      "total_frequency": 8
     },
     {
       "rank": 984,
       "book": 1,
       "book_rank": 984,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 30,
       "lemma": "semel",
       "headword": "semel, adv.",
       "pos": "Adverb",
@@ -602,16 +637,17 @@
         "surface_form": "semel"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 30
+      "total_frequency": 2
     },
     {
       "rank": 985,
       "book": 1,
       "book_rank": 985,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 31,
       "lemma": "iterum",
       "headword": "iterum, adv.",
       "pos": "Adverb",
@@ -622,16 +658,17 @@
         "surface_form": "iterum"
       },
       "book_frequency": 5,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 31
+      "total_frequency": 5
     },
     {
       "rank": 986,
       "book": 1,
       "book_rank": 986,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 32,
       "lemma": "frango",
       "headword": "frango, is, ere, fregi, fractum",
       "pos": "Verb",
@@ -642,16 +679,17 @@
         "surface_form": "fractos"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 32
+      "total_frequency": 5
     },
     {
       "rank": 987,
       "book": 1,
       "book_rank": 987,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 33,
       "lemma": "hospitium",
       "headword": "hospitium, i, n.",
       "pos": "Noun",
@@ -662,16 +700,17 @@
         "surface_form": "hospitio"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 33
+      "total_frequency": 6
     },
     {
       "rank": 988,
       "book": 1,
       "book_rank": 988,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 34,
       "lemma": "imploro",
       "headword": "imploro, as, are",
       "pos": "Verb",
@@ -682,16 +721,17 @@
         "surface_form": "imploraturos"
       },
       "book_frequency": 3,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 34
+      "total_frequency": 4
     },
     {
       "rank": 989,
       "book": 1,
       "book_rank": 989,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 35,
       "lemma": "recuso",
       "headword": "recuso, as, are",
       "pos": "Verb",
@@ -702,16 +742,17 @@
         "surface_form": "recusaturos"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 35
+      "total_frequency": 11
     },
     {
       "rank": 990,
       "book": 1,
       "book_rank": 990,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 36,
       "lemma": "perpetuus",
       "headword": "perpetuus, a, um",
       "pos": "Adjective",
@@ -722,16 +763,17 @@
         "surface_form": "perpetuo"
       },
       "book_frequency": 3,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 36
+      "total_frequency": 21
     },
     {
       "rank": 991,
       "book": 1,
       "book_rank": 991,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 37,
       "lemma": "dicio",
       "headword": "dicio, onis, f.",
       "pos": "Noun",
@@ -742,16 +784,17 @@
         "surface_form": "dicio"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 37
+      "total_frequency": 3
     },
     {
       "rank": 992,
       "book": 1,
       "book_rank": 992,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 38,
       "lemma": "iuro",
       "headword": "iuro",
       "pos": "Word",
@@ -762,16 +805,17 @@
         "surface_form": "iuraret"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 38
+      "total_frequency": 1
     },
     {
       "rank": 993,
       "book": 1,
       "book_rank": 993,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 39,
       "lemma": "profugio",
       "headword": "profugio, is, ere, profugi, profugitum",
       "pos": "Verb",
@@ -782,16 +826,17 @@
         "surface_form": "profugisse"
       },
       "book_frequency": 2,
-      "total_frequency": 17,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 39
+      "total_frequency": 17
     },
     {
       "rank": 994,
       "book": 1,
       "book_rank": 994,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 40,
       "lemma": "Roma",
       "headword": "Roma, ae, f.",
       "pos": "Noun",
@@ -802,16 +847,17 @@
         "surface_form": "Romam"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 40
+      "total_frequency": 3
     },
     {
       "rank": 995,
       "book": 1,
       "book_rank": 995,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 41,
       "lemma": "postulo",
       "headword": "postulo, as, are",
       "pos": "Verb",
@@ -822,16 +868,17 @@
         "surface_form": "postulatum"
       },
       "book_frequency": 12,
-      "total_frequency": 23,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 41
+      "total_frequency": 23
     },
     {
       "rank": 996,
       "book": 1,
       "book_rank": 996,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 42,
       "lemma": "solus",
       "headword": "solus, a, um",
       "pos": "Verb",
@@ -842,16 +889,17 @@
         "surface_form": "solus"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 42
+      "total_frequency": 5
     },
     {
       "rank": 997,
       "book": 1,
       "book_rank": 997,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 43,
       "lemma": "malus",
       "headword": "malus, a, um",
       "pos": "Noun",
@@ -862,16 +910,17 @@
         "surface_form": "peius"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 43
+      "total_frequency": 8
     },
     {
       "rank": 998,
       "book": 1,
       "book_rank": 998,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 44,
       "lemma": "victor",
       "headword": "victor, oris, m.",
       "pos": "Noun",
@@ -882,16 +931,17 @@
         "surface_form": "victoribus"
       },
       "book_frequency": 3,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 44
+      "total_frequency": 9
     },
     {
       "rank": 999,
       "book": 1,
       "book_rank": 999,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 45,
       "lemma": "Ariovistus",
       "headword": "Ariovistus, -ī, m.",
       "pos": "Proper Noun",
@@ -902,16 +952,17 @@
         "surface_form": "Ariovistus"
       },
       "book_frequency": 42,
-      "total_frequency": 46,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 45
+      "total_frequency": 46
     },
     {
       "rank": 1000,
       "book": 1,
       "book_rank": 1000,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 46,
       "lemma": "rex",
       "headword": "rex, regis, m.",
       "pos": "Noun",
@@ -922,16 +973,17 @@
         "surface_form": "rex"
       },
       "book_frequency": 4,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 46
+      "total_frequency": 14
     },
     {
       "rank": 1001,
       "book": 1,
       "book_rank": 1001,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 47,
       "lemma": "decedo",
       "headword": "decedo, is, ere, cessi, cessum",
       "pos": "Verb",
@@ -942,16 +994,17 @@
         "surface_form": "decedere"
       },
       "book_frequency": 3,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 47
+      "total_frequency": 14
     },
     {
       "rank": 1002,
       "book": 1,
       "book_rank": 1002,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 48,
       "lemma": "Harudes",
       "headword": "Harudes, um, m. pl.",
       "pos": "Noun",
@@ -962,16 +1015,17 @@
         "surface_form": "Harudum"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 48
+      "total_frequency": 3
     },
     {
       "rank": 1003,
       "book": 1,
       "book_rank": 1003,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 49,
       "lemma": "sedes",
       "headword": "sedes, is, f.",
       "pos": "Noun",
@@ -982,16 +1036,17 @@
         "surface_form": "sedes"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 49
+      "total_frequency": 5
     },
     {
       "rank": 1004,
       "book": 1,
       "book_rank": 1004,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 50,
       "lemma": "paro",
       "headword": "paro, as, are",
       "pos": "Verb",
@@ -1002,16 +1057,17 @@
         "surface_form": "pararentur"
       },
       "book_frequency": 1,
-      "total_frequency": 23,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 50
+      "total_frequency": 23
     },
     {
       "rank": 1005,
       "book": 1,
       "book_rank": 1005,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 51,
       "lemma": "consuetudo",
       "headword": "consuetudo, dinis, f.",
       "pos": "Noun",
@@ -1022,16 +1078,17 @@
         "surface_form": "consuetudinem"
       },
       "book_frequency": 6,
-      "total_frequency": 42,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 51
+      "total_frequency": 42
     },
     {
       "rank": 1006,
       "book": 1,
       "book_rank": 1006,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 52,
       "lemma": "Magetobriga",
       "headword": "Magetobriga, ae, f.",
       "pos": "Noun",
@@ -1042,16 +1099,17 @@
         "surface_form": "Magetobrigam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 52
+      "total_frequency": 1
     },
     {
       "rank": 1007,
       "book": 1,
       "book_rank": 1007,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 53,
       "lemma": "superbus",
       "headword": "superbus, a, um",
       "pos": "Verb",
@@ -1062,16 +1120,17 @@
         "surface_form": "superbe"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 53
+      "total_frequency": 1
     },
     {
       "rank": 1008,
       "book": 1,
       "book_rank": 1008,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 54,
       "lemma": "crudeliter",
       "headword": "crudeliter, adv.",
       "pos": "Adverb",
@@ -1082,16 +1141,17 @@
         "surface_form": "crudeliter"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 54
+      "total_frequency": 2
     },
     {
       "rank": 1009,
       "book": 1,
       "book_rank": 1009,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 55,
       "lemma": "edo",
       "headword": "edo, edis, esse, edi, esum",
       "pos": "Verb",
@@ -1102,16 +1162,17 @@
         "surface_form": "edere"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 55
+      "total_frequency": 6
     },
     {
       "rank": 1010,
       "book": 1,
       "book_rank": 1010,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 56,
       "lemma": "nutus",
       "headword": "nutus, us, m.",
       "pos": "Noun",
@@ -1122,16 +1183,17 @@
         "surface_form": "nutum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 56
+      "total_frequency": 3
     },
     {
       "rank": 1011,
       "book": 1,
       "book_rank": 1011,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 57,
       "lemma": "iracundus",
       "headword": "iracundus, a, um",
       "pos": "Adjective",
@@ -1142,16 +1204,17 @@
         "surface_form": "iracundum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 57
+      "total_frequency": 1
     },
     {
       "rank": 1012,
       "book": 1,
       "book_rank": 1012,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 58,
       "lemma": "temerarius",
       "headword": "temerarius, a, um",
       "pos": "Adjective",
@@ -1162,16 +1225,17 @@
         "surface_form": "temerarium"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 58
+      "total_frequency": 2
     },
     {
       "rank": 1013,
       "book": 1,
       "book_rank": 1013,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 59,
       "lemma": "Nisus",
       "headword": "Nisus, us, m.",
       "pos": "Noun",
@@ -1182,16 +1246,17 @@
         "surface_form": "Nisi"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 59
+      "total_frequency": 1
     },
     {
       "rank": 1014,
       "book": 1,
       "book_rank": 1014,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 60,
       "lemma": "emigro",
       "headword": "emigro, as, are",
       "pos": "Verb",
@@ -1202,16 +1267,17 @@
         "surface_form": "emigrent"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 60
+      "total_frequency": 1
     },
     {
       "rank": 1015,
       "book": 1,
       "book_rank": 1015,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 61,
       "lemma": "quicumque",
       "headword": "quicumque, quae-, quod- (-cun-)",
       "pos": "Word",
@@ -1222,16 +1288,17 @@
         "surface_form": "quaecumque"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 61
+      "total_frequency": 12
     },
     {
       "rank": 1016,
       "book": 1,
       "book_rank": 1016,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 62,
       "lemma": "experior",
       "headword": "experior, iris, iri, expertus sum",
       "pos": "Verb",
@@ -1242,16 +1309,17 @@
         "surface_form": "experiantur"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 62
+      "total_frequency": 11
     },
     {
       "rank": 1017,
       "book": 1,
       "book_rank": 1017,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 63,
       "lemma": "ceterus",
       "headword": "ceterus, a, um",
       "pos": "Adjective",
@@ -1262,16 +1330,17 @@
         "surface_form": "ceteri"
       },
       "book_frequency": 2,
-      "total_frequency": 19,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 63
+      "total_frequency": 19
     },
     {
       "rank": 1018,
       "book": 1,
       "book_rank": 1018,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 64,
       "lemma": "tristis",
       "headword": "tristis, e",
       "pos": "Verb",
@@ -1282,16 +1351,17 @@
         "surface_form": "tristes"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 64
+      "total_frequency": 1
     },
     {
       "rank": 1019,
       "book": 1,
       "book_rank": 1019,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 65,
       "lemma": "demitto",
       "headword": "demitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -1302,16 +1372,17 @@
         "surface_form": "demisso"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 65
+      "total_frequency": 10
     },
     {
       "rank": 1020,
       "book": 1,
       "book_rank": 1020,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 66,
       "lemma": "intueor",
       "headword": "intueor, eris, eri, itus sum",
       "pos": "Word",
@@ -1322,16 +1393,17 @@
         "surface_form": "intueri"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 66
+      "total_frequency": 1
     },
     {
       "rank": 1021,
       "book": 1,
       "book_rank": 1021,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 67,
       "lemma": "miror",
       "headword": "miror, aris, ari",
       "pos": "Adjective",
@@ -1342,16 +1414,17 @@
         "surface_form": "miratus"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 67
+      "total_frequency": 2
     },
     {
       "rank": 1022,
       "book": 1,
       "book_rank": 1022,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 68,
       "lemma": "tristitia",
       "headword": "tristitia, ae, f.",
       "pos": "Noun",
@@ -1362,16 +1435,17 @@
         "surface_form": "tristitia"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 68
+      "total_frequency": 1
     },
     {
       "rank": 1023,
       "book": 1,
       "book_rank": 1023,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 69,
       "lemma": "permaneo",
       "headword": "permaneo, es, ere, mansi, mansum",
       "pos": "Verb",
@@ -1382,16 +1456,17 @@
         "surface_form": "permanere"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 69
+      "total_frequency": 18
     },
     {
       "rank": 1024,
       "book": 1,
       "book_rank": 1024,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 70,
       "lemma": "vox",
       "headword": "vox, uocis, f.",
       "pos": "Noun",
@@ -1402,16 +1477,17 @@
         "surface_form": "vocem"
       },
       "book_frequency": 3,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 70
+      "total_frequency": 14
     },
     {
       "rank": 1025,
       "book": 1,
       "book_rank": 1025,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 71,
       "lemma": "exprimo",
       "headword": "exprimo, is, ere, pressi, pressum",
       "pos": "Verb",
@@ -1422,16 +1498,17 @@
         "surface_form": "exprimere"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 71
+      "total_frequency": 2
     },
     {
       "rank": 1026,
       "book": 1,
       "book_rank": 1026,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 72,
       "lemma": "miser",
       "headword": "miser, a, um",
       "pos": "Verb",
@@ -1442,16 +1519,17 @@
         "surface_form": "miseriorem"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 72
+      "total_frequency": 4
     },
     {
       "rank": 1027,
       "book": 1,
       "book_rank": 1027,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 73,
       "lemma": "crudelitas",
       "headword": "crudelitas, atis, f.",
       "pos": "Noun",
@@ -1462,16 +1540,17 @@
         "surface_form": "crudelitatem"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 73
+      "total_frequency": 3
     },
     {
       "rank": 1028,
       "book": 1,
       "book_rank": 1028,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 74,
       "lemma": "uelut",
       "headword": "uelut",
       "pos": "Word",
@@ -1482,16 +1561,17 @@
         "surface_form": "velut"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 74
+      "total_frequency": 3
     },
     {
       "rank": 1029,
       "book": 1,
       "book_rank": 1029,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 75,
       "lemma": "cora",
       "headword": "cora",
       "pos": "Noun",
@@ -1502,16 +1582,17 @@
         "surface_form": "cora"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 75
+      "total_frequency": 1
     },
     {
       "rank": 1030,
       "book": 1,
       "book_rank": 1030,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 76,
       "lemma": "horreo",
       "headword": "horreo, es, ere, horrui, -",
       "pos": "Verb",
@@ -1522,16 +1603,17 @@
         "surface_form": "horrerent"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 76
+      "total_frequency": 1
     },
     {
       "rank": 1031,
       "book": 1,
       "book_rank": 1031,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 77,
       "lemma": "intra",
       "headword": "intra, prep. (+ acc.)",
       "pos": "Adverb",
@@ -1542,16 +1624,17 @@
         "surface_form": "intra"
       },
       "book_frequency": 1,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 77
+      "total_frequency": 21
     },
     {
       "rank": 1032,
       "book": 1,
       "book_rank": 1032,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 78,
       "lemma": "cura",
       "headword": "cura, ae, f.",
       "pos": "Noun",
@@ -1562,16 +1645,17 @@
         "surface_form": "curae"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 78
+      "total_frequency": 4
     },
     {
       "rank": 1033,
       "book": 1,
       "book_rank": 1033,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 79,
       "lemma": "cogito",
       "headword": "cogito, as, are",
       "pos": "Verb",
@@ -1582,16 +1666,17 @@
         "surface_form": "cogitandam"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 79
+      "total_frequency": 11
     },
     {
       "rank": 1034,
       "book": 1,
       "book_rank": 1034,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 80,
       "lemma": "turpis",
       "headword": "turpis, e",
       "pos": "Adjective",
@@ -1602,16 +1687,17 @@
         "surface_form": "turpissimum"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 80
+      "total_frequency": 6
     },
     {
       "rank": 1035,
       "book": 1,
       "book_rank": 1035,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 81,
       "lemma": "paulatim",
       "headword": "paulatim, adv.",
       "pos": "Adverb",
@@ -1622,16 +1708,17 @@
         "surface_form": "Paulatim"
       },
       "book_frequency": 2,
-      "total_frequency": 15,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 81
+      "total_frequency": 15
     },
     {
       "rank": 1036,
       "book": 1,
       "book_rank": 1036,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 82,
       "lemma": "periculosus",
       "headword": "periculosus, a, um",
       "pos": "Adjective",
@@ -1642,16 +1729,17 @@
         "surface_form": "periculosum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 82
+      "total_frequency": 3
     },
     {
       "rank": 1037,
       "book": 1,
       "book_rank": 1037,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 83,
       "lemma": "ferus",
       "headword": "ferus, i",
       "pos": "Verb",
@@ -1662,16 +1750,17 @@
         "surface_form": "feros"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 83
+      "total_frequency": 2
     },
     {
       "rank": 1038,
       "book": 1,
       "book_rank": 1038,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 84,
       "lemma": "Cimbri",
       "headword": "Cimbri, orum, m.",
       "pos": "Noun",
@@ -1682,16 +1771,17 @@
         "surface_form": "Cimbri"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 84
+      "total_frequency": 6
     },
     {
       "rank": 1039,
       "book": 1,
       "book_rank": 1039,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 85,
       "lemma": "Teutoni",
       "headword": "Teutoni, orum, m. pl.",
       "pos": "Noun",
@@ -1702,16 +1792,17 @@
         "surface_form": "Teutoni"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 85
+      "total_frequency": 4
     },
     {
       "rank": 1040,
       "book": 1,
       "book_rank": 1040,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 86,
       "lemma": "occurro",
       "headword": "occurro, is, ere, curri, cursum",
       "pos": "Verb",
@@ -1722,16 +1813,17 @@
         "surface_form": "occurrendum"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 86
+      "total_frequency": 15
     },
     {
       "rank": 1041,
       "book": 1,
       "book_rank": 1041,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 87,
       "lemma": "spiritus",
       "headword": "spiritus, us, m.",
       "pos": "Noun",
@@ -1742,16 +1834,17 @@
         "surface_form": "spiritus"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 87
+      "total_frequency": 2
     },
     {
       "rank": 1042,
       "book": 1,
       "book_rank": 1042,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 88,
       "lemma": "adrogantia",
       "headword": "adrogantia, ae, f.",
       "pos": "Noun",
@@ -1762,16 +1855,17 @@
         "surface_form": "arrogantiam"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 88
+      "total_frequency": 5
     },
     {
       "rank": 1043,
       "book": 1,
       "book_rank": 1043,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 89,
       "lemma": "placeo",
       "headword": "placeo, es, ere, cui, citum",
       "pos": "Verb",
@@ -1782,16 +1876,17 @@
         "surface_form": "placuit"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 89
+      "total_frequency": 7
     },
     {
       "rank": 1044,
       "book": 1,
       "book_rank": 1044,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 90,
       "lemma": "colloquium",
       "headword": "colloquium, ii, n.",
       "pos": "Noun",
@@ -1802,16 +1897,17 @@
         "surface_form": "conloquio"
       },
       "book_frequency": 13,
-      "total_frequency": 19,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 90
+      "total_frequency": 19
     },
     {
       "rank": 1045,
       "book": 1,
       "book_rank": 1045,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 91,
       "lemma": "vellus",
       "headword": "vellus, ĕris, n.",
       "pos": "Noun",
@@ -1822,16 +1918,17 @@
         "surface_form": "velle"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 91
+      "total_frequency": 4
     },
     {
       "rank": 1046,
       "book": 1,
       "book_rank": 1046,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 92,
       "lemma": "praeterea",
       "headword": "praeterea, adv.",
       "pos": "Adverb",
@@ -1842,16 +1939,17 @@
         "surface_form": "Praeterea"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 92
+      "total_frequency": 11
     },
     {
       "rank": 1047,
       "book": 1,
       "book_rank": 1047,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 93,
       "lemma": "possideo",
       "headword": "possideo, es, ere, sedi, sessum",
       "pos": "Verb",
@@ -1862,16 +1960,17 @@
         "surface_form": "possideret"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 93
+      "total_frequency": 4
     },
     {
       "rank": 1048,
       "book": 1,
       "book_rank": 1048,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 94,
       "lemma": "commeatus",
       "headword": "commeatus, us, m.",
       "pos": "Noun",
@@ -1882,16 +1981,17 @@
         "surface_form": "commeatu"
       },
       "book_frequency": 4,
-      "total_frequency": 24,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 94
+      "total_frequency": 24
     },
     {
       "rank": 1049,
       "book": 1,
       "book_rank": 1049,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 95,
       "lemma": "molimentum",
       "headword": "molimentum, i, n.",
       "pos": "Noun",
@@ -1902,16 +2002,17 @@
         "surface_form": "molimento"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 95
+      "total_frequency": 1
     },
     {
       "rank": 1050,
       "book": 1,
       "book_rank": 1050,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 96,
       "lemma": "contraho",
       "headword": "contraho, is, ere, traxi, tractum",
       "pos": "Verb",
@@ -1922,16 +2023,17 @@
         "surface_form": "contrahere"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 96
+      "total_frequency": 6
     },
     {
       "rank": 1051,
       "book": 1,
       "book_rank": 1051,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 97,
       "lemma": "mirus",
       "headword": "mirus, a, um",
       "pos": "Adjective",
@@ -1942,16 +2044,17 @@
         "surface_form": "mirum"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 97
+      "total_frequency": 2
     },
     {
       "rank": 1052,
       "book": 1,
       "book_rank": 1052,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 98,
       "lemma": "negotium",
       "headword": "negotium, ii, n.",
       "pos": "Noun",
@@ -1962,16 +2065,17 @@
         "surface_form": "negotii"
       },
       "book_frequency": 2,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 98
+      "total_frequency": 14
     },
     {
       "rank": 1053,
       "book": 1,
       "book_rank": 1053,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 99,
       "lemma": "quoniam",
       "headword": "quoniam, conj. sub.",
       "pos": "Conjunction",
@@ -1982,16 +2086,17 @@
         "surface_form": "quoniam"
       },
       "book_frequency": 4,
-      "total_frequency": 19,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 99
+      "total_frequency": 19
     },
     {
       "rank": 1054,
       "book": 1,
       "book_rank": 1054,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 100,
       "lemma": "consulatus",
       "headword": "consulatus, us, m.",
       "pos": "Noun",
@@ -2002,16 +2107,17 @@
         "surface_form": "consulatu"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 100
+      "total_frequency": 7
     },
     {
       "rank": 1055,
       "book": 1,
       "book_rank": 1055,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 101,
       "lemma": "invito",
       "headword": "invito, as, are",
       "pos": "Verb",
@@ -2022,16 +2128,17 @@
         "surface_form": "invitatus"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 101
+      "total_frequency": 5
     },
     {
       "rank": 1056,
       "book": 1,
       "book_rank": 1056,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 102,
       "lemma": "gravor",
       "headword": "gravor, aris, ari",
       "pos": "Verb",
@@ -2042,16 +2149,17 @@
         "surface_form": "gravaretur"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 102
+      "total_frequency": 1
     },
     {
       "rank": 1057,
       "book": 1,
       "book_rank": 1057,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 103,
       "lemma": "reddo",
       "headword": "reddo, is, ere, ddidi, dditum",
       "pos": "Verb",
@@ -2062,16 +2170,17 @@
         "surface_form": "redderet"
       },
       "book_frequency": 4,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 103
+      "total_frequency": 11
     },
     {
       "rank": 1058,
       "book": 1,
       "book_rank": 1058,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 104,
       "lemma": "commodum",
       "headword": "commodum, i, n.",
       "pos": "Noun",
@@ -2082,16 +2191,17 @@
         "surface_form": "commodo"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 104
+      "total_frequency": 9
     },
     {
       "rank": 1059,
       "book": 1,
       "book_rank": 1059,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 105,
       "lemma": "lacio",
       "headword": "lacio",
       "pos": "Word",
@@ -2102,16 +2212,17 @@
         "surface_form": "lacere"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 105
+      "total_frequency": 1
     },
     {
       "rank": 1060,
       "book": 1,
       "book_rank": 1060,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 106,
       "lemma": "negligo",
       "headword": "negligo, is, ere, glexi, glectum",
       "pos": "Verb",
@@ -2122,16 +2233,17 @@
         "surface_form": "neglecturum"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 106
+      "total_frequency": 6
     },
     {
       "rank": 1061,
       "book": 1,
       "book_rank": 1061,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 107,
       "lemma": "modus",
       "headword": "modus, i, m.",
       "pos": "Noun",
@@ -2142,16 +2254,17 @@
         "surface_form": "modum"
       },
       "book_frequency": 3,
-      "total_frequency": 18,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 107
+      "total_frequency": 18
     },
     {
       "rank": 1062,
       "book": 1,
       "book_rank": 1062,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 108,
       "lemma": "praescribo",
       "headword": "praescribo, is, ere, scripsi, scriptum",
       "pos": "Verb",
@@ -2162,16 +2275,17 @@
         "surface_form": "praescriptum"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 108
+      "total_frequency": 5
     },
     {
       "rank": 1063,
       "book": 1,
       "book_rank": 1063,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 109,
       "lemma": "arbitrium",
       "headword": "arbitrium, i, n.",
       "pos": "Noun",
@@ -2182,16 +2296,17 @@
         "surface_form": "arbitrium"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 109
+      "total_frequency": 3
     },
     {
       "rank": 1064,
       "book": 1,
       "book_rank": 1064,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 110,
       "lemma": "congredior",
       "headword": "congredior, eris, i, essus sum",
       "pos": "Verb",
@@ -2202,16 +2317,17 @@
         "surface_form": "congressi"
       },
       "book_frequency": 4,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 110
+      "total_frequency": 9
     },
     {
       "rank": 1065,
       "book": 1,
       "book_rank": 1065,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 111,
       "lemma": "stipendiarii",
       "headword": "stipendiarii, orum, m.",
       "pos": "Noun",
@@ -2222,16 +2338,17 @@
         "surface_form": "stipendiarios"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 111
+      "total_frequency": 2
     },
     {
       "rank": 1066,
       "book": 1,
       "book_rank": 1066,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 112,
       "lemma": "deterior",
       "headword": "deterior, ius",
       "pos": "Verb",
@@ -2242,16 +2359,17 @@
         "surface_form": "deteriora"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 112
+      "total_frequency": 1
     },
     {
       "rank": 1067,
       "book": 1,
       "book_rank": 1067,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 113,
       "lemma": "maneo",
       "headword": "maneo, es, ere, mansi, mansum",
       "pos": "Verb",
@@ -2262,16 +2380,17 @@
         "surface_form": "manerent"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 113
+      "total_frequency": 10
     },
     {
       "rank": 1068,
       "book": 1,
       "book_rank": 1068,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 114,
       "lemma": "stipendium",
       "headword": "stipendium, ii, n.",
       "pos": "Noun",
@@ -2282,16 +2401,17 @@
         "surface_form": "stipendium"
       },
       "book_frequency": 5,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 114
+      "total_frequency": 8
     },
     {
       "rank": 1069,
       "book": 1,
       "book_rank": 1069,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 115,
       "lemma": "quotannis",
       "headword": "quotannis, adv.",
       "pos": "Adverb",
@@ -2302,16 +2422,17 @@
         "surface_form": "quotannis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 115
+      "total_frequency": 4
     },
     {
       "rank": 1070,
       "book": 1,
       "book_rank": 1070,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 116,
       "lemma": "pendeo",
       "headword": "pendeo, es, ere, pependi, -",
       "pos": "Verb",
@@ -2322,16 +2443,17 @@
         "surface_form": "penderent"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 116
+      "total_frequency": 4
     },
     {
       "rank": 1071,
       "book": 1,
       "book_rank": 1071,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 117,
       "lemma": "denuntio",
       "headword": "denuntio, as, are",
       "pos": "Verb",
@@ -2342,16 +2464,17 @@
         "surface_form": "denuntiaret"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 117
+      "total_frequency": 3
     },
     {
       "rank": 1072,
       "book": 1,
       "book_rank": 1072,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 118,
       "lemma": "invictus",
       "headword": "invictus, a, um",
       "pos": "Adjective",
@@ -2362,16 +2485,17 @@
         "surface_form": "invicti"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 118
+      "total_frequency": 1
     },
     {
       "rank": 1073,
       "book": 1,
       "book_rank": 1073,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 119,
       "lemma": "exercitatus",
       "headword": "exercitatus, a, um",
       "pos": "Adjective",
@@ -2382,16 +2506,17 @@
         "surface_form": "exercitatissimi"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 119
+      "total_frequency": 3
     },
     {
       "rank": 1074,
       "book": 1,
       "book_rank": 1074,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 120,
       "lemma": "tectum",
       "headword": "tectum, i, n.",
       "pos": "Noun",
@@ -2402,16 +2527,17 @@
         "surface_form": "tectum"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 120
+      "total_frequency": 5
     },
     {
       "rank": 1075,
       "book": 1,
       "book_rank": 1075,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 121,
       "lemma": "Treviri",
       "headword": "Treviri, orum, m. pl.",
       "pos": "Noun",
@@ -2422,16 +2548,17 @@
         "surface_form": "Treveris"
       },
       "book_frequency": 2,
-      "total_frequency": 43,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 121
+      "total_frequency": 43
     },
     {
       "rank": 1076,
       "book": 1,
       "book_rank": 1076,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 122,
       "lemma": "transporto",
       "headword": "transporto, as, are",
       "pos": "Verb",
@@ -2442,16 +2569,17 @@
         "surface_form": "transportati"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 122
+      "total_frequency": 10
     },
     {
       "rank": 1077,
       "book": 1,
       "book_rank": 1077,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 123,
       "lemma": "centum",
       "headword": "centum, num.",
       "pos": "Word",
@@ -2462,16 +2590,17 @@
         "surface_form": "centum"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 123
+      "total_frequency": 7
     },
     {
       "rank": 1078,
       "book": 1,
       "book_rank": 1078,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 124,
       "lemma": "Suebi",
       "headword": "Suebi, orum, m.",
       "pos": "Noun",
@@ -2482,16 +2611,17 @@
         "surface_form": "Sueborum"
       },
       "book_frequency": 4,
-      "total_frequency": 24,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 124
+      "total_frequency": 24
     },
     {
       "rank": 1079,
       "book": 1,
       "book_rank": 1079,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 125,
       "lemma": "Remi",
       "headword": "Remi, orum, m.",
       "pos": "Noun",
@@ -2502,16 +2632,17 @@
         "surface_form": "Rhemum"
       },
       "book_frequency": 1,
-      "total_frequency": 31,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 125
+      "total_frequency": 31
     },
     {
       "rank": 1080,
       "book": 1,
       "book_rank": 1080,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 126,
       "lemma": "Nasua",
       "headword": "Nasua",
       "pos": "Word",
@@ -2522,16 +2653,17 @@
         "surface_form": "Nasuam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 126
+      "total_frequency": 1
     },
     {
       "rank": 1081,
       "book": 1,
       "book_rank": 1081,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 127,
       "lemma": "Cimberius",
       "headword": "Cimberius",
       "pos": "Word",
@@ -2542,16 +2674,17 @@
         "surface_form": "Cimberium"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 127
+      "total_frequency": 1
     },
     {
       "rank": 1082,
       "book": 1,
       "book_rank": 1082,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 128,
       "lemma": "vehementer",
       "headword": "vehementer, adv.",
       "pos": "Adverb",
@@ -2562,16 +2695,17 @@
         "surface_form": "vehementer"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 128
+      "total_frequency": 11
     },
     {
       "rank": 1083,
       "book": 1,
       "book_rank": 1083,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 129,
       "lemma": "nouo",
       "headword": "nouo",
       "pos": "Word",
@@ -2582,16 +2716,17 @@
         "surface_form": "nova"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 129
+      "total_frequency": 7
     },
     {
       "rank": 1084,
       "book": 1,
       "book_rank": 1084,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 130,
       "lemma": "conjungo",
       "headword": "conjungo, is, ere, iunxi, iunctum",
       "pos": "Verb",
@@ -2602,16 +2737,17 @@
         "surface_form": "coniunxisset"
       },
       "book_frequency": 2,
-      "total_frequency": 31,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 130
+      "total_frequency": 31
     },
     {
       "rank": 1085,
       "book": 1,
       "book_rank": 1085,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 131,
       "lemma": "celer",
       "headword": "celer, eris, ere",
       "pos": "Verb",
@@ -2622,16 +2758,17 @@
         "surface_form": "celerrime"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 131
+      "total_frequency": 11
     },
     {
       "rank": 1086,
       "book": 1,
       "book_rank": 1086,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 132,
       "lemma": "procedo",
       "headword": "procedo, is, ere, cessi, cessum",
       "pos": "Verb",
@@ -2642,16 +2779,17 @@
         "surface_form": "processisset"
       },
       "book_frequency": 2,
-      "total_frequency": 23,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 132
+      "total_frequency": 23
     },
     {
       "rank": 1087,
       "book": 1,
       "book_rank": 1087,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 133,
       "lemma": "Vesontio",
       "headword": "Vesontio, ōnis, m.",
       "pos": "Noun",
@@ -2662,16 +2800,17 @@
         "surface_form": "Vesontionem"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 133
+      "total_frequency": 2
     },
     {
       "rank": 1088,
       "book": 1,
       "book_rank": 1088,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 134,
       "lemma": "praecaveo",
       "headword": "praecaveo, es, ere, caui, cautum",
       "pos": "Verb",
@@ -2682,16 +2821,17 @@
         "surface_form": "praecavendum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 134
+      "total_frequency": 1
     },
     {
       "rank": 1089,
       "book": 1,
       "book_rank": 1089,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 135,
       "lemma": "usus",
       "headword": "usus, us, m.",
       "pos": "Noun",
@@ -2702,16 +2842,17 @@
         "surface_form": "usui"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 135
+      "total_frequency": 12
     },
     {
       "rank": 1090,
       "book": 1,
       "book_rank": 1090,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 136,
       "lemma": "sic",
       "headword": "sic, adv.",
       "pos": "Adverb",
@@ -2722,16 +2863,17 @@
         "surface_form": "sic"
       },
       "book_frequency": 2,
-      "total_frequency": 36,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 136
+      "total_frequency": 36
     },
     {
       "rank": 1091,
       "book": 1,
       "book_rank": 1091,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 137,
       "lemma": "alduas",
       "headword": "alduas",
       "pos": "Word",
@@ -2742,16 +2884,17 @@
         "surface_form": "alduas"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 137
+      "total_frequency": 1
     },
     {
       "rank": 1092,
       "book": 1,
       "book_rank": 1092,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 138,
       "lemma": "Dubis",
       "headword": "Dubis, is, m.",
       "pos": "Noun",
@@ -2762,16 +2905,17 @@
         "surface_form": "Dubis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 138
+      "total_frequency": 1
     },
     {
       "rank": 1093,
       "book": 1,
       "book_rank": 1093,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 139,
       "lemma": "circinus",
       "headword": "circinus, i, m.",
       "pos": "Verb",
@@ -2782,16 +2926,17 @@
         "surface_form": "circino"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 139
+      "total_frequency": 1
     },
     {
       "rank": 1094,
       "book": 1,
       "book_rank": 1094,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 140,
       "lemma": "circumduco",
       "headword": "circumduco, xi, ctum, 3",
       "pos": "Verb",
@@ -2802,16 +2947,17 @@
         "surface_form": "circumductum"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 140
+      "total_frequency": 2
     },
     {
       "rank": 1095,
       "book": 1,
       "book_rank": 1095,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 141,
       "lemma": "cingo",
       "headword": "cingo, is, ere, cinxi, cinctum",
       "pos": "Verb",
@@ -2822,16 +2968,17 @@
         "surface_form": "cingit"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 141
+      "total_frequency": 7
     },
     {
       "rank": 1096,
       "book": 1,
       "book_rank": 1096,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 142,
       "lemma": "radix",
       "headword": "radix, icis, f.",
       "pos": "Noun",
@@ -2842,16 +2989,17 @@
         "surface_form": "radices"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 142
+      "total_frequency": 6
     },
     {
       "rank": 1097,
       "book": 1,
       "book_rank": 1097,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 143,
       "lemma": "contingo",
       "headword": "contingo, is, ere, tigi, tactum",
       "pos": "Verb",
@@ -2862,16 +3010,17 @@
         "surface_form": "contingant"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 143
+      "total_frequency": 8
     },
     {
       "rank": 1098,
       "book": 1,
       "book_rank": 1098,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 144,
       "lemma": "circumdo",
       "headword": "circumdo, as, are, dedi, datum",
       "pos": "Verb",
@@ -2882,16 +3031,17 @@
         "surface_form": "circumdatus"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 144
+      "total_frequency": 11
     },
     {
       "rank": 1099,
       "book": 1,
       "book_rank": 1099,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 145,
       "lemma": "arx",
       "headword": "arx, arcis, f.",
       "pos": "Noun",
@@ -2902,16 +3052,17 @@
         "surface_form": "arcem"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 145
+      "total_frequency": 2
     },
     {
       "rank": 1100,
       "book": 1,
       "book_rank": 1100,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 146,
       "lemma": "efficio",
       "headword": "efficio, is, ere, effeci, effectum",
       "pos": "Verb",
@@ -2922,16 +3073,17 @@
         "surface_form": "efficit"
       },
       "book_frequency": 1,
-      "total_frequency": 33,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 146
+      "total_frequency": 33
     },
     {
       "rank": 1101,
       "book": 1,
       "book_rank": 1101,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 147,
       "lemma": "huc",
       "headword": "huc, adv.",
       "pos": "Adverb",
@@ -2942,16 +3094,17 @@
         "surface_form": "Huc"
       },
       "book_frequency": 1,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 147
+      "total_frequency": 21
     },
     {
       "rank": 1102,
       "book": 1,
       "book_rank": 1102,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 148,
       "lemma": "nocturnus",
       "headword": "nocturnus, a, um",
       "pos": "Adjective",
@@ -2962,16 +3115,17 @@
         "surface_form": "nocturnis"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 148
+      "total_frequency": 11
     },
     {
       "rank": 1103,
       "book": 1,
       "book_rank": 1103,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 149,
       "lemma": "diurnus",
       "headword": "diurnus, a, um",
       "pos": "Adjective",
@@ -2982,16 +3136,17 @@
         "surface_form": "diurnis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 149
+      "total_frequency": 4
     },
     {
       "rank": 1104,
       "book": 1,
       "book_rank": 1104,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 150,
       "lemma": "percontatio",
       "headword": "percontatio, ōnis, f.",
       "pos": "Noun",
@@ -3002,16 +3157,17 @@
         "surface_form": "percontatio"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 150
+      "total_frequency": 2
     },
     {
       "rank": 1105,
       "book": 1,
       "book_rank": 1105,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 151,
       "lemma": "ingens",
       "headword": "ingens, entis",
       "pos": "Adjective",
@@ -3022,16 +3178,17 @@
         "surface_form": "ingenti"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 151
+      "total_frequency": 3
     },
     {
       "rank": 1106,
       "book": 1,
       "book_rank": 1106,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 152,
       "lemma": "magnitudo",
       "headword": "magnitudo, dinis, f.",
       "pos": "Noun",
@@ -3042,16 +3199,17 @@
         "surface_form": "magnitudine"
       },
       "book_frequency": 2,
-      "total_frequency": 30,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 152
+      "total_frequency": 30
     },
     {
       "rank": 1107,
       "book": 1,
       "book_rank": 1107,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 153,
       "lemma": "exercitatio",
       "headword": "exercitatio, ionis, f.",
       "pos": "Noun",
@@ -3062,16 +3220,17 @@
         "surface_form": "exercitatio"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 153
+      "total_frequency": 7
     },
     {
       "rank": 1108,
       "book": 1,
       "book_rank": 1108,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 154,
       "lemma": "praedico",
       "headword": "praedico, as, are",
       "pos": "Verb",
@@ -3082,16 +3241,17 @@
         "surface_form": "praedicabant"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 154
+      "total_frequency": 5
     },
     {
       "rank": 1109,
       "book": 1,
       "book_rank": 1109,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 155,
       "lemma": "vultus",
       "headword": "vultus, us, m.",
       "pos": "Noun",
@@ -3102,16 +3262,17 @@
         "surface_form": "vultum"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 155
+      "total_frequency": 2
     },
     {
       "rank": 1110,
       "book": 1,
       "book_rank": 1110,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 156,
       "lemma": "mediocriter",
       "headword": "mediocriter, adv.",
       "pos": "Adverb",
@@ -3122,16 +3283,17 @@
         "surface_form": "mediocriter"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 156
+      "total_frequency": 1
     },
     {
       "rank": 1111,
       "book": 1,
       "book_rank": 1111,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 157,
       "lemma": "mens",
       "headword": "mens, entis, f.",
       "pos": "Noun",
@@ -3142,16 +3304,17 @@
         "surface_form": "mentes"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 157
+      "total_frequency": 8
     },
     {
       "rank": 1112,
       "book": 1,
       "book_rank": 1112,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 158,
       "lemma": "perturbo",
       "headword": "perturbo, as, are",
       "pos": "Verb",
@@ -3162,16 +3325,17 @@
         "surface_form": "perturbaret"
       },
       "book_frequency": 2,
-      "total_frequency": 24,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 158
+      "total_frequency": 24
     },
     {
       "rank": 1113,
       "book": 1,
       "book_rank": 1113,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 159,
       "lemma": "tribunus",
       "headword": "tribunus, i, m.",
       "pos": "Noun",
@@ -3182,16 +3346,17 @@
         "surface_form": "tribunis"
       },
       "book_frequency": 3,
-      "total_frequency": 23,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 159
+      "total_frequency": 23
     },
     {
       "rank": 1114,
       "book": 1,
       "book_rank": 1114,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 160,
       "lemma": "praefectus",
       "headword": "praefectus, i, m.",
       "pos": "Noun",
@@ -3202,16 +3367,17 @@
         "surface_form": "praefectis"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 160
+      "total_frequency": 15
     },
     {
       "rank": 1115,
       "book": 1,
       "book_rank": 1115,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 161,
       "lemma": "pudor",
       "headword": "pudor, oris, m.",
       "pos": "Noun",
@@ -3222,16 +3388,17 @@
         "surface_form": "pudore"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 161
+      "total_frequency": 4
     },
     {
       "rank": 1116,
       "book": 1,
       "book_rank": 1116,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 162,
       "lemma": "remaneo",
       "headword": "remaneo, es, ere, mansi, mansum",
       "pos": "Verb",
@@ -3242,16 +3409,17 @@
         "surface_form": "remanebant"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 162
+      "total_frequency": 11
     },
     {
       "rank": 1117,
       "book": 1,
       "book_rank": 1117,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 163,
       "lemma": "fingo",
       "headword": "fingo, is, ere, finxi, fictum",
       "pos": "Verb",
@@ -3262,16 +3430,17 @@
         "surface_form": "fingere"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 163
+      "total_frequency": 3
     },
     {
       "rank": 1118,
       "book": 1,
       "book_rank": 1118,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 164,
       "lemma": "tabernaculum",
       "headword": "tabernaculum, i, n.",
       "pos": "Noun",
@@ -3282,16 +3451,17 @@
         "surface_form": "tabernaculis"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 164
+      "total_frequency": 3
     },
     {
       "rank": 1119,
       "book": 1,
       "book_rank": 1119,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 165,
       "lemma": "fatum",
       "headword": "fatum, i, n.",
       "pos": "Noun",
@@ -3302,16 +3472,17 @@
         "surface_form": "fatum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 165
+      "total_frequency": 1
     },
     {
       "rank": 1120,
       "book": 1,
       "book_rank": 1120,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 166,
       "lemma": "miseror",
       "headword": "miseror, aris, ari",
       "pos": "Verb",
@@ -3322,16 +3493,17 @@
         "surface_form": "miserabantur"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 166
+      "total_frequency": 2
     },
     {
       "rank": 1121,
       "book": 1,
       "book_rank": 1121,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 167,
       "lemma": "testamentum",
       "headword": "testamentum, i, n.",
       "pos": "Noun",
@@ -3342,16 +3514,17 @@
         "surface_form": "testamenta"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 167
+      "total_frequency": 1
     },
     {
       "rank": 1122,
       "book": 1,
       "book_rank": 1122,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 168,
       "lemma": "obsigno",
       "headword": "obsigno, asz, are",
       "pos": "Verb",
@@ -3362,16 +3535,17 @@
         "surface_form": "obsignabantur"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 168
+      "total_frequency": 1
     },
     {
       "rank": 1123,
       "book": 1,
       "book_rank": 1123,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 169,
       "lemma": "centurio",
       "headword": "centurio, ionis, m.",
       "pos": "Noun",
@@ -3382,16 +3556,17 @@
         "surface_form": "centuriones"
       },
       "book_frequency": 3,
-      "total_frequency": 26,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 169
+      "total_frequency": 26
     },
     {
       "rank": 1124,
       "book": 1,
       "book_rank": 1124,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 170,
       "lemma": "timidus",
       "headword": "timidus, a, um",
       "pos": "Adjective",
@@ -3402,16 +3577,17 @@
         "surface_form": "timidos"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 170
+      "total_frequency": 5
     },
     {
       "rank": 1125,
       "book": 1,
       "book_rank": 1125,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 171,
       "lemma": "supporto",
       "headword": "supporto, as, are",
       "pos": "Verb",
@@ -3422,16 +3598,17 @@
         "surface_form": "supportari"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 171
+      "total_frequency": 6
     },
     {
       "rank": 1126,
       "book": 1,
       "book_rank": 1126,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 172,
       "lemma": "audio",
       "headword": "audio, is, ire, iui, itum",
       "pos": "Verb",
@@ -3442,16 +3619,17 @@
         "surface_form": "audientes"
       },
       "book_frequency": 3,
-      "total_frequency": 37,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 172
+      "total_frequency": 37
     },
     {
       "rank": 1127,
       "book": 1,
       "book_rank": 1127,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 173,
       "lemma": "ordo",
       "headword": "ordo, inis, m.",
       "pos": "Noun",
@@ -3462,16 +3640,17 @@
         "surface_form": "ordinum"
       },
       "book_frequency": 2,
-      "total_frequency": 29,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 173
+      "total_frequency": 29
     },
     {
       "rank": 1128,
       "book": 1,
       "book_rank": 1128,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 174,
       "lemma": "incuso",
       "headword": "incuso, as, are",
       "pos": "Verb",
@@ -3482,16 +3661,17 @@
         "surface_form": "incusavit"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 174
+      "total_frequency": 2
     },
     {
       "rank": 1129,
       "book": 1,
       "book_rank": 1129,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 175,
       "lemma": "adpeto",
       "headword": "adpeto, is, ere, petivi (petii), petitum",
       "pos": "Verb",
@@ -3502,16 +3682,17 @@
         "surface_form": "adpetisse"
       },
       "book_frequency": 3,
-      "total_frequency": 6,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 175
+      "total_frequency": 6
     },
     {
       "rank": 1130,
       "book": 1,
       "book_rank": 1130,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 176,
       "lemma": "cur",
       "headword": "cur, adv.",
       "pos": "Noun",
@@ -3522,16 +3703,17 @@
         "surface_form": "cur"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 176
+      "total_frequency": 5
     },
     {
       "rank": 1131,
       "book": 1,
       "book_rank": 1131,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 177,
       "lemma": "temere",
       "headword": "temere, adv.",
       "pos": "Adverb",
@@ -3542,16 +3724,17 @@
         "surface_form": "temere"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 177
+      "total_frequency": 4
     },
     {
       "rank": 1132,
       "book": 1,
       "book_rank": 1132,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 178,
       "lemma": "officium",
       "headword": "officium, ii, n.",
       "pos": "Noun",
@@ -3562,16 +3745,17 @@
         "surface_form": "officio"
       },
       "book_frequency": 4,
-      "total_frequency": 21,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 178
+      "total_frequency": 21
     },
     {
       "rank": 1133,
       "book": 1,
       "book_rank": 1133,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 179,
       "lemma": "aequitas",
       "headword": "aequitas, atis, f.",
       "pos": "Noun",
@@ -3582,16 +3766,17 @@
         "surface_form": "aequitate"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 179
+      "total_frequency": 2
     },
     {
       "rank": 1134,
       "book": 1,
       "book_rank": 1134,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 180,
       "lemma": "perspicio",
       "headword": "perspicio, is, ere, spexi, spectum",
       "pos": "Verb",
@@ -3602,16 +3787,17 @@
         "surface_form": "perspecta"
       },
       "book_frequency": 2,
-      "total_frequency": 24,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 180
+      "total_frequency": 24
     },
     {
       "rank": 1135,
       "book": 1,
       "book_rank": 1135,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 181,
       "lemma": "repudio",
       "headword": "repudio, as, are",
       "pos": "Verb",
@@ -3622,16 +3808,17 @@
         "surface_form": "repudiaturum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 181
+      "total_frequency": 1
     },
     {
       "rank": 1136,
       "book": 1,
       "book_rank": 1136,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 182,
       "lemma": "furor",
       "headword": "furor, oris, m.",
       "pos": "Noun",
@@ -3642,16 +3829,17 @@
         "surface_form": "furore"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 182
+      "total_frequency": 3
     },
     {
       "rank": 1137,
       "book": 1,
       "book_rank": 1137,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 183,
       "lemma": "amens",
       "headword": "amens, entis",
       "pos": "Adjective",
@@ -3662,16 +3850,17 @@
         "surface_form": "amentia"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 183
+      "total_frequency": 2
     },
     {
       "rank": 1138,
       "book": 1,
       "book_rank": 1138,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 184,
       "lemma": "impello",
       "headword": "impello, is, ere, puli, pulsum",
       "pos": "Verb",
@@ -3682,16 +3871,17 @@
         "surface_form": "impulsum"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 184
+      "total_frequency": 10
     },
     {
       "rank": 1139,
       "book": 1,
       "book_rank": 1139,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 185,
       "lemma": "diligo",
       "headword": "diligo, is, ere, legi, lectum",
       "pos": "Verb",
@@ -3702,16 +3892,17 @@
         "surface_form": "diligentia"
       },
       "book_frequency": 1,
-      "total_frequency": 14,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 185
+      "total_frequency": 14
     },
     {
       "rank": 1140,
       "book": 1,
       "book_rank": 1140,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 186,
       "lemma": "Marius",
       "headword": "Marius, i, m.",
       "pos": "Noun",
@@ -3722,16 +3913,17 @@
         "surface_form": "Mario"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 186
+      "total_frequency": 1
     },
     {
       "rank": 1141,
       "book": 1,
       "book_rank": 1141,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 187,
       "lemma": "laus",
       "headword": "laus, laudis, f.",
       "pos": "Noun",
@@ -3742,16 +3934,17 @@
         "surface_form": "laudem"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 187
+      "total_frequency": 12
     },
     {
       "rank": 1142,
       "book": 1,
       "book_rank": 1142,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 188,
       "lemma": "imperator",
       "headword": "imperator, oris, m.",
       "pos": "Noun",
@@ -3762,16 +3955,17 @@
         "surface_form": "imperator"
       },
       "book_frequency": 3,
-      "total_frequency": 17,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 188
+      "total_frequency": 17
     },
     {
       "rank": 1143,
       "book": 1,
       "book_rank": 1143,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 189,
       "lemma": "servilis",
       "headword": "servilis, e",
       "pos": "Adjective",
@@ -3782,16 +3976,17 @@
         "surface_form": "servili"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 189
+      "total_frequency": 2
     },
     {
       "rank": 1144,
       "book": 1,
       "book_rank": 1144,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 190,
       "lemma": "tumultus",
       "headword": "tumultus, us, m.",
       "pos": "Noun",
@@ -3802,16 +3997,17 @@
         "surface_form": "tumultu"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 190
+      "total_frequency": 7
     },
     {
       "rank": 1145,
       "book": 1,
       "book_rank": 1145,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 191,
       "lemma": "disciplina",
       "headword": "disciplina, ae, f.",
       "pos": "Noun",
@@ -3822,16 +4018,17 @@
         "surface_form": "disciplina"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 191
+      "total_frequency": 8
     },
     {
       "rank": 1146,
       "book": 1,
       "book_rank": 1146,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 192,
       "lemma": "inermis",
       "headword": "inermis, e",
       "pos": "Adjective",
@@ -3842,16 +4039,17 @@
         "surface_form": "inermes"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 192
+      "total_frequency": 5
     },
     {
       "rank": 1147,
       "book": 1,
       "book_rank": 1147,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 193,
       "lemma": "armatus",
       "headword": "armatus, a, um",
       "pos": "Adjective",
@@ -3862,16 +4060,17 @@
         "surface_form": "armatos"
       },
       "book_frequency": 1,
-      "total_frequency": 22,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 193
+      "total_frequency": 22
     },
     {
       "rank": 1148,
       "book": 1,
       "book_rank": 1148,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 194,
       "lemma": "plerumque",
       "headword": "plerumque, adv.",
       "pos": "Adverb",
@@ -3882,16 +4081,17 @@
         "surface_form": "plerumque"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 194
+      "total_frequency": 18
     },
     {
       "rank": 1149,
       "book": 1,
       "book_rank": 1149,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 195,
       "lemma": "diuturnitas",
       "headword": "diuturnitas, atis, f.",
       "pos": "Noun",
@@ -3902,16 +4102,17 @@
         "surface_form": "diuturnitate"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 195
+      "total_frequency": 3
     },
     {
       "rank": 1150,
       "book": 1,
       "book_rank": 1150,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 196,
       "lemma": "defatigo",
       "headword": "defatigo, as, are",
       "pos": "Verb",
@@ -3922,16 +4123,17 @@
         "surface_form": "defatigatis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 196
+      "total_frequency": 4
     },
     {
       "rank": 1151,
       "book": 1,
       "book_rank": 1151,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 197,
       "lemma": "palus",
       "headword": "palus, udis, f.",
       "pos": "Noun",
@@ -3942,16 +4144,17 @@
         "surface_form": "paludibus"
       },
       "book_frequency": 1,
-      "total_frequency": 33,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 197
+      "total_frequency": 33
     },
     {
       "rank": 1152,
       "book": 1,
       "book_rank": 1152,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 198,
       "lemma": "dispergo",
       "headword": "dispergo, is, ere, spersi, spersum",
       "pos": "Verb",
@@ -3962,16 +4165,17 @@
         "surface_form": "dispersos"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 198
+      "total_frequency": 15
     },
     {
       "rank": 1153,
       "book": 1,
       "book_rank": 1153,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 199,
       "lemma": "imperitus",
       "headword": "imperitus, a, um",
       "pos": "Adjective",
@@ -3982,16 +4186,17 @@
         "surface_form": "imperitos"
       },
       "book_frequency": 2,
-      "total_frequency": 10,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 199
+      "total_frequency": 10
     },
     {
       "rank": 1154,
       "book": 1,
       "book_rank": 1154,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 200,
       "lemma": "simulatio",
       "headword": "simulatio, onis, f.",
       "pos": "Noun",
@@ -4002,16 +4207,17 @@
         "surface_form": "simulationem"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 200
+      "total_frequency": 9
     },
     {
       "rank": 1155,
       "book": 1,
       "book_rank": 1155,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 201,
       "lemma": "adroganter",
       "headword": "adroganter, adv.",
       "pos": "Adverb",
@@ -4022,16 +4228,17 @@
         "surface_form": "arroganter"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 201
+      "total_frequency": 1
     },
     {
       "rank": 1156,
       "book": 1,
       "book_rank": 1156,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 202,
       "lemma": "Leuci",
       "headword": "Leuci, orum, m.",
       "pos": "Noun",
@@ -4042,16 +4249,17 @@
         "surface_form": "Leucos"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 202
+      "total_frequency": 1
     },
     {
       "rank": 1157,
       "book": 1,
       "book_rank": 1157,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 203,
       "lemma": "subministro",
       "headword": "subministro, as, are",
       "pos": "Verb",
@@ -4062,16 +4270,17 @@
         "surface_form": "subministrare"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 203
+      "total_frequency": 3
     },
     {
       "rank": 1158,
       "book": 1,
       "book_rank": 1158,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 204,
       "lemma": "brevis",
       "headword": "brevis, e",
       "pos": "Noun",
@@ -4082,16 +4291,17 @@
         "surface_form": "brevi"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 204
+      "total_frequency": 8
     },
     {
       "rank": 1159,
       "book": 1,
       "book_rank": 1159,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 205,
       "lemma": "quibuscum",
       "headword": "quibuscum, pron. contr.",
       "pos": "Word",
@@ -4102,16 +4312,17 @@
         "surface_form": "quibuscum"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 205
+      "total_frequency": 4
     },
     {
       "rank": 1160,
       "book": 1,
       "book_rank": 1160,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 206,
       "lemma": "desum",
       "headword": "desum, es, esse, defui",
       "pos": "Verb",
@@ -4122,16 +4333,17 @@
         "surface_form": "defuisse"
       },
       "book_frequency": 2,
-      "total_frequency": 15,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 206
+      "total_frequency": 15
     },
     {
       "rank": 1161,
       "book": 1,
       "book_rank": 1161,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 207,
       "lemma": "facinus",
       "headword": "facinus, oris, n.",
       "pos": "Noun",
@@ -4142,16 +4354,17 @@
         "surface_form": "facinore"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 207
+      "total_frequency": 9
     },
     {
       "rank": 1162,
       "book": 1,
       "book_rank": 1162,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 208,
       "lemma": "auaritia",
       "headword": "auaritia",
       "pos": "Word",
@@ -4162,16 +4375,17 @@
         "surface_form": "avaritiam"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 208
+      "total_frequency": 2
     },
     {
       "rank": 1163,
       "book": 1,
       "book_rank": 1163,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 209,
       "lemma": "convinco",
       "headword": "convinco, is, ere, uici, uictum",
       "pos": "Verb",
@@ -4182,16 +4396,17 @@
         "surface_form": "convictam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 209
+      "total_frequency": 1
     },
     {
       "rank": 1164,
       "book": 1,
       "book_rank": 1164,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 210,
       "lemma": "Sue",
       "headword": "Sue",
       "pos": "Word",
@@ -4202,16 +4417,17 @@
         "surface_form": "Suam"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 210
+      "total_frequency": 2
     },
     {
       "rank": 1165,
       "book": 1,
       "book_rank": 1165,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 211,
       "lemma": "innocentia",
       "headword": "innocentia, ae, f.",
       "pos": "Noun",
@@ -4222,16 +4438,17 @@
         "surface_form": "innocentiam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 211
+      "total_frequency": 1
     },
     {
       "rank": 1166,
       "book": 1,
       "book_rank": 1166,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 212,
       "lemma": "felicitas",
       "headword": "felicitas, atis, f.",
       "pos": "Noun",
@@ -4242,16 +4459,17 @@
         "surface_form": "felicitatem"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 212
+      "total_frequency": 4
     },
     {
       "rank": 1167,
       "book": 1,
       "book_rank": 1167,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 213,
       "lemma": "repraesento",
       "headword": "repraesento, as, are",
       "pos": "Verb",
@@ -4262,16 +4480,17 @@
         "surface_form": "repraesentaturum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 213
+      "total_frequency": 1
     },
     {
       "rank": 1168,
       "book": 1,
       "book_rank": 1168,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 214,
       "lemma": "utrum",
       "headword": "utrum, ūtrum",
       "pos": "Adverb",
@@ -4282,16 +4501,17 @@
         "surface_form": "utrum"
       },
       "book_frequency": 3,
-      "total_frequency": 8,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 214
+      "total_frequency": 8
     },
     {
       "rank": 1169,
       "book": 1,
       "book_rank": 1169,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 215,
       "lemma": "an",
       "headword": "an, conj.",
       "pos": "Noun",
@@ -4302,16 +4522,17 @@
         "surface_form": "an"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 215
+      "total_frequency": 11
     },
     {
       "rank": 1170,
       "book": 1,
       "book_rank": 1170,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 216,
       "lemma": "decimus",
       "headword": "decimus, a, um",
       "pos": "Noun",
@@ -4322,16 +4543,17 @@
         "surface_form": "decima"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 216
+      "total_frequency": 16
     },
     {
       "rank": 1171,
       "book": 1,
       "book_rank": 1171,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 217,
       "lemma": "praetorius",
       "headword": "praetorius, a, um",
       "pos": "Noun",
@@ -4342,16 +4564,17 @@
         "surface_form": "praetoriam"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 217
+      "total_frequency": 2
     },
     {
       "rank": 1172,
       "book": 1,
       "book_rank": 1172,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 218,
       "lemma": "cohors",
       "headword": "cohors, ortis, f.",
       "pos": "Noun",
@@ -4362,16 +4585,17 @@
         "surface_form": "cohortem"
       },
       "book_frequency": 2,
-      "total_frequency": 53,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 218
+      "total_frequency": 53
     },
     {
       "rank": 1173,
       "book": 1,
       "book_rank": 1173,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 219,
       "lemma": "indulgeo",
       "headword": "indulgeo, es, ere, dulsi, dultum",
       "pos": "Verb",
@@ -4382,16 +4606,17 @@
         "surface_form": "indulserat"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 219
+      "total_frequency": 2
     },
     {
       "rank": 1174,
       "book": 1,
       "book_rank": 1174,
       "stage": "Book 1 Chunk 5",
+      "stage_id": "1.5",
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 220,
       "lemma": "praecipue",
       "headword": "praecipue, adv.",
       "pos": "Adverb",
@@ -4402,10 +4627,7 @@
         "surface_form": "praecipue"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 5,
-      "chunk_title": "The German Threat & Mutiny at Vesontio",
-      "chunk_rank": 220
+      "total_frequency": 3
     }
   ]
 }

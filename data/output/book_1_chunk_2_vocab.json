@@ -1,17 +1,23 @@
 {
   "book": 1,
+  "stage": "Book 1 Chunk 2",
+  "stage_id": "1.2",
   "chunk": 2,
-  "title": "Helvetian Departure & Defense of the Rhone",
+  "title": "Helvetian Migration & Defense of the Rhone",
   "chapters": "Chapters 5–11",
   "running_tokens": 887,
   "new_word_count": 226,
-  "cumulative_book_1_words": 487,
+  "cumulative_words": 487,
   "words": [
     {
       "rank": 262,
       "book": 1,
       "book_rank": 262,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 1,
       "lemma": "post",
       "headword": "post, adv, prep. (+ acc.)",
       "pos": "Adverb",
@@ -22,16 +28,17 @@
         "surface_form": "Post"
       },
       "book_frequency": 2,
-      "total_frequency": 42,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 1
+      "total_frequency": 42
     },
     {
       "rank": 263,
       "book": 1,
       "book_rank": 263,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 2,
       "lemma": "nihilum",
       "headword": "nihilum, i, n.",
       "pos": "Noun",
@@ -42,16 +49,17 @@
         "surface_form": "nihilo"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 2
+      "total_frequency": 7
     },
     {
       "rank": 264,
       "book": 1,
       "book_rank": 264,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 3,
       "lemma": "e",
       "headword": "e, prep. (+ abl.)",
       "pos": "Preposition",
@@ -62,16 +70,17 @@
         "surface_form": "e"
       },
       "book_frequency": 5,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 3
+      "total_frequency": 17
     },
     {
       "rank": 265,
       "book": 1,
       "book_rank": 265,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 4,
       "lemma": "ubi",
       "headword": "ubi, adv. interr. ou rel.",
       "pos": "Adverb",
@@ -82,16 +91,17 @@
         "surface_form": "Ubi"
       },
       "book_frequency": 12,
-      "total_frequency": 58,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 4
+      "total_frequency": 58
     },
     {
       "rank": 266,
       "book": 1,
       "book_rank": 266,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 5,
       "lemma": "iam",
       "headword": "iam",
       "pos": "Word",
@@ -102,16 +112,17 @@
         "surface_form": "iam"
       },
       "book_frequency": 8,
-      "total_frequency": 72,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 5
+      "total_frequency": 72
     },
     {
       "rank": 267,
       "book": 1,
       "book_rank": 267,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 6,
       "lemma": "paratus",
       "headword": "paratus, us, m.",
       "pos": "Noun",
@@ -122,16 +133,17 @@
         "surface_form": "paratos"
       },
       "book_frequency": 4,
-      "total_frequency": 19,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 6
+      "total_frequency": 19
     },
     {
       "rank": 268,
       "book": 1,
       "book_rank": 268,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 7,
       "lemma": "oppidum",
       "headword": "oppidum, i, n.",
       "pos": "Noun",
@@ -142,16 +154,17 @@
         "surface_form": "oppida"
       },
       "book_frequency": 15,
-      "total_frequency": 155,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 7
+      "total_frequency": 155
     },
     {
       "rank": 269,
       "book": 1,
       "book_rank": 269,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 8,
       "lemma": "duodecim",
       "headword": "duodecim, num.",
       "pos": "Word",
@@ -162,16 +175,17 @@
         "surface_form": "duodecim"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 8
+      "total_frequency": 4
     },
     {
       "rank": 270,
       "book": 1,
       "book_rank": 270,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 9,
       "lemma": "vicus",
       "headword": "vicus, i, m.",
       "pos": "Noun",
@@ -182,16 +196,17 @@
         "surface_form": "vicos"
       },
       "book_frequency": 3,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 9
+      "total_frequency": 9
     },
     {
       "rank": 271,
       "book": 1,
       "book_rank": 271,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 10,
       "lemma": "quadringentus",
       "headword": "quadringentus, cf. quadringenti",
       "pos": "Word",
@@ -202,16 +217,17 @@
         "surface_form": "quadringentos"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 10
+      "total_frequency": 3
     },
     {
       "rank": 272,
       "book": 1,
       "book_rank": 272,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 11,
       "lemma": "priuo",
       "headword": "priuo",
       "pos": "Word",
@@ -222,16 +238,17 @@
         "surface_form": "privata"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 11
+      "total_frequency": 9
     },
     {
       "rank": 273,
       "book": 1,
       "book_rank": 273,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 12,
       "lemma": "aedificium",
       "headword": "aedificium, ii, n.",
       "pos": "Noun",
@@ -242,16 +259,17 @@
         "surface_form": "aedificia"
       },
       "book_frequency": 1,
-      "total_frequency": 22,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 12
+      "total_frequency": 22
     },
     {
       "rank": 274,
       "book": 1,
       "book_rank": 274,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 13,
       "lemma": "incendo",
       "headword": "incendo, is, ere, cendi, censum",
       "pos": "Verb",
@@ -262,16 +280,17 @@
         "surface_form": "incendunt"
       },
       "book_frequency": 2,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 13
+      "total_frequency": 23
     },
     {
       "rank": 275,
       "book": 1,
       "book_rank": 275,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 14,
       "lemma": "praeter",
       "headword": "praeter, conj. coord., prep. (+ acc.)",
       "pos": "Preposition",
@@ -282,16 +301,17 @@
         "surface_form": "praeter"
       },
       "book_frequency": 4,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 14
+      "total_frequency": 16
     },
     {
       "rank": 276,
       "book": 1,
       "book_rank": 276,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 15,
       "lemma": "porto",
       "headword": "porto, as, are",
       "pos": "Verb",
@@ -302,16 +322,17 @@
         "surface_form": "portaturi"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 15
+      "total_frequency": 5
     },
     {
       "rank": 277,
       "book": 1,
       "book_rank": 277,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 16,
       "lemma": "comburo",
       "headword": "comburo, is, ere, ussi, ustum",
       "pos": "Verb",
@@ -322,16 +343,17 @@
         "surface_form": "comburunt"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 16
+      "total_frequency": 1
     },
     {
       "rank": 278,
       "book": 1,
       "book_rank": 278,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 17,
       "lemma": "domus",
       "headword": "domus, us ou i, f.",
       "pos": "Noun",
@@ -342,16 +364,17 @@
         "surface_form": "domum"
       },
       "book_frequency": 15,
-      "total_frequency": 33,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 17
+      "total_frequency": 33
     },
     {
       "rank": 279,
       "book": 1,
       "book_rank": 279,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 18,
       "lemma": "reditio",
       "headword": "reditio, ōnis, f.",
       "pos": "Noun",
@@ -362,16 +385,17 @@
         "surface_form": "reditionis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 18
+      "total_frequency": 1
     },
     {
       "rank": 280,
       "book": 1,
       "book_rank": 280,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 19,
       "lemma": "spes",
       "headword": "spes, ei, f.",
       "pos": "Noun",
@@ -382,16 +406,17 @@
         "surface_form": "spe"
       },
       "book_frequency": 10,
-      "total_frequency": 59,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 19
+      "total_frequency": 59
     },
     {
       "rank": 281,
       "book": 1,
       "book_rank": 281,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 20,
       "lemma": "tollo",
       "headword": "tollo, is, tollere, sustuli, sublatum",
       "pos": "Verb",
@@ -402,16 +427,17 @@
         "surface_form": "sublata"
       },
       "book_frequency": 4,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 20
+      "total_frequency": 23
     },
     {
       "rank": 282,
       "book": 1,
       "book_rank": 282,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 21,
       "lemma": "periculum",
       "headword": "periculum, i, n.",
       "pos": "Noun",
@@ -422,16 +448,17 @@
         "surface_form": "pericula"
       },
       "book_frequency": 10,
-      "total_frequency": 74,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 21
+      "total_frequency": 74
     },
     {
       "rank": 283,
       "book": 1,
       "book_rank": 283,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 22,
       "lemma": "subeo",
       "headword": "subeo, is, ire, ii, itum",
       "pos": "Verb",
@@ -442,16 +469,17 @@
         "surface_form": "subeunda"
       },
       "book_frequency": 4,
-      "total_frequency": 42,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 22
+      "total_frequency": 42
     },
     {
       "rank": 284,
       "book": 1,
       "book_rank": 284,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 23,
       "lemma": "mensis",
       "headword": "mensis, is, m.",
       "pos": "Noun",
@@ -462,16 +490,17 @@
         "surface_form": "mensum"
       },
       "book_frequency": 3,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 23
+      "total_frequency": 4
     },
     {
       "rank": 285,
       "book": 1,
       "book_rank": 285,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 24,
       "lemma": "molior",
       "headword": "molior, iris, iri, itus sum",
       "pos": "Verb",
@@ -482,16 +511,17 @@
         "surface_form": "molita"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 24
+      "total_frequency": 1
     },
     {
       "rank": 286,
       "book": 1,
       "book_rank": 286,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 25,
       "lemma": "cibarium",
       "headword": "cibarium, ii, n.",
       "pos": "Noun",
@@ -502,16 +532,17 @@
         "surface_form": "cibaria"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 25
+      "total_frequency": 3
     },
     {
       "rank": 287,
       "book": 1,
       "book_rank": 287,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 26,
       "lemma": "quis",
       "headword": "quis, quid",
       "pos": "Interrogative Pronoun",
@@ -522,16 +553,17 @@
         "surface_form": "quemque"
       },
       "book_frequency": 25,
-      "total_frequency": 155,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 26
+      "total_frequency": 155
     },
     {
       "rank": 288,
       "book": 1,
       "book_rank": 288,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 27,
       "lemma": "effero",
       "headword": "effero, fers, ferre, extuli, elatum",
       "pos": "Verb",
@@ -542,16 +574,17 @@
         "surface_form": "efferre"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 27
+      "total_frequency": 6
     },
     {
       "rank": 289,
       "book": 1,
       "book_rank": 289,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 28,
       "lemma": "iubeo",
       "headword": "iubeo",
       "pos": "Word",
@@ -562,16 +595,17 @@
         "surface_form": "iubent"
       },
       "book_frequency": 9,
-      "total_frequency": 86,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 28
+      "total_frequency": 86
     },
     {
       "rank": 290,
       "book": 1,
       "book_rank": 290,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 29,
       "lemma": "Rauraci",
       "headword": "Rauraci, orum, m.",
       "pos": "Noun",
@@ -582,16 +616,17 @@
         "surface_form": "Rauracis"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 29
+      "total_frequency": 4
     },
     {
       "rank": 291,
       "book": 1,
       "book_rank": 291,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 30,
       "lemma": "Tulingi",
       "headword": "Tulingi, orum, m. pl.",
       "pos": "Noun",
@@ -602,16 +637,17 @@
         "surface_form": "Tulingis"
       },
       "book_frequency": 4,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 30
+      "total_frequency": 4
     },
     {
       "rank": 292,
       "book": 1,
       "book_rank": 292,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 31,
       "lemma": "Latobrigi",
       "headword": "Latobrigi, orum, m. pl.",
       "pos": "Noun",
@@ -622,16 +658,17 @@
         "surface_form": "Latobrigis"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 31
+      "total_frequency": 3
     },
     {
       "rank": 293,
       "book": 1,
       "book_rank": 293,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 32,
       "lemma": "utor",
       "headword": "utor, eris, i, usus sum",
       "pos": "Conjunction",
@@ -642,16 +679,17 @@
         "surface_form": "uti"
       },
       "book_frequency": 38,
-      "total_frequency": 133,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 32
+      "total_frequency": 133
     },
     {
       "rank": 294,
       "book": 1,
       "book_rank": 294,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 33,
       "lemma": "consilium",
       "headword": "consilium, ii, n.",
       "pos": "Noun",
@@ -662,16 +700,17 @@
         "surface_form": "consilio"
       },
       "book_frequency": 12,
-      "total_frequency": 149,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 33
+      "total_frequency": 149
     },
     {
       "rank": 295,
       "book": 1,
       "book_rank": 295,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 34,
       "lemma": "vix",
       "headword": "vix, adv.",
       "pos": "Adverb",
@@ -682,16 +721,17 @@
         "surface_form": "vicis"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 34
+      "total_frequency": 12
     },
     {
       "rank": 296,
       "book": 1,
       "book_rank": 296,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 35,
       "lemma": "exuro",
       "headword": "exuro, is, ere, ussi, ustum",
       "pos": "Verb",
@@ -702,16 +742,17 @@
         "surface_form": "exustis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 35
+      "total_frequency": 1
     },
     {
       "rank": 297,
       "book": 1,
       "book_rank": 297,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 36,
       "lemma": "Boii",
       "headword": "Boii",
       "pos": "Word",
@@ -722,16 +763,17 @@
         "surface_form": "Boios"
       },
       "book_frequency": 3,
-      "total_frequency": 8,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 36
+      "total_frequency": 8
     },
     {
       "rank": 298,
       "book": 1,
       "book_rank": 298,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 37,
       "lemma": "Noricus",
       "headword": "Noricus, a, um",
       "pos": "Adjective",
@@ -742,16 +784,17 @@
         "surface_form": "Noricum"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 37
+      "total_frequency": 2
     },
     {
       "rank": 299,
       "book": 1,
       "book_rank": 299,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 38,
       "lemma": "transeo",
       "headword": "transeo, is, ire, ii, itum",
       "pos": "Verb",
@@ -762,16 +805,17 @@
         "surface_form": "transierant"
       },
       "book_frequency": 15,
-      "total_frequency": 75,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 38
+      "total_frequency": 75
     },
     {
       "rank": 300,
       "book": 1,
       "book_rank": 300,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 39,
       "lemma": "Noreia",
       "headword": "Noreia, ae, f.",
       "pos": "Noun",
@@ -782,16 +826,17 @@
         "surface_form": "Noreiam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 39
+      "total_frequency": 1
     },
     {
       "rank": 301,
       "book": 1,
       "book_rank": 301,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 40,
       "lemma": "oppugno",
       "headword": "oppugno, as, are",
       "pos": "Verb",
@@ -802,16 +847,17 @@
         "surface_form": "oppugnabant"
       },
       "book_frequency": 4,
-      "total_frequency": 27,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 40
+      "total_frequency": 27
     },
     {
       "rank": 302,
       "book": 1,
       "book_rank": 302,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 41,
       "lemma": "recipio",
       "headword": "recipio, is, ere, cepi, ceptum",
       "pos": "Verb",
@@ -822,16 +868,17 @@
         "surface_form": "receptos"
       },
       "book_frequency": 10,
-      "total_frequency": 92,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 41
+      "total_frequency": 92
     },
     {
       "rank": 303,
       "book": 1,
       "book_rank": 303,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 42,
       "lemma": "socius",
       "headword": "socius, a, um",
       "pos": "Noun",
@@ -842,16 +889,17 @@
         "surface_form": "socios"
       },
       "book_frequency": 9,
-      "total_frequency": 13,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 42
+      "total_frequency": 13
     },
     {
       "rank": 304,
       "book": 1,
       "book_rank": 304,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 43,
       "lemma": "ascisco",
       "headword": "ascisco, is, ere, iui, itum",
       "pos": "Verb",
@@ -862,16 +910,17 @@
         "surface_form": "adsciscunt"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 43
+      "total_frequency": 3
     },
     {
       "rank": 305,
       "book": 1,
       "book_rank": 305,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 44,
       "lemma": "omnino",
       "headword": "omnino, adv.",
       "pos": "Adverb",
@@ -882,16 +931,17 @@
         "surface_form": "omnino"
       },
       "book_frequency": 7,
-      "total_frequency": 21,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 44
+      "total_frequency": 21
     },
     {
       "rank": 306,
       "book": 1,
       "book_rank": 306,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 45,
       "lemma": "duo",
       "headword": "duo, duae, duo",
       "pos": "Numeral Adjective",
@@ -902,16 +952,17 @@
         "surface_form": "duo"
       },
       "book_frequency": 12,
-      "total_frequency": 98,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 45
+      "total_frequency": 98
     },
     {
       "rank": 307,
       "book": 1,
       "book_rank": 307,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 46,
       "lemma": "difficilis",
       "headword": "difficilis, e",
       "pos": "Adjective",
@@ -922,16 +973,17 @@
         "surface_form": "difficile"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 46
+      "total_frequency": 12
     },
     {
       "rank": 308,
       "book": 1,
       "book_rank": 308,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 47,
       "lemma": "singulus",
       "headword": "singulus, cf. singuli",
       "pos": "Adjective",
@@ -942,16 +994,17 @@
         "surface_form": "singuli"
       },
       "book_frequency": 5,
-      "total_frequency": 39,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 47
+      "total_frequency": 39
     },
     {
       "rank": 309,
       "book": 1,
       "book_rank": 309,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 48,
       "lemma": "impendo",
       "headword": "impendo, is, ere, pendi, pensum",
       "pos": "Verb",
@@ -962,16 +1015,17 @@
         "surface_form": "impendebat"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 48
+      "total_frequency": 3
     },
     {
       "rank": 310,
       "book": 1,
       "book_rank": 310,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 49,
       "lemma": "perpaucus",
       "headword": "perpaucus, cf. perpauci",
       "pos": "Noun",
@@ -982,16 +1036,17 @@
         "surface_form": "perpauci"
       },
       "book_frequency": 2,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 49
+      "total_frequency": 7
     },
     {
       "rank": 311,
       "book": 1,
       "book_rank": 311,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 50,
       "lemma": "expeditus",
       "headword": "expeditus, a, um",
       "pos": "Adjective",
@@ -1002,16 +1057,17 @@
         "surface_form": "expeditius"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 50
+      "total_frequency": 4
     },
     {
       "rank": 312,
       "book": 1,
       "book_rank": 312,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 51,
       "lemma": "Allobroges",
       "headword": "Allobroges, um, m. pl.",
       "pos": "Noun",
@@ -1022,16 +1078,17 @@
         "surface_form": "Allobrogum"
       },
       "book_frequency": 11,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 51
+      "total_frequency": 16
     },
     {
       "rank": 313,
       "book": 1,
       "book_rank": 313,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 52,
       "lemma": "nuper",
       "headword": "nuper, adv.",
       "pos": "Adverb",
@@ -1042,16 +1099,17 @@
         "surface_form": "nuper"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 52
+      "total_frequency": 5
     },
     {
       "rank": 314,
       "book": 1,
       "book_rank": 314,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 53,
       "lemma": "pacatus",
       "headword": "pacatus, a, um",
       "pos": "Noun",
@@ -1062,16 +1120,17 @@
         "surface_form": "pacati"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 53
+      "total_frequency": 10
     },
     {
       "rank": 315,
       "book": 1,
       "book_rank": 315,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 54,
       "lemma": "fluo",
       "headword": "fluo, is, ere, fluxi, fluxum",
       "pos": "Verb",
@@ -1082,16 +1141,17 @@
         "surface_form": "fluit"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 54
+      "total_frequency": 2
     },
     {
       "rank": 316,
       "book": 1,
       "book_rank": 316,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 55,
       "lemma": "nullus",
       "headword": "nullus, a, um",
       "pos": "Adjective",
@@ -1102,16 +1162,17 @@
         "surface_form": "nullis"
       },
       "book_frequency": 8,
-      "total_frequency": 83,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 55
+      "total_frequency": 83
     },
     {
       "rank": 317,
       "book": 1,
       "book_rank": 317,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 56,
       "lemma": "vadum",
       "headword": "vadum, i, n.",
       "pos": "Noun",
@@ -1122,16 +1183,17 @@
         "surface_form": "vado"
       },
       "book_frequency": 2,
-      "total_frequency": 13,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 56
+      "total_frequency": 13
     },
     {
       "rank": 318,
       "book": 1,
       "book_rank": 318,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 57,
       "lemma": "Genaua",
       "headword": "Genaua",
       "pos": "Word",
@@ -1142,16 +1204,17 @@
         "surface_form": "Genava"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 57
+      "total_frequency": 3
     },
     {
       "rank": 319,
       "book": 1,
       "book_rank": 319,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 58,
       "lemma": "pons",
       "headword": "pons, pontis, m.",
       "pos": "Noun",
@@ -1162,16 +1225,17 @@
         "surface_form": "pons"
       },
       "book_frequency": 3,
-      "total_frequency": 38,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 58
+      "total_frequency": 38
     },
     {
       "rank": 320,
       "book": 1,
       "book_rank": 320,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 59,
       "lemma": "uel",
       "headword": "uel",
       "pos": "Word",
@@ -1182,16 +1246,17 @@
         "surface_form": "vel"
       },
       "book_frequency": 7,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 59
+      "total_frequency": 17
     },
     {
       "rank": 321,
       "book": 1,
       "book_rank": 321,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 60,
       "lemma": "nondum",
       "headword": "nondum, adv.",
       "pos": "Adverb",
@@ -1202,16 +1267,17 @@
         "surface_form": "nondum"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 60
+      "total_frequency": 11
     },
     {
       "rank": 322,
       "book": 1,
       "book_rank": 322,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 61,
       "lemma": "bonus",
       "headword": "bonus, a, um",
       "pos": "Adjective",
@@ -1222,16 +1288,17 @@
         "surface_form": "bono"
       },
       "book_frequency": 5,
-      "total_frequency": 22,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 61
+      "total_frequency": 22
     },
     {
       "rank": 323,
       "book": 1,
       "book_rank": 323,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 62,
       "lemma": "video",
       "headword": "video, es, ere, uidi, uisum",
       "pos": "Verb",
@@ -1242,16 +1309,17 @@
         "surface_form": "viderentur"
       },
       "book_frequency": 13,
-      "total_frequency": 141,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 62
+      "total_frequency": 141
     },
     {
       "rank": 324,
       "book": 1,
       "book_rank": 324,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 63,
       "lemma": "existimo",
       "headword": "existimo, as, are",
       "pos": "Verb",
@@ -1262,16 +1330,17 @@
         "surface_form": "existimabant"
       },
       "book_frequency": 13,
-      "total_frequency": 96,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 63
+      "total_frequency": 96
     },
     {
       "rank": 325,
       "book": 1,
       "book_rank": 325,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 64,
       "lemma": "eo",
       "headword": "eo, is, ire, iui, itum",
       "pos": "Verb",
@@ -1282,16 +1351,17 @@
         "surface_form": "ire"
       },
       "book_frequency": 10,
-      "total_frequency": 26,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 64
+      "total_frequency": 26
     },
     {
       "rank": 326,
       "book": 1,
       "book_rank": 326,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 65,
       "lemma": "patior",
       "headword": "patior, eris, i, passus sum",
       "pos": "Verb",
@@ -1302,16 +1372,17 @@
         "surface_form": "paterentur"
       },
       "book_frequency": 8,
-      "total_frequency": 40,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 65
+      "total_frequency": 40
     },
     {
       "rank": 327,
       "book": 1,
       "book_rank": 327,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 66,
       "lemma": "dies",
       "headword": "dies, ei, m. et f.",
       "pos": "Noun",
@@ -1322,16 +1393,17 @@
         "surface_form": "diem"
       },
       "book_frequency": 36,
-      "total_frequency": 198,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 66
+      "total_frequency": 198
     },
     {
       "rank": 328,
       "book": 1,
       "book_rank": 328,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 67,
       "lemma": "ripa",
       "headword": "ripa, ae, f.",
       "pos": "Noun",
@@ -1342,16 +1414,17 @@
         "surface_form": "ripam"
       },
       "book_frequency": 5,
-      "total_frequency": 19,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 67
+      "total_frequency": 19
     },
     {
       "rank": 329,
       "book": 1,
       "book_rank": 329,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 68,
       "lemma": "convenio",
       "headword": "convenio, is, ire, ueni, uentum",
       "pos": "Verb",
@@ -1362,16 +1435,17 @@
         "surface_form": "conveniant"
       },
       "book_frequency": 8,
-      "total_frequency": 75,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 68
+      "total_frequency": 75
     },
     {
       "rank": 330,
       "book": 1,
       "book_rank": 330,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 69,
       "lemma": "Kal",
       "headword": "Kal, n.",
       "pos": "Noun",
@@ -1382,16 +1456,17 @@
         "surface_form": "Kal"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 69
+      "total_frequency": 2
     },
     {
       "rank": 331,
       "book": 1,
       "book_rank": 331,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 70,
       "lemma": "Apr",
       "headword": "Apr, contr.",
       "pos": "Noun",
@@ -1402,16 +1477,17 @@
         "surface_form": "Apr"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 70
+      "total_frequency": 1
     },
     {
       "rank": 332,
       "book": 1,
       "book_rank": 332,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 71,
       "lemma": "Gabinius",
       "headword": "Gabinius, i, m.",
       "pos": "Proper Noun",
@@ -1422,16 +1498,17 @@
         "surface_form": "Gabinio"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 71
+      "total_frequency": 1
     },
     {
       "rank": 333,
       "book": 1,
       "book_rank": 333,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 72,
       "lemma": "Caesar",
       "headword": "Caesar, Caesaris, m.",
       "pos": "Proper Noun",
@@ -1442,16 +1519,17 @@
         "surface_form": "Caesari"
       },
       "book_frequency": 87,
-      "total_frequency": 490,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 72
+      "total_frequency": 490
     },
     {
       "rank": 334,
       "book": 1,
       "book_rank": 334,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 73,
       "lemma": "nuntio",
       "headword": "nuntio, a, are",
       "pos": "Verb",
@@ -1462,16 +1540,17 @@
         "surface_form": "nuntiatum"
       },
       "book_frequency": 6,
-      "total_frequency": 34,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 73
+      "total_frequency": 34
     },
     {
       "rank": 335,
       "book": 1,
       "book_rank": 335,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 74,
       "lemma": "maturo",
       "headword": "maturo, as, are",
       "pos": "Verb",
@@ -1482,16 +1561,17 @@
         "surface_form": "maturat"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 74
+      "total_frequency": 4
     },
     {
       "rank": 336,
       "book": 1,
       "book_rank": 336,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 75,
       "lemma": "urbs",
       "headword": "urbs, urbis, f.",
       "pos": "Noun",
@@ -1502,16 +1582,17 @@
         "surface_form": "urbe"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 75
+      "total_frequency": 9
     },
     {
       "rank": 337,
       "book": 1,
       "book_rank": 337,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 76,
       "lemma": "ulterior",
       "headword": "ulterior, oris",
       "pos": "Word",
@@ -1522,16 +1603,17 @@
         "surface_form": "ulteriorem"
       },
       "book_frequency": 4,
-      "total_frequency": 10,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 76
+      "total_frequency": 10
     },
     {
       "rank": 338,
       "book": 1,
       "book_rank": 338,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 77,
       "lemma": "pervenio",
       "headword": "pervenio, is, ire, ueni, uentum",
       "pos": "Verb",
@@ -1542,16 +1624,17 @@
         "surface_form": "pervenit"
       },
       "book_frequency": 8,
-      "total_frequency": 60,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 77
+      "total_frequency": 60
     },
     {
       "rank": 339,
       "book": 1,
       "book_rank": 339,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 78,
       "lemma": "Provincia",
       "headword": "Provincia, ae, f.",
       "pos": "Noun",
@@ -1562,16 +1645,17 @@
         "surface_form": "Provinciae"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 78
+      "total_frequency": 2
     },
     {
       "rank": 340,
       "book": 1,
       "book_rank": 340,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 79,
       "lemma": "totum",
       "headword": "totum, i, n.",
       "pos": "Noun",
@@ -1582,16 +1666,17 @@
         "surface_form": "toti"
       },
       "book_frequency": 7,
-      "total_frequency": 30,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 79
+      "total_frequency": 30
     },
     {
       "rank": 341,
       "book": 1,
       "book_rank": 341,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 80,
       "lemma": "miles",
       "headword": "miles, itis, m.",
       "pos": "Noun",
@@ -1602,16 +1687,17 @@
         "surface_form": "militum"
       },
       "book_frequency": 17,
-      "total_frequency": 177,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 80
+      "total_frequency": 177
     },
     {
       "rank": 342,
       "book": 1,
       "book_rank": 342,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 81,
       "lemma": "impero",
       "headword": "impero, as, are",
       "pos": "Verb",
@@ -1622,16 +1708,17 @@
         "surface_form": "imperat"
       },
       "book_frequency": 9,
-      "total_frequency": 76,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 81
+      "total_frequency": 76
     },
     {
       "rank": 343,
       "book": 1,
       "book_rank": 343,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 82,
       "lemma": "legio",
       "headword": "legio, onis, f.",
       "pos": "Noun",
@@ -1642,16 +1729,17 @@
         "surface_form": "legio"
       },
       "book_frequency": 20,
-      "total_frequency": 263,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 82
+      "total_frequency": 263
     },
     {
       "rank": 344,
       "book": 1,
       "book_rank": 344,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 83,
       "lemma": "rescindo",
       "headword": "rescindo, is, ere; scidi, scissum",
       "pos": "Verb",
@@ -1662,16 +1750,17 @@
         "surface_form": "rescindi"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 83
+      "total_frequency": 7
     },
     {
       "rank": 345,
       "book": 1,
       "book_rank": 345,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 84,
       "lemma": "adventus",
       "headword": "adventus, us, m.",
       "pos": "Noun",
@@ -1682,16 +1771,17 @@
         "surface_form": "adventu"
       },
       "book_frequency": 7,
-      "total_frequency": 57,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 84
+      "total_frequency": 57
     },
     {
       "rank": 346,
       "book": 1,
       "book_rank": 346,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 85,
       "lemma": "certus",
       "headword": "certus, a, um",
       "pos": "Noun",
@@ -1702,16 +1792,17 @@
         "surface_form": "certiores"
       },
       "book_frequency": 7,
-      "total_frequency": 60,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 85
+      "total_frequency": 60
     },
     {
       "rank": 347,
       "book": 1,
       "book_rank": 347,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 86,
       "lemma": "legatus",
       "headword": "legatus, i, m.",
       "pos": "Noun",
@@ -1722,16 +1813,17 @@
         "surface_form": "legatos"
       },
       "book_frequency": 23,
-      "total_frequency": 141,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 86
+      "total_frequency": 141
     },
     {
       "rank": 348,
       "book": 1,
       "book_rank": 348,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 87,
       "lemma": "mitto",
       "headword": "mitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -1742,16 +1834,17 @@
         "surface_form": "mittunt"
       },
       "book_frequency": 26,
-      "total_frequency": 195,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 87
+      "total_frequency": 195
     },
     {
       "rank": 349,
       "book": 1,
       "book_rank": 349,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 88,
       "lemma": "Nammeius",
       "headword": "Nammeius",
       "pos": "Word",
@@ -1762,16 +1855,17 @@
         "surface_form": "Nammeius"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 88
+      "total_frequency": 1
     },
     {
       "rank": 350,
       "book": 1,
       "book_rank": 350,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 89,
       "lemma": "Verucloetius",
       "headword": "Verucloetius",
       "pos": "Word",
@@ -1782,16 +1876,17 @@
         "surface_form": "Verucloetius"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 89
+      "total_frequency": 1
     },
     {
       "rank": 351,
       "book": 1,
       "book_rank": 351,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 90,
       "lemma": "princeps",
       "headword": "princeps, ipis, adj.",
       "pos": "Noun",
@@ -1802,16 +1897,17 @@
         "surface_form": "principem"
       },
       "book_frequency": 9,
-      "total_frequency": 59,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 90
+      "total_frequency": 59
     },
     {
       "rank": 352,
       "book": 1,
       "book_rank": 352,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 91,
       "lemma": "sine",
       "headword": "sine, prep. (+ abl.)",
       "pos": "Preposition",
@@ -1822,16 +1918,17 @@
         "surface_form": "sine"
       },
       "book_frequency": 12,
-      "total_frequency": 64,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 91
+      "total_frequency": 64
     },
     {
       "rank": 353,
       "book": 1,
       "book_rank": 353,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 92,
       "lemma": "ullus",
       "headword": "ullus, a, um",
       "pos": "Adjective",
@@ -1842,16 +1939,17 @@
         "surface_form": "ullo"
       },
       "book_frequency": 5,
-      "total_frequency": 34,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 92
+      "total_frequency": 34
     },
     {
       "rank": 354,
       "book": 1,
       "book_rank": 354,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 93,
       "lemma": "maleficium",
       "headword": "maleficium, i, n.",
       "pos": "Noun",
@@ -1862,16 +1960,17 @@
         "surface_form": "maleficio"
       },
       "book_frequency": 3,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 93
+      "total_frequency": 4
     },
     {
       "rank": 355,
       "book": 1,
       "book_rank": 355,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 94,
       "lemma": "rogo",
       "headword": "rogo, as, are",
       "pos": "Verb",
@@ -1882,16 +1981,17 @@
         "surface_form": "rogare"
       },
       "book_frequency": 5,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 94
+      "total_frequency": 9
     },
     {
       "rank": 356,
       "book": 1,
       "book_rank": 356,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 95,
       "lemma": "voluntas",
       "headword": "voluntas, atis, f.",
       "pos": "Noun",
@@ -1902,16 +2002,17 @@
         "surface_form": "voluntate"
       },
       "book_frequency": 10,
-      "total_frequency": 22,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 95
+      "total_frequency": 22
     },
     {
       "rank": 357,
       "book": 1,
       "book_rank": 357,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 96,
       "lemma": "liceo",
       "headword": "liceo, v. impers.",
       "pos": "Word",
@@ -1922,16 +2023,17 @@
         "surface_form": "liceat"
       },
       "book_frequency": 8,
-      "total_frequency": 20,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 96
+      "total_frequency": 20
     },
     {
       "rank": 358,
       "book": 1,
       "book_rank": 358,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 97,
       "lemma": "memoria",
       "headword": "memoria, ae, f.",
       "pos": "Noun",
@@ -1942,16 +2044,17 @@
         "surface_form": "memoria"
       },
       "book_frequency": 6,
-      "total_frequency": 22,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 97
+      "total_frequency": 22
     },
     {
       "rank": 359,
       "book": 1,
       "book_rank": 359,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 98,
       "lemma": "teneo",
       "headword": "teneo, es, ere, ui, tentum",
       "pos": "Verb",
@@ -1962,16 +2065,17 @@
         "surface_form": "tenebat"
       },
       "book_frequency": 13,
-      "total_frequency": 54,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 98
+      "total_frequency": 54
     },
     {
       "rank": 360,
       "book": 1,
       "book_rank": 360,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 99,
       "lemma": "Cassius",
       "headword": "Cassius, i, m.",
       "pos": "Noun",
@@ -1982,16 +2086,17 @@
         "surface_form": "Cassium"
       },
       "book_frequency": 3,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 99
+      "total_frequency": 4
     },
     {
       "rank": 361,
       "book": 1,
       "book_rank": 361,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 100,
       "lemma": "pello",
       "headword": "pello, is, ere, pepuli, pulsum",
       "pos": "Verb",
@@ -2002,16 +2107,17 @@
         "surface_form": "pulsum"
       },
       "book_frequency": 8,
-      "total_frequency": 24,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 100
+      "total_frequency": 24
     },
     {
       "rank": 362,
       "book": 1,
       "book_rank": 362,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 101,
       "lemma": "sub",
       "headword": "sub, prep. (+ acc.) / abl.",
       "pos": "Verb",
@@ -2022,16 +2128,17 @@
         "surface_form": "sub"
       },
       "book_frequency": 7,
-      "total_frequency": 42,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 101
+      "total_frequency": 42
     },
     {
       "rank": 363,
       "book": 1,
       "book_rank": 363,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 102,
       "lemma": "jugum",
       "headword": "jugum, i, n.",
       "pos": "Noun",
@@ -2042,16 +2149,17 @@
         "surface_form": "iugum"
       },
       "book_frequency": 4,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 102
+      "total_frequency": 16
     },
     {
       "rank": 364,
       "book": 1,
       "book_rank": 364,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 103,
       "lemma": "concedo",
       "headword": "concedo, is, ere, cessi, cessum",
       "pos": "Verb",
@@ -2062,16 +2170,17 @@
         "surface_form": "concedendum"
       },
       "book_frequency": 5,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 103
+      "total_frequency": 17
     },
     {
       "rank": 365,
       "book": 1,
       "book_rank": 365,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 104,
       "lemma": "puto",
       "headword": "puto, as, are",
       "pos": "Verb",
@@ -2082,16 +2191,17 @@
         "surface_form": "putabat"
       },
       "book_frequency": 7,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 104
+      "total_frequency": 23
     },
     {
       "rank": 366,
       "book": 1,
       "book_rank": 366,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 105,
       "lemma": "inimicus",
       "headword": "inimicus, a, um",
       "pos": "Adjective",
@@ -2102,16 +2212,17 @@
         "surface_form": "inimico"
       },
       "book_frequency": 2,
-      "total_frequency": 15,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 105
+      "total_frequency": 15
     },
     {
       "rank": 367,
       "book": 1,
       "book_rank": 367,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 106,
       "lemma": "facultas",
       "headword": "facultas, atis, f.",
       "pos": "Noun",
@@ -2122,16 +2233,17 @@
         "surface_form": "facultate"
       },
       "book_frequency": 5,
-      "total_frequency": 33,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 106
+      "total_frequency": 33
     },
     {
       "rank": 368,
       "book": 1,
       "book_rank": 368,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 107,
       "lemma": "tempero",
       "headword": "tempero, as, are",
       "pos": "Verb",
@@ -2142,16 +2254,17 @@
         "surface_form": "temperaturos"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 107
+      "total_frequency": 2
     },
     {
       "rank": 369,
       "book": 1,
       "book_rank": 369,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 108,
       "lemma": "injuria",
       "headword": "injuria, ae, f.",
       "pos": "Noun",
@@ -2162,16 +2275,17 @@
         "surface_form": "iniuria"
       },
       "book_frequency": 16,
-      "total_frequency": 32,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 108
+      "total_frequency": 32
     },
     {
       "rank": 370,
       "book": 1,
       "book_rank": 370,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 109,
       "lemma": "tamen",
       "headword": "tamen, adv.",
       "pos": "Adverb",
@@ -2182,16 +2296,17 @@
         "surface_form": "Tamen"
       },
       "book_frequency": 9,
-      "total_frequency": 112,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 109
+      "total_frequency": 112
     },
     {
       "rank": 371,
       "book": 1,
       "book_rank": 371,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 110,
       "lemma": "spatium",
       "headword": "spatium, ii, n.",
       "pos": "Noun",
@@ -2202,16 +2317,17 @@
         "surface_form": "spatium"
       },
       "book_frequency": 5,
-      "total_frequency": 46,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 110
+      "total_frequency": 46
     },
     {
       "rank": 372,
       "book": 1,
       "book_rank": 372,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 111,
       "lemma": "intercedo",
       "headword": "intercedo, is, ere, cessi, cessum, ere",
       "pos": "Verb",
@@ -2222,16 +2338,17 @@
         "surface_form": "intercedere"
       },
       "book_frequency": 3,
-      "total_frequency": 10,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 111
+      "total_frequency": 10
     },
     {
       "rank": 373,
       "book": 1,
       "book_rank": 373,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 112,
       "lemma": "dum",
       "headword": "dum, conj. sub.",
       "pos": "Conjunction",
@@ -2242,16 +2359,17 @@
         "surface_form": "dum"
       },
       "book_frequency": 5,
-      "total_frequency": 29,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 112
+      "total_frequency": 29
     },
     {
       "rank": 374,
       "book": 1,
       "book_rank": 374,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 113,
       "lemma": "respondeo",
       "headword": "respondeo, es, ere, di, sum",
       "pos": "Verb",
@@ -2262,16 +2380,17 @@
         "surface_form": "respondit"
       },
       "book_frequency": 10,
-      "total_frequency": 21,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 113
+      "total_frequency": 21
     },
     {
       "rank": 375,
       "book": 1,
       "book_rank": 375,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 114,
       "lemma": "delibero",
       "headword": "delibero, as, are",
       "pos": "Verb",
@@ -2282,16 +2401,17 @@
         "surface_form": "deliberandum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 114
+      "total_frequency": 3
     },
     {
       "rank": 376,
       "book": 1,
       "book_rank": 376,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 115,
       "lemma": "sumo",
       "headword": "sumo, is, ere, sumpsi, sumptum",
       "pos": "Verb",
@@ -2302,16 +2422,17 @@
         "surface_form": "sumpturum"
       },
       "book_frequency": 5,
-      "total_frequency": 11,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 115
+      "total_frequency": 11
     },
     {
       "rank": 377,
       "book": 1,
       "book_rank": 377,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 116,
       "lemma": "si",
       "headword": "sī",
       "pos": "Conjunction",
@@ -2322,16 +2443,17 @@
         "surface_form": "si"
       },
       "book_frequency": 54,
-      "total_frequency": 211,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 116
+      "total_frequency": 211
     },
     {
       "rank": 378,
       "book": 1,
       "book_rank": 378,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 117,
       "lemma": "vello",
       "headword": "vello, is, ere, uelli/uulsi, uulsum",
       "pos": "Verb",
@@ -2342,16 +2464,17 @@
         "surface_form": "vellent"
       },
       "book_frequency": 11,
-      "total_frequency": 24,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 117
+      "total_frequency": 24
     },
     {
       "rank": 379,
       "book": 1,
       "book_rank": 379,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 118,
       "lemma": "April",
       "headword": "April",
       "pos": "Adjective",
@@ -2362,16 +2485,17 @@
         "surface_form": "April"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 118
+      "total_frequency": 1
     },
     {
       "rank": 380,
       "book": 1,
       "book_rank": 380,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 119,
       "lemma": "revertor",
       "headword": "revertor, eris, i, reuersus sum",
       "pos": "Verb",
@@ -2382,16 +2506,17 @@
         "surface_form": "reverterentur"
       },
       "book_frequency": 4,
-      "total_frequency": 28,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 119
+      "total_frequency": 28
     },
     {
       "rank": 381,
       "book": 1,
       "book_rank": 381,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 120,
       "lemma": "interea",
       "headword": "interea, adv.",
       "pos": "Adverb",
@@ -2402,16 +2527,17 @@
         "surface_form": "Interea"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 120
+      "total_frequency": 8
     },
     {
       "rank": 382,
       "book": 1,
       "book_rank": 382,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 121,
       "lemma": "influo",
       "headword": "influo, is, ere",
       "pos": "Verb",
@@ -2422,16 +2548,17 @@
         "surface_form": "influit"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 121
+      "total_frequency": 9
     },
     {
       "rank": 383,
       "book": 1,
       "book_rank": 383,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 122,
       "lemma": "murus",
       "headword": "murus, i, m.",
       "pos": "Noun",
@@ -2442,16 +2569,17 @@
         "surface_form": "murum"
       },
       "book_frequency": 2,
-      "total_frequency": 50,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 122
+      "total_frequency": 50
     },
     {
       "rank": 384,
       "book": 1,
       "book_rank": 384,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 123,
       "lemma": "altitudo",
       "headword": "altitudo, dinis, f.",
       "pos": "Noun",
@@ -2462,16 +2590,17 @@
         "surface_form": "altitudinem"
       },
       "book_frequency": 3,
-      "total_frequency": 28,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 123
+      "total_frequency": 28
     },
     {
       "rank": 385,
       "book": 1,
       "book_rank": 385,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 124,
       "lemma": "pes",
       "headword": "pes, pedis, m.",
       "pos": "Noun",
@@ -2482,16 +2611,17 @@
         "surface_form": "pedum"
       },
       "book_frequency": 5,
-      "total_frequency": 48,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 124
+      "total_frequency": 48
     },
     {
       "rank": 386,
       "book": 1,
       "book_rank": 386,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 125,
       "lemma": "sedecim",
       "headword": "sedecim, num.",
       "pos": "Word",
@@ -2502,16 +2632,17 @@
         "surface_form": "sedecim"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 125
+      "total_frequency": 1
     },
     {
       "rank": 387,
       "book": 1,
       "book_rank": 387,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 126,
       "lemma": "fossa",
       "headword": "fossa, ae, f.",
       "pos": "Noun",
@@ -2522,16 +2653,17 @@
         "surface_form": "fossam"
       },
       "book_frequency": 1,
-      "total_frequency": 29,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 126
+      "total_frequency": 29
     },
     {
       "rank": 388,
       "book": 1,
       "book_rank": 388,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 127,
       "lemma": "perduco",
       "headword": "perduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -2542,16 +2674,17 @@
         "surface_form": "perducit"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 127
+      "total_frequency": 15
     },
     {
       "rank": 389,
       "book": 1,
       "book_rank": 389,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 128,
       "lemma": "opus",
       "headword": "opus, operis, n.",
       "pos": "Noun",
@@ -2562,16 +2695,17 @@
         "surface_form": "opere"
       },
       "book_frequency": 5,
-      "total_frequency": 72,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 128
+      "total_frequency": 72
     },
     {
       "rank": 390,
       "book": 1,
       "book_rank": 390,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 129,
       "lemma": "praesidium",
       "headword": "praesidium, ii, n.",
       "pos": "Noun",
@@ -2582,16 +2716,17 @@
         "surface_form": "praesidia"
       },
       "book_frequency": 6,
-      "total_frequency": 81,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 129
+      "total_frequency": 81
     },
     {
       "rank": 391,
       "book": 1,
       "book_rank": 391,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 130,
       "lemma": "dispono",
       "headword": "dispono, is, ere, posui, positum",
       "pos": "Verb",
@@ -2602,16 +2737,17 @@
         "surface_form": "disponit"
       },
       "book_frequency": 1,
-      "total_frequency": 29,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 130
+      "total_frequency": 29
     },
     {
       "rank": 392,
       "book": 1,
       "book_rank": 392,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 131,
       "lemma": "castellum",
       "headword": "castellum, i, n.",
       "pos": "Noun",
@@ -2622,16 +2758,17 @@
         "surface_form": "castella"
       },
       "book_frequency": 1,
-      "total_frequency": 15,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 131
+      "total_frequency": 15
     },
     {
       "rank": 393,
       "book": 1,
       "book_rank": 393,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 132,
       "lemma": "communio",
       "headword": "communio, is, ire, iui, itum",
       "pos": "Verb",
@@ -2642,16 +2779,17 @@
         "surface_form": "communit"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 132
+      "total_frequency": 3
     },
     {
       "rank": 394,
       "book": 1,
       "book_rank": 394,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 133,
       "lemma": "invitus",
       "headword": "invitus, a, um",
       "pos": "Verb",
@@ -2662,16 +2800,17 @@
         "surface_form": "invito"
       },
       "book_frequency": 3,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 133
+      "total_frequency": 9
     },
     {
       "rank": 395,
       "book": 1,
       "book_rank": 395,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 134,
       "lemma": "ueneo",
       "headword": "ueneo",
       "pos": "Word",
@@ -2682,16 +2821,17 @@
         "surface_form": "venit"
       },
       "book_frequency": 10,
-      "total_frequency": 41,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 134
+      "total_frequency": 41
     },
     {
       "rank": 396,
       "book": 1,
       "book_rank": 396,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 135,
       "lemma": "reverto",
       "headword": "reverto, is, ere, i, sum",
       "pos": "Verb",
@@ -2702,16 +2842,17 @@
         "surface_form": "reverterunt"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 135
+      "total_frequency": 8
     },
     {
       "rank": 397,
       "book": 1,
       "book_rank": 397,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 136,
       "lemma": "nego",
       "headword": "nego, as, are",
       "pos": "Verb",
@@ -2722,16 +2863,17 @@
         "surface_form": "negat"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 136
+      "total_frequency": 5
     },
     {
       "rank": 398,
       "book": 1,
       "book_rank": 398,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 137,
       "lemma": "exemplum",
       "headword": "exemplum, i, n.",
       "pos": "Noun",
@@ -2742,16 +2884,17 @@
         "surface_form": "exemplo"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 137
+      "total_frequency": 5
     },
     {
       "rank": 399,
       "book": 1,
       "book_rank": 399,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 138,
       "lemma": "ostendo",
       "headword": "ostendo, is, ere, tendi, tentum",
       "pos": "Verb",
@@ -2762,16 +2905,17 @@
         "surface_form": "ostendit"
       },
       "book_frequency": 5,
-      "total_frequency": 21,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 138
+      "total_frequency": 21
     },
     {
       "rank": 400,
       "book": 1,
       "book_rank": 400,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 139,
       "lemma": "deicio",
       "headword": "deicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -2782,16 +2926,17 @@
         "surface_form": "deiecti"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 139
+      "total_frequency": 18
     },
     {
       "rank": 401,
       "book": 1,
       "book_rank": 401,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 140,
       "lemma": "navis",
       "headword": "navis, is, f.",
       "pos": "Noun",
@@ -2802,16 +2947,17 @@
         "surface_form": "navibus"
       },
       "book_frequency": 2,
-      "total_frequency": 105,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 140
+      "total_frequency": 105
     },
     {
       "rank": 402,
       "book": 1,
       "book_rank": 402,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 141,
       "lemma": "jungo",
       "headword": "jungo, is, ere, iunxi, iunctum",
       "pos": "Verb",
@@ -2822,16 +2968,17 @@
         "surface_form": "iunctis"
       },
       "book_frequency": 2,
-      "total_frequency": 6,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 141
+      "total_frequency": 6
     },
     {
       "rank": 403,
       "book": 1,
       "book_rank": 403,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 142,
       "lemma": "ratis",
       "headword": "ratis, is, f.",
       "pos": "Noun",
@@ -2842,16 +2989,17 @@
         "surface_form": "ratibus"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 142
+      "total_frequency": 3
     },
     {
       "rank": 404,
       "book": 1,
       "book_rank": 404,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 143,
       "lemma": "complures",
       "headword": "complures, ium",
       "pos": "Noun",
@@ -2862,16 +3010,17 @@
         "surface_form": "compluribus"
       },
       "book_frequency": 4,
-      "total_frequency": 56,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 143
+      "total_frequency": 56
     },
     {
       "rank": 405,
       "book": 1,
       "book_rank": 405,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 144,
       "lemma": "numquam",
       "headword": "numquam, adv.",
       "pos": "Adverb",
@@ -2882,16 +3031,17 @@
         "surface_form": "numquam"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 144
+      "total_frequency": 12
     },
     {
       "rank": 406,
       "book": 1,
       "book_rank": 406,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 145,
       "lemma": "interdiu",
       "headword": "interdiu, adv.",
       "pos": "Adverb",
@@ -2902,16 +3052,17 @@
         "surface_form": "interdiu"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 145
+      "total_frequency": 3
     },
     {
       "rank": 407,
       "book": 1,
       "book_rank": 407,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 146,
       "lemma": "noctu",
       "headword": "noctu, adv.",
       "pos": "Adverb",
@@ -2922,16 +3073,17 @@
         "surface_form": "noctu"
       },
       "book_frequency": 1,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 146
+      "total_frequency": 17
     },
     {
       "rank": 408,
       "book": 1,
       "book_rank": 408,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 147,
       "lemma": "perrumpo",
       "headword": "perrumpo, is, ere, rupi, ruptum",
       "pos": "Verb",
@@ -2942,16 +3094,17 @@
         "surface_form": "perrumpere"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 147
+      "total_frequency": 8
     },
     {
       "rank": 409,
       "book": 1,
       "book_rank": 409,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 148,
       "lemma": "munitio",
       "headword": "munitio, ionis, f.",
       "pos": "Noun",
@@ -2962,16 +3115,17 @@
         "surface_form": "munitio"
       },
       "book_frequency": 3,
-      "total_frequency": 79,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 148
+      "total_frequency": 79
     },
     {
       "rank": 410,
       "book": 1,
       "book_rank": 410,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 149,
       "lemma": "concurro",
       "headword": "concurro, is, ere, curri, cursum",
       "pos": "Verb",
@@ -2982,16 +3136,17 @@
         "surface_form": "concursu"
       },
       "book_frequency": 2,
-      "total_frequency": 24,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 149
+      "total_frequency": 24
     },
     {
       "rank": 411,
       "book": 1,
       "book_rank": 411,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 150,
       "lemma": "telum",
       "headword": "telum, i, n.",
       "pos": "Noun",
@@ -3002,16 +3157,17 @@
         "surface_form": "telis"
       },
       "book_frequency": 5,
-      "total_frequency": 46,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 150
+      "total_frequency": 46
     },
     {
       "rank": 412,
       "book": 1,
       "book_rank": 412,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 151,
       "lemma": "repello",
       "headword": "repello, is, ere, rep(p)uli, repulsum",
       "pos": "Verb",
@@ -3022,16 +3178,17 @@
         "surface_form": "repulsi"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 151
+      "total_frequency": 13
     },
     {
       "rank": 413,
       "book": 1,
       "book_rank": 413,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 152,
       "lemma": "desisto",
       "headword": "desisto, is, ere, destiti, destitum",
       "pos": "Verb",
@@ -3042,16 +3199,17 @@
         "surface_form": "destiterunt"
       },
       "book_frequency": 4,
-      "total_frequency": 13,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 152
+      "total_frequency": 13
     },
     {
       "rank": 414,
       "book": 1,
       "book_rank": 414,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 153,
       "lemma": "relinquo",
       "headword": "relinquo, is, ere, reliqui, relictum",
       "pos": "Verb",
@@ -3062,16 +3220,17 @@
         "surface_form": "Relinquebatur"
       },
       "book_frequency": 7,
-      "total_frequency": 97,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 153
+      "total_frequency": 97
     },
     {
       "rank": 415,
       "book": 1,
       "book_rank": 415,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 154,
       "lemma": "via",
       "headword": "via, ae, f.",
       "pos": "Verb",
@@ -3082,16 +3241,17 @@
         "surface_form": "via"
       },
       "book_frequency": 3,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 154
+      "total_frequency": 23
     },
     {
       "rank": 416,
       "book": 1,
       "book_rank": 416,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 155,
       "lemma": "propter",
       "headword": "propter, prep. (+ acc.)",
       "pos": "Preposition",
@@ -3102,16 +3262,17 @@
         "surface_form": "propter"
       },
       "book_frequency": 12,
-      "total_frequency": 69,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 155
+      "total_frequency": 69
     },
     {
       "rank": 417,
       "book": 1,
       "book_rank": 417,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 156,
       "lemma": "angustia",
       "headword": "angustia, ae, f.",
       "pos": "Verb",
@@ -3122,16 +3283,17 @@
         "surface_form": "angustias"
       },
       "book_frequency": 4,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 156
+      "total_frequency": 7
     },
     {
       "rank": 418,
       "book": 1,
       "book_rank": 418,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 157,
       "lemma": "sponte",
       "headword": "sponte, adv.",
       "pos": "Adverb",
@@ -3142,16 +3304,17 @@
         "surface_form": "sponte"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 157
+      "total_frequency": 5
     },
     {
       "rank": 419,
       "book": 1,
       "book_rank": 419,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 158,
       "lemma": "deprecator",
       "headword": "deprecator, oris, m.",
       "pos": "Noun",
@@ -3162,16 +3325,17 @@
         "surface_form": "deprecatore"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 158
+      "total_frequency": 2
     },
     {
       "rank": 420,
       "book": 1,
       "book_rank": 420,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 159,
       "lemma": "impetro",
       "headword": "impetro, as, are",
       "pos": "Verb",
@@ -3182,16 +3346,17 @@
         "surface_form": "impetrarent"
       },
       "book_frequency": 5,
-      "total_frequency": 18,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 159
+      "total_frequency": 18
     },
     {
       "rank": 421,
       "book": 1,
       "book_rank": 421,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 160,
       "lemma": "gratia",
       "headword": "gratia, ae, f.",
       "pos": "Noun",
@@ -3202,16 +3367,17 @@
         "surface_form": "gratia"
       },
       "book_frequency": 13,
-      "total_frequency": 40,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 160
+      "total_frequency": 40
     },
     {
       "rank": 422,
       "book": 1,
       "book_rank": 422,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 161,
       "lemma": "largitio",
       "headword": "largitio, ionis, f.",
       "pos": "Noun",
@@ -3222,16 +3388,17 @@
         "surface_form": "largitio"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 161
+      "total_frequency": 1
     },
     {
       "rank": 423,
       "book": 1,
       "book_rank": 423,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 162,
       "lemma": "noui",
       "headword": "noui",
       "pos": "Word",
@@ -3242,16 +3409,17 @@
         "surface_form": "novis"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 162
+      "total_frequency": 7
     },
     {
       "rank": 424,
       "book": 1,
       "book_rank": 424,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 163,
       "lemma": "studeo",
       "headword": "studeo, es, ere, ui",
       "pos": "Verb",
@@ -3262,16 +3430,17 @@
         "surface_form": "studebat"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 163
+      "total_frequency": 16
     },
     {
       "rank": 425,
       "book": 1,
       "book_rank": 425,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 164,
       "lemma": "beneficium",
       "headword": "beneficium, ii, n.",
       "pos": "Noun",
@@ -3282,16 +3451,17 @@
         "surface_form": "beneficio"
       },
       "book_frequency": 7,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 164
+      "total_frequency": 16
     },
     {
       "rank": 426,
       "book": 1,
       "book_rank": 426,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 165,
       "lemma": "obstringo",
       "headword": "obstringo, is, ere, strinxi, strictum",
       "pos": "Verb",
@@ -3302,16 +3472,17 @@
         "surface_form": "obstrictas"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 165
+      "total_frequency": 2
     },
     {
       "rank": 427,
       "book": 1,
       "book_rank": 427,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 166,
       "lemma": "volo",
       "headword": "volo, uis, uelle, uolui",
       "pos": "Noun",
@@ -3322,16 +3493,17 @@
         "surface_form": "volebat"
       },
       "book_frequency": 8,
-      "total_frequency": 35,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 166
+      "total_frequency": 35
     },
     {
       "rank": 428,
       "book": 1,
       "book_rank": 428,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 167,
       "lemma": "ita",
       "headword": "ita, adv.",
       "pos": "Adverb",
@@ -3342,16 +3514,17 @@
         "surface_form": "Itaque"
       },
       "book_frequency": 23,
-      "total_frequency": 111,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 167
+      "total_frequency": 111
     },
     {
       "rank": 429,
       "book": 1,
       "book_rank": 429,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 168,
       "lemma": "obsideo",
       "headword": "obsideo, es, ere, edi, essum",
       "pos": "Verb",
@@ -3362,16 +3535,17 @@
         "surface_form": "obsides"
       },
       "book_frequency": 14,
-      "total_frequency": 63,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 168
+      "total_frequency": 63
     },
     {
       "rank": 430,
       "book": 1,
       "book_rank": 430,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 169,
       "lemma": "renuntio",
       "headword": "renuntio, as, are",
       "pos": "Verb",
@@ -3382,16 +3556,17 @@
         "surface_form": "renuntiatur"
       },
       "book_frequency": 3,
-      "total_frequency": 11,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 169
+      "total_frequency": 11
     },
     {
       "rank": 431,
       "book": 1,
       "book_rank": 431,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 170,
       "lemma": "Haedui",
       "headword": "Haeduī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -3402,16 +3577,17 @@
         "surface_form": "Haeduorum"
       },
       "book_frequency": 39,
-      "total_frequency": 124,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 170
+      "total_frequency": 124
     },
     {
       "rank": 432,
       "book": 1,
       "book_rank": 432,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 171,
       "lemma": "Santones",
       "headword": "Santones, um, m. pl.",
       "pos": "Noun",
@@ -3422,16 +3598,17 @@
         "surface_form": "Santonum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 171
+      "total_frequency": 1
     },
     {
       "rank": 433,
       "book": 1,
       "book_rank": 433,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 172,
       "lemma": "Tolosates",
       "headword": "Tolosates, ium, m. pl.",
       "pos": "Noun",
@@ -3442,16 +3619,17 @@
         "surface_form": "Tolosatium"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 172
+      "total_frequency": 2
     },
     {
       "rank": 434,
       "book": 1,
       "book_rank": 434,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 173,
       "lemma": "intellego",
       "headword": "intellego, is, ere, lexi, lectum",
       "pos": "Verb",
@@ -3462,16 +3640,17 @@
         "surface_form": "intellegebat"
       },
       "book_frequency": 13,
-      "total_frequency": 49,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 173
+      "total_frequency": 49
     },
     {
       "rank": 435,
       "book": 1,
       "book_rank": 435,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 174,
       "lemma": "bellicosus",
       "headword": "bellicosus, a, um",
       "pos": "Adjective",
@@ -3482,16 +3661,17 @@
         "surface_form": "bellicosos"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 174
+      "total_frequency": 3
     },
     {
       "rank": 436,
       "book": 1,
       "book_rank": 436,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 175,
       "lemma": "frumentarius",
       "headword": "frumentarius, a, um",
       "pos": "Adjective",
@@ -3502,16 +3682,17 @@
         "surface_form": "frumentariis"
       },
       "book_frequency": 7,
-      "total_frequency": 30,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 175
+      "total_frequency": 30
     },
     {
       "rank": 437,
       "book": 1,
       "book_rank": 437,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 176,
       "lemma": "T",
       "headword": "T",
       "pos": "Proper Noun",
@@ -3522,16 +3703,17 @@
         "surface_form": "T"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 176
+      "total_frequency": 11
     },
     {
       "rank": 438,
       "book": 1,
       "book_rank": 438,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 177,
       "lemma": "Labienus",
       "headword": "Labiēnus, -ī, m.",
       "pos": "Proper Noun",
@@ -3542,16 +3724,17 @@
         "surface_form": "Labienum"
       },
       "book_frequency": 7,
-      "total_frequency": 64,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 177
+      "total_frequency": 64
     },
     {
       "rank": 439,
       "book": 1,
       "book_rank": 439,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 178,
       "lemma": "praeficio",
       "headword": "praeficio, is, ere, feci, fectum",
       "pos": "Verb",
@@ -3562,16 +3745,17 @@
         "surface_form": "praeficit"
       },
       "book_frequency": 2,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 178
+      "total_frequency": 23
     },
     {
       "rank": 440,
       "book": 1,
       "book_rank": 440,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 179,
       "lemma": "Italia",
       "headword": "Italia, ae, f.",
       "pos": "Noun",
@@ -3582,16 +3766,17 @@
         "surface_form": "Italiam"
       },
       "book_frequency": 3,
-      "total_frequency": 34,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 179
+      "total_frequency": 34
     },
     {
       "rank": 441,
       "book": 1,
       "book_rank": 441,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 180,
       "lemma": "ibi",
       "headword": "ibi, adv.",
       "pos": "Adverb",
@@ -3602,16 +3787,17 @@
         "surface_form": "ibi"
       },
       "book_frequency": 7,
-      "total_frequency": 68,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 180
+      "total_frequency": 68
     },
     {
       "rank": 442,
       "book": 1,
       "book_rank": 442,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 181,
       "lemma": "conscribo",
       "headword": "conscribo, is, ere, scripsi, scriptum",
       "pos": "Verb",
@@ -3622,16 +3808,17 @@
         "surface_form": "conscribit"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 181
+      "total_frequency": 12
     },
     {
       "rank": 443,
       "book": 1,
       "book_rank": 443,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 182,
       "lemma": "circum",
       "headword": "circum, adv.",
       "pos": "Verb",
@@ -3642,16 +3829,17 @@
         "surface_form": "circum"
       },
       "book_frequency": 2,
-      "total_frequency": 10,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 182
+      "total_frequency": 10
     },
     {
       "rank": 444,
       "book": 1,
       "book_rank": 444,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 183,
       "lemma": "Aquileja",
       "headword": "Aquileja",
       "pos": "Word",
@@ -3662,16 +3850,17 @@
         "surface_form": "Aquileiam"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 183
+      "total_frequency": 1
     },
     {
       "rank": 445,
       "book": 1,
       "book_rank": 445,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 184,
       "lemma": "hiemo",
       "headword": "hiemo, as, are",
       "pos": "Verb",
@@ -3682,16 +3871,17 @@
         "surface_form": "hiemabant"
       },
       "book_frequency": 1,
-      "total_frequency": 21,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 184
+      "total_frequency": 21
     },
     {
       "rank": 446,
       "book": 1,
       "book_rank": 446,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 185,
       "lemma": "hiberna",
       "headword": "hiberna, orum, n. pl.",
       "pos": "Noun",
@@ -3702,16 +3892,17 @@
         "surface_form": "hibernis"
       },
       "book_frequency": 3,
-      "total_frequency": 69,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 185
+      "total_frequency": 69
     },
     {
       "rank": 447,
       "book": 1,
       "book_rank": 447,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 186,
       "lemma": "educo",
       "headword": "educo, as, are",
       "pos": "Verb",
@@ -3722,16 +3913,17 @@
         "surface_form": "educit"
       },
       "book_frequency": 4,
-      "total_frequency": 26,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 186
+      "total_frequency": 26
     },
     {
       "rank": 448,
       "book": 1,
       "book_rank": 448,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 187,
       "lemma": "Alpis",
       "headword": "Alpis, is, f.",
       "pos": "Noun",
@@ -3742,16 +3934,17 @@
         "surface_form": "Alpes"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 187
+      "total_frequency": 6
     },
     {
       "rank": 449,
       "book": 1,
       "book_rank": 449,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 188,
       "lemma": "Ceutrones",
       "headword": "Ceutrones, um, m.",
       "pos": "Noun",
@@ -3762,16 +3955,17 @@
         "surface_form": "Ceutrones"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 188
+      "total_frequency": 2
     },
     {
       "rank": 450,
       "book": 1,
       "book_rank": 450,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 189,
       "lemma": "Graioceli",
       "headword": "Graioceli, orum, m.",
       "pos": "Noun",
@@ -3782,16 +3976,17 @@
         "surface_form": "Graioceli"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 189
+      "total_frequency": 1
     },
     {
       "rank": 451,
       "book": 1,
       "book_rank": 451,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 190,
       "lemma": "Caturiges",
       "headword": "Caturiges, um, m.",
       "pos": "Noun",
@@ -3802,16 +3997,17 @@
         "surface_form": "Caturiges"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 190
+      "total_frequency": 1
     },
     {
       "rank": 452,
       "book": 1,
       "book_rank": 452,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 191,
       "lemma": "superus",
       "headword": "superus, a, um",
       "pos": "Verb",
@@ -3822,16 +4018,17 @@
         "surface_form": "superioribus"
       },
       "book_frequency": 5,
-      "total_frequency": 84,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 191
+      "total_frequency": 84
     },
     {
       "rank": 453,
       "book": 1,
       "book_rank": 453,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 192,
       "lemma": "Ocelum",
       "headword": "Ocelum, i, n.",
       "pos": "Noun",
@@ -3842,16 +4039,17 @@
         "surface_form": "Ocelo"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 192
+      "total_frequency": 1
     },
     {
       "rank": 454,
       "book": 1,
       "book_rank": 454,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 193,
       "lemma": "citerior",
       "headword": "citerior, oris",
       "pos": "Noun",
@@ -3862,16 +4060,17 @@
         "surface_form": "citerioris"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 193
+      "total_frequency": 12
     },
     {
       "rank": 455,
       "book": 1,
       "book_rank": 455,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 194,
       "lemma": "Vocontii",
       "headword": "Vocontii, orum, m.",
       "pos": "Noun",
@@ -3882,16 +4081,17 @@
         "surface_form": "Vocontiorum"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 194
+      "total_frequency": 1
     },
     {
       "rank": 456,
       "book": 1,
       "book_rank": 456,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 195,
       "lemma": "septimus",
       "headword": "septimus, a, um",
       "pos": "Adjective",
@@ -3902,16 +4102,17 @@
         "surface_form": "septimo"
       },
       "book_frequency": 2,
-      "total_frequency": 9,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 195
+      "total_frequency": 9
     },
     {
       "rank": 457,
       "book": 1,
       "book_rank": 457,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 196,
       "lemma": "inde",
       "headword": "inde, adv.",
       "pos": "Adverb",
@@ -3922,16 +4123,17 @@
         "surface_form": "inde"
       },
       "book_frequency": 2,
-      "total_frequency": 16,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 196
+      "total_frequency": 16
     },
     {
       "rank": 458,
       "book": 1,
       "book_rank": 458,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 197,
       "lemma": "Segusiaui",
       "headword": "Segusiaui",
       "pos": "Word",
@@ -3942,16 +4144,17 @@
         "surface_form": "Segusiavos"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 197
+      "total_frequency": 3
     },
     {
       "rank": 459,
       "book": 1,
       "book_rank": 459,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 198,
       "lemma": "extra",
       "headword": "extra, prep. (+ acc.)",
       "pos": "Preposition",
@@ -3962,16 +4165,17 @@
         "surface_form": "extra"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 198
+      "total_frequency": 7
     },
     {
       "rank": 460,
       "book": 1,
       "book_rank": 460,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 199,
       "lemma": "primus",
       "headword": "primus, a, um",
       "pos": "Adjective",
@@ -3982,16 +4186,17 @@
         "surface_form": "primi"
       },
       "book_frequency": 15,
-      "total_frequency": 117,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 199
+      "total_frequency": 117
     },
     {
       "rank": 461,
       "book": 1,
       "book_rank": 461,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 200,
       "lemma": "traduco",
       "headword": "traduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -4002,16 +4207,17 @@
         "surface_form": "traduxerant"
       },
       "book_frequency": 9,
-      "total_frequency": 36,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 200
+      "total_frequency": 36
     },
     {
       "rank": 462,
       "book": 1,
       "book_rank": 462,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 201,
       "lemma": "populor",
       "headword": "populor, aris, atus sum",
       "pos": "Noun",
@@ -4022,16 +4228,17 @@
         "surface_form": "populabantur"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 201
+      "total_frequency": 3
     },
     {
       "rank": 463,
       "book": 1,
       "book_rank": 463,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 202,
       "lemma": "defendo",
       "headword": "defendo, is, ere, fendi, fensum",
       "pos": "Verb",
@@ -4042,16 +4249,17 @@
         "surface_form": "defendere"
       },
       "book_frequency": 4,
-      "total_frequency": 36,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 202
+      "total_frequency": 36
     },
     {
       "rank": 464,
       "book": 1,
       "book_rank": 464,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 203,
       "lemma": "auxilium",
       "headword": "auxilium, ii, n.",
       "pos": "Noun",
@@ -4062,16 +4270,17 @@
         "surface_form": "auxilium"
       },
       "book_frequency": 12,
-      "total_frequency": 81,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 203
+      "total_frequency": 81
     },
     {
       "rank": 465,
       "book": 1,
       "book_rank": 465,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 204,
       "lemma": "mereo",
       "headword": "mereo, es, ere, rui, ritum (mereri, eor, itus sum)",
       "pos": "Verb",
@@ -4082,16 +4291,17 @@
         "surface_form": "meritos"
       },
       "book_frequency": 4,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 204
+      "total_frequency": 17
     },
     {
       "rank": 466,
       "book": 1,
       "book_rank": 466,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 205,
       "lemma": "paene",
       "headword": "paene, adv.",
       "pos": "Adverb",
@@ -4102,16 +4312,17 @@
         "surface_form": "paene"
       },
       "book_frequency": 3,
-      "total_frequency": 22,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 205
+      "total_frequency": 22
     },
     {
       "rank": 467,
       "book": 1,
       "book_rank": 467,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 206,
       "lemma": "conspectus",
       "headword": "conspectus, us, m.",
       "pos": "Noun",
@@ -4122,16 +4333,17 @@
         "surface_form": "conspectu"
       },
       "book_frequency": 3,
-      "total_frequency": 25,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 206
+      "total_frequency": 25
     },
     {
       "rank": 468,
       "book": 1,
       "book_rank": 468,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 207,
       "lemma": "vasto",
       "headword": "vasto, as, are",
       "pos": "Verb",
@@ -4142,16 +4354,17 @@
         "surface_form": "vastari"
       },
       "book_frequency": 1,
-      "total_frequency": 13,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 207
+      "total_frequency": 13
     },
     {
       "rank": 469,
       "book": 1,
       "book_rank": 469,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 208,
       "lemma": "liberi",
       "headword": "liberi, orum, m. pl.",
       "pos": "Noun",
@@ -4162,16 +4375,17 @@
         "surface_form": "liberi"
       },
       "book_frequency": 3,
-      "total_frequency": 23,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 208
+      "total_frequency": 23
     },
     {
       "rank": 470,
       "book": 1,
       "book_rank": 470,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 209,
       "lemma": "servitus",
       "headword": "servitus, utis, f.",
       "pos": "Noun",
@@ -4182,16 +4396,17 @@
         "surface_form": "servitutem"
       },
       "book_frequency": 3,
-      "total_frequency": 15,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 209
+      "total_frequency": 15
     },
     {
       "rank": 471,
       "book": 1,
       "book_rank": 471,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 210,
       "lemma": "abduco",
       "headword": "abduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -4202,16 +4417,17 @@
         "surface_form": "abduci"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 210
+      "total_frequency": 1
     },
     {
       "rank": 472,
       "book": 1,
       "book_rank": 472,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 211,
       "lemma": "expugno",
       "headword": "expugno, as, are",
       "pos": "Verb",
@@ -4222,16 +4438,17 @@
         "surface_form": "expugnari"
       },
       "book_frequency": 1,
-      "total_frequency": 12,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 211
+      "total_frequency": 12
     },
     {
       "rank": 473,
       "book": 1,
       "book_rank": 473,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 212,
       "lemma": "debeo",
       "headword": "debeo, es, ere, ui, itum",
       "pos": "Verb",
@@ -4242,16 +4459,17 @@
         "surface_form": "debuerint"
       },
       "book_frequency": 5,
-      "total_frequency": 17,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 212
+      "total_frequency": 17
     },
     {
       "rank": 474,
       "book": 1,
       "book_rank": 474,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 213,
       "lemma": "Ambarri",
       "headword": "Ambarri, orum, m. pl.",
       "pos": "Noun",
@@ -4262,16 +4480,17 @@
         "surface_form": "Ambarri"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 213
+      "total_frequency": 2
     },
     {
       "rank": 475,
       "book": 1,
       "book_rank": 475,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 214,
       "lemma": "necessarius",
       "headword": "necessarius, i, m.",
       "pos": "Noun",
@@ -4282,16 +4501,17 @@
         "surface_form": "necessarii"
       },
       "book_frequency": 5,
-      "total_frequency": 20,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 214
+      "total_frequency": 20
     },
     {
       "rank": 476,
       "book": 1,
       "book_rank": 476,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 215,
       "lemma": "consanguineus",
       "headword": "consanguineus, a, um",
       "pos": "Adjective",
@@ -4302,16 +4522,17 @@
         "surface_form": "consanguinei"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 215
+      "total_frequency": 4
     },
     {
       "rank": 477,
       "book": 1,
       "book_rank": 477,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 216,
       "lemma": "depopulor",
       "headword": "depopulor, aris, atus sum",
       "pos": "Verb",
@@ -4322,16 +4543,17 @@
         "surface_form": "depopulatis"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 216
+      "total_frequency": 4
     },
     {
       "rank": 478,
       "book": 1,
       "book_rank": 478,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 217,
       "lemma": "hostis",
       "headword": "hostis, is, m.",
       "pos": "Noun",
@@ -4342,16 +4564,17 @@
         "surface_form": "hostium"
       },
       "book_frequency": 38,
-      "total_frequency": 338,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 217
+      "total_frequency": 338
     },
     {
       "rank": 479,
       "book": 1,
       "book_rank": 479,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 218,
       "lemma": "possessio",
       "headword": "possessio, onis, f.",
       "pos": "Noun",
@@ -4362,16 +4585,17 @@
         "surface_form": "possessiones"
       },
       "book_frequency": 3,
-      "total_frequency": 5,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 218
+      "total_frequency": 5
     },
     {
       "rank": 480,
       "book": 1,
       "book_rank": 480,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 219,
       "lemma": "fuga",
       "headword": "fuga, ae, f.",
       "pos": "Verb",
@@ -4382,16 +4606,17 @@
         "surface_form": "fuga"
       },
       "book_frequency": 12,
-      "total_frequency": 82,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 219
+      "total_frequency": 82
     },
     {
       "rank": 481,
       "book": 1,
       "book_rank": 481,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 220,
       "lemma": "demonstro",
       "headword": "demonstro, as, are",
       "pos": "Verb",
@@ -4402,16 +4627,17 @@
         "surface_form": "demonstrant"
       },
       "book_frequency": 1,
-      "total_frequency": 38,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 220
+      "total_frequency": 38
     },
     {
       "rank": 482,
       "book": 1,
       "book_rank": 482,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 221,
       "lemma": "nihil",
       "headword": "nihil, pron.",
       "pos": "Noun",
@@ -4422,16 +4648,17 @@
         "surface_form": "nihil"
       },
       "book_frequency": 6,
-      "total_frequency": 53,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 221
+      "total_frequency": 53
     },
     {
       "rank": 483,
       "book": 1,
       "book_rank": 483,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 222,
       "lemma": "exspecto",
       "headword": "exspecto, as, are, aui, atum",
       "pos": "Verb",
@@ -4442,16 +4669,17 @@
         "surface_form": "expectandum"
       },
       "book_frequency": 3,
-      "total_frequency": 34,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 222
+      "total_frequency": 34
     },
     {
       "rank": 484,
       "book": 1,
       "book_rank": 484,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 223,
       "lemma": "statuo",
       "headword": "statuo, is, ere, statui, statutum",
       "pos": "Verb",
@@ -4462,16 +4690,17 @@
         "surface_form": "statuit"
       },
       "book_frequency": 5,
-      "total_frequency": 26,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 223
+      "total_frequency": 26
     },
     {
       "rank": 485,
       "book": 1,
       "book_rank": 485,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 224,
       "lemma": "fortuna",
       "headword": "fortuna, ae, f.",
       "pos": "Noun",
@@ -4482,16 +4711,17 @@
         "surface_form": "fortunis"
       },
       "book_frequency": 6,
-      "total_frequency": 41,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 224
+      "total_frequency": 41
     },
     {
       "rank": 486,
       "book": 1,
       "book_rank": 486,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 225,
       "lemma": "consumo",
       "headword": "consumo, is, ere, sumpsi, sumptum",
       "pos": "Verb",
@@ -4502,16 +4732,17 @@
         "surface_form": "consumptis"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 225
+      "total_frequency": 18
     },
     {
       "rank": 487,
       "book": 1,
       "book_rank": 487,
       "stage": "Book 1 Chunk 2",
+      "stage_id": "1.2",
+      "chunk": 2,
+      "chunk_title": "Helvetian Migration & Defense of the Rhone",
+      "chunk_rank": 226,
       "lemma": "Santoni",
       "headword": "Santoni, orum, m. cf. Santones",
       "pos": "Noun",
@@ -4522,10 +4753,7 @@
         "surface_form": "Santonos"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 2,
-      "chunk_title": "Helvetian Departure & Defense of the Rhone",
-      "chunk_rank": 226
+      "total_frequency": 3
     }
   ]
 }

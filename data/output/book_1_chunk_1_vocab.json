@@ -1,17 +1,23 @@
 {
   "book": 1,
+  "stage": "Book 1 Chunk 1",
+  "stage_id": "1.1",
   "chunk": 1,
-  "title": "Gaul & The Orgetorix Conspiracy",
+  "title": "Geography of Gaul & The Orgetorix Conspiracy",
   "chapters": "Chapters 1–4",
   "running_tokens": 595,
   "new_word_count": 261,
-  "cumulative_book_1_words": 261,
+  "cumulative_words": 261,
   "words": [
     {
       "rank": 1,
       "book": 1,
       "book_rank": 1,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 1,
       "lemma": "Gallia",
       "headword": "Gallia, -ae, f.",
       "pos": "Proper Noun",
@@ -22,16 +28,17 @@
         "surface_form": "Gallia"
       },
       "book_frequency": 58,
-      "total_frequency": 226,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 1
+      "total_frequency": 226
     },
     {
       "rank": 2,
       "book": 1,
       "book_rank": 2,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 2,
       "lemma": "sum",
       "headword": "sum, esse, fui, futūrus",
       "pos": "Verb",
@@ -42,16 +49,17 @@
         "surface_form": "est"
       },
       "book_frequency": 228,
-      "total_frequency": 1164,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 2
+      "total_frequency": 1164
     },
     {
       "rank": 3,
       "book": 1,
       "book_rank": 3,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 3,
       "lemma": "omnis",
       "headword": "omnis, omne",
       "pos": "Adjective",
@@ -62,16 +70,17 @@
         "surface_form": "omnis"
       },
       "book_frequency": 70,
-      "total_frequency": 611,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 3
+      "total_frequency": 611
     },
     {
       "rank": 4,
       "book": 1,
       "book_rank": 4,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 4,
       "lemma": "divido",
       "headword": "dīvidō, -ere, dīvīsī, dīvīsum",
       "pos": "Verb (3rd)",
@@ -82,16 +91,17 @@
         "surface_form": "divisa"
       },
       "book_frequency": 7,
-      "total_frequency": 19,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 4
+      "total_frequency": 19
     },
     {
       "rank": 5,
       "book": 1,
       "book_rank": 5,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 5,
       "lemma": "in",
       "headword": "in (+ abl. / + acc.)",
       "pos": "Preposition",
@@ -102,16 +112,17 @@
         "surface_form": "in"
       },
       "book_frequency": 181,
-      "total_frequency": 1275,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 5
+      "total_frequency": 1275
     },
     {
       "rank": 6,
       "book": 1,
       "book_rank": 6,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 6,
       "lemma": "pars",
       "headword": "pars, partis, f.",
       "pos": "Noun (3rd)",
@@ -122,16 +133,17 @@
         "surface_form": "partes"
       },
       "book_frequency": 26,
-      "total_frequency": 272,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 6
+      "total_frequency": 272
     },
     {
       "rank": 7,
       "book": 1,
       "book_rank": 7,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 7,
       "lemma": "tres",
       "headword": "trēs, tria",
       "pos": "Numeral Adjective",
@@ -142,16 +154,17 @@
         "surface_form": "tres"
       },
       "book_frequency": 7,
-      "total_frequency": 42,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 7
+      "total_frequency": 42
     },
     {
       "rank": 8,
       "book": 1,
       "book_rank": 8,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 8,
       "lemma": "qui",
       "headword": "quī, quae, quod",
       "pos": "Relative Pronoun",
@@ -162,16 +175,17 @@
         "surface_form": "quarum"
       },
       "book_frequency": 358,
-      "total_frequency": 2055,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 8
+      "total_frequency": 2055
     },
     {
       "rank": 9,
       "book": 1,
       "book_rank": 9,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 9,
       "lemma": "unus",
       "headword": "ūnus, -a, -um",
       "pos": "Numeral Adjective",
@@ -182,16 +196,17 @@
         "surface_form": "unam"
       },
       "book_frequency": 24,
-      "total_frequency": 167,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 9
+      "total_frequency": 167
     },
     {
       "rank": 10,
       "book": 1,
       "book_rank": 10,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 10,
       "lemma": "incolo",
       "headword": "incolō, -ere, incoluī, -",
       "pos": "Verb (3rd)",
@@ -202,16 +217,17 @@
         "surface_form": "incolunt"
       },
       "book_frequency": 5,
-      "total_frequency": 15,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 10
+      "total_frequency": 15
     },
     {
       "rank": 11,
       "book": 1,
       "book_rank": 11,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 11,
       "lemma": "Belgae",
       "headword": "Belgae, -ārum, m. pl.",
       "pos": "Proper Noun",
@@ -222,16 +238,17 @@
         "surface_form": "Belgae"
       },
       "book_frequency": 5,
-      "total_frequency": 32,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 11
+      "total_frequency": 32
     },
     {
       "rank": 12,
       "book": 1,
       "book_rank": 12,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 12,
       "lemma": "alius",
       "headword": "alius, a, ud, pron.",
       "pos": "Conjunction",
@@ -242,16 +259,17 @@
         "surface_form": "aliam"
       },
       "book_frequency": 12,
-      "total_frequency": 95,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 12
+      "total_frequency": 95
     },
     {
       "rank": 13,
       "book": 1,
       "book_rank": 13,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 13,
       "lemma": "Aquitani",
       "headword": "Aquītānī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -262,16 +280,17 @@
         "surface_form": "Aquitani"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 13
+      "total_frequency": 2
     },
     {
       "rank": 14,
       "book": 1,
       "book_rank": 14,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 14,
       "lemma": "tertius",
       "headword": "tertius, a, um",
       "pos": "Verb",
@@ -282,16 +301,17 @@
         "surface_form": "tertiam"
       },
       "book_frequency": 11,
-      "total_frequency": 36,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 14
+      "total_frequency": 36
     },
     {
       "rank": 15,
       "book": 1,
       "book_rank": 15,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 15,
       "lemma": "ipse",
       "headword": "ipse, ipsa, ipsum",
       "pos": "Intensive Pronoun",
@@ -302,16 +322,17 @@
         "surface_form": "ipsorum"
       },
       "book_frequency": 48,
-      "total_frequency": 234,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 15
+      "total_frequency": 234
     },
     {
       "rank": 16,
       "book": 1,
       "book_rank": 16,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 16,
       "lemma": "lingua",
       "headword": "lingua, -ae, f.",
       "pos": "Noun (1st)",
@@ -322,16 +343,17 @@
         "surface_form": "lingua"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 16
+      "total_frequency": 3
     },
     {
       "rank": 17,
       "book": 1,
       "book_rank": 17,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 17,
       "lemma": "Celtae",
       "headword": "Celtae, -ārum, m. pl.",
       "pos": "Proper Noun",
@@ -342,16 +364,17 @@
         "surface_form": "Celtae"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 17
+      "total_frequency": 1
     },
     {
       "rank": 18,
       "book": 1,
       "book_rank": 18,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 18,
       "lemma": "noster",
       "headword": "noster, nostra, nostrum",
       "pos": "Possessive Adjective",
@@ -362,16 +385,17 @@
         "surface_form": "nostra"
       },
       "book_frequency": 39,
-      "total_frequency": 265,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 18
+      "total_frequency": 265
     },
     {
       "rank": 19,
       "book": 1,
       "book_rank": 19,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 19,
       "lemma": "Galli",
       "headword": "Gallī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -382,16 +406,17 @@
         "surface_form": "Galli"
       },
       "book_frequency": 14,
-      "total_frequency": 81,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 19
+      "total_frequency": 81
     },
     {
       "rank": 20,
       "book": 1,
       "book_rank": 20,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 20,
       "lemma": "appello",
       "headword": "appello, is, ere, puli, pulsum",
       "pos": "Verb",
@@ -402,16 +427,17 @@
         "surface_form": "appellantur"
       },
       "book_frequency": 9,
-      "total_frequency": 48,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 20
+      "total_frequency": 48
     },
     {
       "rank": 21,
       "book": 1,
       "book_rank": 21,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 21,
       "lemma": "hic",
       "headword": "hic, haec, hoc",
       "pos": "Demonstrative Pronoun",
@@ -422,16 +448,17 @@
         "surface_form": "Hi"
       },
       "book_frequency": 84,
-      "total_frequency": 656,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 21
+      "total_frequency": 656
     },
     {
       "rank": 22,
       "book": 1,
       "book_rank": 22,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 22,
       "lemma": "instituo",
       "headword": "instituo, is, ere, tui, tutum",
       "pos": "Verb",
@@ -442,16 +469,17 @@
         "surface_form": "institutis"
       },
       "book_frequency": 3,
-      "total_frequency": 53,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 22
+      "total_frequency": 53
     },
     {
       "rank": 23,
       "book": 1,
       "book_rank": 23,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 23,
       "lemma": "lex",
       "headword": "lēx, lēgis, f.",
       "pos": "Noun (3rd)",
@@ -462,16 +490,17 @@
         "surface_form": "legibus"
       },
       "book_frequency": 3,
-      "total_frequency": 17,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 23
+      "total_frequency": 17
     },
     {
       "rank": 24,
       "book": 1,
       "book_rank": 24,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 24,
       "lemma": "inter",
       "headword": "inter, prep. (+ acc.)",
       "pos": "Verb",
@@ -482,16 +511,17 @@
         "surface_form": "inter"
       },
       "book_frequency": 17,
-      "total_frequency": 85,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 24
+      "total_frequency": 85
     },
     {
       "rank": 25,
       "book": 1,
       "book_rank": 25,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 25,
       "lemma": "sui",
       "headword": "suī, sibi, sē, sē",
       "pos": "Reflexive Pronoun",
@@ -502,16 +532,17 @@
         "surface_form": "se"
       },
       "book_frequency": 168,
-      "total_frequency": 717,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 25
+      "total_frequency": 717
     },
     {
       "rank": 26,
       "book": 1,
       "book_rank": 26,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 26,
       "lemma": "differo",
       "headword": "differō, differre, distulī, dīlātum",
       "pos": "Verb (irreg.)",
@@ -522,16 +553,17 @@
         "surface_form": "differunt"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 26
+      "total_frequency": 10
     },
     {
       "rank": 27,
       "book": 1,
       "book_rank": 27,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 27,
       "lemma": "ab",
       "headword": "ab / ā (+ abl.)",
       "pos": "Preposition",
@@ -542,16 +574,17 @@
         "surface_form": "ab"
       },
       "book_frequency": 105,
-      "total_frequency": 609,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 27
+      "total_frequency": 609
     },
     {
       "rank": 28,
       "book": 1,
       "book_rank": 28,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 28,
       "lemma": "Aquitania",
       "headword": "Aquitania, ae, f.",
       "pos": "Noun",
@@ -562,16 +595,17 @@
         "surface_form": "Aquitanis"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 28
+      "total_frequency": 11
     },
     {
       "rank": 29,
       "book": 1,
       "book_rank": 29,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 29,
       "lemma": "Garumna",
       "headword": "Garumna, -ae, m./f.",
       "pos": "Proper Noun",
@@ -582,16 +616,17 @@
         "surface_form": "Garumna"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 29
+      "total_frequency": 3
     },
     {
       "rank": 30,
       "book": 1,
       "book_rank": 30,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 30,
       "lemma": "flumen",
       "headword": "flūmen, flūminis, n.",
       "pos": "Noun (3rd)",
@@ -602,16 +637,17 @@
         "surface_form": "flumen"
       },
       "book_frequency": 22,
-      "total_frequency": 111,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 30
+      "total_frequency": 111
     },
     {
       "rank": 31,
       "book": 1,
       "book_rank": 31,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 31,
       "lemma": "Matrona",
       "headword": "Matrona, -ae, m.",
       "pos": "Proper Noun",
@@ -622,16 +658,17 @@
         "surface_form": "Matrona"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 31
+      "total_frequency": 1
     },
     {
       "rank": 32,
       "book": 1,
       "book_rank": 32,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 32,
       "lemma": "et",
       "headword": "et",
       "pos": "Conjunction",
@@ -642,16 +679,17 @@
         "surface_form": "et"
       },
       "book_frequency": 195,
-      "total_frequency": 1013,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 32
+      "total_frequency": 1013
     },
     {
       "rank": 33,
       "book": 1,
       "book_rank": 33,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 33,
       "lemma": "Sequana",
       "headword": "Sēquana, -ae, m.",
       "pos": "Proper Noun",
@@ -662,16 +700,17 @@
         "surface_form": "Sequana"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 33
+      "total_frequency": 5
     },
     {
       "rank": 34,
       "book": 1,
       "book_rank": 34,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 34,
       "lemma": "fortis",
       "headword": "fortis, e",
       "pos": "Adjective",
@@ -682,16 +721,17 @@
         "surface_form": "fortissimi"
       },
       "book_frequency": 2,
-      "total_frequency": 31,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 34
+      "total_frequency": 31
     },
     {
       "rank": 35,
       "book": 1,
       "book_rank": 35,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 35,
       "lemma": "propterea",
       "headword": "proptereā",
       "pos": "Adverb",
@@ -702,16 +742,17 @@
         "surface_form": "propterea"
       },
       "book_frequency": 15,
-      "total_frequency": 27,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 35
+      "total_frequency": 27
     },
     {
       "rank": 36,
       "book": 1,
       "book_rank": 36,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 36,
       "lemma": "colo",
       "headword": "colo, is, ere, colui, cultum",
       "pos": "Verb",
@@ -722,16 +763,17 @@
         "surface_form": "cultu"
       },
       "book_frequency": 2,
-      "total_frequency": 13,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 36
+      "total_frequency": 13
     },
     {
       "rank": 37,
       "book": 1,
       "book_rank": 37,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 37,
       "lemma": "atque",
       "headword": "atque / ac",
       "pos": "Conjunction",
@@ -742,16 +784,17 @@
         "surface_form": "atque"
       },
       "book_frequency": 75,
-      "total_frequency": 688,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 37
+      "total_frequency": 688
     },
     {
       "rank": 38,
       "book": 1,
       "book_rank": 38,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 38,
       "lemma": "humanitas",
       "headword": "humanitas, atis, f.",
       "pos": "Noun",
@@ -762,16 +805,17 @@
         "surface_form": "humanitate"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 38
+      "total_frequency": 3
     },
     {
       "rank": 39,
       "book": 1,
       "book_rank": 39,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 39,
       "lemma": "provincia",
       "headword": "provincia, ae, f.",
       "pos": "Noun",
@@ -782,16 +826,17 @@
         "surface_form": "provinciae"
       },
       "book_frequency": 23,
-      "total_frequency": 58,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 39
+      "total_frequency": 58
     },
     {
       "rank": 40,
       "book": 1,
       "book_rank": 40,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 40,
       "lemma": "longe",
       "headword": "longē",
       "pos": "Adverb",
@@ -802,16 +847,17 @@
         "surface_form": "longissime"
       },
       "book_frequency": 5,
-      "total_frequency": 31,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 40
+      "total_frequency": 31
     },
     {
       "rank": 41,
       "book": 1,
       "book_rank": 41,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 41,
       "lemma": "absum",
       "headword": "absum, es, esse, afui",
       "pos": "Verb",
@@ -822,16 +868,17 @@
         "surface_form": "absunt"
       },
       "book_frequency": 10,
-      "total_frequency": 50,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 41
+      "total_frequency": 50
     },
     {
       "rank": 42,
       "book": 1,
       "book_rank": 42,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 42,
       "lemma": "parvus",
       "headword": "parvus, a, um",
       "pos": "Adjective",
@@ -842,16 +889,17 @@
         "surface_form": "minime"
       },
       "book_frequency": 23,
-      "total_frequency": 86,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 42
+      "total_frequency": 86
     },
     {
       "rank": 43,
       "book": 1,
       "book_rank": 43,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 43,
       "lemma": "que",
       "headword": "-que (enclitic)",
       "pos": "Conjunction",
@@ -862,16 +910,17 @@
         "surface_form": "que"
       },
       "book_frequency": 117,
-      "total_frequency": 1044,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 43
+      "total_frequency": 1044
     },
     {
       "rank": 44,
       "book": 1,
       "book_rank": 44,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 44,
       "lemma": "ad",
       "headword": "ad (+ acc.)",
       "pos": "Preposition",
@@ -882,16 +931,17 @@
         "surface_form": "ad"
       },
       "book_frequency": 111,
-      "total_frequency": 813,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 44
+      "total_frequency": 813
     },
     {
       "rank": 45,
       "book": 1,
       "book_rank": 45,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 45,
       "lemma": "is",
       "headword": "is, ea, id",
       "pos": "Demonstrative Pronoun",
@@ -902,16 +952,17 @@
         "surface_form": "eos"
       },
       "book_frequency": 252,
-      "total_frequency": 1066,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 45
+      "total_frequency": 1066
     },
     {
       "rank": 46,
       "book": 1,
       "book_rank": 46,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 46,
       "lemma": "mercator",
       "headword": "mercator, oris, m.",
       "pos": "Noun",
@@ -922,16 +973,17 @@
         "surface_form": "mercatores"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 46
+      "total_frequency": 11
     },
     {
       "rank": 47,
       "book": 1,
       "book_rank": 47,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 47,
       "lemma": "saepe",
       "headword": "saepe",
       "pos": "Adverb",
@@ -942,16 +994,17 @@
         "surface_form": "saepe"
       },
       "book_frequency": 7,
-      "total_frequency": 24,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 47
+      "total_frequency": 24
     },
     {
       "rank": 48,
       "book": 1,
       "book_rank": 48,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 48,
       "lemma": "commeo",
       "headword": "commeo, as, are",
       "pos": "Verb",
@@ -962,16 +1015,17 @@
         "surface_form": "commeant"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 48
+      "total_frequency": 2
     },
     {
       "rank": 49,
       "book": 1,
       "book_rank": 49,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 49,
       "lemma": "effemino",
       "headword": "effemino, as, are",
       "pos": "Verb",
@@ -982,16 +1036,17 @@
         "surface_form": "effeminandos"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 49
+      "total_frequency": 2
     },
     {
       "rank": 50,
       "book": 1,
       "book_rank": 50,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 50,
       "lemma": "animus",
       "headword": "animus, i, m.",
       "pos": "Noun",
@@ -1002,16 +1057,17 @@
         "surface_form": "animos"
       },
       "book_frequency": 11,
-      "total_frequency": 79,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 50
+      "total_frequency": 79
     },
     {
       "rank": 51,
       "book": 1,
       "book_rank": 51,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 51,
       "lemma": "pertineo",
       "headword": "pertineo, es, ere, tinui",
       "pos": "Verb",
@@ -1022,16 +1078,17 @@
         "surface_form": "pertinent"
       },
       "book_frequency": 6,
-      "total_frequency": 24,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 51
+      "total_frequency": 24
     },
     {
       "rank": 52,
       "book": 1,
       "book_rank": 52,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 52,
       "lemma": "importo",
       "headword": "importo, as, are",
       "pos": "Verb",
@@ -1042,16 +1099,17 @@
         "surface_form": "important"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 52
+      "total_frequency": 7
     },
     {
       "rank": 53,
       "book": 1,
       "book_rank": 53,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 53,
       "lemma": "proximus",
       "headword": "proximus, a, um",
       "pos": "Verb",
@@ -1062,16 +1120,17 @@
         "surface_form": "proximi"
       },
       "book_frequency": 2,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 53
+      "total_frequency": 10
     },
     {
       "rank": 54,
       "book": 1,
       "book_rank": 54,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 54,
       "lemma": "Germani",
       "headword": "Germānī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -1082,16 +1141,17 @@
         "surface_form": "Germanis"
       },
       "book_frequency": 26,
-      "total_frequency": 100,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 54
+      "total_frequency": 100
     },
     {
       "rank": 55,
       "book": 1,
       "book_rank": 55,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 55,
       "lemma": "trans",
       "headword": "trāns (+ acc.)",
       "pos": "Preposition",
@@ -1102,16 +1162,17 @@
         "surface_form": "trans"
       },
       "book_frequency": 7,
-      "total_frequency": 24,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 55
+      "total_frequency": 24
     },
     {
       "rank": 56,
       "book": 1,
       "book_rank": 56,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 56,
       "lemma": "Rhenus",
       "headword": "Rhēnus, -ī, m.",
       "pos": "Proper Noun",
@@ -1122,16 +1183,17 @@
         "surface_form": "Rhenum"
       },
       "book_frequency": 19,
-      "total_frequency": 64,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 56
+      "total_frequency": 64
     },
     {
       "rank": 57,
       "book": 1,
       "book_rank": 57,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 57,
       "lemma": "cum",
       "headword": "cum (+ abl. / conj.)",
       "pos": "Preposition / Conjunction",
@@ -1142,16 +1204,17 @@
         "surface_form": "cum"
       },
       "book_frequency": 96,
-      "total_frequency": 689,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 57
+      "total_frequency": 689
     },
     {
       "rank": 58,
       "book": 1,
       "book_rank": 58,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 58,
       "lemma": "continenter",
       "headword": "continenter",
       "pos": "Adverb",
@@ -1162,16 +1225,17 @@
         "surface_form": "continenter"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 58
+      "total_frequency": 3
     },
     {
       "rank": 59,
       "book": 1,
       "book_rank": 59,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 59,
       "lemma": "bellum",
       "headword": "bellum, -ī, n.",
       "pos": "Noun (2nd)",
@@ -1182,16 +1246,17 @@
         "surface_form": "bellum"
       },
       "book_frequency": 32,
-      "total_frequency": 210,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 59
+      "total_frequency": 210
     },
     {
       "rank": 60,
       "book": 1,
       "book_rank": 60,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 60,
       "lemma": "gero",
       "headword": "gerō, -ere, gessī, gestum",
       "pos": "Verb (3rd)",
@@ -1202,16 +1267,17 @@
         "surface_form": "gerunt"
       },
       "book_frequency": 8,
-      "total_frequency": 96,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 60
+      "total_frequency": 96
     },
     {
       "rank": 61,
       "book": 1,
       "book_rank": 61,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 61,
       "lemma": "de",
       "headword": "dē (+ abl.)",
       "pos": "Preposition",
@@ -1222,16 +1288,17 @@
         "surface_form": "de"
       },
       "book_frequency": 37,
-      "total_frequency": 219,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 61
+      "total_frequency": 219
     },
     {
       "rank": 62,
       "book": 1,
       "book_rank": 62,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 62,
       "lemma": "causa",
       "headword": "causa, ae, f.",
       "pos": "Noun",
@@ -1242,16 +1309,17 @@
         "surface_form": "causa"
       },
       "book_frequency": 25,
-      "total_frequency": 173,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 62
+      "total_frequency": 173
     },
     {
       "rank": 63,
       "book": 1,
       "book_rank": 63,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 63,
       "lemma": "Helvetii",
       "headword": "Helvētiī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -1262,16 +1330,17 @@
         "surface_form": "Helvetii"
       },
       "book_frequency": 61,
-      "total_frequency": 64,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 63
+      "total_frequency": 64
     },
     {
       "rank": 64,
       "book": 1,
       "book_rank": 64,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 64,
       "lemma": "quoque",
       "headword": "quoque, adv.",
       "pos": "Adverb",
@@ -1282,16 +1351,17 @@
         "surface_form": "quoque"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 64
+      "total_frequency": 18
     },
     {
       "rank": 65,
       "book": 1,
       "book_rank": 65,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 65,
       "lemma": "reliquus",
       "headword": "reliquus, a, um",
       "pos": "Noun",
@@ -1302,16 +1372,17 @@
         "surface_form": "reliquos"
       },
       "book_frequency": 20,
-      "total_frequency": 188,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 65
+      "total_frequency": 188
     },
     {
       "rank": 66,
       "book": 1,
       "book_rank": 66,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 66,
       "lemma": "virtus",
       "headword": "virtūs, virtūtis, f.",
       "pos": "Noun (3rd)",
@@ -1322,16 +1393,17 @@
         "surface_form": "virtute"
       },
       "book_frequency": 15,
-      "total_frequency": 79,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 66
+      "total_frequency": 79
     },
     {
       "rank": 67,
       "book": 1,
       "book_rank": 67,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 67,
       "lemma": "praecedo",
       "headword": "praecedo, is, ere, cessi, cessum",
       "pos": "Verb",
@@ -1342,16 +1414,17 @@
         "surface_form": "praecedunt"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 67
+      "total_frequency": 1
     },
     {
       "rank": 68,
       "book": 1,
       "book_rank": 68,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 68,
       "lemma": "fere",
       "headword": "ferē",
       "pos": "Adverb",
@@ -1362,16 +1435,17 @@
         "surface_form": "fere"
       },
       "book_frequency": 3,
-      "total_frequency": 47,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 68
+      "total_frequency": 47
     },
     {
       "rank": 69,
       "book": 1,
       "book_rank": 69,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 69,
       "lemma": "cotidianus",
       "headword": "cotidianus, a, um",
       "pos": "Adjective",
@@ -1382,16 +1456,17 @@
         "surface_form": "cotidianis"
       },
       "book_frequency": 2,
-      "total_frequency": 14,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 69
+      "total_frequency": 14
     },
     {
       "rank": 70,
       "book": 1,
       "book_rank": 70,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 70,
       "lemma": "proelium",
       "headword": "proelium, ii, n.",
       "pos": "Noun",
@@ -1402,16 +1477,17 @@
         "surface_form": "proeliis"
       },
       "book_frequency": 33,
-      "total_frequency": 148,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 70
+      "total_frequency": 148
     },
     {
       "rank": 71,
       "book": 1,
       "book_rank": 71,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 71,
       "lemma": "contendo",
       "headword": "contendo, is, ere, tendi, tentum",
       "pos": "Verb",
@@ -1422,16 +1498,17 @@
         "surface_form": "contendunt"
       },
       "book_frequency": 20,
-      "total_frequency": 89,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 71
+      "total_frequency": 89
     },
     {
       "rank": 72,
       "book": 1,
       "book_rank": 72,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 72,
       "lemma": "aut",
       "headword": "aut",
       "pos": "Conjunction",
@@ -1442,16 +1519,17 @@
         "surface_form": "aut"
       },
       "book_frequency": 36,
-      "total_frequency": 178,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 72
+      "total_frequency": 178
     },
     {
       "rank": 73,
       "book": 1,
       "book_rank": 73,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 73,
       "lemma": "suus",
       "headword": "suus, -a, -um",
       "pos": "Possessive Adjective",
@@ -1462,16 +1540,17 @@
         "surface_form": "suis"
       },
       "book_frequency": 109,
-      "total_frequency": 453,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 73
+      "total_frequency": 453
     },
     {
       "rank": 74,
       "book": 1,
       "book_rank": 74,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 74,
       "lemma": "finis",
       "headword": "fīnis, fīnis, m.",
       "pos": "Noun (3rd)",
@@ -1482,16 +1561,17 @@
         "surface_form": "finibus"
       },
       "book_frequency": 38,
-      "total_frequency": 147,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 74
+      "total_frequency": 147
     },
     {
       "rank": 75,
       "book": 1,
       "book_rank": 75,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 75,
       "lemma": "prohibeo",
       "headword": "prohibeo, es, ere, bui, bitum",
       "pos": "Verb",
@@ -1502,16 +1582,17 @@
         "surface_form": "prohibent"
       },
       "book_frequency": 11,
-      "total_frequency": 53,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 75
+      "total_frequency": 53
     },
     {
       "rank": 76,
       "book": 1,
       "book_rank": 76,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 76,
       "lemma": "obtineo",
       "headword": "obtineo, es, ere, tinui, tentum",
       "pos": "Verb",
@@ -1522,16 +1603,17 @@
         "surface_form": "obtinere"
       },
       "book_frequency": 8,
-      "total_frequency": 29,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 76
+      "total_frequency": 29
     },
     {
       "rank": 77,
       "book": 1,
       "book_rank": 77,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 77,
       "lemma": "dico",
       "headword": "dico, as, are",
       "pos": "Verb",
@@ -1542,16 +1624,17 @@
         "surface_form": "dictum"
       },
       "book_frequency": 28,
-      "total_frequency": 106,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 77
+      "total_frequency": 106
     },
     {
       "rank": 78,
       "book": 1,
       "book_rank": 78,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 78,
       "lemma": "initium",
       "headword": "initium, ii, n.",
       "pos": "Verb",
@@ -1562,16 +1645,17 @@
         "surface_form": "initium"
       },
       "book_frequency": 3,
-      "total_frequency": 26,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 78
+      "total_frequency": 26
     },
     {
       "rank": 79,
       "book": 1,
       "book_rank": 79,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 79,
       "lemma": "capio",
       "headword": "capio, is, ere, cepi, captum",
       "pos": "Verb",
@@ -1582,16 +1666,17 @@
         "surface_form": "capit"
       },
       "book_frequency": 9,
-      "total_frequency": 83,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 79
+      "total_frequency": 83
     },
     {
       "rank": 80,
       "book": 1,
       "book_rank": 80,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 80,
       "lemma": "Rhodanus",
       "headword": "Rhodanus, -ī, m.",
       "pos": "Proper Noun",
@@ -1602,16 +1687,17 @@
         "surface_form": "Rhodano"
       },
       "book_frequency": 11,
-      "total_frequency": 13,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 80
+      "total_frequency": 13
     },
     {
       "rank": 81,
       "book": 1,
       "book_rank": 81,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 81,
       "lemma": "contineo",
       "headword": "contineo, es, ere, tinui, tentum",
       "pos": "Verb",
@@ -1622,16 +1708,17 @@
         "surface_form": "continetur"
       },
       "book_frequency": 5,
-      "total_frequency": 68,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 81
+      "total_frequency": 68
     },
     {
       "rank": 82,
       "book": 1,
       "book_rank": 82,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 82,
       "lemma": "Oceanus",
       "headword": "Oceanus, i, m.",
       "pos": "Noun",
@@ -1642,16 +1729,17 @@
         "surface_form": "Oceano"
       },
       "book_frequency": 2,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 82
+      "total_frequency": 18
     },
     {
       "rank": 83,
       "book": 1,
       "book_rank": 83,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 83,
       "lemma": "attingo",
       "headword": "attingo",
       "pos": "Verb",
@@ -1662,16 +1750,17 @@
         "surface_form": "attingit"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 83
+      "total_frequency": 1
     },
     {
       "rank": 84,
       "book": 1,
       "book_rank": 84,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 84,
       "lemma": "etiam",
       "headword": "etiam, adv.",
       "pos": "Adverb",
@@ -1682,16 +1771,17 @@
         "surface_form": "etiam"
       },
       "book_frequency": 17,
-      "total_frequency": 82,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 84
+      "total_frequency": 82
     },
     {
       "rank": 85,
       "book": 1,
       "book_rank": 85,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 85,
       "lemma": "Sequani",
       "headword": "Sēquanī, -ōrum, m. pl.",
       "pos": "Proper Noun",
@@ -1702,16 +1792,17 @@
         "surface_form": "Sequanis"
       },
       "book_frequency": 32,
-      "total_frequency": 40,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 85
+      "total_frequency": 40
     },
     {
       "rank": 86,
       "book": 1,
       "book_rank": 86,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 86,
       "lemma": "vergo",
       "headword": "vergo, is, ere",
       "pos": "Verb",
@@ -1722,16 +1813,17 @@
         "surface_form": "vergit"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 86
+      "total_frequency": 4
     },
     {
       "rank": 87,
       "book": 1,
       "book_rank": 87,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 87,
       "lemma": "septentrio",
       "headword": "septentrio, onis, m.",
       "pos": "Noun",
@@ -1742,16 +1834,17 @@
         "surface_form": "septentriones"
       },
       "book_frequency": 4,
-      "total_frequency": 7,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 87
+      "total_frequency": 7
     },
     {
       "rank": 88,
       "book": 1,
       "book_rank": 88,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 88,
       "lemma": "extremus",
       "headword": "extremus, a, um",
       "pos": "Noun",
@@ -1762,16 +1855,17 @@
         "surface_form": "extremis"
       },
       "book_frequency": 3,
-      "total_frequency": 27,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 88
+      "total_frequency": 27
     },
     {
       "rank": 89,
       "book": 1,
       "book_rank": 89,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 89,
       "lemma": "orior",
       "headword": "orior, iris, iri, ortus sum",
       "pos": "Verb",
@@ -1782,16 +1876,17 @@
         "surface_form": "oriuntur"
       },
       "book_frequency": 3,
-      "total_frequency": 24,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 89
+      "total_frequency": 24
     },
     {
       "rank": 90,
       "book": 1,
       "book_rank": 90,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 90,
       "lemma": "inferus",
       "headword": "inferus, a, um",
       "pos": "Adjective",
@@ -1802,16 +1897,17 @@
         "surface_form": "inferiorem"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 90
+      "total_frequency": 11
     },
     {
       "rank": 91,
       "book": 1,
       "book_rank": 91,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 91,
       "lemma": "specto",
       "headword": "specto, as, are",
       "pos": "Verb",
@@ -1822,16 +1918,17 @@
         "surface_form": "spectant"
       },
       "book_frequency": 3,
-      "total_frequency": 7,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 91
+      "total_frequency": 7
     },
     {
       "rank": 92,
       "book": 1,
       "book_rank": 92,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 92,
       "lemma": "sol",
       "headword": "sol, solis, m.",
       "pos": "Verb",
@@ -1842,16 +1939,17 @@
         "surface_form": "solem"
       },
       "book_frequency": 8,
-      "total_frequency": 29,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 92
+      "total_frequency": 29
     },
     {
       "rank": 93,
       "book": 1,
       "book_rank": 93,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 93,
       "lemma": "Pyrenaeus",
       "headword": "Pyrenaeus, i, m.",
       "pos": "Noun",
@@ -1862,16 +1960,17 @@
         "surface_form": "Pyrenaeos"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 93
+      "total_frequency": 1
     },
     {
       "rank": 94,
       "book": 1,
       "book_rank": 94,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 94,
       "lemma": "mons",
       "headword": "mons, montis, m.",
       "pos": "Noun",
@@ -1882,16 +1981,17 @@
         "surface_form": "montes"
       },
       "book_frequency": 20,
-      "total_frequency": 37,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 94
+      "total_frequency": 37
     },
     {
       "rank": 95,
       "book": 1,
       "book_rank": 95,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 95,
       "lemma": "Hispania",
       "headword": "Hispania, ae, f.",
       "pos": "Noun",
@@ -1902,16 +2002,17 @@
         "surface_form": "Hispaniam"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 95
+      "total_frequency": 7
     },
     {
       "rank": 96,
       "book": 1,
       "book_rank": 96,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 96,
       "lemma": "occido",
       "headword": "occido, is, ere, occidi, occisum (ob + caedo)",
       "pos": "Verb",
@@ -1922,16 +2023,17 @@
         "surface_form": "occasum"
       },
       "book_frequency": 6,
-      "total_frequency": 27,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 96
+      "total_frequency": 27
     },
     {
       "rank": 97,
       "book": 1,
       "book_rank": 97,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 97,
       "lemma": "apud",
       "headword": "apud, prep. (+ acc.)",
       "pos": "Preposition",
@@ -1942,16 +2044,17 @@
         "surface_form": "Apud"
       },
       "book_frequency": 13,
-      "total_frequency": 51,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 97
+      "total_frequency": 51
     },
     {
       "rank": 98,
       "book": 1,
       "book_rank": 98,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 98,
       "lemma": "nobilis",
       "headword": "nobilis, e",
       "pos": "Noun",
@@ -1962,16 +2065,17 @@
         "surface_form": "nobilissimus"
       },
       "book_frequency": 6,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 98
+      "total_frequency": 10
     },
     {
       "rank": 99,
       "book": 1,
       "book_rank": 99,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 99,
       "lemma": "dis",
       "headword": "dis, Ditis, m.",
       "pos": "Noun",
@@ -1982,16 +2086,17 @@
         "surface_form": "ditissimus"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 99
+      "total_frequency": 1
     },
     {
       "rank": 100,
       "book": 1,
       "book_rank": 100,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 100,
       "lemma": "Orgetorix",
       "headword": "Orgetorīx, Orgetorīgis, m.",
       "pos": "Proper Noun",
@@ -2002,16 +2107,17 @@
         "surface_form": "Orgetorix"
       },
       "book_frequency": 8,
-      "total_frequency": 8,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 100
+      "total_frequency": 8
     },
     {
       "rank": 101,
       "book": 1,
       "book_rank": 101,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 101,
       "lemma": "Messala",
       "headword": "Messala, a, m.",
       "pos": "Noun",
@@ -2022,16 +2128,17 @@
         "surface_form": "Messala"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 101
+      "total_frequency": 2
     },
     {
       "rank": 102,
       "book": 1,
       "book_rank": 102,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 102,
       "lemma": "P",
       "headword": "P, P.",
       "pos": "Noun",
@@ -2042,16 +2149,17 @@
         "surface_form": "P"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 102
+      "total_frequency": 12
     },
     {
       "rank": 103,
       "book": 1,
       "book_rank": 103,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 103,
       "lemma": "Piso",
       "headword": "Piso, onis, m.",
       "pos": "Noun",
@@ -2062,16 +2170,17 @@
         "surface_form": "Piso"
       },
       "book_frequency": 5,
-      "total_frequency": 6,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 103
+      "total_frequency": 6
     },
     {
       "rank": 104,
       "book": 1,
       "book_rank": 104,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 104,
       "lemma": "ne",
       "headword": "nē",
       "pos": "Conjunction / Adverb",
@@ -2082,16 +2191,17 @@
         "surface_form": "ne"
       },
       "book_frequency": 68,
-      "total_frequency": 467,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 104
+      "total_frequency": 467
     },
     {
       "rank": 105,
       "book": 1,
       "book_rank": 105,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 105,
       "lemma": "consul",
       "headword": "consul, is, m.",
       "pos": "Verb",
@@ -2102,16 +2212,17 @@
         "surface_form": "consulibus"
       },
       "book_frequency": 6,
-      "total_frequency": 21,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 105
+      "total_frequency": 21
     },
     {
       "rank": 106,
       "book": 1,
       "book_rank": 106,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 106,
       "lemma": "regnum",
       "headword": "regnum, i, n.",
       "pos": "Verb",
@@ -2122,16 +2233,17 @@
         "surface_form": "regni"
       },
       "book_frequency": 8,
-      "total_frequency": 19,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 106
+      "total_frequency": 19
     },
     {
       "rank": 107,
       "book": 1,
       "book_rank": 107,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 107,
       "lemma": "cupiditas",
       "headword": "cupiditas, atis, f.",
       "pos": "Noun",
@@ -2142,16 +2254,17 @@
         "surface_form": "cupiditate"
       },
       "book_frequency": 3,
-      "total_frequency": 14,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 107
+      "total_frequency": 14
     },
     {
       "rank": 108,
       "book": 1,
       "book_rank": 108,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 108,
       "lemma": "induco",
       "headword": "induco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -2162,16 +2275,17 @@
         "surface_form": "inductus"
       },
       "book_frequency": 2,
-      "total_frequency": 4,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 108
+      "total_frequency": 4
     },
     {
       "rank": 109,
       "book": 1,
       "book_rank": 109,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 109,
       "lemma": "conjuratio",
       "headword": "conjuratio, onis, f.",
       "pos": "Noun",
@@ -2182,16 +2296,17 @@
         "surface_form": "coniurationem"
       },
       "book_frequency": 1,
-      "total_frequency": 8,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 109
+      "total_frequency": 8
     },
     {
       "rank": 110,
       "book": 1,
       "book_rank": 110,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 110,
       "lemma": "nobilitas",
       "headword": "nobilitas, atis, f.",
       "pos": "Noun",
@@ -2202,16 +2317,17 @@
         "surface_form": "nobilitatis"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 110
+      "total_frequency": 8
     },
     {
       "rank": 111,
       "book": 1,
       "book_rank": 111,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 111,
       "lemma": "facio",
       "headword": "facio, is, ere, feci, factum",
       "pos": "Verb",
@@ -2222,16 +2338,17 @@
         "surface_form": "fecit"
       },
       "book_frequency": 59,
-      "total_frequency": 245,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 111
+      "total_frequency": 245
     },
     {
       "rank": 112,
       "book": 1,
       "book_rank": 112,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 112,
       "lemma": "ciuito",
       "headword": "ciuito",
       "pos": "Word",
@@ -2242,16 +2359,17 @@
         "surface_form": "civitati"
       },
       "book_frequency": 18,
-      "total_frequency": 103,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 112
+      "total_frequency": 103
     },
     {
       "rank": 113,
       "book": 1,
       "book_rank": 113,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 113,
       "lemma": "persuadeo",
       "headword": "persuadeo, es, ere, asi, asum",
       "pos": "Verb",
@@ -2262,16 +2380,17 @@
         "surface_form": "persuasit"
       },
       "book_frequency": 8,
-      "total_frequency": 20,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 113
+      "total_frequency": 20
     },
     {
       "rank": 114,
       "book": 1,
       "book_rank": 114,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 114,
       "lemma": "ut",
       "headword": "ut / utī",
       "pos": "Conjunction",
@@ -2282,16 +2401,17 @@
         "surface_form": "ut"
       },
       "book_frequency": 74,
-      "total_frequency": 436,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 114
+      "total_frequency": 436
     },
     {
       "rank": 115,
       "book": 1,
       "book_rank": 115,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 115,
       "lemma": "copia",
       "headword": "copia, ae, f.",
       "pos": "Noun",
@@ -2302,16 +2422,17 @@
         "surface_form": "copiis"
       },
       "book_frequency": 28,
-      "total_frequency": 175,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 115
+      "total_frequency": 175
     },
     {
       "rank": 116,
       "book": 1,
       "book_rank": 116,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 116,
       "lemma": "exeo",
       "headword": "exeo, is,ire, ii, itum",
       "pos": "Verb",
@@ -2322,16 +2443,17 @@
         "surface_form": "exirent"
       },
       "book_frequency": 6,
-      "total_frequency": 20,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 116
+      "total_frequency": 20
     },
     {
       "rank": 117,
       "book": 1,
       "book_rank": 117,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 117,
       "lemma": "perfacilis",
       "headword": "perfacilis, e",
       "pos": "Adjective",
@@ -2342,16 +2464,17 @@
         "surface_form": "perfacile"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 117
+      "total_frequency": 3
     },
     {
       "rank": 118,
       "book": 1,
       "book_rank": 118,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 118,
       "lemma": "praesto",
       "headword": "praesto, as, are",
       "pos": "Verb",
@@ -2362,16 +2485,17 @@
         "surface_form": "praestarent"
       },
       "book_frequency": 2,
-      "total_frequency": 21,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 118
+      "total_frequency": 21
     },
     {
       "rank": 119,
       "book": 1,
       "book_rank": 119,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 119,
       "lemma": "totus",
       "headword": "totus, a, um",
       "pos": "Adjective",
@@ -2382,16 +2506,17 @@
         "surface_form": "totius"
       },
       "book_frequency": 9,
-      "total_frequency": 38,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 119
+      "total_frequency": 38
     },
     {
       "rank": 120,
       "book": 1,
       "book_rank": 120,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 120,
       "lemma": "imperium",
       "headword": "imperium, ii, n.",
       "pos": "Noun",
@@ -2402,16 +2527,17 @@
         "surface_form": "imperio"
       },
       "book_frequency": 9,
-      "total_frequency": 59,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 120
+      "total_frequency": 59
     },
     {
       "rank": 121,
       "book": 1,
       "book_rank": 121,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 121,
       "lemma": "potio",
       "headword": "potio, ionis, f.",
       "pos": "Noun",
@@ -2422,16 +2548,17 @@
         "surface_form": "potiri"
       },
       "book_frequency": 4,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 121
+      "total_frequency": 16
     },
     {
       "rank": 122,
       "book": 1,
       "book_rank": 122,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 122,
       "lemma": "facile",
       "headword": "facile, adv.",
       "pos": "Adverb",
@@ -2442,16 +2569,17 @@
         "surface_form": "facilius"
       },
       "book_frequency": 8,
-      "total_frequency": 52,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 122
+      "total_frequency": 52
     },
     {
       "rank": 123,
       "book": 1,
       "book_rank": 123,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 123,
       "lemma": "undique",
       "headword": "undique",
       "pos": "Adverb",
@@ -2462,16 +2590,17 @@
         "surface_form": "undique"
       },
       "book_frequency": 3,
-      "total_frequency": 35,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 123
+      "total_frequency": 35
     },
     {
       "rank": 124,
       "book": 1,
       "book_rank": 124,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 124,
       "lemma": "locus",
       "headword": "locus, i, m.",
       "pos": "Noun",
@@ -2482,16 +2611,17 @@
         "surface_form": "loci"
       },
       "book_frequency": 33,
-      "total_frequency": 329,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 124
+      "total_frequency": 329
     },
     {
       "rank": 125,
       "book": 1,
       "book_rank": 125,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 125,
       "lemma": "natura",
       "headword": "natura, ae, f.",
       "pos": "Noun",
@@ -2502,16 +2632,17 @@
         "surface_form": "natura"
       },
       "book_frequency": 3,
-      "total_frequency": 37,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 125
+      "total_frequency": 37
     },
     {
       "rank": 126,
       "book": 1,
       "book_rank": 126,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 126,
       "lemma": "ex",
       "headword": "ex / ē (+ abl.)",
       "pos": "Preposition",
@@ -2522,16 +2653,17 @@
         "surface_form": "ex"
       },
       "book_frequency": 58,
-      "total_frequency": 510,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 126
+      "total_frequency": 510
     },
     {
       "rank": 127,
       "book": 1,
       "book_rank": 127,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 127,
       "lemma": "latus",
       "headword": "latus, eris, n.",
       "pos": "Noun",
@@ -2542,16 +2674,17 @@
         "surface_form": "latissimo"
       },
       "book_frequency": 2,
-      "total_frequency": 38,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 127
+      "total_frequency": 38
     },
     {
       "rank": 128,
       "book": 1,
       "book_rank": 128,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 128,
       "lemma": "altus",
       "headword": "altus, a, um",
       "pos": "Adjective",
@@ -2562,16 +2695,17 @@
         "surface_form": "altissimo"
       },
       "book_frequency": 3,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 128
+      "total_frequency": 16
     },
     {
       "rank": 129,
       "book": 1,
       "book_rank": 129,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 129,
       "lemma": "ager",
       "headword": "ager, agri, m.",
       "pos": "Noun",
@@ -2582,16 +2716,17 @@
         "surface_form": "agrum"
       },
       "book_frequency": 16,
-      "total_frequency": 64,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 129
+      "total_frequency": 64
     },
     {
       "rank": 130,
       "book": 1,
       "book_rank": 130,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 130,
       "lemma": "Helvetius",
       "headword": "Helvetius, i, m.",
       "pos": "Noun",
@@ -2602,16 +2737,17 @@
         "surface_form": "Helvetium"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 130
+      "total_frequency": 1
     },
     {
       "rank": 131,
       "book": 1,
       "book_rank": 131,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 131,
       "lemma": "alter",
       "headword": "alter, era, erum",
       "pos": "Adjective",
@@ -2622,16 +2758,17 @@
         "surface_form": "altera"
       },
       "book_frequency": 11,
-      "total_frequency": 63,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 131
+      "total_frequency": 63
     },
     {
       "rank": 132,
       "book": 1,
       "book_rank": 132,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 132,
       "lemma": "Iura",
       "headword": "Iūra, -ae, m.",
       "pos": "Proper Noun",
@@ -2642,16 +2779,17 @@
         "surface_form": "Iura"
       },
       "book_frequency": 3,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 132
+      "total_frequency": 3
     },
     {
       "rank": 133,
       "book": 1,
       "book_rank": 133,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 133,
       "lemma": "lacus",
       "headword": "lacus, us, m.",
       "pos": "Noun",
@@ -2662,16 +2800,17 @@
         "surface_form": "lacu"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 133
+      "total_frequency": 3
     },
     {
       "rank": 134,
       "book": 1,
       "book_rank": 134,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 134,
       "lemma": "Lemannus",
       "headword": "Lemannus, i, m.",
       "pos": "Noun",
@@ -2682,16 +2821,17 @@
         "surface_form": "Lemanno"
       },
       "book_frequency": 2,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 134
+      "total_frequency": 3
     },
     {
       "rank": 135,
       "book": 1,
       "book_rank": 135,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 135,
       "lemma": "res",
       "headword": "res, rei, f.",
       "pos": "Noun",
@@ -2702,16 +2842,17 @@
         "surface_form": "rebus"
       },
       "book_frequency": 71,
-      "total_frequency": 453,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 135
+      "total_frequency": 453
     },
     {
       "rank": 136,
       "book": 1,
       "book_rank": 136,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 136,
       "lemma": "fio",
       "headword": "fio, is, fieri, factus sum",
       "pos": "Verb",
@@ -2722,16 +2863,17 @@
         "surface_form": "fiebat"
       },
       "book_frequency": 17,
-      "total_frequency": 160,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 136
+      "total_frequency": 160
     },
     {
       "rank": 137,
       "book": 1,
       "book_rank": 137,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 137,
       "lemma": "fero",
       "headword": "fero, fers, ferre, tuli, latum",
       "pos": "Verb",
@@ -2742,16 +2884,17 @@
         "surface_form": "late"
       },
       "book_frequency": 12,
-      "total_frequency": 84,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 137
+      "total_frequency": 84
     },
     {
       "rank": 138,
       "book": 1,
       "book_rank": 138,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 138,
       "lemma": "vagor",
       "headword": "vagor, aris, ari",
       "pos": "Verb",
@@ -2762,16 +2905,17 @@
         "surface_form": "vagarentur"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 138
+      "total_frequency": 10
     },
     {
       "rank": 139,
       "book": 1,
       "book_rank": 139,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 139,
       "lemma": "finitimus",
       "headword": "finitimus, a, um",
       "pos": "Adjective",
@@ -2782,16 +2926,17 @@
         "surface_form": "finitimis"
       },
       "book_frequency": 5,
-      "total_frequency": 44,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 139
+      "total_frequency": 44
     },
     {
       "rank": 140,
       "book": 1,
       "book_rank": 140,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 140,
       "lemma": "infero",
       "headword": "infero, es, ferre, tuli, illatum",
       "pos": "Adjective",
@@ -2802,16 +2947,17 @@
         "surface_form": "inferre"
       },
       "book_frequency": 13,
-      "total_frequency": 55,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 140
+      "total_frequency": 55
     },
     {
       "rank": 141,
       "book": 1,
       "book_rank": 141,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 141,
       "lemma": "possum",
       "headword": "possum, potes, posse, potui",
       "pos": "Verb",
@@ -2822,16 +2968,17 @@
         "surface_form": "possent"
       },
       "book_frequency": 63,
-      "total_frequency": 361,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 141
+      "total_frequency": 361
     },
     {
       "rank": 142,
       "book": 1,
       "book_rank": 142,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 142,
       "lemma": "homo",
       "headword": "homo, minis, m.",
       "pos": "Noun",
@@ -2842,16 +2989,17 @@
         "surface_form": "homines"
       },
       "book_frequency": 22,
-      "total_frequency": 99,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 142
+      "total_frequency": 99
     },
     {
       "rank": 143,
       "book": 1,
       "book_rank": 143,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 143,
       "lemma": "bello",
       "headword": "bello, as, are",
       "pos": "Verb",
@@ -2862,16 +3010,17 @@
         "surface_form": "bellandi"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 143
+      "total_frequency": 5
     },
     {
       "rank": 144,
       "book": 1,
       "book_rank": 144,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 144,
       "lemma": "cupidus",
       "headword": "cupidus, a, um",
       "pos": "Adjective",
@@ -2882,16 +3031,17 @@
         "surface_form": "cupidi"
       },
       "book_frequency": 4,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 144
+      "total_frequency": 12
     },
     {
       "rank": 145,
       "book": 1,
       "book_rank": 145,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 145,
       "lemma": "magnus",
       "headword": "magnus, a, um",
       "pos": "Adjective",
@@ -2902,16 +3052,17 @@
         "surface_form": "magno"
       },
       "book_frequency": 48,
-      "total_frequency": 355,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 145
+      "total_frequency": 355
     },
     {
       "rank": 146,
       "book": 1,
       "book_rank": 146,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 146,
       "lemma": "dolor",
       "headword": "dolor, oris, m.",
       "pos": "Noun",
@@ -2922,16 +3073,17 @@
         "surface_form": "dolore"
       },
       "book_frequency": 3,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 146
+      "total_frequency": 12
     },
     {
       "rank": 147,
       "book": 1,
       "book_rank": 147,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 147,
       "lemma": "adficio",
       "headword": "adficio, is, ere, feci, fectum",
       "pos": "Verb",
@@ -2942,16 +3094,17 @@
         "surface_form": "adficiebantur"
       },
       "book_frequency": 3,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 147
+      "total_frequency": 16
     },
     {
       "rank": 148,
       "book": 1,
       "book_rank": 148,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 148,
       "lemma": "pro",
       "headword": "pro, prep. (+ abl.)",
       "pos": "Preposition",
@@ -2962,16 +3115,17 @@
         "surface_form": "Pro"
       },
       "book_frequency": 15,
-      "total_frequency": 91,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 148
+      "total_frequency": 91
     },
     {
       "rank": 149,
       "book": 1,
       "book_rank": 149,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 149,
       "lemma": "multitudo",
       "headword": "multitudo, dinis, f.",
       "pos": "Noun",
@@ -2982,16 +3136,17 @@
         "surface_form": "multitudine"
       },
       "book_frequency": 11,
-      "total_frequency": 103,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 149
+      "total_frequency": 103
     },
     {
       "rank": 150,
       "book": 1,
       "book_rank": 150,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 150,
       "lemma": "autem",
       "headword": "autem, conj. coord.",
       "pos": "Conjunction",
@@ -3002,16 +3157,17 @@
         "surface_form": "autem"
       },
       "book_frequency": 8,
-      "total_frequency": 42,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 150
+      "total_frequency": 42
     },
     {
       "rank": 151,
       "book": 1,
       "book_rank": 151,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 151,
       "lemma": "gloria",
       "headword": "gloria, ae, f.",
       "pos": "Noun",
@@ -3022,16 +3178,17 @@
         "surface_form": "gloria"
       },
       "book_frequency": 1,
-      "total_frequency": 7,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 151
+      "total_frequency": 7
     },
     {
       "rank": 152,
       "book": 1,
       "book_rank": 152,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 152,
       "lemma": "fortitudo",
       "headword": "fortitudo, inis, f.",
       "pos": "Noun",
@@ -3042,16 +3199,17 @@
         "surface_form": "fortitudinis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 152
+      "total_frequency": 1
     },
     {
       "rank": 153,
       "book": 1,
       "book_rank": 153,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 153,
       "lemma": "angustus",
       "headword": "angustus, a, um",
       "pos": "Verb",
@@ -3062,16 +3220,17 @@
         "surface_form": "angustos"
       },
       "book_frequency": 2,
-      "total_frequency": 14,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 153
+      "total_frequency": 14
     },
     {
       "rank": 154,
       "book": 1,
       "book_rank": 154,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 154,
       "lemma": "habeo",
       "headword": "habeo, es, ere, bui, bitum",
       "pos": "Verb",
@@ -3082,16 +3241,17 @@
         "surface_form": "habere"
       },
       "book_frequency": 45,
-      "total_frequency": 201,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 154
+      "total_frequency": 201
     },
     {
       "rank": 155,
       "book": 1,
       "book_rank": 155,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 155,
       "lemma": "arbitror",
       "headword": "arbitror, aris, ari, atus sum",
       "pos": "Verb",
@@ -3102,16 +3262,17 @@
         "surface_form": "arbitrabantur"
       },
       "book_frequency": 6,
-      "total_frequency": 44,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 155
+      "total_frequency": 44
     },
     {
       "rank": 156,
       "book": 1,
       "book_rank": 156,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 156,
       "lemma": "longitudo",
       "headword": "longitudo, dinis, f.",
       "pos": "Noun",
@@ -3122,16 +3283,17 @@
         "surface_form": "longitudinem"
       },
       "book_frequency": 1,
-      "total_frequency": 11,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 156
+      "total_frequency": 11
     },
     {
       "rank": 157,
       "book": 1,
       "book_rank": 157,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 157,
       "lemma": "mille",
       "headword": "mille, n. ia, ium",
       "pos": "Noun",
@@ -3142,16 +3304,17 @@
         "surface_form": "milia"
       },
       "book_frequency": 28,
-      "total_frequency": 135,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 157
+      "total_frequency": 135
     },
     {
       "rank": 158,
       "book": 1,
       "book_rank": 158,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 158,
       "lemma": "passus",
       "headword": "passus, us, m.",
       "pos": "Noun",
@@ -3162,16 +3325,17 @@
         "surface_form": "passuum"
       },
       "book_frequency": 13,
-      "total_frequency": 57,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 158
+      "total_frequency": 57
     },
     {
       "rank": 159,
       "book": 1,
       "book_rank": 159,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 159,
       "lemma": "latitudo",
       "headword": "latitudo, inis, f.",
       "pos": "Noun",
@@ -3182,16 +3346,17 @@
         "surface_form": "latitudinem"
       },
       "book_frequency": 1,
-      "total_frequency": 9,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 159
+      "total_frequency": 9
     },
     {
       "rank": 160,
       "book": 1,
       "book_rank": 160,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 160,
       "lemma": "pateo",
       "headword": "pateo, es, ere, patui",
       "pos": "Verb",
@@ -3202,16 +3367,17 @@
         "surface_form": "patebant"
       },
       "book_frequency": 2,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 160
+      "total_frequency": 12
     },
     {
       "rank": 161,
       "book": 1,
       "book_rank": 161,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 161,
       "lemma": "adduco",
       "headword": "adduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -3222,16 +3388,17 @@
         "surface_form": "adducti"
       },
       "book_frequency": 12,
-      "total_frequency": 52,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 161
+      "total_frequency": 52
     },
     {
       "rank": 162,
       "book": 1,
       "book_rank": 162,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 162,
       "lemma": "auctoritas",
       "headword": "auctoritas, atis, f.",
       "pos": "Noun",
@@ -3242,16 +3409,17 @@
         "surface_form": "auctoritate"
       },
       "book_frequency": 4,
-      "total_frequency": 41,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 162
+      "total_frequency": 41
     },
     {
       "rank": 163,
       "book": 1,
       "book_rank": 163,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 163,
       "lemma": "permoveo",
       "headword": "permoveo, es, ere, moui, motum",
       "pos": "Verb",
@@ -3262,16 +3430,17 @@
         "surface_form": "permoti"
       },
       "book_frequency": 1,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 163
+      "total_frequency": 16
     },
     {
       "rank": 164,
       "book": 1,
       "book_rank": 164,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 164,
       "lemma": "constituo",
       "headword": "constituo, is, ere, tui, tutum",
       "pos": "Verb",
@@ -3282,16 +3451,17 @@
         "surface_form": "constituerunt"
       },
       "book_frequency": 11,
-      "total_frequency": 90,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 164
+      "total_frequency": 90
     },
     {
       "rank": 165,
       "book": 1,
       "book_rank": 165,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 165,
       "lemma": "proficiscor",
       "headword": "proficiscor, eris, i, fectus sum",
       "pos": "Verb",
@@ -3302,16 +3472,17 @@
         "surface_form": "proficiscendum"
       },
       "book_frequency": 9,
-      "total_frequency": 102,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 165
+      "total_frequency": 102
     },
     {
       "rank": 166,
       "book": 1,
       "book_rank": 166,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 166,
       "lemma": "comparo",
       "headword": "comparo, as, are",
       "pos": "Verb",
@@ -3322,16 +3493,17 @@
         "surface_form": "comparare"
       },
       "book_frequency": 5,
-      "total_frequency": 24,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 166
+      "total_frequency": 24
     },
     {
       "rank": 167,
       "book": 1,
       "book_rank": 167,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 167,
       "lemma": "jumentum",
       "headword": "jumentum, i, n.",
       "pos": "Noun",
@@ -3342,16 +3514,17 @@
         "surface_form": "iumentorum"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 167
+      "total_frequency": 10
     },
     {
       "rank": 168,
       "book": 1,
       "book_rank": 168,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 168,
       "lemma": "carrus",
       "headword": "carrus, i, m.",
       "pos": "Verb",
@@ -3362,16 +3535,17 @@
         "surface_form": "carrorum"
       },
       "book_frequency": 7,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 168
+      "total_frequency": 10
     },
     {
       "rank": 169,
       "book": 1,
       "book_rank": 169,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 169,
       "lemma": "numerus",
       "headword": "numerus, i, m.",
       "pos": "Verb",
@@ -3382,16 +3556,17 @@
         "surface_form": "numerum"
       },
       "book_frequency": 16,
-      "total_frequency": 118,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 169
+      "total_frequency": 118
     },
     {
       "rank": 170,
       "book": 1,
       "book_rank": 170,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 170,
       "lemma": "coemo",
       "headword": "coemo, is, ere, emi, emptum",
       "pos": "Verb",
@@ -3402,16 +3577,17 @@
         "surface_form": "coemere"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 170
+      "total_frequency": 2
     },
     {
       "rank": 171,
       "book": 1,
       "book_rank": 171,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 171,
       "lemma": "sementis",
       "headword": "sementis, is, f.",
       "pos": "Noun",
@@ -3422,16 +3598,17 @@
         "surface_form": "sementes"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 171
+      "total_frequency": 1
     },
     {
       "rank": 172,
       "book": 1,
       "book_rank": 172,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 172,
       "lemma": "iter",
       "headword": "iter, itineris, n.",
       "pos": "Verb",
@@ -3442,16 +3619,17 @@
         "surface_form": "itinere"
       },
       "book_frequency": 33,
-      "total_frequency": 132,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 172
+      "total_frequency": 132
     },
     {
       "rank": 173,
       "book": 1,
       "book_rank": 173,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 173,
       "lemma": "frumentum",
       "headword": "frumentum, i, n.",
       "pos": "Verb",
@@ -3462,16 +3640,17 @@
         "surface_form": "frumenti"
       },
       "book_frequency": 13,
-      "total_frequency": 64,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 173
+      "total_frequency": 64
     },
     {
       "rank": 174,
       "book": 1,
       "book_rank": 174,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 174,
       "lemma": "suppeto",
       "headword": "suppeto, is, ere, iui, itum",
       "pos": "Verb",
@@ -3482,16 +3661,17 @@
         "surface_form": "suppeteret"
       },
       "book_frequency": 2,
-      "total_frequency": 5,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 174
+      "total_frequency": 5
     },
     {
       "rank": 175,
       "book": 1,
       "book_rank": 175,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 175,
       "lemma": "propinquus",
       "headword": "propinquus, a, um",
       "pos": "Verb",
@@ -3502,16 +3682,17 @@
         "surface_form": "proximis"
       },
       "book_frequency": 15,
-      "total_frequency": 85,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 175
+      "total_frequency": 85
     },
     {
       "rank": 176,
       "book": 1,
       "book_rank": 176,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 176,
       "lemma": "ciuitas",
       "headword": "ciuitas",
       "pos": "Word",
@@ -3522,16 +3703,17 @@
         "surface_form": "civitatibus"
       },
       "book_frequency": 10,
-      "total_frequency": 120,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 176
+      "total_frequency": 120
     },
     {
       "rank": 177,
       "book": 1,
       "book_rank": 177,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 177,
       "lemma": "pax",
       "headword": "pax, pacis, f.",
       "pos": "Noun",
@@ -3542,16 +3724,17 @@
         "surface_form": "pacem"
       },
       "book_frequency": 6,
-      "total_frequency": 32,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 177
+      "total_frequency": 32
     },
     {
       "rank": 178,
       "book": 1,
       "book_rank": 178,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 178,
       "lemma": "amicitia",
       "headword": "amicitia, ae, f.",
       "pos": "Noun",
@@ -3562,16 +3745,17 @@
         "surface_form": "amicitiam"
       },
       "book_frequency": 12,
-      "total_frequency": 35,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 178
+      "total_frequency": 35
     },
     {
       "rank": 179,
       "book": 1,
       "book_rank": 179,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 179,
       "lemma": "confirmo",
       "headword": "confirmo, as, are",
       "pos": "Verb",
@@ -3582,16 +3766,17 @@
         "surface_form": "confirmare"
       },
       "book_frequency": 5,
-      "total_frequency": 35,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 179
+      "total_frequency": 35
     },
     {
       "rank": 180,
       "book": 1,
       "book_rank": 180,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 180,
       "lemma": "conficio",
       "headword": "conficio, is, ere, feci, fectum",
       "pos": "Verb",
@@ -3602,16 +3787,17 @@
         "surface_form": "conficiendas"
       },
       "book_frequency": 8,
-      "total_frequency": 61,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 180
+      "total_frequency": 61
     },
     {
       "rank": 181,
       "book": 1,
       "book_rank": 181,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 181,
       "lemma": "biennium",
       "headword": "biennium, i, n.",
       "pos": "Noun",
@@ -3622,16 +3808,17 @@
         "surface_form": "biennium"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 181
+      "total_frequency": 1
     },
     {
       "rank": 182,
       "book": 1,
       "book_rank": 182,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 182,
       "lemma": "satis",
       "headword": "satis, adv.",
       "pos": "Adverb",
@@ -3642,16 +3829,17 @@
         "surface_form": "satis"
       },
       "book_frequency": 10,
-      "total_frequency": 34,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 182
+      "total_frequency": 34
     },
     {
       "rank": 183,
       "book": 1,
       "book_rank": 183,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 183,
       "lemma": "duco",
       "headword": "duco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -3662,16 +3850,17 @@
         "surface_form": "duxerunt"
       },
       "book_frequency": 10,
-      "total_frequency": 66,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 183
+      "total_frequency": 66
     },
     {
       "rank": 184,
       "book": 1,
       "book_rank": 184,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 184,
       "lemma": "annus",
       "headword": "annus, i, m.",
       "pos": "Verb",
@@ -3682,16 +3871,17 @@
         "surface_form": "annum"
       },
       "book_frequency": 7,
-      "total_frequency": 62,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 184
+      "total_frequency": 62
     },
     {
       "rank": 185,
       "book": 1,
       "book_rank": 185,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 185,
       "lemma": "profectio",
       "headword": "profectio, ionis, f.",
       "pos": "Noun",
@@ -3702,16 +3892,17 @@
         "surface_form": "profectionem"
       },
       "book_frequency": 2,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 185
+      "total_frequency": 10
     },
     {
       "rank": 186,
       "book": 1,
       "book_rank": 186,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 186,
       "lemma": "deligo",
       "headword": "deligo, as, are",
       "pos": "Verb",
@@ -3722,16 +3913,17 @@
         "surface_form": "deligitur"
       },
       "book_frequency": 7,
-      "total_frequency": 38,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 186
+      "total_frequency": 38
     },
     {
       "rank": 187,
       "book": 1,
       "book_rank": 187,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 187,
       "lemma": "legatio",
       "headword": "legatio, onis, f.",
       "pos": "Noun",
@@ -3742,16 +3934,17 @@
         "surface_form": "legationem"
       },
       "book_frequency": 4,
-      "total_frequency": 20,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 187
+      "total_frequency": 20
     },
     {
       "rank": 188,
       "book": 1,
       "book_rank": 188,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 188,
       "lemma": "suscipio",
       "headword": "suscipio, is, ere, cepi, ceptum",
       "pos": "Verb",
@@ -3762,16 +3955,17 @@
         "surface_form": "suscipit"
       },
       "book_frequency": 4,
-      "total_frequency": 19,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 188
+      "total_frequency": 19
     },
     {
       "rank": 189,
       "book": 1,
       "book_rank": 189,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 189,
       "lemma": "Casticus",
       "headword": "Casticus, i, m.",
       "pos": "Noun",
@@ -3782,16 +3976,17 @@
         "surface_form": "Castico"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 189
+      "total_frequency": 1
     },
     {
       "rank": 190,
       "book": 1,
       "book_rank": 190,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 190,
       "lemma": "Catamantaloedes",
       "headword": "Catamantaloedes",
       "pos": "Word",
@@ -3802,16 +3997,17 @@
         "surface_form": "Catamantaloedis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 190
+      "total_frequency": 1
     },
     {
       "rank": 191,
       "book": 1,
       "book_rank": 191,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 191,
       "lemma": "filius",
       "headword": "filius, ii, m.",
       "pos": "Noun",
@@ -3822,16 +4018,17 @@
         "surface_form": "filio"
       },
       "book_frequency": 3,
-      "total_frequency": 13,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 191
+      "total_frequency": 13
     },
     {
       "rank": 192,
       "book": 1,
       "book_rank": 192,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 192,
       "lemma": "Sequanus",
       "headword": "Sequanus, a, um",
       "pos": "Adjective",
@@ -3842,16 +4039,17 @@
         "surface_form": "Sequano"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 192
+      "total_frequency": 1
     },
     {
       "rank": 193,
       "book": 1,
       "book_rank": 193,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 193,
       "lemma": "pater",
       "headword": "pater, tris, m.",
       "pos": "Noun",
@@ -3862,16 +4060,17 @@
         "surface_form": "pater"
       },
       "book_frequency": 6,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 193
+      "total_frequency": 16
     },
     {
       "rank": 194,
       "book": 1,
       "book_rank": 194,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 194,
       "lemma": "multus",
       "headword": "multus, a, um",
       "pos": "Noun",
@@ -3882,16 +4081,17 @@
         "surface_form": "multos"
       },
       "book_frequency": 26,
-      "total_frequency": 141,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 194
+      "total_frequency": 141
     },
     {
       "rank": 195,
       "book": 1,
       "book_rank": 195,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 195,
       "lemma": "senatus",
       "headword": "senatus, us, m.",
       "pos": "Noun",
@@ -3902,16 +4102,17 @@
         "surface_form": "senatu"
       },
       "book_frequency": 12,
-      "total_frequency": 58,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 195
+      "total_frequency": 58
     },
     {
       "rank": 196,
       "book": 1,
       "book_rank": 196,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 196,
       "lemma": "populus",
       "headword": "populus, i, m.",
       "pos": "Noun",
@@ -3922,16 +4123,17 @@
         "surface_form": "populi"
       },
       "book_frequency": 47,
-      "total_frequency": 86,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 196
+      "total_frequency": 86
     },
     {
       "rank": 197,
       "book": 1,
       "book_rank": 197,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 197,
       "lemma": "Romanus",
       "headword": "Romanus, a, um",
       "pos": "Noun",
@@ -3942,16 +4144,17 @@
         "surface_form": "Romani"
       },
       "book_frequency": 55,
-      "total_frequency": 198,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 197
+      "total_frequency": 198
     },
     {
       "rank": 198,
       "book": 1,
       "book_rank": 198,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 198,
       "lemma": "amicus",
       "headword": "amicus, i, m.",
       "pos": "Noun",
@@ -3962,16 +4165,17 @@
         "surface_form": "amicus"
       },
       "book_frequency": 8,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 198
+      "total_frequency": 18
     },
     {
       "rank": 199,
       "book": 1,
       "book_rank": 199,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 199,
       "lemma": "occupo",
       "headword": "occupo, as, are",
       "pos": "Verb",
@@ -3982,16 +4186,17 @@
         "surface_form": "occuparet"
       },
       "book_frequency": 11,
-      "total_frequency": 33,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 199
+      "total_frequency": 33
     },
     {
       "rank": 200,
       "book": 1,
       "book_rank": 200,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 200,
       "lemma": "ante",
       "headword": "ante, prép. +acc.",
       "pos": "Adverb",
@@ -4002,16 +4207,17 @@
         "surface_form": "ante"
       },
       "book_frequency": 11,
-      "total_frequency": 74,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 200
+      "total_frequency": 74
     },
     {
       "rank": 201,
       "book": 1,
       "book_rank": 201,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 201,
       "lemma": "item",
       "headword": "item, adv.",
       "pos": "Adverb",
@@ -4022,16 +4228,17 @@
         "surface_form": "item"
       },
       "book_frequency": 8,
-      "total_frequency": 29,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 201
+      "total_frequency": 29
     },
     {
       "rank": 202,
       "book": 1,
       "book_rank": 202,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 202,
       "lemma": "Dumnorix",
       "headword": "Dumnorīx, Dumnorīgis, m.",
       "pos": "Proper Noun",
@@ -4042,16 +4249,17 @@
         "surface_form": "Dumnorigi"
       },
       "book_frequency": 10,
-      "total_frequency": 15,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 202
+      "total_frequency": 15
     },
     {
       "rank": 203,
       "book": 1,
       "book_rank": 203,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 203,
       "lemma": "Haeduus",
       "headword": "Haeduus, i",
       "pos": "Noun",
@@ -4062,16 +4270,17 @@
         "surface_form": "Haeduo"
       },
       "book_frequency": 4,
-      "total_frequency": 9,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 203
+      "total_frequency": 9
     },
     {
       "rank": 204,
       "book": 1,
       "book_rank": 204,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 204,
       "lemma": "frater",
       "headword": "frater, tris, m.",
       "pos": "Noun",
@@ -4082,16 +4291,17 @@
         "surface_form": "fratri"
       },
       "book_frequency": 11,
-      "total_frequency": 27,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 204
+      "total_frequency": 27
     },
     {
       "rank": 205,
       "book": 1,
       "book_rank": 205,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 205,
       "lemma": "Diviciacus",
       "headword": "Dīviciācus, -ī, m.",
       "pos": "Proper Noun",
@@ -4102,16 +4312,17 @@
         "surface_form": "Diviciaci"
       },
       "book_frequency": 13,
-      "total_frequency": 20,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 205
+      "total_frequency": 20
     },
     {
       "rank": 206,
       "book": 1,
       "book_rank": 206,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 206,
       "lemma": "tempus",
       "headword": "tempus, oris, n.",
       "pos": "Noun",
@@ -4122,16 +4333,17 @@
         "surface_form": "tempore"
       },
       "book_frequency": 14,
-      "total_frequency": 135,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 206
+      "total_frequency": 135
     },
     {
       "rank": 207,
       "book": 1,
       "book_rank": 207,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 207,
       "lemma": "principatus",
       "headword": "principatus, us, m.",
       "pos": "Noun",
@@ -4142,16 +4354,17 @@
         "surface_form": "principatum"
       },
       "book_frequency": 4,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 207
+      "total_frequency": 12
     },
     {
       "rank": 208,
       "book": 1,
       "book_rank": 208,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 208,
       "lemma": "magis",
       "headword": "magis, adv.",
       "pos": "Adverb",
@@ -4162,16 +4375,17 @@
         "surface_form": "maxime"
       },
       "book_frequency": 9,
-      "total_frequency": 53,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 208
+      "total_frequency": 53
     },
     {
       "rank": 209,
       "book": 1,
       "book_rank": 209,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 209,
       "lemma": "plebs",
       "headword": "plebs, plebis, f.",
       "pos": "Noun",
@@ -4182,16 +4396,17 @@
         "surface_form": "plebi"
       },
       "book_frequency": 3,
-      "total_frequency": 15,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 209
+      "total_frequency": 15
     },
     {
       "rank": 210,
       "book": 1,
       "book_rank": 210,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 210,
       "lemma": "accipio",
       "headword": "accipio, is, ere, cepi, ceptum",
       "pos": "Verb",
@@ -4202,16 +4417,17 @@
         "surface_form": "acceptus"
       },
       "book_frequency": 8,
-      "total_frequency": 67,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 210
+      "total_frequency": 67
     },
     {
       "rank": 211,
       "book": 1,
       "book_rank": 211,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 211,
       "lemma": "idem",
       "headword": "idem, eadem, idem, adj. pron.",
       "pos": "Word",
@@ -4222,16 +4438,17 @@
         "surface_form": "idem"
       },
       "book_frequency": 20,
-      "total_frequency": 142,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 211
+      "total_frequency": 142
     },
     {
       "rank": 212,
       "book": 1,
       "book_rank": 212,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 212,
       "lemma": "conor",
       "headword": "conor, aris, ari",
       "pos": "Noun",
@@ -4242,16 +4459,17 @@
         "surface_form": "conaretur"
       },
       "book_frequency": 13,
-      "total_frequency": 37,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 212
+      "total_frequency": 37
     },
     {
       "rank": 213,
       "book": 1,
       "book_rank": 213,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 213,
       "lemma": "filia",
       "headword": "filia, ae, f.",
       "pos": "Noun",
@@ -4262,16 +4480,17 @@
         "surface_form": "filiam"
       },
       "book_frequency": 4,
-      "total_frequency": 4,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 213
+      "total_frequency": 4
     },
     {
       "rank": 214,
       "book": 1,
       "book_rank": 214,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 214,
       "lemma": "matrimonium",
       "headword": "matrimonium, ii, n.",
       "pos": "Noun",
@@ -4282,16 +4501,17 @@
         "surface_form": "matrimonium"
       },
       "book_frequency": 2,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 214
+      "total_frequency": 2
     },
     {
       "rank": 215,
       "book": 1,
       "book_rank": 215,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 215,
       "lemma": "do",
       "headword": "do, das, dare, dedi, datum",
       "pos": "Verb",
@@ -4302,16 +4522,17 @@
         "surface_form": "dat"
       },
       "book_frequency": 20,
-      "total_frequency": 112,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 215
+      "total_frequency": 112
     },
     {
       "rank": 216,
       "book": 1,
       "book_rank": 216,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 216,
       "lemma": "ille",
       "headword": "ille, illa, illud",
       "pos": "Demonstrative Pronoun",
@@ -4322,16 +4543,17 @@
         "surface_form": "illis"
       },
       "book_frequency": 16,
-      "total_frequency": 100,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 216
+      "total_frequency": 100
     },
     {
       "rank": 217,
       "book": 1,
       "book_rank": 217,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 217,
       "lemma": "probo",
       "headword": "probo, as, are",
       "pos": "Verb",
@@ -4342,16 +4564,17 @@
         "surface_form": "probat"
       },
       "book_frequency": 1,
-      "total_frequency": 22,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 217
+      "total_frequency": 22
     },
     {
       "rank": 218,
       "book": 1,
       "book_rank": 218,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 218,
       "lemma": "perficio",
       "headword": "perficio, is, ere, feci, fectum",
       "pos": "Verb",
@@ -4362,16 +4585,17 @@
         "surface_form": "perficere"
       },
       "book_frequency": 5,
-      "total_frequency": 17,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 218
+      "total_frequency": 17
     },
     {
       "rank": 219,
       "book": 1,
       "book_rank": 219,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 219,
       "lemma": "non",
       "headword": "nōn",
       "pos": "Adverb",
@@ -4382,16 +4606,17 @@
         "surface_form": "non"
       },
       "book_frequency": 91,
-      "total_frequency": 378,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 219
+      "total_frequency": 378
     },
     {
       "rank": 220,
       "book": 1,
       "book_rank": 220,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 220,
       "lemma": "dubius",
       "headword": "dubius, a, um",
       "pos": "Adjective",
@@ -4402,16 +4627,17 @@
         "surface_form": "dubium"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 220
+      "total_frequency": 10
     },
     {
       "rank": 221,
       "book": 1,
       "book_rank": 221,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 221,
       "lemma": "quin",
       "headword": "quin, conj.",
       "pos": "Conjunction",
@@ -4422,16 +4648,17 @@
         "surface_form": "quin"
       },
       "book_frequency": 8,
-      "total_frequency": 36,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 221
+      "total_frequency": 36
     },
     {
       "rank": 222,
       "book": 1,
       "book_rank": 222,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 222,
       "lemma": "exercitus",
       "headword": "exercitus, us, m.",
       "pos": "Verb",
@@ -4442,16 +4669,17 @@
         "surface_form": "exercitu"
       },
       "book_frequency": 27,
-      "total_frequency": 171,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 222
+      "total_frequency": 171
     },
     {
       "rank": 223,
       "book": 1,
       "book_rank": 223,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 223,
       "lemma": "concilio",
       "headword": "concilio, as, are",
       "pos": "Verb",
@@ -4462,16 +4690,17 @@
         "surface_form": "conciliaturum"
       },
       "book_frequency": 4,
-      "total_frequency": 33,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 223
+      "total_frequency": 33
     },
     {
       "rank": 224,
       "book": 1,
       "book_rank": 224,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 224,
       "lemma": "oratio",
       "headword": "oratio, onis, f.",
       "pos": "Noun",
@@ -4482,16 +4711,17 @@
         "surface_form": "oratio"
       },
       "book_frequency": 8,
-      "total_frequency": 22,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 224
+      "total_frequency": 22
     },
     {
       "rank": 225,
       "book": 1,
       "book_rank": 225,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 225,
       "lemma": "fides",
       "headword": "fides, ei, f.",
       "pos": "Noun",
@@ -4502,16 +4732,17 @@
         "surface_form": "fidem"
       },
       "book_frequency": 6,
-      "total_frequency": 41,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 225
+      "total_frequency": 41
     },
     {
       "rank": 226,
       "book": 1,
       "book_rank": 226,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 226,
       "lemma": "ius",
       "headword": "ius",
       "pos": "Verb",
@@ -4522,16 +4753,17 @@
         "surface_form": "ius"
       },
       "book_frequency": 11,
-      "total_frequency": 32,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 226
+      "total_frequency": 32
     },
     {
       "rank": 227,
       "book": 1,
       "book_rank": 227,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 227,
       "lemma": "juror",
       "headword": "juror, aris, ari",
       "pos": "Noun",
@@ -4542,16 +4774,17 @@
         "surface_form": "iurandum"
       },
       "book_frequency": 4,
-      "total_frequency": 6,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 227
+      "total_frequency": 6
     },
     {
       "rank": 228,
       "book": 1,
       "book_rank": 228,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 228,
       "lemma": "per",
       "headword": "per (+ acc.)",
       "pos": "Preposition",
@@ -4562,16 +4795,17 @@
         "surface_form": "per"
       },
       "book_frequency": 33,
-      "total_frequency": 118,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 228
+      "total_frequency": 118
     },
     {
       "rank": 229,
       "book": 1,
       "book_rank": 229,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 229,
       "lemma": "potens",
       "headword": "potens, entis",
       "pos": "Adjective",
@@ -4582,16 +4816,17 @@
         "surface_form": "potentissimos"
       },
       "book_frequency": 3,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 229
+      "total_frequency": 10
     },
     {
       "rank": 230,
       "book": 1,
       "book_rank": 230,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 230,
       "lemma": "firmus",
       "headword": "firmus, a, um",
       "pos": "Adjective",
@@ -4602,16 +4837,17 @@
         "surface_form": "firmissimos"
       },
       "book_frequency": 2,
-      "total_frequency": 11,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 230
+      "total_frequency": 11
     },
     {
       "rank": 231,
       "book": 1,
       "book_rank": 231,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 231,
       "lemma": "spero",
       "headword": "spero, as, are",
       "pos": "Verb",
@@ -4622,16 +4858,17 @@
         "surface_form": "sperant"
       },
       "book_frequency": 2,
-      "total_frequency": 13,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 231
+      "total_frequency": 13
     },
     {
       "rank": 232,
       "book": 1,
       "book_rank": 232,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 232,
       "lemma": "indicium",
       "headword": "indicium, ii, n",
       "pos": "Noun",
@@ -4642,16 +4879,17 @@
         "surface_form": "indicium"
       },
       "book_frequency": 1,
-      "total_frequency": 4,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 232
+      "total_frequency": 4
     },
     {
       "rank": 233,
       "book": 1,
       "book_rank": 233,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 233,
       "lemma": "enuntio",
       "headword": "enuntio, as, are",
       "pos": "Verb",
@@ -4662,16 +4900,17 @@
         "surface_form": "enuntiata"
       },
       "book_frequency": 7,
-      "total_frequency": 8,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 233
+      "total_frequency": 8
     },
     {
       "rank": 234,
       "book": 1,
       "book_rank": 234,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 234,
       "lemma": "mos",
       "headword": "mos, moris, m.",
       "pos": "Noun",
@@ -4682,16 +4921,17 @@
         "surface_form": "Moribus"
       },
       "book_frequency": 2,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 234
+      "total_frequency": 18
     },
     {
       "rank": 235,
       "book": 1,
       "book_rank": 235,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 235,
       "lemma": "vinculum",
       "headword": "vinculum, i, n.",
       "pos": "Noun",
@@ -4702,16 +4942,17 @@
         "surface_form": "vinculis"
       },
       "book_frequency": 1,
-      "total_frequency": 5,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 235
+      "total_frequency": 5
     },
     {
       "rank": 236,
       "book": 1,
       "book_rank": 236,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 236,
       "lemma": "cogo",
       "headword": "cogo, is, ere, egi, actum",
       "pos": "Verb",
@@ -4722,16 +4963,17 @@
         "surface_form": "coegerunt"
       },
       "book_frequency": 7,
-      "total_frequency": 83,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 236
+      "total_frequency": 83
     },
     {
       "rank": 237,
       "book": 1,
       "book_rank": 237,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 237,
       "lemma": "damno",
       "headword": "damno, as, are",
       "pos": "Verb",
@@ -4742,16 +4984,17 @@
         "surface_form": "damnatum"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 237
+      "total_frequency": 3
     },
     {
       "rank": 238,
       "book": 1,
       "book_rank": 238,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 238,
       "lemma": "poena",
       "headword": "poena, ae, f.",
       "pos": "Noun",
@@ -4762,16 +5005,17 @@
         "surface_form": "poenam"
       },
       "book_frequency": 3,
-      "total_frequency": 15,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 238
+      "total_frequency": 15
     },
     {
       "rank": 239,
       "book": 1,
       "book_rank": 239,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 239,
       "lemma": "sequor",
       "headword": "sequor, eris, i, secutus sum",
       "pos": "Verb",
@@ -4782,16 +5026,17 @@
         "surface_form": "sequi"
       },
       "book_frequency": 7,
-      "total_frequency": 36,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 239
+      "total_frequency": 36
     },
     {
       "rank": 240,
       "book": 1,
       "book_rank": 240,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 240,
       "lemma": "oporteo",
       "headword": "oporteo, v. défectif utilisé seulement à la 3ème personne du singulier",
       "pos": "Word",
@@ -4802,16 +5047,17 @@
         "surface_form": "oportebat"
       },
       "book_frequency": 9,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 240
+      "total_frequency": 18
     },
     {
       "rank": 241,
       "book": 1,
       "book_rank": 241,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 241,
       "lemma": "ignis",
       "headword": "ignis, is, m.",
       "pos": "Noun",
@@ -4822,16 +5068,17 @@
         "surface_form": "igni"
       },
       "book_frequency": 2,
-      "total_frequency": 13,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 241
+      "total_frequency": 13
     },
     {
       "rank": 242,
       "book": 1,
       "book_rank": 242,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 242,
       "lemma": "cremo",
       "headword": "cremo, as, are",
       "pos": "Verb",
@@ -4842,16 +5089,17 @@
         "surface_form": "cremaretur"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 242
+      "total_frequency": 2
     },
     {
       "rank": 243,
       "book": 1,
       "book_rank": 243,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 243,
       "lemma": "Dios",
       "headword": "Dios, i, m.",
       "pos": "Noun",
@@ -4862,16 +5110,17 @@
         "surface_form": "Die"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 243
+      "total_frequency": 1
     },
     {
       "rank": 244,
       "book": 1,
       "book_rank": 244,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 244,
       "lemma": "dictio",
       "headword": "dictio, ionis, f.",
       "pos": "Noun",
@@ -4882,16 +5131,17 @@
         "surface_form": "dictionis"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 244
+      "total_frequency": 1
     },
     {
       "rank": 245,
       "book": 1,
       "book_rank": 245,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 245,
       "lemma": "judicium",
       "headword": "judicium, ii, n.",
       "pos": "Noun",
@@ -4902,16 +5152,17 @@
         "surface_form": "iudicium"
       },
       "book_frequency": 4,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 245
+      "total_frequency": 12
     },
     {
       "rank": 246,
       "book": 1,
       "book_rank": 246,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 246,
       "lemma": "familia",
       "headword": "familia, ae, f.",
       "pos": "Noun",
@@ -4922,16 +5173,17 @@
         "surface_form": "familiam"
       },
       "book_frequency": 2,
-      "total_frequency": 8,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 246
+      "total_frequency": 8
     },
     {
       "rank": 247,
       "book": 1,
       "book_rank": 247,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 247,
       "lemma": "decem",
       "headword": "decem, adj. num.",
       "pos": "Word",
@@ -4942,16 +5194,17 @@
         "surface_form": "decem"
       },
       "book_frequency": 1,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 247
+      "total_frequency": 10
     },
     {
       "rank": 248,
       "book": 1,
       "book_rank": 248,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 248,
       "lemma": "cliens",
       "headword": "cliens, entis, m.",
       "pos": "Noun",
@@ -4962,16 +5215,17 @@
         "surface_form": "clientes"
       },
       "book_frequency": 2,
-      "total_frequency": 10,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 248
+      "total_frequency": 10
     },
     {
       "rank": 249,
       "book": 1,
       "book_rank": 249,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 249,
       "lemma": "obaeratus",
       "headword": "obaeratus, a, um",
       "pos": "Adjective",
@@ -4982,16 +5236,17 @@
         "surface_form": "obaeratos"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 249
+      "total_frequency": 1
     },
     {
       "rank": 250,
       "book": 1,
       "book_rank": 250,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 250,
       "lemma": "conduco",
       "headword": "conduco, is, ere, duxi, ductum",
       "pos": "Verb",
@@ -5002,16 +5257,17 @@
         "surface_form": "conduxit"
       },
       "book_frequency": 1,
-      "total_frequency": 6,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 250
+      "total_frequency": 6
     },
     {
       "rank": 251,
       "book": 1,
       "book_rank": 251,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 251,
       "lemma": "eripio",
       "headword": "eripio, is, ere, ere, ripui, reptum",
       "pos": "Verb",
@@ -5022,16 +5278,17 @@
         "surface_form": "eripuit"
       },
       "book_frequency": 4,
-      "total_frequency": 14,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 251
+      "total_frequency": 14
     },
     {
       "rank": 252,
       "book": 1,
       "book_rank": 252,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 252,
       "lemma": "ob",
       "headword": "ob, prep. (+ acc.)",
       "pos": "Preposition",
@@ -5042,16 +5299,17 @@
         "surface_form": "ob"
       },
       "book_frequency": 7,
-      "total_frequency": 16,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 252
+      "total_frequency": 16
     },
     {
       "rank": 253,
       "book": 1,
       "book_rank": 253,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 253,
       "lemma": "incito",
       "headword": "incito, as, are",
       "pos": "Verb",
@@ -5062,16 +5320,17 @@
         "surface_form": "incitata"
       },
       "book_frequency": 1,
-      "total_frequency": 18,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 253
+      "total_frequency": 18
     },
     {
       "rank": 254,
       "book": 1,
       "book_rank": 254,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 254,
       "lemma": "arma",
       "headword": "arma, orum, n. pl.",
       "pos": "Noun",
@@ -5082,16 +5341,17 @@
         "surface_form": "armis"
       },
       "book_frequency": 12,
-      "total_frequency": 99,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 254
+      "total_frequency": 99
     },
     {
       "rank": 255,
       "book": 1,
       "book_rank": 255,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 255,
       "lemma": "exsequor",
       "headword": "exsequor, eris, i, cutus sum",
       "pos": "Verb",
@@ -5102,16 +5362,17 @@
         "surface_form": "exequi"
       },
       "book_frequency": 1,
-      "total_frequency": 1,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 255
+      "total_frequency": 1
     },
     {
       "rank": 256,
       "book": 1,
       "book_rank": 256,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 256,
       "lemma": "magistratus",
       "headword": "magistratus, us, m.",
       "pos": "Noun",
@@ -5122,16 +5383,17 @@
         "surface_form": "magistratus"
       },
       "book_frequency": 4,
-      "total_frequency": 20,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 256
+      "total_frequency": 20
     },
     {
       "rank": 257,
       "book": 1,
       "book_rank": 257,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 257,
       "lemma": "morior",
       "headword": "morior, eris, i, mortuus sum",
       "pos": "Verb",
@@ -5142,16 +5404,17 @@
         "surface_form": "mortuus"
       },
       "book_frequency": 1,
-      "total_frequency": 3,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 257
+      "total_frequency": 3
     },
     {
       "rank": 258,
       "book": 1,
       "book_rank": 258,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 258,
       "lemma": "neque",
       "headword": "neque, conj. coord.",
       "pos": "Adverb",
@@ -5162,16 +5425,17 @@
         "surface_form": "neque"
       },
       "book_frequency": 50,
-      "total_frequency": 272,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 258
+      "total_frequency": 272
     },
     {
       "rank": 259,
       "book": 1,
       "book_rank": 259,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 259,
       "lemma": "suspicio",
       "headword": "suspicio, is, ere, spexi, spectum",
       "pos": "Verb",
@@ -5182,16 +5446,17 @@
         "surface_form": "suspicio"
       },
       "book_frequency": 4,
-      "total_frequency": 12,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 259
+      "total_frequency": 12
     },
     {
       "rank": 260,
       "book": 1,
       "book_rank": 260,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 260,
       "lemma": "mors",
       "headword": "mors, mortis, f.",
       "pos": "Noun",
@@ -5202,16 +5467,17 @@
         "surface_form": "mortem"
       },
       "book_frequency": 3,
-      "total_frequency": 21,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 260
+      "total_frequency": 21
     },
     {
       "rank": 261,
       "book": 1,
       "book_rank": 261,
       "stage": "Book 1 Chunk 1",
+      "stage_id": "1.1",
+      "chunk": 1,
+      "chunk_title": "Geography of Gaul & The Orgetorix Conspiracy",
+      "chunk_rank": 261,
       "lemma": "conscisco",
       "headword": "conscisco, is, ere, iui, itum",
       "pos": "Verb",
@@ -5222,10 +5488,7 @@
         "surface_form": "consciverit"
       },
       "book_frequency": 1,
-      "total_frequency": 2,
-      "chunk": 1,
-      "chunk_title": "Gaul & The Orgetorix Conspiracy",
-      "chunk_rank": 261
+      "total_frequency": 2
     }
   ]
 }
