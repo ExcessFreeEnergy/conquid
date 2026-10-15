@@ -23,6 +23,11 @@ body {
   user-select: none;
 }
 
+input, textarea {
+  user-select: text;
+  -webkit-user-select: text;
+}
+
 .font-cinzel {
   font-family: 'Cinzel', serif;
 }

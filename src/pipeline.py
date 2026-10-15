@@ -356,7 +356,6 @@ def run_pipeline(
         f.write("| Stage | Chapters Covered | Episode / Historical Narrative | Running Text Read | New Words to Learn | Cumulative Vocab | % of Entire Work Unlocked |\n")
         f.write("| :--- | :---: | :--- | :---: | :---: | :---: | :---: |\n")
         
-        current_book = None
         for cs in chunk_summaries:
             pct = (cs["cum_words"] / total_unique) * 100
             f.write(f"| **{cs['stage']}** | {cs['chapters']} | {cs['title']} | {cs['tokens']:,} words | **{cs['new_words']:,}** | {cs['cum_words']:,} | {pct:.1f}% |\n")

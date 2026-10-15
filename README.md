@@ -17,7 +17,7 @@ All conjugated verbs, declined nouns, adjectives, and pronouns are automatically
 
 ## Master 16-Stage Vocabulary Curriculum
 
-To maintain a consistent, manageable cognitive load across the entire work, books with more than 300 new words (Books 1, 2, 5, and 7) have been divided into natural narrative subsubsections. As a result, **every single learning stage requires memorizing between 144 and 264 new words** (~205 words on average):
+To maintain a consistent, manageable cognitive load across the entire work, books with more than 300 new words (Books 1, 2, 5, and 7) have been divided into natural narrative subsections. As a result, **every single learning stage requires memorizing between 144 and 264 new words** (~205 words on average):
 
 | Stage | Chapters Covered | Episode / Historical Narrative | Text Read | New Words | Cumulative Vocab | % of Entire Work Unlocked |
 | :--- | :---: | :--- | :---: | :---: | :---: | :---: |

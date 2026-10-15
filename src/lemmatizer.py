@@ -5,9 +5,8 @@ Caesar-specific proper nouns, syncopated verb forms, and overrides.
 """
 
 import os
-import re
 import unicodedata
-from typing import Optional, List, Dict, Tuple
+from typing import List, Dict, Tuple
 from pycollatinus import Lemmatiseur
 
 def strip_accents(s: str) -> str:

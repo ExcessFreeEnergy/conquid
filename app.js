@@ -63,8 +63,7 @@ class CaesarApp {
     this.isReview = false;
     this.isFlipped = false;
     this.currentDirection = 'l2e'; // 'l2e' (Latin -> Eng) or 'e2l' (Eng -> Latin)
-    this.matchState = { selectedLatin: null, selectedEng: null, pairs: [] };
-    this.sprintTarget = null;
+    this.matchState = { selectedLatin: null, selectedEng: null, matchedCount: 0, total: 0 };
     this.sprintIsCorrect = false;
     this.sprintDirection = 'l2e';
     this.drillDirection = 'l2e';
@@ -82,7 +81,6 @@ class CaesarApp {
       combo: 0,
       maxCombo: 0,
       correctCount: 0,
-      timerId: null,
       timeLeft: 10,
       timerInterval: null,
       currentQuestion: null,
@@ -171,13 +169,11 @@ class CaesarApp {
 
     let touchStartX = 0;
     let touchStartY = 0;
-    let touchStartTime = 0;
 
     this.cardContainer.addEventListener('touchstart', (e) => {
       if (!e.changedTouches || e.changedTouches.length === 0) return;
       touchStartX = e.changedTouches[0].screenX;
       touchStartY = e.changedTouches[0].screenY;
-      touchStartTime = Date.now();
     }, { passive: true });
 
     this.cardContainer.addEventListener('touchend', (e) => {
@@ -187,7 +183,6 @@ class CaesarApp {
       const touchEndY = e.changedTouches[0].screenY;
       const diffX = touchEndX - touchStartX;
       const diffY = touchEndY - touchStartY;
-      const elapsed = Date.now() - touchStartTime;
 
       if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY)) {
         // Horizontal swipe gesture
@@ -198,10 +193,8 @@ class CaesarApp {
             this.gradeCard(3); // Swipe Right -> Mastered
           }
         }
-      } else if (Math.abs(diffX) < 15 && Math.abs(diffY) < 15 && elapsed < 400) {
-        // Clean mobile tap
-        this.flipCard();
       }
+      // Taps are cleanly handled by the native click event listener
     }, { passive: true });
 
     // 3 Graded Card Buttons
@@ -368,11 +361,14 @@ class CaesarApp {
         }
       } else if (this.state.currentMode === 'drill' || this.state.currentMode === 'cloze') {
         if (['1', '2', '3', '4'].includes(e.key)) {
-          const btns = document.querySelectorAll('.quiz-option-btn');
-          const idx = parseInt(e.key, 10) - 1;
-          if (btns[idx]) {
-            e.preventDefault();
-            btns[idx].click();
+          const activeView = this.modeViews[this.state.currentMode];
+          if (activeView) {
+            const btns = activeView.querySelectorAll('.quiz-option-btn');
+            const idx = parseInt(e.key, 10) - 1;
+            if (btns[idx] && !btns[idx].disabled) {
+              e.preventDefault();
+              btns[idx].click();
+            }
           }
         }
       } else if (this.state.currentMode === 'gauntlet' && this.gauntletState.active) {
@@ -569,6 +565,7 @@ class CaesarApp {
   syncActivePool() {
     const available = this.getAvailableWords();
     const availableIds = new Set(available.map((w) => w.r));
+    const prevPool = [...this.state.activePool];
 
     // Keep words not mastered and still in stage
     this.state.activePool = this.state.activePool.filter(
@@ -587,7 +584,12 @@ class CaesarApp {
       }
     }
 
-    this.saveProgress();
+    const changed = this.state.activePool.length !== prevPool.length ||
+      this.state.activePool.some((id, i) => id !== prevPool[i]);
+
+    if (changed) {
+      this.saveProgress();
+    }
   }
 
   /**
@@ -695,6 +697,13 @@ class CaesarApp {
 
     if (resetIfWrong && delta < 0) {
       scores[direction] = 0;
+      // Demote review word back to active learning pool if failed in any game
+      if (this.state.mastered.has(wordId)) {
+        this.state.mastered.delete(wordId);
+        const otherDir = direction === 'l2e' ? 'e2l' : 'l2e';
+        scores[otherDir] = Math.max(1, scores[otherDir]);
+        this.syncActivePool();
+      }
     } else {
       scores[direction] = Math.max(0, scores[direction] + delta);
     }
@@ -867,7 +876,10 @@ class CaesarApp {
     }
 
     // 3 distractors
-    const pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+    let pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+    if (pool.length < 3) {
+      pool = this.words.filter((item) => item.r !== w.r);
+    }
     const shuffled = pool.sort(() => 0.5 - Math.random()).slice(0, 3);
     const options = [w, ...shuffled].sort(() => 0.5 - Math.random());
 
@@ -901,7 +913,9 @@ class CaesarApp {
     }
 
     setTimeout(() => {
-      this.loadDrillMode();
+      if (this.state.currentMode === 'drill') {
+        this.loadDrillMode();
+      }
     }, 650);
   }
 
@@ -910,10 +924,15 @@ class CaesarApp {
   // ==========================================
   loadMatchMode() {
     this.syncActivePool();
-    const available = this.state.activePool.slice(0, 5).map((id) => this.wordsById.get(id)).filter(Boolean);
+    let available = this.state.activePool.slice(0, 5).map((id) => this.wordsById.get(id)).filter(Boolean);
 
     if (available.length < 2) {
-      this.elMatchLatin.innerHTML = `<div class="p-4 text-gray-400">Not enough active words to match. Master words or switch stage.</div>`;
+      const stageWords = this.getAvailableWords();
+      available = stageWords.slice(0, 5);
+    }
+
+    if (available.length < 2) {
+      this.elMatchLatin.innerHTML = `<div class="p-4 text-gray-400">Not enough words to match. Select another stage.</div>`;
       this.elMatchEng.innerHTML = '';
       return;
     }
@@ -960,6 +979,12 @@ class CaesarApp {
     const latBtn = this.elMatchLatin.querySelector(`[data-id="${this.matchState.selectedLatin}"]`);
     const engBtn = this.elMatchEng.querySelector(`[data-id="${this.matchState.selectedEng}"]`);
 
+    if (!latBtn || !engBtn) {
+      this.matchState.selectedLatin = null;
+      this.matchState.selectedEng = null;
+      return;
+    }
+
     if (this.matchState.selectedLatin === this.matchState.selectedEng) {
       const matchedId = this.matchState.selectedLatin;
       latBtn.classList.add('bg-emerald-900/60', 'border-emerald-500', 'tile-matched');
@@ -975,7 +1000,11 @@ class CaesarApp {
       this.matchState.selectedEng = null;
 
       if (this.matchState.matchedCount >= this.matchState.total) {
-        setTimeout(() => this.loadMatchMode(), 600);
+        setTimeout(() => {
+          if (this.state.currentMode === 'match') {
+            this.loadMatchMode();
+          }
+        }, 600);
       }
     } else {
       latBtn.classList.add('animate-shake', 'border-red-500');
@@ -1060,19 +1089,32 @@ class CaesarApp {
     } else {
       const cleanDef = stripMacrons(w.d.replace(/[(),;]/g, ' '));
       const defWords = cleanDef.split(/\s+/).filter((s) => s.length > 2);
-      isCorrect = userText.length > 0 && defWords.includes(userText);
+      const userClean = stripMacrons(userText);
+      isCorrect = userClean.length > 0 && (
+        defWords.includes(userClean) ||
+        cleanDef.includes(userClean) ||
+        w.d.toLowerCase().includes(userClean)
+      );
     }
 
     if (isCorrect) {
       this.elScribeFeedback.textContent = `Optime! Correct: ${isE2L ? w.h : w.d}`;
       this.elScribeFeedback.className = 'text-xs min-h-[20px] text-center font-semibold text-emerald-400';
       this.updateWordScore(w.r, this.scribeDirection, 1);
-      setTimeout(() => this.loadScribeMode(), 700);
+      setTimeout(() => {
+        if (this.state.currentMode === 'scribe') {
+          this.loadScribeMode();
+        }
+      }, 700);
     } else {
       this.elScribeFeedback.textContent = `Correct: ${isE2L ? w.h : w.d}`;
       this.elScribeFeedback.className = 'text-xs min-h-[20px] text-center font-semibold text-red-400 animate-shake';
       this.updateWordScore(w.r, this.scribeDirection, -1, true);
-      setTimeout(() => this.loadScribeMode(), 1200);
+      setTimeout(() => {
+        if (this.state.currentMode === 'scribe') {
+          this.loadScribeMode();
+        }
+      }, 1200);
     }
   }
 
@@ -1106,7 +1148,8 @@ class CaesarApp {
       if (this.sprintIsCorrect) {
         this.elSprintDef.textContent = w.d;
       } else {
-        const pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+        let pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+        if (pool.length === 0) pool = this.words.filter((item) => item.r !== w.r);
         const randomFake = pool[Math.floor(Math.random() * pool.length)];
         this.elSprintDef.textContent = randomFake ? randomFake.d : w.d;
       }
@@ -1117,7 +1160,8 @@ class CaesarApp {
       if (this.sprintIsCorrect) {
         this.elSprintDef.textContent = w.h;
       } else {
-        const pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+        let pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+        if (pool.length === 0) pool = this.words.filter((item) => item.r !== w.r);
         const randomFake = pool[Math.floor(Math.random() * pool.length)];
         this.elSprintDef.textContent = randomFake ? randomFake.h : w.h;
       }
@@ -1140,7 +1184,9 @@ class CaesarApp {
 
     setTimeout(() => {
       sprintBox.classList.remove('border-emerald-500', 'border-red-500', 'animate-gold-pulse', 'animate-shake');
-      this.loadSprintMode();
+      if (this.state.currentMode === 'sprint') {
+        this.loadSprintMode();
+      }
     }, 450);
   }
 
@@ -1175,7 +1221,10 @@ class CaesarApp {
       this.elClozeSentence.innerHTML = clozeText;
       this.elClozeCitation.textContent = `${w.c} · Clue: "${w.d}"`;
 
-      const pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+      let pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+      if (pool.length < 3) {
+        pool = this.words.filter((item) => item.r !== w.r);
+      }
       const shuffled = pool.sort(() => 0.5 - Math.random()).slice(0, 3);
       const options = [w, ...shuffled].sort(() => 0.5 - Math.random());
 
@@ -1192,7 +1241,10 @@ class CaesarApp {
       this.elClozeSentence.innerHTML = highlighted;
       this.elClozeCitation.textContent = `${w.c} · What does "${surface}" mean in this passage?`;
 
-      const pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+      let pool = this.getAvailableWords().filter((item) => item.r !== w.r);
+      if (pool.length < 3) {
+        pool = this.words.filter((item) => item.r !== w.r);
+      }
       const shuffled = pool.sort(() => 0.5 - Math.random()).slice(0, 3);
       const options = [w, ...shuffled].sort(() => 0.5 - Math.random());
 
@@ -1224,7 +1276,9 @@ class CaesarApp {
     }
 
     setTimeout(() => {
-      this.loadClozeMode();
+      if (this.state.currentMode === 'cloze') {
+        this.loadClozeMode();
+      }
     }, 650);
   }
 
@@ -1341,7 +1395,10 @@ class CaesarApp {
 
     // Generate 3 distractors from chapter cumulative words
     const ch = this.chaptersByKey.get(this.gauntletState.selectedKey);
-    const distractorPool = (ch.cumulativeWords || this.words).filter((w) => w.r !== currentWord.r);
+    let distractorPool = (ch && ch.cumulativeWords ? ch.cumulativeWords : this.words).filter((w) => w.r !== currentWord.r);
+    if (distractorPool.length < 3) {
+      distractorPool = this.words.filter((w) => w.r !== currentWord.r);
+    }
     const distractors = distractorPool.sort(() => 0.5 - Math.random()).slice(0, 3);
     const options = [currentWord, ...distractors].sort(() => 0.5 - Math.random());
 
@@ -1425,8 +1482,10 @@ class CaesarApp {
     }
 
     setTimeout(() => {
-      this.gauntletState.currentIndex += 1;
-      this.runGauntletRound();
+      if (this.state.currentMode === 'gauntlet' && this.gauntletState.active) {
+        this.gauntletState.currentIndex += 1;
+        this.runGauntletRound();
+      }
     }, 450);
   }
 
@@ -1442,8 +1501,10 @@ class CaesarApp {
     }
 
     setTimeout(() => {
-      this.gauntletState.currentIndex += 1;
-      this.runGauntletRound();
+      if (this.state.currentMode === 'gauntlet' && this.gauntletState.active) {
+        this.gauntletState.currentIndex += 1;
+        this.runGauntletRound();
+      }
     }, 500);
   }
 

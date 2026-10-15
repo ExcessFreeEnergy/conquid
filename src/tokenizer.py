@@ -5,7 +5,7 @@ and Latin enclitics (-que, -ve, -ne, -cum).
 """
 
 import re
-from typing import List, Tuple
+from typing import List
 
 # Known typos and glued tokens in The Latin Library text
 TEXT_CORRECTIONS = {
