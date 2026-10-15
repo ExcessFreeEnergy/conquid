@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Caesar: De Bello Gallico Vocabulary</title>
+  
+  <!-- PWA & Mobile Meta Tags -->
+  <meta name="theme-color" content="#1e252b">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Caesar Vocab">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            roman: {
+              gold: '#cba34e',
+              goldLight: '#fae09c',
+              goldDark: '#96742a',
+              slate: '#14181d',
+              surface: '#1b2229',
+              card: '#222b33',
+              border: '#2e3a45',
+              crimson: '#a62d2d',
+              crimsonHover: '#bd3535',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom Roman Theme CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="h-full flex flex-col bg-[#14181d] text-gray-200 antialiased overflow-x-hidden parchment-pattern">
+
+  <!-- App Header -->
+  <header class="sticky top-0 z-30 bg-[#1b2229]/95 backdrop-blur-md border-b border-[#2e3a45] shadow-md px-4 py-3">
+    <div class="max-w-xl mx-auto flex items-center justify-between">
+      
+      <!-- Brand & Logo -->
+      <div class="flex items-center gap-3">
+        <img src="icons/logo.png" alt="Roman Helmet" class="w-10 h-10 rounded-xl shadow-md border border-[#cba34e]/50 object-cover">
+        <div>
+          <h1 class="text-lg font-cinzel font-bold tracking-wider text-gold-gradient">CAESAR</h1>
+          <p class="text-[10px] tracking-widest uppercase text-gray-400 font-cinzel">De Bello Gallico</p>
+        </div>
+      </div>
+
+      <!-- Action & Pool Indicators -->
+      <div class="flex items-center gap-2.5">
+        <!-- Active Pool Badge -->
+        <div class="flex items-center gap-1.5 px-2.5 py-1 bg-[#14181d] border border-[#cba34e]/40 rounded-full text-xs" title="Active Pool: exactly 10 words being studied">
+          <span class="w-2 h-2 rounded-full bg-[#cba34e] animate-pulse"></span>
+          <span class="text-gray-300 font-medium">Pool:</span>
+          <span id="active-pool-count" class="font-mono font-semibold text-[#fae09c]">10/10</span>
+        </div>
+
+        <!-- Search Dictionary Button -->
+        <button id="btn-search" class="p-2 text-gray-300 hover:text-[#cba34e] bg-[#222b33] hover:bg-[#2e3a45] rounded-xl transition" title="Search All 3,290 Words">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </button>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="flex-1 max-w-xl w-full mx-auto p-4 flex flex-col justify-between">
+    
+    <!-- Stage Selector & Progress Header -->
+    <div class="space-y-3 mb-2">
+      
+      <!-- Stage Dropdown -->
+      <div class="relative">
+        <select id="stage-select" class="w-full appearance-none bg-[#1b2229] border border-[#2e3a45] text-sm text-gray-200 py-2.5 px-3.5 pr-8 rounded-xl focus:outline-none focus:border-[#cba34e] transition">
+          <option value="ALL">All Stages (Complete Work: 3,290 words)</option>
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-[#cba34e]">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+          </svg>
+        </div>
+      </div>
+
+      <!-- Stage Context Description -->
+      <div class="flex items-center justify-between text-xs px-1">
+        <span id="current-stage-title" class="font-medium text-gray-300 truncate max-w-[70%]">Entire Work (Books 1–8)</span>
+        <span class="text-[#cba34e] font-mono font-semibold">
+          <span id="mastered-count">0</span> / <span id="total-count">3,290</span> (<span id="progress-pct">0%</span>)
+        </span>
+      </div>
+
+      <!-- Visual Progress Bar -->
+      <div class="w-full bg-[#1b2229] h-2 rounded-full overflow-hidden border border-[#2e3a45]/60">
+        <div id="progress-bar" class="h-full bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#fae09c] transition-all duration-300 w-0"></div>
+      </div>
+
+    </div>
+
+    <!-- Flashcard Area with 3D Flip Animation -->
+    <div id="flashcard" class="perspective-1000 my-auto py-2">
+      <div id="card-container" class="card-container">
+        
+        <!-- CARD FRONT -->
+        <div class="card-face card-front p-6 justify-between select-none roman-border">
+          
+          <!-- Top Badges -->
+          <div class="flex items-center justify-between text-xs">
+            <span id="card-stage-badge" class="px-2.5 py-1 bg-[#2e3a45]/80 text-[#fae09c] font-cinzel tracking-wider rounded-lg border border-[#cba34e]/30">
+              Book 1 Chunk 1
+            </span>
+            <span id="card-review-badge" class="hidden px-2.5 py-1 bg-amber-950/80 text-amber-300 font-cinzel font-semibold tracking-wider rounded-lg border border-amber-600/50 flex items-center gap-1">
+              <span>★</span> Spaced Review
+            </span>
+          </div>
+
+          <!-- Central Latin Headword -->
+          <div class="my-auto text-center space-y-3 px-2">
+            <div id="card-headword" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c] tracking-wide leading-tight">
+              dīvidō, -ere, dīvīsī, dīvīsum
+            </div>
+            <div>
+              <span id="card-pos" class="inline-block text-xs uppercase tracking-wider font-semibold px-2.5 py-1 bg-[#2e3a45]/70 text-gray-300 rounded-md">
+                Verb (3rd)
+              </span>
+            </div>
+            <p class="text-xs text-gray-400 font-lora italic pt-2">
+              In Caesar: <span id="card-first-seen" class="text-gray-200 not-italic font-medium">"divisa" (Bk 1, Ch 1)</span>
+            </p>
+          </div>
+
+          <!-- Bottom Prompt -->
+          <div class="text-center text-[11px] text-[#cba34e]/80 flex items-center justify-center gap-1.5 pt-2">
+            <svg class="w-3.5 h-3.5 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"></path>
+            </svg>
+            <span>Tap card to reveal definition (Spacebar)</span>
+          </div>
+
+        </div>
+
+        <!-- CARD BACK -->
+        <div class="card-face card-back p-6 justify-between select-none roman-border">
+          
+          <!-- Top Latin Citation Reference -->
+          <div class="flex items-center justify-between text-xs border-b border-[#2e3a45] pb-2.5">
+            <span id="card-back-headword" class="font-lora text-sm font-medium text-[#cba34e] truncate max-w-[65%]">
+              divido
+            </span>
+            <span id="card-frequency-badge" class="text-[11px] font-mono text-gray-400">
+              24 occurrences
+            </span>
+          </div>
+
+          <!-- Central Definition -->
+          <div class="my-auto text-center space-y-4 px-2">
+            <div class="text-xs uppercase tracking-widest text-[#cba34e] font-cinzel">English Meaning</div>
+            <div id="card-definition" class="text-xl sm:text-2xl font-medium text-white leading-relaxed">
+              divide, separate, distribute, distinguish
+            </div>
+            <div id="card-first-seen-context" class="text-xs text-gray-400 font-lora italic pt-1">
+              First appeared as "divisa" in Bk 1, Ch 1
+            </div>
+          </div>
+
+          <!-- Action Buttons (Study Again vs Mastered) -->
+          <div class="grid grid-cols-2 gap-3 pt-3">
+            <button id="btn-study-again" class="py-3 px-3 bg-[#2a1c1d] hover:bg-[#a62d2d] active:scale-[0.98] border border-[#a62d2d]/60 text-red-200 hover:text-white text-xs sm:text-sm font-semibold rounded-xl transition flex items-center justify-center gap-1.5 shadow-md">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+              </svg>
+              <span>Study Again</span>
+              <span class="text-[10px] opacity-60 hidden sm:inline">(1 / ←)</span>
+            </button>
+            <button id="btn-mastered" class="py-3 px-3 bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#e0ba63] hover:brightness-110 active:scale-[0.98] text-gray-950 text-xs sm:text-sm font-bold rounded-xl transition flex items-center justify-center gap-1.5 shadow-lg">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path>
+              </svg>
+              <span>Mastered</span>
+              <span class="text-[10px] opacity-70 hidden sm:inline">(2 / →)</span>
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Footer Controls -->
+    <footer class="pt-3 pb-1 border-t border-[#2e3a45]/50 flex items-center justify-between text-xs text-gray-400">
+      <div class="flex items-center gap-2">
+        <span class="text-[#cba34e]">SPQR</span>
+        <span>· Order of Appearance</span>
+      </div>
+      <button id="btn-reset" class="hover:text-red-400 transition" title="Clear all local study progress">
+        Reset Progress
+      </button>
+    </footer>
+
+  </main>
+
+  <!-- Search & Complete Dictionary Modal -->
+  <div id="search-modal" class="hidden fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-[#1b2229] border border-[#2e3a45] rounded-2xl w-full max-w-lg max-h-[85vh] flex flex-col shadow-2xl">
+      
+      <!-- Search Header -->
+      <div class="p-4 border-b border-[#2e3a45] flex items-center justify-between gap-3">
+        <div class="relative flex-1">
+          <input type="text" id="search-input" placeholder="Search 3,290 Latin words, definitions..." class="w-full bg-[#14181d] border border-[#2e3a45] text-sm text-gray-200 pl-9 pr-3 py-2 rounded-xl focus:outline-none focus:border-[#cba34e]">
+          <svg class="w-4 h-4 text-gray-400 absolute left-3 top-2.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+        <button id="btn-close-search" class="p-2 text-gray-400 hover:text-white rounded-lg">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Search List -->
+      <div id="search-results" class="p-4 overflow-y-auto space-y-2 flex-1">
+        <!-- Injected via JavaScript -->
+      </div>
+
+    </div>
+  </div>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
