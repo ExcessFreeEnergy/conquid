@@ -1,6 +1,6 @@
 {
-  "name": "Caesar: De Bello Gallico Vocab",
-  "short_name": "Caesar Vocab",
+  "name": "Conquid: Caesar Vocabulary Arena",
+  "short_name": "Conquid",
   "description": "Master Latin vocabulary for Caesar's Gallic Wars in order of appearance with active pool spaced repetition.",
   "start_url": "./index.html",
   "scope": "./",

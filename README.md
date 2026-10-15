@@ -1,6 +1,8 @@
-# Caesar's *De Bello Gallico* Cumulative Vocabulary Engine
+# Conquid: Caesar's *De Bello Gallico* Vocabulary Arena
 
-This project builds an incremental, deduplicated dictionary and vocabulary database for reading Julius Caesar's *Commentarii de Bello Gallico* (Books 1–8).
+**Live Web App**: [https://excessfreeenergy.github.io/conquid/](https://excessfreeenergy.github.io/conquid/)
+
+This project builds an incremental, deduplicated dictionary, interactive game arena, and spaced-repetition vocabulary system for reading Julius Caesar's *Commentarii de Bello Gallico* (Books 1–8).
 
 ## Learning Strategy
 
