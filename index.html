@@ -39,7 +39,7 @@
   </script>
 
   <!-- Custom Roman Theme CSS -->
-  <link rel="stylesheet" href="style.css?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
 </head>
 <body class="h-full flex flex-col bg-[#14181d] text-gray-200 antialiased overflow-x-hidden parchment-pattern">
 
@@ -102,6 +102,9 @@
       <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 bg-[#1b2229] text-gray-300 hover:text-[#fae09c]" data-mode="cloze">
         <span>🏛️</span> <span>Cloze</span>
       </button>
+      <button class="mode-tab whitespace-nowrap px-3 py-1.5 rounded-lg text-xs font-semibold transition flex items-center gap-1.5 bg-[#1b2229] text-[#fae09c] hover:bg-[#222b33] border border-[#cba34e]/40" data-mode="gauntlet" title="Big Cumulative Review after each chapter">
+        <span>🏆</span> <span>Gauntlet</span>
+      </button>
     </div>
   </nav>
 
@@ -109,7 +112,7 @@
   <main class="flex-1 max-w-xl w-full mx-auto p-3 sm:p-4 flex flex-col justify-between">
     
     <!-- Stage Selector & Progress Header -->
-    <div class="space-y-2.5 mb-2">
+    <div class="space-y-2 mb-2">
       <!-- Stage Dropdown -->
       <div class="relative">
         <select id="stage-select" class="w-full appearance-none bg-[#1b2229] border border-[#2e3a45] text-xs sm:text-sm text-gray-200 py-2.5 px-3.5 pr-8 rounded-xl focus:outline-none focus:border-[#cba34e] transition">
@@ -134,6 +137,20 @@
       <div class="w-full bg-[#1b2229] h-2 rounded-full overflow-hidden border border-[#2e3a45]/60">
         <div id="progress-bar" class="h-full bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#fae09c] transition-all duration-300 w-0"></div>
       </div>
+
+      <!-- Chapter Milestone Review Banner -->
+      <div id="chapter-review-banner" class="hidden p-2.5 bg-gradient-to-r from-[#241c10] via-[#362713] to-[#241c10] border border-[#cba34e]/50 rounded-xl flex items-center justify-between text-xs shadow-md">
+        <div class="flex items-center gap-2 pr-2">
+          <span class="text-lg">🏆</span>
+          <div>
+            <div class="font-cinzel font-bold text-[#fae09c] leading-tight" id="banner-chapter-title">Chapter Review Available!</div>
+            <div class="text-[10px] text-gray-300" id="banner-chapter-desc">Test all cumulative words up to this chapter</div>
+          </div>
+        </div>
+        <button id="btn-banner-gauntlet" class="px-3 py-1.5 bg-[#cba34e] hover:bg-[#fae09c] text-gray-950 font-cinzel font-bold rounded-lg transition text-[11px] whitespace-nowrap shadow flex items-center gap-1">
+          <span>Enter Gauntlet</span> <span>→</span>
+        </button>
+      </div>
     </div>
 
     <!-- ============================================== -->
@@ -149,9 +166,14 @@
               <span id="card-stage-badge" class="px-2.5 py-1 bg-[#2e3a45]/80 text-[#fae09c] font-cinzel tracking-wider rounded-lg border border-[#cba34e]/30">
                 Book 1 Subsection 1
               </span>
-              <span id="card-review-badge" class="hidden px-2.5 py-1 bg-amber-950/80 text-amber-300 font-cinzel font-semibold tracking-wider rounded-lg border border-amber-600/50 flex items-center gap-1">
-                <span>★</span> Spaced Review
-              </span>
+              <div class="flex items-center gap-1.5">
+                <span id="card-direction-badge" class="px-2 py-0.5 bg-[#14181d] text-[#fae09c] border border-[#cba34e]/40 rounded-md text-[10px] font-cinzel font-semibold flex items-center gap-1">
+                  <span>🏛️</span> <span>Latin → English</span>
+                </span>
+                <span id="card-review-badge" class="hidden px-2 py-0.5 bg-amber-950/80 text-amber-300 font-cinzel font-semibold tracking-wider rounded-md border border-amber-600/50 flex items-center gap-1 text-[10px]">
+                  <span>★</span> Review
+                </span>
+              </div>
             </div>
 
             <div class="my-auto text-center space-y-3 px-2">
@@ -170,12 +192,10 @@
 
             <div class="flex items-center justify-between text-[11px] text-[#cba34e]/80 pt-2 border-t border-[#2e3a45]/40">
               <span class="flex items-center gap-1">
-                <span>Tap card to reveal (Spacebar)</span>
+                <span id="card-reveal-prompt">Tap card to reveal (Spacebar)</span>
               </span>
-              <div id="card-mastery-dots" class="flex items-center gap-1" title="Mastery progress (3 correct to master)">
-                <span class="w-2.5 h-2.5 rounded-full bg-[#2e3a45]"></span>
-                <span class="w-2.5 h-2.5 rounded-full bg-[#2e3a45]"></span>
-                <span class="w-2.5 h-2.5 rounded-full bg-[#2e3a45]"></span>
+              <div id="card-mastery-dots" class="flex items-center gap-1.5" title="Bidirectional Mastery: Latin→English & English→Latin">
+                <!-- Populated via JS with bidirectional dots -->
               </div>
             </div>
           </div>
@@ -186,7 +206,7 @@
               <span id="card-back-headword" class="font-lora text-sm font-medium text-[#cba34e] truncate max-w-[65%]">
                 Gallia, -ae, f.
               </span>
-              <span class="text-[11px] font-cinzel text-gray-400">English Meaning</span>
+              <span id="card-back-sublabel" class="text-[11px] font-cinzel text-gray-400">English Meaning</span>
             </div>
 
             <div class="my-auto text-center space-y-3 px-2">
@@ -224,7 +244,12 @@
     <!-- ============================================== -->
     <div id="view-drill" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
       <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-2 roman-border shadow-xl">
-        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Multiple Choice Drill</span>
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Multiple Choice Drill</span>
+          <span id="drill-direction-badge" class="px-2 py-0.5 bg-[#14181d] text-[#fae09c] border border-[#cba34e]/40 rounded text-[9px] font-cinzel font-semibold">
+            Latin → English
+          </span>
+        </div>
         <div id="drill-word" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c]">
           incolō
         </div>
@@ -252,11 +277,17 @@
     </div>
 
     <!-- ============================================== -->
+    <!-- ============================================== -->
     <!-- VIEW 3: CAESAR'S SCRIBE (Type / Recall)        -->
     <!-- ============================================== -->
     <div id="view-scribe" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
       <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-3 roman-border shadow-xl">
-        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Type-in Active Recall</span>
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Type-in Active Recall</span>
+          <span id="scribe-direction-badge" class="px-2 py-0.5 bg-[#14181d] text-[#fae09c] border border-[#cba34e]/40 rounded text-[9px] font-cinzel font-semibold">
+            English → Latin
+          </span>
+        </div>
         <div id="scribe-definition" class="text-xl sm:text-2xl font-semibold text-white leading-snug">
           divide, separate, distribute
         </div>
@@ -284,7 +315,12 @@
     <!-- ============================================== -->
     <div id="view-sprint" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
       <div id="sprint-card-box" class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-8 text-center space-y-4 roman-border shadow-xl transition-all duration-200">
-        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Shield Wall: True or False?</span>
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Shield Wall: True or False?</span>
+          <span id="sprint-direction-badge" class="px-2 py-0.5 bg-[#14181d] text-[#fae09c] border border-[#cba34e]/40 rounded text-[9px] font-cinzel font-semibold">
+            Latin → English
+          </span>
+        </div>
         <div id="sprint-word" class="font-lora text-3xl sm:text-4xl font-semibold text-[#fae09c]">
           Gallia
         </div>
@@ -314,7 +350,12 @@
     <!-- ============================================== -->
     <div id="view-cloze" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-2">
       <div class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-6 text-center space-y-3 roman-border shadow-xl">
-        <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Authentic Caesar Sentence Cloze</span>
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] tracking-widest uppercase font-cinzel text-[#cba34e]">Authentic Caesar Sentence Cloze</span>
+          <span id="cloze-direction-badge" class="px-2 py-0.5 bg-[#14181d] text-[#fae09c] border border-[#cba34e]/40 rounded text-[9px] font-cinzel font-semibold">
+            Latin Context
+          </span>
+        </div>
         <div id="cloze-sentence" class="font-lora text-lg sm:text-xl text-gray-200 leading-relaxed text-left">
           Gallia est omnis _______ in partes tres...
         </div>
@@ -326,6 +367,173 @@
       <div id="cloze-options" class="space-y-2.5 pt-4">
         <!-- 4 Options populated via JS -->
       </div>
+    </div>
+
+    <!-- ============================================== -->
+    <!-- VIEW 6: CAESAR'S GAUNTLET (Cumulative Review)  -->
+    <!-- ============================================== -->
+    <div id="view-gauntlet" class="game-view hidden flex-1 flex flex-col justify-between my-auto py-1">
+      
+      <!-- LOBBY SCREEN -->
+      <div id="gauntlet-lobby" class="flex-1 flex flex-col justify-between space-y-3">
+        <div class="bg-[#1b2229] border border-[#cba34e]/50 rounded-2xl p-4 sm:p-5 roman-border shadow-xl space-y-3">
+          <div class="flex items-center justify-between border-b border-[#2e3a45] pb-2">
+            <div class="flex items-center gap-2">
+              <span class="text-xl">🏆</span>
+              <span class="font-cinzel font-bold text-sm sm:text-base text-[#fae09c]">Chapter Cumulative Gauntlet</span>
+            </div>
+            <span class="px-2 py-0.5 bg-amber-950/80 border border-amber-500/50 text-amber-300 text-[10px] font-cinzel rounded-full">
+              Milestone Review
+            </span>
+          </div>
+
+          <p class="text-xs text-gray-300 leading-relaxed">
+            Test all vocabulary accumulated from Chapter 1 up to your selected chapter in a bidirectional survival trial against the Gallic hordes!
+          </p>
+
+          <!-- Chapter Select for Gauntlet -->
+          <div class="space-y-1 pt-1">
+            <label class="text-[11px] font-cinzel text-gray-400">Select Chapter Milestone:</label>
+            <div class="relative">
+              <select id="gauntlet-chapter-select" class="w-full appearance-none bg-[#14181d] border border-[#2e3a45] text-xs text-gray-200 py-2.5 px-3 pr-8 rounded-xl focus:outline-none focus:border-[#cba34e]">
+                <!-- Populated dynamically via JS -->
+              </select>
+              <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-[#cba34e]">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </div>
+            </div>
+          </div>
+
+          <!-- Cumulative Scope Stats Box -->
+          <div class="grid grid-cols-2 gap-2 pt-1 text-center text-xs">
+            <div class="p-2 bg-[#14181d] border border-[#2e3a45] rounded-xl">
+              <div class="text-[10px] text-gray-400 font-cinzel">Cumulative Pool</div>
+              <div id="gauntlet-scope-words" class="font-mono text-sm sm:text-base font-bold text-[#fae09c]">0 words</div>
+            </div>
+            <div class="p-2 bg-[#14181d] border border-[#2e3a45] rounded-xl">
+              <div class="text-[10px] text-gray-400 font-cinzel">Triumph Status</div>
+              <div id="gauntlet-scope-status" class="font-mono text-xs font-semibold text-gray-300 pt-0.5">Ready</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rules & Start Action -->
+        <div class="space-y-2.5">
+          <div class="p-3 bg-[#171d23] border border-[#2e3a45] rounded-xl text-[11px] text-gray-400 space-y-1">
+            <div class="font-semibold text-gray-300 flex items-center gap-1.5">
+              <span>⚔️</span> <span>Gauntlet Combat Rules:</span>
+            </div>
+            <div class="flex items-center justify-between text-xs">
+              <span>• 15 Fast-Paced Rounds</span>
+              <span>• 3 Legionary Shields (Lives)</span>
+            </div>
+            <div class="flex items-center justify-between text-xs">
+              <span>• Latin ⇄ English Bidirectional</span>
+              <span>• 10s Timer & Streak Combos</span>
+            </div>
+          </div>
+
+          <button id="btn-start-gauntlet" class="w-full py-3.5 bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#fae09c] hover:brightness-110 text-gray-950 font-cinzel font-bold text-sm rounded-xl shadow-lg transition flex items-center justify-center gap-2">
+            <span>⚔️</span> <span>COMMENCE CHAPTER GAUNTLET</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- ACTIVE GAUNTLET BATTLE SCREEN -->
+      <div id="gauntlet-battle" class="hidden flex-1 flex flex-col justify-between space-y-2.5">
+        <!-- Battle Status Bar -->
+        <div class="flex items-center justify-between bg-[#1b2229] border border-[#2e3a45] px-3.5 py-2 rounded-xl text-xs">
+          <!-- Shields (HP) -->
+          <div class="flex items-center gap-1" id="gauntlet-shields">
+            <span class="text-sm">🛡️</span>
+            <span class="text-sm">🛡️</span>
+            <span class="text-sm">🛡️</span>
+          </div>
+
+          <!-- Round & Progress -->
+          <div class="font-cinzel text-gray-300">
+            Round <span id="gauntlet-round-num" class="font-mono font-bold text-[#fae09c]">1</span> / 15
+          </div>
+
+          <!-- Combo & Score -->
+          <div class="flex items-center gap-2">
+            <span id="gauntlet-combo-badge" class="hidden px-2 py-0.5 bg-amber-900/60 border border-amber-600/50 text-amber-300 font-mono text-[10px] rounded-full">
+              2x
+            </span>
+            <span id="gauntlet-score" class="font-mono font-bold text-[#fae09c]">0 pts</span>
+          </div>
+        </div>
+
+        <!-- Timer Countdown Bar -->
+        <div class="w-full bg-[#1b2229] h-2 rounded-full overflow-hidden border border-[#2e3a45]/50">
+          <div id="gauntlet-timer-bar" class="h-full bg-gradient-to-r from-[#96742a] via-[#cba34e] to-[#fae09c] transition-all duration-100 w-full"></div>
+        </div>
+
+        <!-- Question Box -->
+        <div id="gauntlet-question-box" class="bg-[#1b2229] border border-[#cba34e]/40 rounded-2xl p-5 text-center space-y-2 roman-border shadow-xl">
+          <div class="flex items-center justify-between text-[10px]">
+            <span id="gauntlet-dir-badge" class="font-cinzel uppercase tracking-wider text-[#fae09c] px-2 py-0.5 bg-[#14181d] rounded border border-[#cba34e]/30">
+              Latin → English
+            </span>
+            <span id="gauntlet-word-citation" class="text-gray-400 italic">Bk 1, Ch 1</span>
+          </div>
+          <div id="gauntlet-prompt" class="font-lora text-2xl sm:text-3xl font-semibold text-[#fae09c] min-h-[44px] flex items-center justify-center">
+            Gallia
+          </div>
+          <div id="gauntlet-subprompt" class="text-xs text-gray-400">
+            Proper Noun
+          </div>
+        </div>
+
+        <!-- 4 Fast Action Buttons -->
+        <div id="gauntlet-options" class="space-y-2 pt-1">
+          <!-- Populated dynamically via JS -->
+        </div>
+      </div>
+
+      <!-- RESULTS / TRIUMPH SCREEN -->
+      <div id="gauntlet-results" class="hidden flex-1 flex flex-col justify-center space-y-4 my-auto text-center">
+        <div class="bg-[#1b2229] border border-[#cba34e]/50 rounded-2xl p-6 roman-border shadow-2xl space-y-3">
+          <div id="gauntlet-result-icon" class="text-5xl">🏆</div>
+          <h2 id="gauntlet-result-title" class="font-cinzel text-xl sm:text-2xl font-bold text-gold-gradient">
+            TRIUMPHUS DECLARATUS!
+          </h2>
+          <p id="gauntlet-result-subtitle" class="text-xs text-gray-300">
+            You successfully conquered the Chapter Cumulative Review!
+          </p>
+
+          <div class="grid grid-cols-3 gap-2 py-2 text-center">
+            <div class="p-2 bg-[#14181d] rounded-xl border border-[#2e3a45]">
+              <div class="text-[10px] text-gray-400 font-cinzel">Score</div>
+              <div id="gauntlet-res-score" class="font-mono text-base font-bold text-[#fae09c]">0</div>
+            </div>
+            <div class="p-2 bg-[#14181d] rounded-xl border border-[#2e3a45]">
+              <div class="text-[10px] text-gray-400 font-cinzel">Accuracy</div>
+              <div id="gauntlet-res-accuracy" class="font-mono text-base font-bold text-emerald-400">0%</div>
+            </div>
+            <div class="p-2 bg-[#14181d] rounded-xl border border-[#2e3a45]">
+              <div class="text-[10px] text-gray-400 font-cinzel">Max Combo</div>
+              <div id="gauntlet-res-combo" class="font-mono text-base font-bold text-amber-300">0x</div>
+            </div>
+          </div>
+
+          <div id="gauntlet-trophy-message" class="text-xs font-cinzel text-[#fae09c] p-2.5 bg-[#14181d] rounded-lg border border-[#cba34e]/30">
+            🏅 Chapter Triumph Crown Awarded!
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-2 pt-1">
+          <button id="btn-gauntlet-retry" class="py-3 px-3 bg-[#222b33] hover:bg-[#2e3a45] text-gray-200 font-cinzel font-semibold rounded-xl text-xs transition">
+            ↺ Replay Review
+          </button>
+          <button id="btn-gauntlet-done" class="py-3 px-3 bg-[#cba34e] hover:bg-[#fae09c] text-gray-950 font-cinzel font-bold rounded-xl text-xs transition">
+            Continue Studying →
+          </button>
+        </div>
+      </div>
+
     </div>
 
     <!-- Footer Controls -->
@@ -363,7 +571,7 @@
   </div>
 
   <!-- Vocabulary Data & App Scripts -->
-  <script src="data/words.js?v=4"></script>
-  <script src="app.js?v=4"></script>
+  <script src="data/words.js?v=5"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
