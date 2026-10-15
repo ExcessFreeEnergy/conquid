@@ -5,7 +5,9 @@
   "words": [
     {
       "rank": 1933,
+      "book": 4,
       "book_rank": 1,
+      "stage": "Book 4",
       "lemma": "Cn",
       "headword": "Cn",
       "pos": "Proper Noun",
@@ -20,7 +22,9 @@
     },
     {
       "rank": 1934,
+      "book": 4,
       "book_rank": 2,
+      "stage": "Book 4",
       "lemma": "Pompeius",
       "headword": "Pompeius, i, m.",
       "pos": "Noun",
@@ -35,7 +39,9 @@
     },
     {
       "rank": 1935,
+      "book": 4,
       "book_rank": 3,
+      "stage": "Book 4",
       "lemma": "Usipetes",
       "headword": "Usipetes, um, m. pl.",
       "pos": "Noun",
@@ -50,7 +56,9 @@
     },
     {
       "rank": 1936,
+      "book": 4,
       "book_rank": 4,
+      "stage": "Book 4",
       "lemma": "Tencteri",
       "headword": "Tencteri, orum, m.",
       "pos": "Noun",
@@ -65,7 +73,9 @@
     },
     {
       "rank": 1937,
+      "book": 4,
       "book_rank": 5,
+      "stage": "Book 4",
       "lemma": "separo",
       "headword": "separo, as, are",
       "pos": "Verb",
@@ -80,7 +90,9 @@
     },
     {
       "rank": 1938,
+      "book": 4,
       "book_rank": 6,
+      "stage": "Book 4",
       "lemma": "lac",
       "headword": "lac, lāctis, n.",
       "pos": "Noun",
@@ -95,7 +107,9 @@
     },
     {
       "rank": 1939,
+      "book": 4,
       "book_rank": 7,
+      "stage": "Book 4",
       "lemma": "vivo",
       "headword": "vivo, is, ere, uixi, uictum",
       "pos": "Verb",
@@ -110,7 +124,9 @@
     },
     {
       "rank": 1940,
+      "book": 4,
       "book_rank": 8,
+      "stage": "Book 4",
       "lemma": "venatio",
       "headword": "venatio, onis, f.",
       "pos": "Noun",
@@ -125,7 +141,9 @@
     },
     {
       "rank": 1941,
+      "book": 4,
       "book_rank": 9,
+      "stage": "Book 4",
       "lemma": "cibus",
       "headword": "cibus, i, m.",
       "pos": "Noun",
@@ -140,7 +158,9 @@
     },
     {
       "rank": 1942,
+      "book": 4,
       "book_rank": 10,
+      "stage": "Book 4",
       "lemma": "adsuefacti",
       "headword": "adsuefacti",
       "pos": "Word",
@@ -155,7 +175,9 @@
     },
     {
       "rank": 1943,
+      "book": 4,
       "book_rank": 11,
+      "stage": "Book 4",
       "lemma": "immanis",
       "headword": "immanis, e",
       "pos": "Adjective",
@@ -170,7 +192,9 @@
     },
     {
       "rank": 1944,
+      "book": 4,
       "book_rank": 12,
+      "stage": "Book 4",
       "lemma": "frigidus",
       "headword": "frigidus, a, um",
       "pos": "Adjective",
@@ -185,7 +209,9 @@
     },
     {
       "rank": 1945,
+      "book": 4,
       "book_rank": 13,
+      "stage": "Book 4",
       "lemma": "vestio",
       "headword": "vestio, is, ire, iui, itum",
       "pos": "Verb",
@@ -200,7 +226,9 @@
     },
     {
       "rank": 1946,
+      "book": 4,
       "book_rank": 14,
+      "stage": "Book 4",
       "lemma": "lauo",
       "headword": "lauo",
       "pos": "Word",
@@ -215,7 +243,9 @@
     },
     {
       "rank": 1947,
+      "book": 4,
       "book_rank": 15,
+      "stage": "Book 4",
       "lemma": "desidero",
       "headword": "desidero, as, are",
       "pos": "Verb",
@@ -230,7 +260,9 @@
     },
     {
       "rank": 1948,
+      "book": 4,
       "book_rank": 16,
+      "stage": "Book 4",
       "lemma": "delecto",
       "headword": "delecto, as, are",
       "pos": "Verb",
@@ -245,7 +277,9 @@
     },
     {
       "rank": 1949,
+      "book": 4,
       "book_rank": 17,
+      "stage": "Book 4",
       "lemma": "pasco",
       "headword": "pasco, is, ere, paui, pastum",
       "pos": "Verb",
@@ -260,7 +294,9 @@
     },
     {
       "rank": 1950,
+      "book": 4,
       "book_rank": 18,
+      "stage": "Book 4",
       "lemma": "deformis",
       "headword": "deformis, e",
       "pos": "Adjective",
@@ -275,7 +311,9 @@
     },
     {
       "rank": 1951,
+      "book": 4,
       "book_rank": 19,
+      "stage": "Book 4",
       "lemma": "Equestris",
       "headword": "Equestris, tris",
       "pos": "Adjective",
@@ -290,7 +328,9 @@
     },
     {
       "rank": 1952,
+      "book": 4,
       "book_rank": 20,
+      "stage": "Book 4",
       "lemma": "desilio",
       "headword": "desilio, is, ere, silui, sultum",
       "pos": "Verb",
@@ -305,7 +345,9 @@
     },
     {
       "rank": 1953,
+      "book": 4,
       "book_rank": 21,
+      "stage": "Book 4",
       "lemma": "vestigium",
       "headword": "vestigium, ii, n.",
       "pos": "Noun",
@@ -320,7 +362,9 @@
     },
     {
       "rank": 1954,
+      "book": 4,
       "book_rank": 22,
+      "stage": "Book 4",
       "lemma": "assuefacio",
       "headword": "assuefacio, is, ere, feci, factum",
       "pos": "Verb",
@@ -335,7 +379,9 @@
     },
     {
       "rank": 1955,
+      "book": 4,
       "book_rank": 23,
+      "stage": "Book 4",
       "lemma": "iners",
       "headword": "iners, inertis",
       "pos": "Adjective",
@@ -350,7 +396,9 @@
     },
     {
       "rank": 1956,
+      "book": 4,
       "book_rank": 24,
+      "stage": "Book 4",
       "lemma": "ephippium",
       "headword": "ephippium, i, n.",
       "pos": "Noun",
@@ -365,7 +413,9 @@
     },
     {
       "rank": 1957,
+      "book": 4,
       "book_rank": 25,
+      "stage": "Book 4",
       "lemma": "quiuis",
       "headword": "quiuis",
       "pos": "Word",
@@ -380,7 +430,9 @@
     },
     {
       "rank": 1958,
+      "book": 4,
       "book_rank": 26,
+      "stage": "Book 4",
       "lemma": "ephippiatus",
       "headword": "ephippiatus, a, um",
       "pos": "Adjective",
@@ -395,7 +447,9 @@
     },
     {
       "rank": 1959,
+      "book": 4,
       "book_rank": 27,
+      "stage": "Book 4",
       "lemma": "remollesco",
       "headword": "remollesco, is, ĕre, intr.",
       "pos": "Verb",
@@ -410,7 +464,9 @@
     },
     {
       "rank": 1960,
+      "book": 4,
       "book_rank": 28,
+      "stage": "Book 4",
       "lemma": "Ubii",
       "headword": "Ubii, orum, m. pl.",
       "pos": "Noun",
@@ -425,7 +481,9 @@
     },
     {
       "rank": 1961,
+      "book": 4,
       "book_rank": 29,
+      "stage": "Book 4",
       "lemma": "floreo",
       "headword": "floreo, es, ere, ui",
       "pos": "Verb",
@@ -440,7 +498,9 @@
     },
     {
       "rank": 1962,
+      "book": 4,
       "book_rank": 30,
+      "stage": "Book 4",
       "lemma": "humanus",
       "headword": "humanus, a, um",
       "pos": "Noun",
@@ -455,7 +515,9 @@
     },
     {
       "rank": 1963,
+      "book": 4,
       "book_rank": 31,
+      "stage": "Book 4",
       "lemma": "ventito",
       "headword": "ventito, as, are",
       "pos": "Verb",
@@ -470,7 +532,9 @@
     },
     {
       "rank": 1964,
+      "book": 4,
       "book_rank": 32,
+      "stage": "Book 4",
       "lemma": "amplitudo",
       "headword": "amplitudo, inis, f.",
       "pos": "Noun",
@@ -485,7 +549,9 @@
     },
     {
       "rank": 1965,
+      "book": 4,
       "book_rank": 33,
+      "stage": "Book 4",
       "lemma": "grauitas",
       "headword": "grauitas",
       "pos": "Word",
@@ -500,7 +566,9 @@
     },
     {
       "rank": 1966,
+      "book": 4,
       "book_rank": 34,
+      "stage": "Book 4",
       "lemma": "humilis",
       "headword": "humilis, e",
       "pos": "Adjective",
@@ -515,7 +583,9 @@
     },
     {
       "rank": 1967,
+      "book": 4,
       "book_rank": 35,
+      "stage": "Book 4",
       "lemma": "Germania",
       "headword": "Germania, ae, f.",
       "pos": "Noun",
@@ -530,7 +600,9 @@
     },
     {
       "rank": 1968,
+      "book": 4,
       "book_rank": 36,
+      "stage": "Book 4",
       "lemma": "triennium",
       "headword": "triennium, i, n.",
       "pos": "Noun",
@@ -545,7 +617,9 @@
     },
     {
       "rank": 1969,
+      "book": 4,
       "book_rank": 37,
+      "stage": "Book 4",
       "lemma": "demigro",
       "headword": "demigro, as, are",
       "pos": "Verb",
@@ -560,7 +634,9 @@
     },
     {
       "rank": 1970,
+      "book": 4,
       "book_rank": 38,
+      "stage": "Book 4",
       "lemma": "inscius",
       "headword": "inscius, a, um",
       "pos": "Adjective",
@@ -575,7 +651,9 @@
     },
     {
       "rank": 1971,
+      "book": 4,
       "book_rank": 39,
+      "stage": "Book 4",
       "lemma": "metus",
       "headword": "metus, us, m.",
       "pos": "Noun",
@@ -590,7 +668,9 @@
     },
     {
       "rank": 1972,
+      "book": 4,
       "book_rank": 40,
+      "stage": "Book 4",
       "lemma": "remigro",
       "headword": "remigro, as, are, intr.",
       "pos": "Verb",
@@ -605,7 +685,9 @@
     },
     {
       "rank": 1973,
+      "book": 4,
       "book_rank": 41,
+      "stage": "Book 4",
       "lemma": "infirmitas",
       "headword": "infirmitas, atis, f.",
       "pos": "Noun",
@@ -620,7 +702,9 @@
     },
     {
       "rank": 1974,
+      "book": 4,
       "book_rank": 42,
+      "stage": "Book 4",
       "lemma": "mobilis",
       "headword": "mobilis, e",
       "pos": "Adjective",
@@ -635,7 +719,9 @@
     },
     {
       "rank": 1975,
+      "book": 4,
       "book_rank": 43,
+      "stage": "Book 4",
       "lemma": "viator",
       "headword": "viator, oris, m.",
       "pos": "Noun",
@@ -650,7 +736,9 @@
     },
     {
       "rank": 1976,
+      "book": 4,
       "book_rank": 44,
+      "stage": "Book 4",
       "lemma": "pronuntio",
       "headword": "pronuntio, as, are",
       "pos": "Verb",
@@ -665,7 +753,9 @@
     },
     {
       "rank": 1977,
+      "book": 4,
       "book_rank": 45,
+      "stage": "Book 4",
       "lemma": "auditio",
       "headword": "auditio, ōnis, f.",
       "pos": "Noun",
@@ -680,7 +770,9 @@
     },
     {
       "rank": 1978,
+      "book": 4,
       "book_rank": 46,
+      "stage": "Book 4",
       "lemma": "paeniteo",
       "headword": "paeniteo, es, ere, ui",
       "pos": "Verb",
@@ -695,7 +787,9 @@
     },
     {
       "rank": 1979,
+      "book": 4,
       "book_rank": 47,
+      "stage": "Book 4",
       "lemma": "necesse",
       "headword": "necesse, adj.",
       "pos": "Adjective",
@@ -710,7 +804,9 @@
     },
     {
       "rank": 1980,
+      "book": 4,
       "book_rank": 48,
+      "stage": "Book 4",
       "lemma": "incertus",
       "headword": "incertus, a, um",
       "pos": "Adjective",
@@ -725,7 +821,9 @@
     },
     {
       "rank": 1981,
+      "book": 4,
       "book_rank": 49,
+      "stage": "Book 4",
       "lemma": "servio",
       "headword": "servio, is, ire, ii ou iui, itum",
       "pos": "Verb",
@@ -740,7 +838,9 @@
     },
     {
       "rank": 1982,
+      "book": 4,
       "book_rank": 50,
+      "stage": "Book 4",
       "lemma": "Princeps",
       "headword": "Princeps, ipis, adj.",
       "pos": "Noun",
@@ -755,7 +855,9 @@
     },
     {
       "rank": 1983,
+      "book": 4,
       "book_rank": 51,
+      "stage": "Book 4",
       "lemma": "dissimulo",
       "headword": "dissimulo, as, are",
       "pos": "Verb",
@@ -770,7 +872,9 @@
     },
     {
       "rank": 1984,
+      "book": 4,
       "book_rank": 52,
+      "stage": "Book 4",
       "lemma": "permulceo",
       "headword": "permulceo, es, ere, si, sum",
       "pos": "Verb",
@@ -785,7 +889,9 @@
     },
     {
       "rank": 1985,
+      "book": 4,
       "book_rank": 53,
+      "stage": "Book 4",
       "lemma": "ejicio",
       "headword": "ejicio, is, ere, eieci, eiectum",
       "pos": "Verb",
@@ -800,7 +906,9 @@
     },
     {
       "rank": 1986,
+      "book": 4,
       "book_rank": 54,
+      "stage": "Book 4",
       "lemma": "utilis",
       "headword": "utilis, e",
       "pos": "Adjective",
@@ -815,7 +923,9 @@
     },
     {
       "rank": 1987,
+      "book": 4,
       "book_rank": 55,
+      "stage": "Book 4",
       "lemma": "exitus",
       "headword": "exitus, us, m.",
       "pos": "Noun",
@@ -830,7 +940,9 @@
     },
     {
       "rank": 1988,
+      "book": 4,
       "book_rank": 56,
+      "stage": "Book 4",
       "lemma": "tueor",
       "headword": "tueor, eris, eri, tuitus sum",
       "pos": "Word",
@@ -845,7 +957,9 @@
     },
     {
       "rank": 1989,
+      "book": 4,
       "book_rank": 57,
+      "stage": "Book 4",
       "lemma": "frumentor",
       "headword": "frumentor, aris, ari",
       "pos": "Verb",
@@ -860,7 +974,9 @@
     },
     {
       "rank": 1990,
+      "book": 4,
       "book_rank": 58,
+      "stage": "Book 4",
       "lemma": "Ambivariti",
       "headword": "Ambivariti, orum, m.",
       "pos": "Noun",
@@ -875,7 +991,9 @@
     },
     {
       "rank": 1991,
+      "book": 4,
       "book_rank": 59,
+      "stage": "Book 4",
       "lemma": "Mosa",
       "headword": "Mosa, ae, f.",
       "pos": "Noun",
@@ -890,7 +1008,9 @@
     },
     {
       "rank": 1992,
+      "book": 4,
       "book_rank": 60,
+      "stage": "Book 4",
       "lemma": "mora",
       "headword": "mora, ae, f.",
       "pos": "Verb",
@@ -905,7 +1025,9 @@
     },
     {
       "rank": 1993,
+      "book": 4,
       "book_rank": 61,
+      "stage": "Book 4",
       "lemma": "profluo",
       "headword": "profluo, is, ere, fluxi, fluxum",
       "pos": "Verb",
@@ -920,7 +1042,9 @@
     },
     {
       "rank": 1994,
+      "book": 4,
       "book_rank": 62,
+      "stage": "Book 4",
       "lemma": "Uosegus",
       "headword": "Uosegus",
       "pos": "Word",
@@ -935,7 +1059,9 @@
     },
     {
       "rank": 1995,
+      "book": 4,
       "book_rank": 63,
+      "stage": "Book 4",
       "lemma": "Uacalus",
       "headword": "Uacalus",
       "pos": "Word",
@@ -950,7 +1076,9 @@
     },
     {
       "rank": 1996,
+      "book": 4,
       "book_rank": 64,
+      "stage": "Book 4",
       "lemma": "Bataui",
       "headword": "Bataui",
       "pos": "Word",
@@ -965,7 +1093,9 @@
     },
     {
       "rank": 1997,
+      "book": 4,
       "book_rank": 65,
+      "stage": "Book 4",
       "lemma": "Lepontii",
       "headword": "Lepontii, orum, m.",
       "pos": "Noun",
@@ -980,7 +1110,9 @@
     },
     {
       "rank": 1998,
+      "book": 4,
       "book_rank": 66,
+      "stage": "Book 4",
       "lemma": "Mediomatrici",
       "headword": "Mediomatrici, orum, m.",
       "pos": "Noun",
@@ -995,7 +1127,9 @@
     },
     {
       "rank": 1999,
+      "book": 4,
       "book_rank": 67,
+      "stage": "Book 4",
       "lemma": "citatus",
       "headword": "citatus, a, um",
       "pos": "Adjective",
@@ -1010,7 +1144,9 @@
     },
     {
       "rank": 2000,
+      "book": 4,
       "book_rank": 68,
+      "stage": "Book 4",
       "lemma": "diffluo",
       "headword": "diffluo, is, ere, fluxi, fluxum",
       "pos": "Verb",
@@ -1025,7 +1161,9 @@
     },
     {
       "rank": 2001,
+      "book": 4,
       "book_rank": 69,
+      "stage": "Book 4",
       "lemma": "piscis",
       "headword": "piscis, is, m.",
       "pos": "Noun",
@@ -1040,7 +1178,9 @@
     },
     {
       "rank": 2002,
+      "book": 4,
       "book_rank": 70,
+      "stage": "Book 4",
       "lemma": "ovis",
       "headword": "ovis, is, f.",
       "pos": "Noun",
@@ -1055,7 +1195,9 @@
     },
     {
       "rank": 2003,
+      "book": 4,
       "book_rank": 71,
+      "stage": "Book 4",
       "lemma": "avis",
       "headword": "avis, is, f.",
       "pos": "Noun",
@@ -1070,7 +1212,9 @@
     },
     {
       "rank": 2004,
+      "book": 4,
       "book_rank": 72,
+      "stage": "Book 4",
       "lemma": "aquatio",
       "headword": "aquatio, ōnis, f.",
       "pos": "Noun",
@@ -1085,7 +1229,9 @@
     },
     {
       "rank": 2005,
+      "book": 4,
       "book_rank": 73,
+      "stage": "Book 4",
       "lemma": "frequens",
       "headword": "frequens, entis",
       "pos": "Adjective",
@@ -1100,7 +1246,9 @@
     },
     {
       "rank": 2006,
+      "book": 4,
       "book_rank": 74,
+      "stage": "Book 4",
       "lemma": "quoad",
       "headword": "quoad, conj. sub. + subj.",
       "pos": "Conjunction",
@@ -1115,7 +1263,9 @@
     },
     {
       "rank": 2007,
+      "book": 4,
       "book_rank": 75,
+      "stage": "Book 4",
       "lemma": "indutiae",
       "headword": "indutiae, arum, f . pl.",
       "pos": "Word",
@@ -1130,7 +1280,9 @@
     },
     {
       "rank": 2008,
+      "book": 4,
       "book_rank": 76,
+      "stage": "Book 4",
       "lemma": "suffodio",
       "headword": "suffodio, is, ere, fodi, fossum",
       "pos": "Verb",
@@ -1145,7 +1297,9 @@
     },
     {
       "rank": 2009,
+      "book": 4,
       "book_rank": 77,
+      "stage": "Book 4",
       "lemma": "Aquitanus",
       "headword": "Aquitanus, i, m.",
       "pos": "Noun",
@@ -1160,7 +1314,9 @@
     },
     {
       "rank": 2010,
+      "book": 4,
       "book_rank": 78,
+      "stage": "Book 4",
       "lemma": "dementia",
       "headword": "dementia, ae, f.",
       "pos": "Noun",
@@ -1175,7 +1331,9 @@
     },
     {
       "rank": 2011,
+      "book": 4,
       "book_rank": 79,
+      "stage": "Book 4",
       "lemma": "communico",
       "headword": "communico, as, are",
       "pos": "Verb",
@@ -1190,7 +1348,9 @@
     },
     {
       "rank": 2012,
+      "book": 4,
       "book_rank": 80,
+      "stage": "Book 4",
       "lemma": "praetermitto",
       "headword": "praetermitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -1205,7 +1365,9 @@
     },
     {
       "rank": 2013,
+      "book": 4,
       "book_rank": 81,
+      "stage": "Book 4",
       "lemma": "perfidia",
       "headword": "perfidia, ae, f.",
       "pos": "Noun",
@@ -1220,7 +1382,9 @@
     },
     {
       "rank": 2014,
+      "book": 4,
       "book_rank": 82,
+      "stage": "Book 4",
       "lemma": "gaudeo",
       "headword": "gaudeo, es, ere, gauisus sum",
       "pos": "Verb",
@@ -1235,7 +1399,9 @@
     },
     {
       "rank": 2015,
+      "book": 4,
       "book_rank": 83,
+      "stage": "Book 4",
       "lemma": "irrumpo",
       "headword": "irrumpo, is, ere, rupi, ruptum",
       "pos": "Verb",
@@ -1250,7 +1416,9 @@
     },
     {
       "rank": 2016,
+      "book": 4,
       "book_rank": 84,
+      "stage": "Book 4",
       "lemma": "passim",
       "headword": "passim, adv.",
       "pos": "Adverb",
@@ -1265,7 +1433,9 @@
     },
     {
       "rank": 2017,
+      "book": 4,
       "book_rank": 85,
+      "stage": "Book 4",
       "lemma": "consecto",
       "headword": "consecto",
       "pos": "Verb",
@@ -1280,7 +1450,9 @@
     },
     {
       "rank": 2018,
+      "book": 4,
       "book_rank": 86,
+      "stage": "Book 4",
       "lemma": "abicio",
       "headword": "abicio, is, ere, abieci, abiectum",
       "pos": "Verb",
@@ -1295,7 +1467,9 @@
     },
     {
       "rank": 2019,
+      "book": 4,
       "book_rank": 87,
+      "stage": "Book 4",
       "lemma": "confluo",
       "headword": "confluo, is, ere, fluxi, fluctum",
       "pos": "Verb",
@@ -1310,7 +1484,9 @@
     },
     {
       "rank": 2020,
+      "book": 4,
       "book_rank": 88,
+      "stage": "Book 4",
       "lemma": "praecipito",
       "headword": "praecipito, as, are (svt pronominal)",
       "pos": "Verb",
@@ -1325,7 +1501,9 @@
     },
     {
       "rank": 2021,
+      "book": 4,
       "book_rank": 89,
+      "stage": "Book 4",
       "lemma": "Germanicus",
       "headword": "Germanicus, i, m.",
       "pos": "Noun",
@@ -1340,7 +1518,9 @@
     },
     {
       "rank": 2022,
+      "book": 4,
       "book_rank": 90,
+      "stage": "Book 4",
       "lemma": "Sugambri",
       "headword": "Sugambri, orum, m. pl.",
       "pos": "Noun",
@@ -1355,7 +1535,9 @@
     },
     {
       "rank": 2023,
+      "book": 4,
       "book_rank": 91,
+      "stage": "Book 4",
       "lemma": "finio",
       "headword": "finio, is, ire, iui, itum",
       "pos": "Verb",
@@ -1370,7 +1552,9 @@
     },
     {
       "rank": 2024,
+      "book": 4,
       "book_rank": 92,
+      "stage": "Book 4",
       "lemma": "Transrhenani",
       "headword": "Transrhenani, orum, m.",
       "pos": "Noun",
@@ -1385,7 +1569,9 @@
     },
     {
       "rank": 2025,
+      "book": 4,
       "book_rank": 93,
+      "stage": "Book 4",
       "lemma": "occupatio",
       "headword": "occupatio, onis, f.",
       "pos": "Noun",
@@ -1400,7 +1586,9 @@
     },
     {
       "rank": 2026,
+      "book": 4,
       "book_rank": 94,
+      "stage": "Book 4",
       "lemma": "Nauius",
       "headword": "Nauius",
       "pos": "Word",
@@ -1415,7 +1603,9 @@
     },
     {
       "rank": 2027,
+      "book": 4,
       "book_rank": 95,
+      "stage": "Book 4",
       "lemma": "rapiditas",
       "headword": "rapiditas, ātis, f.",
       "pos": "Noun",
@@ -1430,7 +1620,9 @@
     },
     {
       "rank": 2028,
+      "book": 4,
       "book_rank": 96,
+      "stage": "Book 4",
       "lemma": "tignum",
       "headword": "tignum, i, n.",
       "pos": "Noun",
@@ -1445,7 +1637,9 @@
     },
     {
       "rank": 2029,
+      "book": 4,
       "book_rank": 97,
+      "stage": "Book 4",
       "lemma": "sesquipedalis",
       "headword": "sesquipedalis, e",
       "pos": "Adjective",
@@ -1460,7 +1654,9 @@
     },
     {
       "rank": 2030,
+      "book": 4,
       "book_rank": 98,
+      "stage": "Book 4",
       "lemma": "immitto",
       "headword": "immitto, is, ere, misi, missum",
       "pos": "Verb",
@@ -1475,7 +1671,9 @@
     },
     {
       "rank": 2031,
+      "book": 4,
       "book_rank": 99,
+      "stage": "Book 4",
       "lemma": "defigo",
       "headword": "defigo, is, ere, defixi, defixum",
       "pos": "Verb",
@@ -1490,7 +1688,9 @@
     },
     {
       "rank": 2032,
+      "book": 4,
       "book_rank": 100,
+      "stage": "Book 4",
       "lemma": "fistuca",
       "headword": "fistuca",
       "pos": "Noun",
@@ -1505,7 +1705,9 @@
     },
     {
       "rank": 2033,
+      "book": 4,
       "book_rank": 101,
+      "stage": "Book 4",
       "lemma": "sublica",
       "headword": "sublica, ae, f.",
       "pos": "Noun",
@@ -1520,7 +1722,9 @@
     },
     {
       "rank": 2034,
+      "book": 4,
       "book_rank": 102,
+      "stage": "Book 4",
       "lemma": "derigo",
       "headword": "derigo, is, ere, derexi, derectum",
       "pos": "Verb",
@@ -1535,7 +1739,9 @@
     },
     {
       "rank": 2035,
+      "book": 4,
       "book_rank": 103,
+      "stage": "Book 4",
       "lemma": "perpendiculum",
       "headword": "perpendiculum, i, n.",
       "pos": "Noun",
@@ -1550,7 +1756,9 @@
     },
     {
       "rank": 2036,
+      "book": 4,
       "book_rank": 104,
+      "stage": "Book 4",
       "lemma": "quadragenus",
       "headword": "quadragenus, a, um",
       "pos": "Adjective",
@@ -1565,7 +1773,9 @@
     },
     {
       "rank": 2037,
+      "book": 4,
       "book_rank": 105,
+      "stage": "Book 4",
       "lemma": "insuper",
       "headword": "insuper, adv. et prép.",
       "pos": "Adverb",
@@ -1580,7 +1790,9 @@
     },
     {
       "rank": 2038,
+      "book": 4,
       "book_rank": 106,
+      "stage": "Book 4",
       "lemma": "bipedalis",
       "headword": "bipedalis, e",
       "pos": "Adjective",
@@ -1595,7 +1807,9 @@
     },
     {
       "rank": 2039,
+      "book": 4,
       "book_rank": 107,
+      "stage": "Book 4",
       "lemma": "disto",
       "headword": "disto, as, are",
       "pos": "Verb",
@@ -1610,7 +1824,9 @@
     },
     {
       "rank": 2040,
+      "book": 4,
       "book_rank": 108,
+      "stage": "Book 4",
       "lemma": "fibula",
       "headword": "fibula, ae, f.",
       "pos": "Verb",
@@ -1625,7 +1841,9 @@
     },
     {
       "rank": 2041,
+      "book": 4,
       "book_rank": 109,
+      "stage": "Book 4",
       "lemma": "discludo",
       "headword": "discludo, is, ere, clusi, clusum",
       "pos": "Verb",
@@ -1640,7 +1858,9 @@
     },
     {
       "rank": 2042,
+      "book": 4,
       "book_rank": 110,
+      "stage": "Book 4",
       "lemma": "aqua",
       "headword": "aqua, ae, f.",
       "pos": "Noun",
@@ -1655,7 +1875,9 @@
     },
     {
       "rank": 2043,
+      "book": 4,
       "book_rank": 111,
+      "stage": "Book 4",
       "lemma": "artus",
       "headword": "artus, a, um",
       "pos": "Noun",
@@ -1670,7 +1892,9 @@
     },
     {
       "rank": 2044,
+      "book": 4,
       "book_rank": 112,
+      "stage": "Book 4",
       "lemma": "illigo",
       "headword": "illigo, as, are",
       "pos": "Verb",
@@ -1685,7 +1909,9 @@
     },
     {
       "rank": 2045,
+      "book": 4,
       "book_rank": 113,
+      "stage": "Book 4",
       "lemma": "contexo",
       "headword": "contexo, is, ere, texŭi, textum",
       "pos": "Verb",
@@ -1700,7 +1926,9 @@
     },
     {
       "rank": 2046,
+      "book": 4,
       "book_rank": 114,
+      "stage": "Book 4",
       "lemma": "cratis",
       "headword": "cratis, is, f.",
       "pos": "Noun",
@@ -1715,7 +1943,9 @@
     },
     {
       "rank": 2047,
+      "book": 4,
       "book_rank": 115,
+      "stage": "Book 4",
       "lemma": "consterno",
       "headword": "consterno, as, are",
       "pos": "Verb",
@@ -1730,7 +1960,9 @@
     },
     {
       "rank": 2048,
+      "book": 4,
       "book_rank": 116,
+      "stage": "Book 4",
       "lemma": "obliquus",
       "headword": "obliquus, a, um",
       "pos": "Adjective",
@@ -1745,7 +1977,9 @@
     },
     {
       "rank": 2049,
+      "book": 4,
       "book_rank": 117,
+      "stage": "Book 4",
       "lemma": "truncus",
       "headword": "truncus, a, um",
       "pos": "Verb",
@@ -1760,7 +1994,9 @@
     },
     {
       "rank": 2050,
+      "book": 4,
       "book_rank": 118,
+      "stage": "Book 4",
       "lemma": "exporto",
       "headword": "exporto, as, are",
       "pos": "Verb",
@@ -1775,7 +2011,9 @@
     },
     {
       "rank": 2051,
+      "book": 4,
       "book_rank": 119,
+      "stage": "Book 4",
       "lemma": "solitudo",
       "headword": "solitudo, inis, f.",
       "pos": "Noun",
@@ -1790,7 +2028,9 @@
     },
     {
       "rank": 2052,
+      "book": 4,
       "book_rank": 120,
+      "stage": "Book 4",
       "lemma": "succido",
       "headword": "succido, is, ere, succidi, intr.",
       "pos": "Verb",
@@ -1805,7 +2045,9 @@
     },
     {
       "rank": 2053,
+      "book": 4,
       "book_rank": 121,
+      "stage": "Book 4",
       "lemma": "obsidio",
       "headword": "obsidio, onis, f.",
       "pos": "Noun",
@@ -1820,7 +2062,9 @@
     },
     {
       "rank": 2054,
+      "book": 4,
       "book_rank": 122,
+      "stage": "Book 4",
       "lemma": "libero",
       "headword": "libero, as, are",
       "pos": "Verb",
@@ -1835,7 +2079,9 @@
     },
     {
       "rank": 2055,
+      "book": 4,
       "book_rank": 123,
+      "stage": "Book 4",
       "lemma": "utilitas",
       "headword": "utilitas, atis, f.",
       "pos": "Noun",
@@ -1850,7 +2096,9 @@
     },
     {
       "rank": 2056,
+      "book": 4,
       "book_rank": 124,
+      "stage": "Book 4",
       "lemma": "exiguus",
       "headword": "exiguus, a, um",
       "pos": "Adjective",
@@ -1865,7 +2113,9 @@
     },
     {
       "rank": 2057,
+      "book": 4,
       "book_rank": 125,
+      "stage": "Book 4",
       "lemma": "incognitus",
       "headword": "incognitus, a, um",
       "pos": "Adjective",
@@ -1880,7 +2130,9 @@
     },
     {
       "rank": 2058,
+      "book": 4,
       "book_rank": 126,
+      "stage": "Book 4",
       "lemma": "traicio",
       "headword": "traicio, is, ere, ieci, iectum",
       "pos": "Verb",
@@ -1895,7 +2147,9 @@
     },
     {
       "rank": 2059,
+      "book": 4,
       "book_rank": 127,
+      "stage": "Book 4",
       "lemma": "Britanni",
       "headword": "Britanni, orum, m.",
       "pos": "Noun",
@@ -1910,7 +2164,9 @@
     },
     {
       "rank": 2060,
+      "book": 4,
       "book_rank": 128,
+      "stage": "Book 4",
       "lemma": "obtempero",
       "headword": "obtempero, as, are",
       "pos": "Verb",
@@ -1925,7 +2181,9 @@
     },
     {
       "rank": 2061,
+      "book": 4,
       "book_rank": 129,
+      "stage": "Book 4",
       "lemma": "Commius",
       "headword": "Commius, i, m.",
       "pos": "Noun",
@@ -1940,7 +2198,9 @@
     },
     {
       "rank": 2062,
+      "book": 4,
       "book_rank": 130,
+      "stage": "Book 4",
       "lemma": "fidelis",
       "headword": "fidelis, e",
       "pos": "Adjective",
@@ -1955,7 +2215,9 @@
     },
     {
       "rank": 2063,
+      "book": 4,
       "book_rank": 131,
+      "stage": "Book 4",
       "lemma": "excuso",
       "headword": "excuso, as, are",
       "pos": "Verb",
@@ -1970,7 +2232,9 @@
     },
     {
       "rank": 2064,
+      "book": 4,
       "book_rank": 132,
+      "stage": "Book 4",
       "lemma": "antepono",
       "headword": "antepono, is, ere, posui, positum",
       "pos": "Verb",
@@ -1985,7 +2249,9 @@
     },
     {
       "rank": 2065,
+      "book": 4,
       "book_rank": 133,
+      "stage": "Book 4",
       "lemma": "onerarius",
       "headword": "onerarius, a, um",
       "pos": "Adjective",
@@ -2000,7 +2266,9 @@
     },
     {
       "rank": 2066,
+      "book": 4,
       "book_rank": 134,
+      "stage": "Book 4",
       "lemma": "Sulpicius",
       "headword": "Sulpicius, i, m.",
       "pos": "Noun",
@@ -2015,7 +2283,9 @@
     },
     {
       "rank": 2067,
+      "book": 4,
       "book_rank": 135,
+      "stage": "Book 4",
       "lemma": "Rufus",
       "headword": "Rufus, i, m.",
       "pos": "Noun",
@@ -2030,7 +2300,9 @@
     },
     {
       "rank": 2068,
+      "book": 4,
       "book_rank": 136,
+      "stage": "Book 4",
       "lemma": "solvo",
       "headword": "solvo, is, ere, ui, utum",
       "pos": "Verb",
@@ -2045,7 +2317,9 @@
     },
     {
       "rank": 2069,
+      "book": 4,
       "book_rank": 137,
+      "stage": "Book 4",
       "lemma": "conscendo",
       "headword": "conscendo, is, ere, scendi, scensum",
       "pos": "Verb",
@@ -2060,7 +2334,9 @@
     },
     {
       "rank": 2070,
+      "book": 4,
       "book_rank": 138,
+      "stage": "Book 4",
       "lemma": "evito",
       "headword": "evito, as, are",
       "pos": "Verb",
@@ -2075,7 +2351,9 @@
     },
     {
       "rank": 2071,
+      "book": 4,
       "book_rank": 139,
+      "stage": "Book 4",
       "lemma": "litus",
       "headword": "litus, oris, n.",
       "pos": "Noun",
@@ -2090,7 +2368,9 @@
     },
     {
       "rank": 2072,
+      "book": 4,
       "book_rank": 140,
+      "stage": "Book 4",
       "lemma": "nequaquam",
       "headword": "nequaquam, adv.",
       "pos": "Adverb",
@@ -2105,7 +2385,9 @@
     },
     {
       "rank": 2073,
+      "book": 4,
       "book_rank": 141,
+      "stage": "Book 4",
       "lemma": "nonus",
       "headword": "nonus, a, um",
       "pos": "Noun",
@@ -2120,7 +2402,9 @@
     },
     {
       "rank": 2074,
+      "book": 4,
       "book_rank": 142,
+      "stage": "Book 4",
       "lemma": "instabilis",
       "headword": "instabilis, e",
       "pos": "Adjective",
@@ -2135,7 +2419,9 @@
     },
     {
       "rank": 2075,
+      "book": 4,
       "book_rank": 143,
+      "stage": "Book 4",
       "lemma": "motus",
       "headword": "motus, us, m.",
       "pos": "Noun",
@@ -2150,7 +2436,9 @@
     },
     {
       "rank": 2076,
+      "book": 4,
       "book_rank": 144,
+      "stage": "Book 4",
       "lemma": "essedarius",
       "headword": "essedarius, ii, m.",
       "pos": "Noun",
@@ -2165,7 +2453,9 @@
     },
     {
       "rank": 2077,
+      "book": 4,
       "book_rank": 145,
+      "stage": "Book 4",
       "lemma": "ignotus",
       "headword": "ignotus, a, um",
       "pos": "Adjective",
@@ -2180,7 +2470,9 @@
     },
     {
       "rank": 2078,
+      "book": 4,
       "book_rank": 146,
+      "stage": "Book 4",
       "lemma": "aridus",
       "headword": "aridus, a, um",
       "pos": "Adjective",
@@ -2195,7 +2487,9 @@
     },
     {
       "rank": 2079,
+      "book": 4,
       "book_rank": 147,
+      "stage": "Book 4",
       "lemma": "membrum",
       "headword": "membrum, i, n. (généralement au plur)",
       "pos": "Noun",
@@ -2210,7 +2504,9 @@
     },
     {
       "rank": 2080,
+      "book": 4,
       "book_rank": 148,
+      "stage": "Book 4",
       "lemma": "notus",
       "headword": "notus, a, um",
       "pos": "Adjective",
@@ -2225,7 +2521,9 @@
     },
     {
       "rank": 2081,
+      "book": 4,
       "book_rank": 149,
+      "stage": "Book 4",
       "lemma": "audacter",
       "headword": "audacter, adv.",
       "pos": "Adverb",
@@ -2240,7 +2538,9 @@
     },
     {
       "rank": 2082,
+      "book": 4,
       "book_rank": 150,
+      "stage": "Book 4",
       "lemma": "insuefactus",
       "headword": "insuefactus, a, um",
       "pos": "Adjective",
@@ -2255,7 +2555,9 @@
     },
     {
       "rank": 2083,
+      "book": 4,
       "book_rank": 151,
+      "stage": "Book 4",
       "lemma": "remoueo",
       "headword": "remoueo",
       "pos": "Word",
@@ -2270,7 +2572,9 @@
     },
     {
       "rank": 2084,
+      "book": 4,
       "book_rank": 152,
+      "stage": "Book 4",
       "lemma": "fundus",
       "headword": "fundus, i, m.",
       "pos": "Noun",
@@ -2285,7 +2589,9 @@
     },
     {
       "rank": 2085,
+      "book": 4,
       "book_rank": 153,
+      "stage": "Book 4",
       "lemma": "sagitta",
       "headword": "sagitta, ae, f.",
       "pos": "Verb",
@@ -2300,7 +2606,9 @@
     },
     {
       "rank": 2086,
+      "book": 4,
       "book_rank": 154,
+      "stage": "Book 4",
       "lemma": "figura",
       "headword": "figura, ae, f.",
       "pos": "Noun",
@@ -2315,7 +2623,9 @@
     },
     {
       "rank": 2087,
+      "book": 4,
       "book_rank": 155,
+      "stage": "Book 4",
       "lemma": "aquila",
       "headword": "aquila, ae, f.",
       "pos": "Noun",
@@ -2330,7 +2640,9 @@
     },
     {
       "rank": 2088,
+      "book": 4,
       "book_rank": 156,
+      "stage": "Book 4",
       "lemma": "obtestor",
       "headword": "obtestor, aris, ari",
       "pos": "Verb",
@@ -2345,7 +2657,9 @@
     },
     {
       "rank": 2089,
+      "book": 4,
       "book_rank": 157,
+      "stage": "Book 4",
       "lemma": "feliciter",
       "headword": "feliciter, adv.",
       "pos": "Adverb",
@@ -2360,7 +2674,9 @@
     },
     {
       "rank": 2090,
+      "book": 4,
       "book_rank": 158,
+      "stage": "Book 4",
       "lemma": "euenio",
       "headword": "euenio",
       "pos": "Word",
@@ -2375,7 +2691,9 @@
     },
     {
       "rank": 2091,
+      "book": 4,
       "book_rank": 159,
+      "stage": "Book 4",
       "lemma": "inquit",
       "headword": "inquit, vb. défectif",
       "pos": "Word",
@@ -2390,7 +2708,9 @@
     },
     {
       "rank": 2092,
+      "book": 4,
       "book_rank": 160,
+      "stage": "Book 4",
       "lemma": "vultum",
       "headword": "vultum, i, n. cf. uultus",
       "pos": "Noun",
@@ -2405,7 +2725,9 @@
     },
     {
       "rank": 2093,
+      "book": 4,
       "book_rank": 161,
+      "stage": "Book 4",
       "lemma": "ego",
       "headword": "ego, mei, pron.",
       "pos": "Pronoun",
@@ -2420,7 +2742,9 @@
     },
     {
       "rank": 2094,
+      "book": 4,
       "book_rank": 162,
+      "stage": "Book 4",
       "lemma": "meus",
       "headword": "meus, mea, meum",
       "pos": "Adjective",
@@ -2435,7 +2759,9 @@
     },
     {
       "rank": 2095,
+      "book": 4,
       "book_rank": 163,
+      "stage": "Book 4",
       "lemma": "dedecus",
       "headword": "dedecus, oris, n.",
       "pos": "Noun",
@@ -2450,7 +2776,9 @@
     },
     {
       "rank": 2096,
+      "book": 4,
       "book_rank": 164,
+      "stage": "Book 4",
       "lemma": "firmiter",
       "headword": "firmiter, adv.",
       "pos": "Adverb",
@@ -2465,7 +2793,9 @@
     },
     {
       "rank": 2097,
+      "book": 4,
       "book_rank": 165,
+      "stage": "Book 4",
       "lemma": "adgrego",
       "headword": "adgrego, as, are",
       "pos": "Verb",
@@ -2480,7 +2810,9 @@
     },
     {
       "rank": 2098,
+      "book": 4,
       "book_rank": 166,
+      "stage": "Book 4",
       "lemma": "vadii",
       "headword": "vadii",
       "pos": "Word",
@@ -2495,7 +2827,9 @@
     },
     {
       "rank": 2099,
+      "book": 4,
       "book_rank": 167,
+      "stage": "Book 4",
       "lemma": "scapha",
       "headword": "scapha, ae, f.",
       "pos": "Noun",
@@ -2510,7 +2844,9 @@
     },
     {
       "rank": 2100,
+      "book": 4,
       "book_rank": 168,
+      "stage": "Book 4",
       "lemma": "speculatorius",
       "headword": "speculatorius, a, um",
       "pos": "Noun",
@@ -2525,7 +2861,9 @@
     },
     {
       "rank": 2101,
+      "book": 4,
       "book_rank": 169,
+      "stage": "Book 4",
       "lemma": "orator",
       "headword": "orator, oris, m.",
       "pos": "Noun",
@@ -2540,7 +2878,9 @@
     },
     {
       "rank": 2102,
+      "book": 4,
       "book_rank": 170,
+      "stage": "Book 4",
       "lemma": "culpa",
       "headword": "culpa, ae, f.",
       "pos": "Verb",
@@ -2555,7 +2895,9 @@
     },
     {
       "rank": 2103,
+      "book": 4,
       "book_rank": 171,
+      "stage": "Book 4",
       "lemma": "imprudentia",
       "headword": "imprudentia, ae, f.",
       "pos": "Noun",
@@ -2570,7 +2912,9 @@
     },
     {
       "rank": 2104,
+      "book": 4,
       "book_rank": 172,
+      "stage": "Book 4",
       "lemma": "commendo",
       "headword": "commendo, as, are",
       "pos": "Verb",
@@ -2585,7 +2929,9 @@
     },
     {
       "rank": 2105,
+      "book": 4,
       "book_rank": 173,
+      "stage": "Book 4",
       "lemma": "lenis",
       "headword": "lenis, e",
       "pos": "Verb",
@@ -2600,7 +2946,9 @@
     },
     {
       "rank": 2106,
+      "book": 4,
       "book_rank": 174,
+      "stage": "Book 4",
       "lemma": "jactus",
       "headword": "jactus, us, m.",
       "pos": "Verb",
@@ -2615,7 +2963,9 @@
     },
     {
       "rank": 2107,
+      "book": 4,
       "book_rank": 175,
+      "stage": "Book 4",
       "lemma": "provectus",
       "headword": "provectus, a, um",
       "pos": "Adjective",
@@ -2630,7 +2980,9 @@
     },
     {
       "rank": 2108,
+      "book": 4,
       "book_rank": 176,
+      "stage": "Book 4",
       "lemma": "auxilior",
       "headword": "auxilior, aris, ari, atus sum",
       "pos": "Noun",
@@ -2645,7 +2997,9 @@
     },
     {
       "rank": 2109,
+      "book": 4,
       "book_rank": 177,
+      "stage": "Book 4",
       "lemma": "perturbatio",
       "headword": "perturbatio, onis, f.",
       "pos": "Noun",
@@ -2660,7 +3014,9 @@
     },
     {
       "rank": 2110,
+      "book": 4,
       "book_rank": 178,
+      "stage": "Book 4",
       "lemma": "reporto",
       "headword": "reporto, as, are",
       "pos": "Verb",
@@ -2675,7 +3031,9 @@
     },
     {
       "rank": 2111,
+      "book": 4,
       "book_rank": 179,
+      "stage": "Book 4",
       "lemma": "adfligo",
       "headword": "adfligo, is, ere, flixi, flictum",
       "pos": "Verb",
@@ -2690,7 +3048,9 @@
     },
     {
       "rank": 2112,
+      "book": 4,
       "book_rank": 180,
+      "stage": "Book 4",
       "lemma": "aes",
       "headword": "aes, aeris, n.",
       "pos": "Noun",
@@ -2705,7 +3065,9 @@
     },
     {
       "rank": 2113,
+      "book": 4,
       "book_rank": 181,
+      "stage": "Book 4",
       "lemma": "pulvis",
       "headword": "pulvis, eris, m.",
       "pos": "Noun",
@@ -2720,7 +3082,9 @@
     },
     {
       "rank": 2114,
+      "book": 4,
       "book_rank": 182,
+      "stage": "Book 4",
       "lemma": "confestim",
       "headword": "confestim, adv.",
       "pos": "Adverb",
@@ -2735,7 +3099,9 @@
     },
     {
       "rank": 2115,
+      "book": 4,
       "book_rank": 183,
+      "stage": "Book 4",
       "lemma": "demeto",
       "headword": "demeto, is, ere, messui, messum",
       "pos": "Verb",
@@ -2750,7 +3116,9 @@
     },
     {
       "rank": 2116,
+      "book": 4,
       "book_rank": 184,
+      "stage": "Book 4",
       "lemma": "delitesco",
       "headword": "delitesco, is, ere, litui, -",
       "pos": "Verb",
@@ -2765,7 +3133,9 @@
     },
     {
       "rank": 2117,
+      "book": 4,
       "book_rank": 185,
+      "stage": "Book 4",
       "lemma": "meto",
       "headword": "meto, is, ere, -, messum",
       "pos": "Verb",
@@ -2780,7 +3150,9 @@
     },
     {
       "rank": 2118,
+      "book": 4,
       "book_rank": 186,
+      "stage": "Book 4",
       "lemma": "essedum",
       "headword": "essedum, i, n.",
       "pos": "Noun",
@@ -2795,7 +3167,9 @@
     },
     {
       "rank": 2119,
+      "book": 4,
       "book_rank": 187,
+      "stage": "Book 4",
       "lemma": "Primus",
       "headword": "Primus, a, um",
       "pos": "Adjective",
@@ -2810,7 +3184,9 @@
     },
     {
       "rank": 2120,
+      "book": 4,
       "book_rank": 188,
+      "stage": "Book 4",
       "lemma": "perequito",
       "headword": "perequito, as, are",
       "pos": "Verb",
@@ -2825,7 +3201,9 @@
     },
     {
       "rank": 2121,
+      "book": 4,
       "book_rank": 189,
+      "stage": "Book 4",
       "lemma": "turma",
       "headword": "turma, ae, f.",
       "pos": "Noun",
@@ -2840,7 +3218,9 @@
     },
     {
       "rank": 2122,
+      "book": 4,
       "book_rank": 190,
+      "stage": "Book 4",
       "lemma": "insinuo",
       "headword": "insinuo, as, are",
       "pos": "Verb",
@@ -2855,7 +3235,9 @@
     },
     {
       "rank": 2123,
+      "book": 4,
       "book_rank": 191,
+      "stage": "Book 4",
       "lemma": "auriga",
       "headword": "auriga, ae, m.",
       "pos": "Noun",
@@ -2870,7 +3252,9 @@
     },
     {
       "rank": 2124,
+      "book": 4,
       "book_rank": 192,
+      "stage": "Book 4",
       "lemma": "currus",
       "headword": "currus, us, m.",
       "pos": "Noun",
@@ -2885,7 +3269,9 @@
     },
     {
       "rank": 2125,
+      "book": 4,
       "book_rank": 193,
+      "stage": "Book 4",
       "lemma": "stabilitas",
       "headword": "stabilitas, ātis, f.",
       "pos": "Noun",
@@ -2900,7 +3286,9 @@
     },
     {
       "rank": 2126,
+      "book": 4,
       "book_rank": 194,
+      "stage": "Book 4",
       "lemma": "moderor",
       "headword": "moderor, aris, ari",
       "pos": "Verb",
@@ -2915,7 +3303,9 @@
     },
     {
       "rank": 2127,
+      "book": 4,
       "book_rank": 195,
+      "stage": "Book 4",
       "lemma": "flecto",
       "headword": "flecto, is, ere, flexi, flexum",
       "pos": "Verb",
@@ -2930,7 +3320,9 @@
     },
     {
       "rank": 2128,
+      "book": 4,
       "book_rank": 196,
+      "stage": "Book 4",
       "lemma": "temo",
       "headword": "temo",
       "pos": "Noun",
@@ -2945,7 +3337,9 @@
     },
     {
       "rank": 2129,
+      "book": 4,
       "book_rank": 197,
+      "stage": "Book 4",
       "lemma": "percurro",
       "headword": "percurro, is, ere, (cu)curri, cursum",
       "pos": "Verb",
@@ -2960,7 +3354,9 @@
     },
     {
       "rank": 2130,
+      "book": 4,
       "book_rank": 198,
+      "stage": "Book 4",
       "lemma": "citus",
       "headword": "citus, a, um",
       "pos": "Adjective",
@@ -2975,7 +3371,9 @@
     },
     {
       "rank": 2131,
+      "book": 4,
       "book_rank": 199,
+      "stage": "Book 4",
       "lemma": "nouitas",
       "headword": "nouitas",
       "pos": "Word",
@@ -2990,7 +3388,9 @@
     },
     {
       "rank": 2132,
+      "book": 4,
       "book_rank": 200,
+      "stage": "Book 4",
       "lemma": "praeda",
       "headword": "praeda, ae, f.",
       "pos": "Verb",
@@ -3005,7 +3405,9 @@
     },
     {
       "rank": 2133,
+      "book": 4,
       "book_rank": 201,
+      "stage": "Book 4",
       "lemma": "peditatus",
       "headword": "peditatus, us, m.",
       "pos": "Noun",
@@ -3020,7 +3422,9 @@
     },
     {
       "rank": 2134,
+      "book": 4,
       "book_rank": 202,
+      "stage": "Book 4",
       "lemma": "effugio",
       "headword": "effugio, is, ere, fugi, fugiturus",
       "pos": "Verb",
@@ -3035,7 +3439,9 @@
     },
     {
       "rank": 2135,
+      "book": 4,
       "book_rank": 203,
+      "stage": "Book 4",
       "lemma": "duplico",
       "headword": "duplico, as, are",
       "pos": "Verb",
@@ -3050,7 +3456,9 @@
     },
     {
       "rank": 2136,
+      "book": 4,
       "book_rank": 204,
+      "stage": "Book 4",
       "lemma": "aequinoctium",
       "headword": "aequinoctium, i, n.",
       "pos": "Noun",
@@ -3065,7 +3473,9 @@
     },
     {
       "rank": 2137,
+      "book": 4,
       "book_rank": 205,
+      "stage": "Book 4",
       "lemma": "infra",
       "headword": "infra, prep. (+ acc.)",
       "pos": "Adverb",
@@ -3080,7 +3490,9 @@
     },
     {
       "rank": 2138,
+      "book": 4,
       "book_rank": 206,
+      "stage": "Book 4",
       "lemma": "orbis",
       "headword": "orbis, is, m.",
       "pos": "Noun",
@@ -3095,7 +3507,9 @@
     },
     {
       "rank": 2139,
+      "book": 4,
       "book_rank": 207,
+      "stage": "Book 4",
       "lemma": "siccitas",
       "headword": "siccitas, atis, f.",
       "pos": "Noun",
@@ -3110,7 +3524,9 @@
     },
     {
       "rank": 2140,
+      "book": 4,
       "book_rank": 208,
+      "stage": "Book 4",
       "lemma": "perfugium",
       "headword": "perfugium, i, n.",
       "pos": "Verb",

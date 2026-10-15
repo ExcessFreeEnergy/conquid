@@ -1,0 +1,5291 @@
+{
+  "book": 1,
+  "chunk": 3,
+  "title": "Defeat of the Tigurini & Treason of Dumnorix",
+  "chapters": "Chapters 12–19",
+  "running_tokens": 1283,
+  "new_word_count": 264,
+  "cumulative_book_1_words": 751,
+  "words": [
+    {
+      "rank": 488,
+      "book": 1,
+      "book_rank": 488,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Arar",
+      "headword": "Arar, ris, , m.",
+      "pos": "Noun",
+      "definition": "Arar/Saone",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "Arar"
+      },
+      "book_frequency": 4,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 1
+    },
+    {
+      "rank": 489,
+      "book": 1,
+      "book_rank": 489,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "incredibilis",
+      "headword": "incredibilis, e",
+      "pos": "Adjective",
+      "definition": "incredible; extraordinary",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "incredibili"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 2
+    },
+    {
+      "rank": 490,
+      "book": 1,
+      "book_rank": 490,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "lenitas",
+      "headword": "lenitas, atis, f.",
+      "pos": "Noun",
+      "definition": "smoothness; gentleness, mildness; lenience",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "lenitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 3
+    },
+    {
+      "rank": 491,
+      "book": 1,
+      "book_rank": 491,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "oculus",
+      "headword": "oculus, i, m.",
+      "pos": "Noun",
+      "definition": "eye",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "oculis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 4
+    },
+    {
+      "rank": 492,
+      "book": 1,
+      "book_rank": 492,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "uter",
+      "headword": "uter, tra, trum",
+      "pos": "Adjective",
+      "definition": "which , whichever, no matter which; one, either, one or other",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "utram"
+      },
+      "book_frequency": 7,
+      "total_frequency": 34,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 5
+    },
+    {
+      "rank": 493,
+      "book": 1,
+      "book_rank": 493,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "iudico",
+      "headword": "iudico",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "iudicari"
+      },
+      "book_frequency": 6,
+      "total_frequency": 30,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 6
+    },
+    {
+      "rank": 494,
+      "book": 1,
+      "book_rank": 494,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "linter",
+      "headword": "linter, lintris, m.",
+      "pos": "Noun",
+      "definition": "boat, skiff, small light boat; trough, vat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "lintribus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 7
+    },
+    {
+      "rank": 495,
+      "book": 1,
+      "book_rank": 495,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "explorator",
+      "headword": "explorator, oris, m.",
+      "pos": "Noun",
+      "definition": "investigator, one who searches out; scout, spy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "exploratores"
+      },
+      "book_frequency": 5,
+      "total_frequency": 24,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 8
+    },
+    {
+      "rank": 496,
+      "book": 1,
+      "book_rank": 496,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quartus",
+      "headword": "quartus, a, um",
+      "pos": "Adjective",
+      "definition": "four",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "quartam"
+      },
+      "book_frequency": 5,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 9
+    },
+    {
+      "rank": 497,
+      "book": 1,
+      "book_rank": 497,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "uero",
+      "headword": "uero",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "vero"
+      },
+      "book_frequency": 3,
+      "total_frequency": 27,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 10
+    },
+    {
+      "rank": 498,
+      "book": 1,
+      "book_rank": 498,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "citra",
+      "headword": "citra, adv.",
+      "pos": "Adverb",
+      "definition": "on this/near side of, short of; before; below, less than; without regard to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "citra"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 11
+    },
+    {
+      "rank": 499,
+      "book": 1,
+      "book_rank": 499,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "aro",
+      "headword": "aro, as, are",
+      "pos": "Verb",
+      "definition": "altar, structure for sacrifice, pyre; sanctuary; home; refuge, shelter",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "Ararim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 12
+    },
+    {
+      "rank": 500,
+      "book": 1,
+      "book_rank": 500,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "uigilia",
+      "headword": "uigilia",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "vigilia"
+      },
+      "book_frequency": 5,
+      "total_frequency": 19,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 13
+    },
+    {
+      "rank": 501,
+      "book": 1,
+      "book_rank": 501,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "castra",
+      "headword": "castra, orum, n. pl.",
+      "pos": "Noun",
+      "definition": "camp, military camp/field; army; fort, fortress; war service; day's march",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "castris"
+      },
+      "book_frequency": 41,
+      "total_frequency": 307,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 14
+    },
+    {
+      "rank": 502,
+      "book": 1,
+      "book_rank": 502,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "impedio",
+      "headword": "impedio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "hinder, impede, hamper, obstruct, prevent from",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "impeditos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 41,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 15
+    },
+    {
+      "rank": 503,
+      "book": 1,
+      "book_rank": 503,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "inopinans",
+      "headword": "inopinans, antis",
+      "pos": "Adjective",
+      "definition": "unaware, off guard; unexpected, not expecting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "inopinantes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 16
+    },
+    {
+      "rank": 504,
+      "book": 1,
+      "book_rank": 504,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "adgredior",
+      "headword": "adgredior, eris, i, gressus sum",
+      "pos": "Verb",
+      "definition": "approach, advance; attack, assail; undertake, seize , attempt",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "adgressus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 17
+    },
+    {
+      "rank": 505,
+      "book": 1,
+      "book_rank": 505,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "concido",
+      "headword": "concido, is, ere, cidi, intr.",
+      "pos": "Verb",
+      "definition": "perish, be slain/sacrificed; lose one's case, fail, give out/lose heart, decay",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "concidit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 18
+    },
+    {
+      "rank": 506,
+      "book": 1,
+      "book_rank": 506,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "mando",
+      "headword": "mando, as, are",
+      "pos": "Verb",
+      "definition": "entrust, commit to one's charge, deliver over; commission; order, command",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "mandarunt"
+      },
+      "book_frequency": 6,
+      "total_frequency": 20,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 19
+    },
+    {
+      "rank": 507,
+      "book": 1,
+      "book_rank": 507,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "silva",
+      "headword": "silva, ae, f.",
+      "pos": "Noun",
+      "definition": "wood, forest",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "silvas"
+      },
+      "book_frequency": 2,
+      "total_frequency": 64,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 20
+    },
+    {
+      "rank": 508,
+      "book": 1,
+      "book_rank": 508,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "abdo",
+      "headword": "abdo, is, ere, didi, ditum",
+      "pos": "Verb",
+      "definition": "remove, put away, set aside; depart, go away; hide, keep secret, conceal",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "abdiderunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 13,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 21
+    },
+    {
+      "rank": 509,
+      "book": 1,
+      "book_rank": 509,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pagus",
+      "headword": "pagus, i, m.",
+      "pos": "Noun",
+      "definition": "country district/community, canton",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "pagus"
+      },
+      "book_frequency": 6,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 22
+    },
+    {
+      "rank": 510,
+      "book": 1,
+      "book_rank": 510,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Tigurinus",
+      "headword": "Tigurinus, i, m.",
+      "pos": "Noun",
+      "definition": "Tiguri, one of the four divisions of the Helvetii - in Caesar's \"Gallic War\"",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "Tigurinus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 23
+    },
+    {
+      "rank": 511,
+      "book": 1,
+      "book_rank": 511,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nam",
+      "headword": "nam, conj.",
+      "pos": "Conjunction",
+      "definition": "for, on the other hand; for instance",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "nam"
+      },
+      "book_frequency": 7,
+      "total_frequency": 71,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 24
+    },
+    {
+      "rank": 512,
+      "book": 1,
+      "book_rank": 512,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Helvetia",
+      "headword": "Helvetia, ae, f.",
+      "pos": "Noun",
+      "definition": "of/connected with the Helvetii , a people of Cen. Gaul",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "Helvetia"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 25
+    },
+    {
+      "rank": 513,
+      "book": 1,
+      "book_rank": 513,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quattuor",
+      "headword": "quattuor",
+      "pos": "Numeral Adjective",
+      "definition": "four",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "quattuor"
+      },
+      "book_frequency": 4,
+      "total_frequency": 23,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 26
+    },
+    {
+      "rank": 514,
+      "book": 1,
+      "book_rank": 514,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "interficio",
+      "headword": "interficio, is, ere, feci, fectum",
+      "pos": "Verb",
+      "definition": "kill; destroy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "interfecerat"
+      },
+      "book_frequency": 4,
+      "total_frequency": 93,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 27
+    },
+    {
+      "rank": 515,
+      "book": 1,
+      "book_rank": 515,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "ve",
+      "headword": "ve",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "ve"
+      },
+      "book_frequency": 8,
+      "total_frequency": 25,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 28
+    },
+    {
+      "rank": 516,
+      "book": 1,
+      "book_rank": 516,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "cado",
+      "headword": "cado, is, ere, cecidi, casum",
+      "pos": "Verb",
+      "definition": "fall, sink, drop, plummet, topple; be slain, die; end, cease, abate; decay",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "casu"
+      },
+      "book_frequency": 2,
+      "total_frequency": 34,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 29
+    },
+    {
+      "rank": 517,
+      "book": 1,
+      "book_rank": 517,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "deus",
+      "headword": "deus, i, m.",
+      "pos": "Noun",
+      "definition": "down/away from, from, off; about, of, concerning; according to; with regard to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "deorum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 30
+    },
+    {
+      "rank": 518,
+      "book": 1,
+      "book_rank": 518,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "immortalis",
+      "headword": "immortalis, e",
+      "pos": "Noun",
+      "definition": "immortal, god",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "immortalium"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 31
+    },
+    {
+      "rank": 519,
+      "book": 1,
+      "book_rank": 519,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insignis",
+      "headword": "insignis, e",
+      "pos": "Adjective",
+      "definition": "conspicuous, manifest, eminent, notable, famous, distinguished, outstanding",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "insignem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 32
+    },
+    {
+      "rank": 520,
+      "book": 1,
+      "book_rank": 520,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "calamitas",
+      "headword": "calamitas, atis, f.",
+      "pos": "Noun",
+      "definition": "loss, damage, harm; misfortune/disaster; military defeat; blight, crop failure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "calamitatem"
+      },
+      "book_frequency": 5,
+      "total_frequency": 21,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 33
+    },
+    {
+      "rank": 521,
+      "book": 1,
+      "book_rank": 521,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "persolvo",
+      "headword": "persolvo, is, ere, solui, solutum",
+      "pos": "Verb",
+      "definition": "pay",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "persolvit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 34
+    },
+    {
+      "rank": 522,
+      "book": 1,
+      "book_rank": 522,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "publicus",
+      "headword": "publicus, a, um",
+      "pos": "Adjective",
+      "definition": "public; common, of the people/state; official",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "publicas"
+      },
+      "book_frequency": 6,
+      "total_frequency": 35,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 35
+    },
+    {
+      "rank": 523,
+      "book": 1,
+      "book_rank": 523,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "sed",
+      "headword": "sed",
+      "pos": "Conjunction",
+      "definition": "but, yet",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "sed"
+      },
+      "book_frequency": 20,
+      "total_frequency": 124,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 36
+    },
+    {
+      "rank": 524,
+      "book": 1,
+      "book_rank": 524,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "ulciscor",
+      "headword": "ulciscor, eris, i, ultus sum",
+      "pos": "Verb",
+      "definition": "avenge; punish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "ultus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 37
+    },
+    {
+      "rank": 525,
+      "book": 1,
+      "book_rank": 525,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "socer",
+      "headword": "socer, eri, m.",
+      "pos": "Noun",
+      "definition": "father in law",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "soceri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 38
+    },
+    {
+      "rank": 526,
+      "book": 1,
+      "book_rank": 526,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "auus",
+      "headword": "auus",
+      "pos": "Word",
+      "definition": "oh! ow! oh dear! goodness gracious!",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "avum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 39
+    },
+    {
+      "rank": 527,
+      "book": 1,
+      "book_rank": 527,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Tigurini",
+      "headword": "Tigurini, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 12,
+        "surface_form": "Tigurini"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 40
+    },
+    {
+      "rank": 528,
+      "book": 1,
+      "book_rank": 528,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "consequor",
+      "headword": "consequor, eris, i, cutus sum",
+      "pos": "Verb",
+      "definition": "happen subsequently, ensue/follow in order/time; act accordingly, follow plan",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "consequi"
+      },
+      "book_frequency": 3,
+      "total_frequency": 21,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 41
+    },
+    {
+      "rank": 529,
+      "book": 1,
+      "book_rank": 529,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "curo",
+      "headword": "curo, as, are",
+      "pos": "Verb",
+      "definition": "concern, worry, anxiety, trouble; attention, care, pains, zeal; cure, treatment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "curat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 13,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 42
+    },
+    {
+      "rank": 530,
+      "book": 1,
+      "book_rank": 530,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "repentinus",
+      "headword": "repentinus, a, um",
+      "pos": "Adjective",
+      "definition": "sudden, hasty; unexpected",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "repentino"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 43
+    },
+    {
+      "rank": 531,
+      "book": 1,
+      "book_rank": 531,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "commoveo",
+      "headword": "commoveo, es, ere, moui, motum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "commoti"
+      },
+      "book_frequency": 5,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 44
+    },
+    {
+      "rank": 532,
+      "book": 1,
+      "book_rank": 532,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "aeger",
+      "headword": "aeger, gra, grum",
+      "pos": "Adjective",
+      "definition": "sick/ill, infirm; unsound, injured; painful, grievous; corrupt; sad/sorrowful",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "aegerrime"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 45
+    },
+    {
+      "rank": 533,
+      "book": 1,
+      "book_rank": 533,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Divico",
+      "headword": "Dīvicō, -ōnis, m.",
+      "pos": "Proper Noun",
+      "definition": "Divico (Helvetian commander who had defeated Cassius in 107 BC, envoy to Caesar)",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "Divico"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 46
+    },
+    {
+      "rank": 534,
+      "book": 1,
+      "book_rank": 534,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Cassianus",
+      "headword": "Cassianus, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "Cassiano"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 47
+    },
+    {
+      "rank": 535,
+      "book": 1,
+      "book_rank": 535,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dux",
+      "headword": "dux, ducis, m.",
+      "pos": "Noun",
+      "definition": "leader, guide; commander, general; Duke",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "dux"
+      },
+      "book_frequency": 2,
+      "total_frequency": 15,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 48
+    },
+    {
+      "rank": 536,
+      "book": 1,
+      "book_rank": 536,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "ago",
+      "headword": "ago, is, ere, egi, actum",
+      "pos": "Verb",
+      "definition": "drive/urge/conduct/act; spend ; thank ; deliver",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "egit"
+      },
+      "book_frequency": 9,
+      "total_frequency": 48,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 49
+    },
+    {
+      "rank": 537,
+      "book": 1,
+      "book_rank": 537,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "volvo",
+      "headword": "volvo, is, ere, uolui, uolutum",
+      "pos": "Verb",
+      "definition": "roll, cause to roll; travel in circle/circuit; bring around/about; revolve",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "voluisset"
+      },
+      "book_frequency": 3,
+      "total_frequency": 7,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 50
+    },
+    {
+      "rank": 538,
+      "book": 1,
+      "book_rank": 538,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "sin",
+      "headword": "sin, conj. sub.",
+      "pos": "Noun",
+      "definition": "curved or bent surface; bending, curve, fold; bosom, lap; bay",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "sin"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 51
+    },
+    {
+      "rank": 539,
+      "book": 1,
+      "book_rank": 539,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "persequor",
+      "headword": "persequor, eris, i, persecutus sum",
+      "pos": "Verb",
+      "definition": "follow up, pursue; overtake; attack; take vengeance on; accomplish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "persequi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 52
+    },
+    {
+      "rank": 540,
+      "book": 1,
+      "book_rank": 540,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "persevero",
+      "headword": "persevero, as, are",
+      "pos": "Verb",
+      "definition": "persist, persevere; continue",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "perseveraret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 53
+    },
+    {
+      "rank": 541,
+      "book": 1,
+      "book_rank": 541,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "reminiscor",
+      "headword": "reminiscor, eris, sci",
+      "pos": "Verb",
+      "definition": "call to mind, recollect",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "reminisceretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 54
+    },
+    {
+      "rank": 542,
+      "book": 1,
+      "book_rank": 542,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "veto",
+      "headword": "veto, as, are, ui, itum",
+      "pos": "Verb",
+      "definition": "forbid, prohibit; reject, veto; be an obstacle to; prevent",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "veteris"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 55
+    },
+    {
+      "rank": 543,
+      "book": 1,
+      "book_rank": 543,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "incommodum",
+      "headword": "incommodum, i, n.",
+      "pos": "Noun",
+      "definition": "disadvantage, inconvenience, setback, harm, detriment; defeat/disaster; ailment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "incommodi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 56
+    },
+    {
+      "rank": 544,
+      "book": 1,
+      "book_rank": 544,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pristinus",
+      "headword": "pristinus, a, um",
+      "pos": "Adjective",
+      "definition": "former, oldtime, original; pristine",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "pristinae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 57
+    },
+    {
+      "rank": 545,
+      "book": 1,
+      "book_rank": 545,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "improvisus",
+      "headword": "improvisus, a, um",
+      "pos": "Adjective",
+      "definition": "unforeseen/unexpected",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "improviso"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 58
+    },
+    {
+      "rank": 546,
+      "book": 1,
+      "book_rank": 546,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "adorior",
+      "headword": "adorior, iris, iri, adortus sum",
+      "pos": "Verb",
+      "definition": "improperly influence; undertake/try/attempt/come to grips; begin/set to work",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "adortus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 59
+    },
+    {
+      "rank": 547,
+      "book": 1,
+      "book_rank": 547,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "magnopere",
+      "headword": "magnopere, adv.",
+      "pos": "Adverb",
+      "definition": "greatly, exceedingly; with great effort; very much; particularly, especially",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "magnopere"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 60
+    },
+    {
+      "rank": 548,
+      "book": 1,
+      "book_rank": 548,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "tribuo",
+      "headword": "tribuo, is, ere, bui, butum",
+      "pos": "Verb",
+      "definition": "divide, assign; present; grant, allot, bestow, attribute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "tribueret"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 61
+    },
+    {
+      "rank": 549,
+      "book": 1,
+      "book_rank": 549,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "despicio",
+      "headword": "despicio, is, ere, spexi, spectum",
+      "pos": "Verb",
+      "definition": "look down on/over; relax attention; disdain, despise; express contempt for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "despiceret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 62
+    },
+    {
+      "rank": 550,
+      "book": 1,
+      "book_rank": 550,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "disco",
+      "headword": "disco, is, ere, didici",
+      "pos": "Verb",
+      "definition": "learn; hear, get to know, become acquainted with; acquire knowledge/skill of/in",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "didicisse"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 63
+    },
+    {
+      "rank": 551,
+      "book": 1,
+      "book_rank": 551,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dolus",
+      "headword": "dolus, i, m.",
+      "pos": "Verb",
+      "definition": "hew/chop into shape, fashion/devise; inflict blows, batter/cudgel soundly, drub",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "dolo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 64
+    },
+    {
+      "rank": 552,
+      "book": 1,
+      "book_rank": 552,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insidiae",
+      "headword": "insidiae, arum, f. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "insidiis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 19,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 65
+    },
+    {
+      "rank": 553,
+      "book": 1,
+      "book_rank": 553,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nitor",
+      "headword": "nitor, eris, eris, nixus sum",
+      "pos": "Noun",
+      "definition": "brightness, splendor; brilliance; gloss, sheen; elegance, style, polish; flash",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "niterentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 66
+    },
+    {
+      "rank": 554,
+      "book": 1,
+      "book_rank": 554,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quare",
+      "headword": "quare, adv. et conj.",
+      "pos": "Adverb",
+      "definition": "in what way? how? by which means, whereby; why; wherefore, therefore, hence",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "Quare"
+      },
+      "book_frequency": 5,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 67
+    },
+    {
+      "rank": 555,
+      "book": 1,
+      "book_rank": 555,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "committo",
+      "headword": "committo, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "bring together, unite/join, connect/attach; put together, construct; entrust",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "committeret"
+      },
+      "book_frequency": 10,
+      "total_frequency": 42,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 68
+    },
+    {
+      "rank": 556,
+      "book": 1,
+      "book_rank": 556,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "consto",
+      "headword": "consto, as, are, constiti",
+      "pos": "Verb",
+      "definition": "agree/correspond/fit, be correct; be dependent/based upon; exist/continue/last",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "constitissent"
+      },
+      "book_frequency": 4,
+      "total_frequency": 43,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 69
+    },
+    {
+      "rank": 557,
+      "book": 1,
+      "book_rank": 557,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "internecio",
+      "headword": "internecio, onis, f.",
+      "pos": "Noun",
+      "definition": "slaughter, massacre; extermination, total destruction of life; cause of such",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "internecio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 70
+    },
+    {
+      "rank": 558,
+      "book": 1,
+      "book_rank": 558,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nomen",
+      "headword": "nomen, inis, n.",
+      "pos": "Noun",
+      "definition": "name, family name; noun; account, entry in debt ledger; sake; title, heading",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "nomen"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 71
+    },
+    {
+      "rank": 559,
+      "book": 1,
+      "book_rank": 559,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "prodo",
+      "headword": "prodo, is, ere, didi, ditum",
+      "pos": "Verb",
+      "definition": "project, thrust forward; bring forth, produce, give birth to; create; nominate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 13,
+        "surface_form": "proderet"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 72
+    },
+    {
+      "rank": 560,
+      "book": 1,
+      "book_rank": 560,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dubitatio",
+      "headword": "dubitatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "doubt, irresolution, uncertainty; wavering, hesitation; questioning",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "dubitationis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 73
+    },
+    {
+      "rank": 561,
+      "book": 1,
+      "book_rank": 561,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "commemoro",
+      "headword": "commemoro, as, are",
+      "pos": "Verb",
+      "definition": "recall ; keep in mind, remember; mention/relate; place on record",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "commemorassent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 74
+    },
+    {
+      "rank": 562,
+      "book": 1,
+      "book_rank": 562,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "gravis",
+      "headword": "gravis, e",
+      "pos": "Verb",
+      "definition": "show/bear with reluctance/annoyance; be burdened/vexed; take amiss; hesitate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "gravius"
+      },
+      "book_frequency": 8,
+      "total_frequency": 33,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 75
+    },
+    {
+      "rank": 563,
+      "book": 1,
+      "book_rank": 563,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "accido",
+      "headword": "accido, is, ere, cidi",
+      "pos": "Verb",
+      "definition": "cut, cut into/down/up, hack, hew, fell; overthrow, destroy; cut short; weaken",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "accidissent"
+      },
+      "book_frequency": 7,
+      "total_frequency": 60,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 76
+    },
+    {
+      "rank": 564,
+      "book": 1,
+      "book_rank": 564,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "aliquis",
+      "headword": "aliquis, a, id, pron.",
+      "pos": "Pronoun",
+      "definition": "some; any; a few; a particular/certain ~; some other; about/like",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "alicuius"
+      },
+      "book_frequency": 6,
+      "total_frequency": 41,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 77
+    },
+    {
+      "rank": 565,
+      "book": 1,
+      "book_rank": 565,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "conscius",
+      "headword": "conscius, a, um",
+      "pos": "Noun",
+      "definition": "accomplice, accessory; partner; confidante; one privy to ; witness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "conscius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 78
+    },
+    {
+      "rank": 566,
+      "book": 1,
+      "book_rank": 566,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "cauo",
+      "headword": "cauo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "cavere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 79
+    },
+    {
+      "rank": 567,
+      "book": 1,
+      "book_rank": 567,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "decipio",
+      "headword": "decipio, is, ere, cepi, ceptum",
+      "pos": "Verb",
+      "definition": "cheat/deceive/mislead/dupe/trap; elude/escape notice; disappoint/frustrate/foil",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "deceptum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 80
+    },
+    {
+      "rank": 568,
+      "book": 1,
+      "book_rank": 568,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "timeo",
+      "headword": "timeo, es, ere, timui",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "timeret"
+      },
+      "book_frequency": 5,
+      "total_frequency": 20,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 81
+    },
+    {
+      "rank": 569,
+      "book": 1,
+      "book_rank": 569,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "contumelia",
+      "headword": "contumelia, ae, f.",
+      "pos": "Noun",
+      "definition": "indignity, affront, abuse/insult; insulting language/behavior; rough treatment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "contumeliae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 82
+    },
+    {
+      "rank": 570,
+      "book": 1,
+      "book_rank": 570,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "obliviscor",
+      "headword": "obliviscor, eris, i, oblitus sum",
+      "pos": "Verb",
+      "definition": "forget",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "oblivisci"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 83
+    },
+    {
+      "rank": 571,
+      "book": 1,
+      "book_rank": 571,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "num",
+      "headword": "num, adv. interr.",
+      "pos": "Adverb",
+      "definition": "if, whether; now, surely not, really, then",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "num"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 84
+    },
+    {
+      "rank": 572,
+      "book": 1,
+      "book_rank": 572,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "recens",
+      "headword": "recens, entis",
+      "pos": "Verb",
+      "definition": "review/examine/survey/muster; enumerate/count, make census/roll; pass in review",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "recentium"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 85
+    },
+    {
+      "rank": 573,
+      "book": 1,
+      "book_rank": 573,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "tempto",
+      "headword": "tempto, as, are",
+      "pos": "Verb",
+      "definition": "test, try; urge; worry; bribe",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "temptassent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 13,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 86
+    },
+    {
+      "rank": 574,
+      "book": 1,
+      "book_rank": 574,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "vexo",
+      "headword": "vexo, as, are",
+      "pos": "Verb",
+      "definition": "shake, jolt, toss violently; annoy, trouble, harass, plague, disturb, vex",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "vexassent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 87
+    },
+    {
+      "rank": 575,
+      "book": 1,
+      "book_rank": 575,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "depono",
+      "headword": "depono, is, ere, posui, positum",
+      "pos": "Verb",
+      "definition": "put/lay down/aside/away; let drop/fall; give up; resign; deposit/entrust/commit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "deponere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 88
+    },
+    {
+      "rank": 576,
+      "book": 1,
+      "book_rank": 576,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "victoria",
+      "headword": "victoria, ae, f.",
+      "pos": "Noun",
+      "definition": "victory",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "victoria"
+      },
+      "book_frequency": 3,
+      "total_frequency": 35,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 89
+    },
+    {
+      "rank": 577,
+      "book": 1,
+      "book_rank": 577,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "tam",
+      "headword": "tam, adv.",
+      "pos": "Adverb",
+      "definition": "so, so much ; to such an extent/degree; nevertheless, all the same",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "tam"
+      },
+      "book_frequency": 7,
+      "total_frequency": 16,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 90
+    },
+    {
+      "rank": 578,
+      "book": 1,
+      "book_rank": 578,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insolenter",
+      "headword": "insolenter, adv.",
+      "pos": "Adverb",
+      "definition": "haughtily, arrogantly, insolently; immoderately; unusually, contrary to custom",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "insolenter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 91
+    },
+    {
+      "rank": 579,
+      "book": 1,
+      "book_rank": 579,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "glorior",
+      "headword": "glorior, aris, atus sum",
+      "pos": "Noun",
+      "definition": "glory, fame; ambition; renown; vainglory, boasting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "gloriarentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 92
+    },
+    {
+      "rank": 580,
+      "book": 1,
+      "book_rank": 580,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quod",
+      "headword": "quod, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "because, as far as, insofar as",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "quodque"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 93
+    },
+    {
+      "rank": 581,
+      "book": 1,
+      "book_rank": 581,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "diu",
+      "headword": "diu, adv.",
+      "pos": "Adverb",
+      "definition": "still further/longer ; any longer/further/more",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "diu"
+      },
+      "book_frequency": 6,
+      "total_frequency": 7,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 94
+    },
+    {
+      "rank": 582,
+      "book": 1,
+      "book_rank": 582,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "impune",
+      "headword": "impune, adv.",
+      "pos": "Adverb",
+      "definition": "with impunity; without punishment/retribution/restraint/consequences/harm",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "impune"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 95
+    },
+    {
+      "rank": 583,
+      "book": 1,
+      "book_rank": 583,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "admiror",
+      "headword": "admiror, aris, ari, atus sum",
+      "pos": "Verb",
+      "definition": "admire, respect; regard with wonder, wonder at; be surprised at, be astonished",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "admirarentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 96
+    },
+    {
+      "rank": 584,
+      "book": 1,
+      "book_rank": 584,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "consuesco",
+      "headword": "consuesco, is, ere, sueui, suetum",
+      "pos": "Verb",
+      "definition": "accustom oneself; become/be accustomed/used; inure, habituate; familiarize",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "Consuesse"
+      },
+      "book_frequency": 7,
+      "total_frequency": 46,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 97
+    },
+    {
+      "rank": 585,
+      "book": 1,
+      "book_rank": 585,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "enim",
+      "headword": "enim, conj.",
+      "pos": "Conjunction",
+      "definition": "namely ; indeed; in fact; for; I mean, for instance, that is to say",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "enim"
+      },
+      "book_frequency": 3,
+      "total_frequency": 48,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 98
+    },
+    {
+      "rank": 586,
+      "book": 1,
+      "book_rank": 586,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "commutatio",
+      "headword": "commutatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "change, reversal; upheaval; alteration; exchange, substitution; interchange",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "commutatio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 99
+    },
+    {
+      "rank": 587,
+      "book": 1,
+      "book_rank": 587,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "doleo",
+      "headword": "doleo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "doleant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 100
+    },
+    {
+      "rank": 588,
+      "book": 1,
+      "book_rank": 588,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "scelus",
+      "headword": "scelus, eris, n.",
+      "pos": "Noun",
+      "definition": "crime; calamity; wickedness, sin, evil deed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "scelere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 101
+    },
+    {
+      "rank": 589,
+      "book": 1,
+      "book_rank": 589,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "secundus",
+      "headword": "secundus, a, um",
+      "pos": "Adjective",
+      "definition": "next, following; second; substituted; secondary/inferior; subordinate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "secundiores"
+      },
+      "book_frequency": 4,
+      "total_frequency": 26,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 102
+    },
+    {
+      "rank": 590,
+      "book": 1,
+      "book_rank": 590,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "interdum",
+      "headword": "interdum, adv.",
+      "pos": "Adverb",
+      "definition": "sometimes, now and then",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "interdum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 103
+    },
+    {
+      "rank": 591,
+      "book": 1,
+      "book_rank": 591,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "diuturnus",
+      "headword": "diuturnus, a, um",
+      "pos": "Adjective",
+      "definition": "lasting, lasting long",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "diuturniorem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 104
+    },
+    {
+      "rank": 592,
+      "book": 1,
+      "book_rank": 592,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "impunitas",
+      "headword": "impunitas, ātis, f.",
+      "pos": "Noun",
+      "definition": "impunity; freedom from punishment; safety",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "impunitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 105
+    },
+    {
+      "rank": 593,
+      "book": 1,
+      "book_rank": 593,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "polliceor",
+      "headword": "polliceor, eris, eri, pollicitus sum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "polliceantur"
+      },
+      "book_frequency": 6,
+      "total_frequency": 33,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 106
+    },
+    {
+      "rank": 594,
+      "book": 1,
+      "book_rank": 594,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "testo",
+      "headword": "testo, as, are, cf. testor",
+      "pos": "Verb",
+      "definition": "object made from burnt clay; earthenware jar; fragment of earthenware, shard",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "testem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 107
+    },
+    {
+      "rank": 595,
+      "book": 1,
+      "book_rank": 595,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "discedo",
+      "headword": "discedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "go/march off, depart, withdraw; scatter, dissipate; abandon; lay down",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 14,
+        "surface_form": "discessit"
+      },
+      "book_frequency": 6,
+      "total_frequency": 65,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 108
+    },
+    {
+      "rank": 596,
+      "book": 1,
+      "book_rank": 596,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "posterus",
+      "headword": "posterus, a, um",
+      "pos": "Adjective",
+      "definition": "coming after, following, next; COMP next in order, latter; SUPER last/hindmost",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "Postero"
+      },
+      "book_frequency": 1,
+      "total_frequency": 27,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 109
+    },
+    {
+      "rank": 597,
+      "book": 1,
+      "book_rank": 597,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "moueo",
+      "headword": "moueo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "movent"
+      },
+      "book_frequency": 4,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 110
+    },
+    {
+      "rank": 598,
+      "book": 1,
+      "book_rank": 598,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "equitatus",
+      "headword": "equitatus, us, m.",
+      "pos": "Noun",
+      "definition": "cavalry, horse-soldiers; equestrian order; bodies of cavalry",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "equitatum"
+      },
+      "book_frequency": 16,
+      "total_frequency": 120,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 111
+    },
+    {
+      "rank": 599,
+      "book": 1,
+      "book_rank": 599,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "praemitto",
+      "headword": "praemitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "send ahead or forward",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "praemittit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 112
+    },
+    {
+      "rank": 600,
+      "book": 1,
+      "book_rank": 600,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nouus",
+      "headword": "nouus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "novissimum"
+      },
+      "book_frequency": 7,
+      "total_frequency": 21,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 113
+    },
+    {
+      "rank": 601,
+      "book": 1,
+      "book_rank": 601,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "agmen",
+      "headword": "agmen, inis, n.",
+      "pos": "Noun",
+      "definition": "stream; herd, flock, troop, crowd; marching army, column, line; procession",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "agmen"
+      },
+      "book_frequency": 5,
+      "total_frequency": 45,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 114
+    },
+    {
+      "rank": 602,
+      "book": 1,
+      "book_rank": 602,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insequor",
+      "headword": "insequor, eris, i, secutus sum",
+      "pos": "Verb",
+      "definition": "tell; tell of; relate ; declare; pursue the narration; tell me about it",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "insecuti"
+      },
+      "book_frequency": 4,
+      "total_frequency": 35,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 115
+    },
+    {
+      "rank": 603,
+      "book": 1,
+      "book_rank": 603,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "alienus",
+      "headword": "alienus, a, um",
+      "pos": "Verb",
+      "definition": "alienate, give up, lose possession, transfer by sale, estrange; become numb",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "alieno"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 116
+    },
+    {
+      "rank": 604,
+      "book": 1,
+      "book_rank": 604,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "paucus",
+      "headword": "paucus, a, um",
+      "pos": "Noun",
+      "definition": "only a small/an indefinite number of people , few; a few; a select few",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "pauci"
+      },
+      "book_frequency": 7,
+      "total_frequency": 61,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 117
+    },
+    {
+      "rank": 605,
+      "book": 1,
+      "book_rank": 605,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quingenti",
+      "headword": "quingenti, ae, a",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "quingentis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 118
+    },
+    {
+      "rank": 606,
+      "book": 1,
+      "book_rank": 606,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "eques",
+      "headword": "eques, itis, m.",
+      "pos": "Noun",
+      "definition": "horseman/cavalryman/rider; horsemen , cavalry; equestrian order",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "equitibus"
+      },
+      "book_frequency": 11,
+      "total_frequency": 150,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 119
+    },
+    {
+      "rank": 607,
+      "book": 1,
+      "book_rank": 607,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "tantus",
+      "headword": "tantus, a, um",
+      "pos": "Adjective",
+      "definition": "of such size; so great, so much",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "tantam"
+      },
+      "book_frequency": 4,
+      "total_frequency": 28,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 120
+    },
+    {
+      "rank": 608,
+      "book": 1,
+      "book_rank": 608,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "propello",
+      "headword": "propello, is, ere, puli, pulsum",
+      "pos": "Verb",
+      "definition": "drive forward/forth; drive away/out/off; defeat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "propulerant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 121
+    },
+    {
+      "rank": 609,
+      "book": 1,
+      "book_rank": 609,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "audax",
+      "headword": "audax, acis",
+      "pos": "Adjective",
+      "definition": "bold, daring; courageous; reckless, rash; audacious, presumptuous; desperate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "audacius"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 122
+    },
+    {
+      "rank": 610,
+      "book": 1,
+      "book_rank": 610,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "subsisto",
+      "headword": "subsisto, is, ere, stiti, -",
+      "pos": "Verb",
+      "definition": "halt, stand; cause to stop",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "subsistere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 123
+    },
+    {
+      "rank": 611,
+      "book": 1,
+      "book_rank": 611,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "lacesso",
+      "headword": "lacesso, is, ere, iui, itum",
+      "pos": "Verb",
+      "definition": "provoke, excite, harass, challenge, harass; attack, assail",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "lacessere"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 124
+    },
+    {
+      "rank": 612,
+      "book": 1,
+      "book_rank": 612,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "coepio",
+      "headword": "coepio, is, ere, coepi, coeptum",
+      "pos": "Verb",
+      "definition": "begin, commence, initiate; set foot on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "coeperunt"
+      },
+      "book_frequency": 10,
+      "total_frequency": 68,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 125
+    },
+    {
+      "rank": 613,
+      "book": 1,
+      "book_rank": 613,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "praesens",
+      "headword": "praesens, entis",
+      "pos": "Adjective",
+      "definition": "present; at hand; existing; prompt, in person; propitious",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "praesentia"
+      },
+      "book_frequency": 5,
+      "total_frequency": 17,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 126
+    },
+    {
+      "rank": 614,
+      "book": 1,
+      "book_rank": 614,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "rapina",
+      "headword": "rapina, ae, f.",
+      "pos": "Noun",
+      "definition": "robbery, plunder, booty; rape",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "rapinis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 127
+    },
+    {
+      "rank": 615,
+      "book": 1,
+      "book_rank": 615,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pabulatio",
+      "headword": "pabulatio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "foraging",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "pabulationibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 128
+    },
+    {
+      "rank": 616,
+      "book": 1,
+      "book_rank": 616,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "populatio",
+      "headword": "populatio, onis, f.",
+      "pos": "Noun",
+      "definition": "plundering, ravaging, spoiling; laying waste, devastation; plunder, booty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "populationibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 129
+    },
+    {
+      "rank": 617,
+      "book": 1,
+      "book_rank": 617,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "circiter",
+      "headword": "circiter, adv.",
+      "pos": "Adverb",
+      "definition": "nearly, not far from, almost, approximately, around, about",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "circiter"
+      },
+      "book_frequency": 11,
+      "total_frequency": 57,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 130
+    },
+    {
+      "rank": 618,
+      "book": 1,
+      "book_rank": 618,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nos",
+      "headword": "nos, nostrum pron. pl.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "nostrum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 26,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 131
+    },
+    {
+      "rank": 619,
+      "book": 1,
+      "book_rank": 619,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "amplus",
+      "headword": "amplus, a, um",
+      "pos": "Verb",
+      "definition": "enlarge, extend, increase; develop; magnify, amplify; praise, exalt, glorify",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "amplius"
+      },
+      "book_frequency": 7,
+      "total_frequency": 39,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 132
+    },
+    {
+      "rank": 620,
+      "book": 1,
+      "book_rank": 620,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quinus",
+      "headword": "quinus, cf. quini",
+      "pos": "Conjunction",
+      "definition": "so that not, without; that not; but that; that",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "quinis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 133
+    },
+    {
+      "rank": 621,
+      "book": 1,
+      "book_rank": 621,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "senex",
+      "headword": "senex, senis, m.",
+      "pos": "Noun",
+      "definition": "aged, old",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "senis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 134
+    },
+    {
+      "rank": 622,
+      "book": 1,
+      "book_rank": 622,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "intersum",
+      "headword": "intersum, es, esse, fui",
+      "pos": "Verb",
+      "definition": "be/lie between, be in the midst; be present; take part in; be different",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 15,
+        "surface_form": "interesset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 135
+    },
+    {
+      "rank": 623,
+      "book": 1,
+      "book_rank": 623,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "interim",
+      "headword": "interim, adv.",
+      "pos": "Verb",
+      "definition": "do away with; kill, cut off from life; extinguish; put an end to, destroy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "Interim"
+      },
+      "book_frequency": 3,
+      "total_frequency": 38,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 136
+    },
+    {
+      "rank": 624,
+      "book": 1,
+      "book_rank": 624,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "cotidie",
+      "headword": "cotidie, adv.",
+      "pos": "Adverb",
+      "definition": "daily, every day; day by day; usually, ordinarily, commonly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "cotidie"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 137
+    },
+    {
+      "rank": 625,
+      "book": 1,
+      "book_rank": 625,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "flagito",
+      "headword": "flagito, as, are",
+      "pos": "Verb",
+      "definition": "demand urgently; require; entreat, solicit, press, dun, importune",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "flagitare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 138
+    },
+    {
+      "rank": 626,
+      "book": 1,
+      "book_rank": 626,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "frigus",
+      "headword": "frigus, oris, n.",
+      "pos": "Noun",
+      "definition": "cold; cold weather, winter; frost",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "frigora"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 139
+    },
+    {
+      "rank": 627,
+      "book": 1,
+      "book_rank": 627,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pono",
+      "headword": "pono, is, ere, posui, situm",
+      "pos": "Verb",
+      "definition": "specify, put down; cite/quote; locate; depict; classify; assume/suppose; bury",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "posita"
+      },
+      "book_frequency": 4,
+      "total_frequency": 49,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 140
+    },
+    {
+      "rank": 628,
+      "book": 1,
+      "book_rank": 628,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "modo",
+      "headword": "modo, adv.",
+      "pos": "Adverb",
+      "definition": "only, merely; just now/recently, lately; presently",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "modo"
+      },
+      "book_frequency": 4,
+      "total_frequency": 32,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 141
+    },
+    {
+      "rank": 629,
+      "book": 1,
+      "book_rank": 629,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "maturus",
+      "headword": "maturus, a, um",
+      "pos": "Adjective",
+      "definition": "early, speedy; ripe; mature, mellow; timely, seasonable",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "matura"
+      },
+      "book_frequency": 4,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 142
+    },
+    {
+      "rank": 630,
+      "book": 1,
+      "book_rank": 630,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pabulum",
+      "headword": "pabulum, i, n.",
+      "pos": "Noun",
+      "definition": "fodder, forage, food for cattle; food/sustenance; fuel",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "pabuli"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 143
+    },
+    {
+      "rank": 631,
+      "book": 1,
+      "book_rank": 631,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quidem",
+      "headword": "quidem, adv.",
+      "pos": "Adverb",
+      "definition": "indeed , certainly, even, at least; ne...quidem -- not...even",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "quidem"
+      },
+      "book_frequency": 8,
+      "total_frequency": 47,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 144
+    },
+    {
+      "rank": 632,
+      "book": 1,
+      "book_rank": 632,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "subveho",
+      "headword": "subveho, is, ere, uexi, uectum",
+      "pos": "Verb",
+      "definition": "convey upwards; convey up; sail upstream",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "subvexerat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 145
+    },
+    {
+      "rank": 633,
+      "book": 1,
+      "book_rank": 633,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "averto",
+      "headword": "averto, is, ere, ti, sum",
+      "pos": "Verb",
+      "definition": "turn away from/aside, divert, rout; disturb; withdraw; steal, misappropriate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "averterant"
+      },
+      "book_frequency": 4,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 146
+    },
+    {
+      "rank": 634,
+      "book": 1,
+      "book_rank": 634,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nolo",
+      "headword": "nolo, non uis, nolle, nolui",
+      "pos": "Verb",
+      "definition": "be unwilling; wish not to; refuse to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "nolebat"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 147
+    },
+    {
+      "rank": 635,
+      "book": 1,
+      "book_rank": 635,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "confero",
+      "headword": "confero, fers, ferre, tuli, latum",
+      "pos": "Verb",
+      "definition": "discuss/debate/confer; oppose; pit/match against another; blame; bestow/assign",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "conferri"
+      },
+      "book_frequency": 9,
+      "total_frequency": 31,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 148
+    },
+    {
+      "rank": 636,
+      "book": 1,
+      "book_rank": 636,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "comporto",
+      "headword": "comporto, as, are",
+      "pos": "Verb",
+      "definition": "carry, transport, bring in, convey ; bring together; amass, collect",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "comportari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 149
+    },
+    {
+      "rank": 637,
+      "book": 1,
+      "book_rank": 637,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "adsum",
+      "headword": "adsum, es, esse, adfui",
+      "pos": "Verb",
+      "definition": "take , adopt/raise, use; assume/receive; insert/add; usurp/claim",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "adesse"
+      },
+      "book_frequency": 3,
+      "total_frequency": 14,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 150
+    },
+    {
+      "rank": 638,
+      "book": 1,
+      "book_rank": 638,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "diutius",
+      "headword": "diutius",
+      "pos": "Adverb",
+      "definition": "still further/longer ; any longer/further/more",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "diutius"
+      },
+      "book_frequency": 4,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 151
+    },
+    {
+      "rank": 639,
+      "book": 1,
+      "book_rank": 639,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insto",
+      "headword": "insto, as, are, stiti, staturus",
+      "pos": "Verb",
+      "definition": "pursue, threaten; approach, press hard; be close to ; stand in/on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "instare"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 152
+    },
+    {
+      "rank": 640,
+      "book": 1,
+      "book_rank": 640,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "metior",
+      "headword": "metior, iris, iri, mensus sum",
+      "pos": "Verb",
+      "definition": "measure, estimate; distribute, mete; traverse, sail/walk through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "metiri"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 153
+    },
+    {
+      "rank": 641,
+      "book": 1,
+      "book_rank": 641,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "convoco",
+      "headword": "convoco, as, are",
+      "pos": "Verb",
+      "definition": "call/bring together; assemble; convoke/convene; summon/muster; collect",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "convocatis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 154
+    },
+    {
+      "rank": 642,
+      "book": 1,
+      "book_rank": 642,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Liscus",
+      "headword": "Liscus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "Lisco"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 155
+    },
+    {
+      "rank": 643,
+      "book": 1,
+      "book_rank": 643,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "summus",
+      "headword": "summus, a, um",
+      "pos": "Noun",
+      "definition": "sum; summary; chief point, essence, principal matter, substance; total",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "summo"
+      },
+      "book_frequency": 17,
+      "total_frequency": 119,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 156
+    },
+    {
+      "rank": 644,
+      "book": 1,
+      "book_rank": 644,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "praesum",
+      "headword": "praesum, es, esse, fui",
+      "pos": "Verb",
+      "definition": "consume/perform/employ beforehand; anticipate; presuppose/presume/assume; dare",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "praeerat"
+      },
+      "book_frequency": 5,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 157
+    },
+    {
+      "rank": 645,
+      "book": 1,
+      "book_rank": 645,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "vergobretus",
+      "headword": "vergobretus, i, m.",
+      "pos": "Noun",
+      "definition": "minister of justice, executive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "vergobretum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 158
+    },
+    {
+      "rank": 646,
+      "book": 1,
+      "book_rank": 646,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "creo",
+      "headword": "creo, as, are",
+      "pos": "Verb",
+      "definition": "produce/bear fruit; bring about; cause to grow; elect, appoint, invest",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "creatur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 159
+    },
+    {
+      "rank": 647,
+      "book": 1,
+      "book_rank": 647,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "annuus",
+      "headword": "annuus, a, um",
+      "pos": "Verb",
+      "definition": "designate w/nod, nod assent; indicate, declare; favor/smile on; agree to, grant",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "annuus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 160
+    },
+    {
+      "rank": 648,
+      "book": 1,
+      "book_rank": 648,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "vita",
+      "headword": "vita, ae, f.",
+      "pos": "Noun",
+      "definition": "life, career, livelihood; mode of life",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "vitae"
+      },
+      "book_frequency": 2,
+      "total_frequency": 23,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 161
+    },
+    {
+      "rank": 649,
+      "book": 1,
+      "book_rank": 649,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nex",
+      "headword": "nex, necis, f.",
+      "pos": "Noun",
+      "definition": "one reduced to quasi-slavery for debt, bondsman",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "necis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 162
+    },
+    {
+      "rank": 650,
+      "book": 1,
+      "book_rank": 650,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "potestas",
+      "headword": "potestas, atis, f.",
+      "pos": "Noun",
+      "definition": "power, rule, force; strength, ability; chance, opportunity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "potestatem"
+      },
+      "book_frequency": 5,
+      "total_frequency": 30,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 163
+    },
+    {
+      "rank": 651,
+      "book": 1,
+      "book_rank": 651,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "graviter",
+      "headword": "graviter, adv.",
+      "pos": "Adverb",
+      "definition": "violently; deeply; severely; reluctantly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "graviter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 164
+    },
+    {
+      "rank": 652,
+      "book": 1,
+      "book_rank": 652,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "accuso",
+      "headword": "accuso, as, are",
+      "pos": "Verb",
+      "definition": "accuse, blame, find fault, impugn; reprimand; charge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "accusat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 165
+    },
+    {
+      "rank": 653,
+      "book": 1,
+      "book_rank": 653,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "emo",
+      "headword": "emo, is, ere, emi, emptum",
+      "pos": "Verb",
+      "definition": "buy; gain, acquire, obtain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "emi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 166
+    },
+    {
+      "rank": 654,
+      "book": 1,
+      "book_rank": 654,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "sublevo",
+      "headword": "sublevo, as, are",
+      "pos": "Verb",
+      "definition": "lift up, raise; support; assist; lighten",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "sublevetur"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 167
+    },
+    {
+      "rank": 655,
+      "book": 1,
+      "book_rank": 655,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "praesertim",
+      "headword": "praesertim, adv.",
+      "pos": "Adverb",
+      "definition": "especially; particularly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "praesertim"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 168
+    },
+    {
+      "rank": 656,
+      "book": 1,
+      "book_rank": 656,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "prex",
+      "headword": "prex, precis, f. (nom. sg. inusité)",
+      "pos": "Noun",
+      "definition": "prayer, request",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "precibus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 169
+    },
+    {
+      "rank": 657,
+      "book": 1,
+      "book_rank": 657,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "destituo",
+      "headword": "destituo, is, ere, destitui, destitutum",
+      "pos": "Verb",
+      "definition": "desert/leave/abandon/forsake/leave in lurch; disappoint/let down; fail/give up",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "destitutus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 170
+    },
+    {
+      "rank": 658,
+      "book": 1,
+      "book_rank": 658,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "queror",
+      "headword": "queror, eris, i, questus sum",
+      "pos": "Verb",
+      "definition": "complain; protest, grumble, gripe; make formal complaint in court of law",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 16,
+        "surface_form": "queritur"
+      },
+      "book_frequency": 5,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 171
+    },
+    {
+      "rank": 659,
+      "book": 1,
+      "book_rank": 659,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "tum",
+      "headword": "tum, adv.",
+      "pos": "Verb",
+      "definition": "swell, become inflated; be puffed up; be bombastic; be swollen with conceit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "Tum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 58,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 172
+    },
+    {
+      "rank": 660,
+      "book": 1,
+      "book_rank": 660,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "demum",
+      "headword": "demum, adv.",
+      "pos": "Adverb",
+      "definition": "other possibilities being dismissed; only/alone, and no other/nowhere else",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "demum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 173
+    },
+    {
+      "rank": 661,
+      "book": 1,
+      "book_rank": 661,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "antea",
+      "headword": "antea, adv.",
+      "pos": "Adverb",
+      "definition": "before, before this; formerly, previously, in the past",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "antea"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 174
+    },
+    {
+      "rank": 662,
+      "book": 1,
+      "book_rank": 662,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "taceo",
+      "headword": "taceo, es, ere, cui, citum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "tacuerat"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 175
+    },
+    {
+      "rank": 663,
+      "book": 1,
+      "book_rank": 663,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "propono",
+      "headword": "propono, is, ere, posui, positum",
+      "pos": "Verb",
+      "definition": "display; propose; relate; put or place forward",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "proponit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 176
+    },
+    {
+      "rank": 664,
+      "book": 1,
+      "book_rank": 664,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "ualeo",
+      "headword": "ualeo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "valeat"
+      },
+      "book_frequency": 3,
+      "total_frequency": 17,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 177
+    },
+    {
+      "rank": 665,
+      "book": 1,
+      "book_rank": 665,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "privatim",
+      "headword": "privatim, adv.",
+      "pos": "Adverb",
+      "definition": "in private; as a private citizen",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "privatim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 178
+    },
+    {
+      "rank": 666,
+      "book": 1,
+      "book_rank": 666,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "plus",
+      "headword": "plus, pluris",
+      "pos": "Noun",
+      "definition": "more, too much, more than enough; more than ; higher price/value",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "plus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 13,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 179
+    },
+    {
+      "rank": 667,
+      "book": 1,
+      "book_rank": 667,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "seditiosus",
+      "headword": "seditiosus, a, um",
+      "pos": "Adjective",
+      "definition": "mutinous; troubled; quarrelsome",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "seditiosa"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 180
+    },
+    {
+      "rank": 668,
+      "book": 1,
+      "book_rank": 668,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "improbus",
+      "headword": "improbus, a, um",
+      "pos": "Adjective",
+      "definition": "wicked/flagrant; morally unsound; greedy/rude; immoderate; disloyal; shameless",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "improba"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 181
+    },
+    {
+      "rank": 669,
+      "book": 1,
+      "book_rank": 669,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "deterreo",
+      "headword": "deterreo, is, ere, terrui, territum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "deterrere"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 182
+    },
+    {
+      "rank": 670,
+      "book": 1,
+      "book_rank": 670,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "perfero",
+      "headword": "perfero, fers, ferre, tuli, latum",
+      "pos": "Verb",
+      "definition": "carry through; bear, endure to the end, suffer; announce",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "perferre"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 183
+    },
+    {
+      "rank": 671,
+      "book": 1,
+      "book_rank": 671,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dubito",
+      "headword": "dubito, as, are",
+      "pos": "Verb",
+      "definition": "doubt; deliberate; hesitate ; be uncertain/irresolute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "dubitare"
+      },
+      "book_frequency": 4,
+      "total_frequency": 17,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 184
+    },
+    {
+      "rank": 672,
+      "book": 1,
+      "book_rank": 672,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "supero",
+      "headword": "supero, as, are",
+      "pos": "Verb",
+      "definition": "overcome, conquer; survive; outdo; surpass, be above, have the upper hand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "superaverint"
+      },
+      "book_frequency": 7,
+      "total_frequency": 29,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 185
+    },
+    {
+      "rank": 673,
+      "book": 1,
+      "book_rank": 673,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "libertas",
+      "headword": "libertas, atis, f.",
+      "pos": "Noun",
+      "definition": "freedom, liberty; frankness of speech, outspokenness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "libertatem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 186
+    },
+    {
+      "rank": 674,
+      "book": 1,
+      "book_rank": 674,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "coerceo",
+      "headword": "coerceo, es, ere, cui, citum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "coerceri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 187
+    },
+    {
+      "rank": 675,
+      "book": 1,
+      "book_rank": 675,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quantus",
+      "headword": "quantus, a, um, adj., pron. excl et interr",
+      "pos": "Adjective",
+      "definition": "how great; how much/many; of what size/amount/degree/number/worth/price",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 17,
+        "surface_form": "quanto"
+      },
+      "book_frequency": 2,
+      "total_frequency": 49,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 188
+    },
+    {
+      "rank": 676,
+      "book": 1,
+      "book_rank": 676,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "designo",
+      "headword": "designo, as, are",
+      "pos": "Verb",
+      "definition": "mark; point/mark/trace out, outline/describe; indicate/designate/denote",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "designari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 189
+    },
+    {
+      "rank": 677,
+      "book": 1,
+      "book_rank": 677,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "sentio",
+      "headword": "sentio, is, ire, sensi, sensum",
+      "pos": "Verb",
+      "definition": "perceive, feel, experience; think, realize, see, understand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "sentiebat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 14,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 190
+    },
+    {
+      "rank": 678,
+      "book": 1,
+      "book_rank": 678,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "jacto",
+      "headword": "jacto, as, are",
+      "pos": "Verb",
+      "definition": "throw away, throw out, throw, jerk about; disturb; boast, discuss",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "iactari"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 191
+    },
+    {
+      "rank": 679,
+      "book": 1,
+      "book_rank": 679,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "celeriter",
+      "headword": "celeriter, adv.",
+      "pos": "Adverb",
+      "definition": "quickly/rapidly/speedily; hastily; soon/at once/early moment; in short period",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "celeriter"
+      },
+      "book_frequency": 3,
+      "total_frequency": 72,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 192
+    },
+    {
+      "rank": 680,
+      "book": 1,
+      "book_rank": 680,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "concilium",
+      "headword": "concilium, ii, n.",
+      "pos": "Noun",
+      "definition": "public gathering/meeting; popular assembly, council; hearing; debate/discussion",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "concilium"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 193
+    },
+    {
+      "rank": 681,
+      "book": 1,
+      "book_rank": 681,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dimitto",
+      "headword": "dimitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "release, set free; allow to escape/slip away; shake off/scatter/shed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "dimittit"
+      },
+      "book_frequency": 3,
+      "total_frequency": 41,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 194
+    },
+    {
+      "rank": 682,
+      "book": 1,
+      "book_rank": 682,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "retineo",
+      "headword": "retineo, es, ere, ui, tentum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "retinet"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 195
+    },
+    {
+      "rank": 683,
+      "book": 1,
+      "book_rank": 683,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quaero",
+      "headword": "quaero, is, ere, siui, situm",
+      "pos": "Verb",
+      "definition": "search for, seek, strive for; obtain; ask, inquire, demand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "Quaerit"
+      },
+      "book_frequency": 8,
+      "total_frequency": 23,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 196
+    },
+    {
+      "rank": 684,
+      "book": 1,
+      "book_rank": 684,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "solum",
+      "headword": "solum, i, n.",
+      "pos": "Noun",
+      "definition": "only/just/merely/barely/alone",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "solo"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 197
+    },
+    {
+      "rank": 685,
+      "book": 1,
+      "book_rank": 685,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "liber",
+      "headword": "liber, era, erum",
+      "pos": "Adjective",
+      "definition": "free ; unimpeded; void of; independent, outspoken/frank; free from tribute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "liberius"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 198
+    },
+    {
+      "rank": 686,
+      "book": 1,
+      "book_rank": 686,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "secretus",
+      "headword": "secretus, a, um",
+      "pos": "Adjective",
+      "definition": "separate, apart ; private, secret; remote; hidden",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "secreto"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 199
+    },
+    {
+      "rank": 687,
+      "book": 1,
+      "book_rank": 687,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "reperio",
+      "headword": "reperio, is, ire, rep(p)eri, repertum",
+      "pos": "Verb",
+      "definition": "discover, learn; light on; find/obtain/get; find out/to be, get to know; invent",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "reperit"
+      },
+      "book_frequency": 9,
+      "total_frequency": 26,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 200
+    },
+    {
+      "rank": 688,
+      "book": 1,
+      "book_rank": 688,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "uer",
+      "headword": "uer",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "vera"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 201
+    },
+    {
+      "rank": 689,
+      "book": 1,
+      "book_rank": 689,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "audacia",
+      "headword": "audacia, ae, f.",
+      "pos": "Noun",
+      "definition": "boldness, daring, courage, confidence; recklessness, effrontery, audacity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "audacia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 202
+    },
+    {
+      "rank": 690,
+      "book": 1,
+      "book_rank": 690,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "liberalitas",
+      "headword": "liberalitas, atis, f.",
+      "pos": "Noun",
+      "definition": "courtesy, kindness, nobleness; generosity; frankness; gift",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "liberalitatem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 203
+    },
+    {
+      "rank": 691,
+      "book": 1,
+      "book_rank": 691,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "portorium",
+      "headword": "portorium, i, n.",
+      "pos": "Noun",
+      "definition": "port duty; customs duty; tax",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "portoria"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 204
+    },
+    {
+      "rank": 692,
+      "book": 1,
+      "book_rank": 692,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "vectigal",
+      "headword": "vectigal, ălis, n.",
+      "pos": "Noun",
+      "definition": "yielding taxes, subject to taxation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "vectigalia"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 205
+    },
+    {
+      "rank": 693,
+      "book": 1,
+      "book_rank": 693,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "pretium",
+      "headword": "pretium, ii, n.",
+      "pos": "Noun",
+      "definition": "price/value/worth; reward/pay; money; prayer/request",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "pretio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 206
+    },
+    {
+      "rank": 694,
+      "book": 1,
+      "book_rank": 694,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "redimo",
+      "headword": "redimo, is, ere, emi, emptum",
+      "pos": "Verb",
+      "definition": "redeem; atone for; ransom; rescue/save; contract for; buy/purchase; buy off",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "redempta"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 207
+    },
+    {
+      "rank": 695,
+      "book": 1,
+      "book_rank": 695,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "contra",
+      "headword": "contra, adv.",
+      "pos": "Adverb",
+      "definition": "facing, face-to-face, in the eyes; towards/up to; across; in opposite direction",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "contra"
+      },
+      "book_frequency": 3,
+      "total_frequency": 57,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 208
+    },
+    {
+      "rank": 696,
+      "book": 1,
+      "book_rank": 696,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "audeo",
+      "headword": "audeo, es, ere, ausus sum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "audeat"
+      },
+      "book_frequency": 4,
+      "total_frequency": 29,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 209
+    },
+    {
+      "rank": 697,
+      "book": 1,
+      "book_rank": 697,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nemo",
+      "headword": "nemo, nullius, nt. nihil, nil (rart. neminis), pron.",
+      "pos": "Noun",
+      "definition": "no one, nobody",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "nemo"
+      },
+      "book_frequency": 5,
+      "total_frequency": 28,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 210
+    },
+    {
+      "rank": 698,
+      "book": 1,
+      "book_rank": 698,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "familiaris",
+      "headword": "familiaris, e",
+      "pos": "Noun",
+      "definition": "member of household ; familiar acquaintance/friend",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "familiarem"
+      },
+      "book_frequency": 4,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 211
+    },
+    {
+      "rank": 699,
+      "book": 1,
+      "book_rank": 699,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "augeo",
+      "headword": "augeo, es, ere, auxi, auctum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "auxisse"
+      },
+      "book_frequency": 1,
+      "total_frequency": 14,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 212
+    },
+    {
+      "rank": 700,
+      "book": 1,
+      "book_rank": 700,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "largior",
+      "headword": "largior, iris, iri, largitus sumi",
+      "pos": "Verb",
+      "definition": "grant; give bribes/presents corruptly; give generously/bountifully",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "largiendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 213
+    },
+    {
+      "rank": 701,
+      "book": 1,
+      "book_rank": 701,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "semper",
+      "headword": "semper, adv.",
+      "pos": "Adverb",
+      "definition": "always",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "semper"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 214
+    },
+    {
+      "rank": 702,
+      "book": 1,
+      "book_rank": 702,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "alo",
+      "headword": "alo, is, ere, ui, altum (alitum)",
+      "pos": "Verb",
+      "definition": "aloe plant ; thickened aloe juice ; bitterness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "alere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 215
+    },
+    {
+      "rank": 703,
+      "book": 1,
+      "book_rank": 703,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "largiter",
+      "headword": "largiter, adv.",
+      "pos": "Adverb",
+      "definition": "in abundance, plentifully, liberally, much; greatly; has great influence",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "largiter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 216
+    },
+    {
+      "rank": 704,
+      "book": 1,
+      "book_rank": 704,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "potentia",
+      "headword": "potentia, ae, f.",
+      "pos": "Noun",
+      "definition": "force, power, political power",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "potentiae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 217
+    },
+    {
+      "rank": 705,
+      "book": 1,
+      "book_rank": 705,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "mater",
+      "headword": "mater, tris, f.",
+      "pos": "Noun",
+      "definition": "mother, foster mother; lady, matron; origin, source, motherland, mother city",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "matrem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 218
+    },
+    {
+      "rank": 706,
+      "book": 1,
+      "book_rank": 706,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Bituriges",
+      "headword": "Bituriges, um, m. pl.",
+      "pos": "Noun",
+      "definition": "Bituriges , a people of SW Gaul, Aquitania - in Caesar's \"Gallic War\"",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "Biturigibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 25,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 219
+    },
+    {
+      "rank": 707,
+      "book": 1,
+      "book_rank": 707,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "colloco",
+      "headword": "colloco, as, are",
+      "pos": "Verb",
+      "definition": "place/put/set in order/proper position, arrange; station, post, position; apply",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "conlocasse"
+      },
+      "book_frequency": 5,
+      "total_frequency": 46,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 220
+    },
+    {
+      "rank": 708,
+      "book": 1,
+      "book_rank": 708,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "uxor",
+      "headword": "uxor, oris, f.",
+      "pos": "Noun",
+      "definition": "wife",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "uxorem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 221
+    },
+    {
+      "rank": 709,
+      "book": 1,
+      "book_rank": 709,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "soror",
+      "headword": "soror, oris, f.",
+      "pos": "Noun",
+      "definition": "sister",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "sororum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 222
+    },
+    {
+      "rank": 710,
+      "book": 1,
+      "book_rank": 710,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nubo",
+      "headword": "nubo, is, ere, psi, ptum",
+      "pos": "Verb",
+      "definition": "cloud/mist/haze/dust/smoke; sky/air; billowy formation ; swarm/multitude",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "nuptum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 223
+    },
+    {
+      "rank": 711,
+      "book": 1,
+      "book_rank": 711,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "faueo",
+      "headword": "faueo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "Favere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 224
+    },
+    {
+      "rank": 712,
+      "book": 1,
+      "book_rank": 712,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "cupio",
+      "headword": "cupio, is, ere, i(u)i, itum",
+      "pos": "Verb",
+      "definition": "wish/long/be eager for; desire/want, covet; desire as a lover; favor, wish well",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "cupere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 225
+    },
+    {
+      "rank": 713,
+      "book": 1,
+      "book_rank": 713,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "adfinitas",
+      "headword": "adfinitas, atis, f.",
+      "pos": "Noun",
+      "definition": "relation by marriage; relationship , bond/union; neighborhood",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "adfinitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 226
+    },
+    {
+      "rank": 714,
+      "book": 1,
+      "book_rank": 714,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "odio",
+      "headword": "odio, is, ire, īvi",
+      "pos": "Verb",
+      "definition": "hate/hatred/dislike/antipathy; odium, unpopularity; boredom/impatience",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "odisse"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 227
+    },
+    {
+      "rank": 715,
+      "book": 1,
+      "book_rank": 715,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "nomos",
+      "headword": "nomos, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "nomi"
+      },
+      "book_frequency": 2,
+      "total_frequency": 15,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 228
+    },
+    {
+      "rank": 716,
+      "book": 1,
+      "book_rank": 716,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "deminuo",
+      "headword": "deminuo, is, ere, minui, minutum",
+      "pos": "Verb",
+      "definition": "weaken; curtail; impair; understate; make diminutive; take away/deduct/deprive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "deminuta"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 229
+    },
+    {
+      "rank": 717,
+      "book": 1,
+      "book_rank": 717,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "antiquus",
+      "headword": "antiquus, a, um",
+      "pos": "Adjective",
+      "definition": "old/ancient/aged; time-honored; simple/classic; venerable; archaic/outdated",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "antiquum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 230
+    },
+    {
+      "rank": 718,
+      "book": 1,
+      "book_rank": 718,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "honor",
+      "headword": "honor, oris, m.",
+      "pos": "Noun",
+      "definition": "honor; respect/regard; mark of esteem, reward; dignity/grace; public office",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "honoris"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 231
+    },
+    {
+      "rank": 719,
+      "book": 1,
+      "book_rank": 719,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "restituo",
+      "headword": "restituo, is, ere, tui, tutum",
+      "pos": "Verb",
+      "definition": "restore; revive; bring back; make good",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "restitutus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 232
+    },
+    {
+      "rank": 720,
+      "book": 1,
+      "book_rank": 720,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "despero",
+      "headword": "despero, as, are",
+      "pos": "Verb",
+      "definition": "despair ; have no/give up hope ; give up as hopeless",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "desperare"
+      },
+      "book_frequency": 4,
+      "total_frequency": 22,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 233
+    },
+    {
+      "rank": 721,
+      "book": 1,
+      "book_rank": 721,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "equester",
+      "headword": "equester, tris, tre",
+      "pos": "Adjective",
+      "definition": "equestrian, mounted on horse; of/belonging to/consisting of horseman/cavalry",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "equestre"
+      },
+      "book_frequency": 2,
+      "total_frequency": 16,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 234
+    },
+    {
+      "rank": 722,
+      "book": 1,
+      "book_rank": 722,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "adversus",
+      "headword": "adversus, a, um",
+      "pos": "Adjective",
+      "definition": "facing, opposite, against, towards; contrary to; face to face, in presence of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "adversum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 20,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 235
+    },
+    {
+      "rank": 723,
+      "book": 1,
+      "book_rank": 723,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "perterreo",
+      "headword": "perterreo, es, ere, terrui, terrĭtum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 18,
+        "surface_form": "perterritum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 41,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 236
+    },
+    {
+      "rank": 724,
+      "book": 1,
+      "book_rank": 724,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "cognosco",
+      "headword": "cognosco, is, ere, noui, cognitum",
+      "pos": "Verb",
+      "definition": "become acquainted with/aware of; recognize; learn, find to be; inquire/examine",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "cognitis"
+      },
+      "book_frequency": 15,
+      "total_frequency": 163,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 237
+    },
+    {
+      "rank": 725,
+      "book": 1,
+      "book_rank": 725,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "accedo",
+      "headword": "accedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "come near, approach; agree with; be added to ; constitute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "accederent"
+      },
+      "book_frequency": 4,
+      "total_frequency": 32,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 238
+    },
+    {
+      "rank": 726,
+      "book": 1,
+      "book_rank": 726,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "injussus",
+      "headword": "injussus, a, um",
+      "pos": "Adjective",
+      "definition": "unbidden, voluntary, of one's own accord; without orders/command; forbidden",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "iniussu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 239
+    },
+    {
+      "rank": 727,
+      "book": 1,
+      "book_rank": 727,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "insciens",
+      "headword": "insciens, entis",
+      "pos": "Adjective",
+      "definition": "unknowing, unaware",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "inscientibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 240
+    },
+    {
+      "rank": 728,
+      "book": 1,
+      "book_rank": 728,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "animadverto",
+      "headword": "animadverto, is, ere, ti, sum",
+      "pos": "Verb",
+      "definition": "pay attention to, attend to; notice, observe; judge, estimate; punish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "animadverteret"
+      },
+      "book_frequency": 6,
+      "total_frequency": 32,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 241
+    },
+    {
+      "rank": 729,
+      "book": 1,
+      "book_rank": 729,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "repugno",
+      "headword": "repugno, as, are",
+      "pos": "Verb",
+      "definition": "fight back, oppose; be incompatible with; disagree with",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "repugnabat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 242
+    },
+    {
+      "rank": 730,
+      "book": 1,
+      "book_rank": 730,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "studium",
+      "headword": "studium, ii, n.",
+      "pos": "Noun",
+      "definition": "eagerness, enthusiasm, zeal, spirit; devotion, pursuit, study",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "studium"
+      },
+      "book_frequency": 2,
+      "total_frequency": 16,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 243
+    },
+    {
+      "rank": 731,
+      "book": 1,
+      "book_rank": 731,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "egregius",
+      "headword": "egregius, a, um",
+      "pos": "Adjective",
+      "definition": "singular; distinguished; exceptional; extraordinary; eminent; excellent",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "egregiam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 244
+    },
+    {
+      "rank": 732,
+      "book": 1,
+      "book_rank": 732,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "justitia",
+      "headword": "justitia, ae, f.",
+      "pos": "Noun",
+      "definition": "cessation of judicial and all public business, due to national calamity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "iustitiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 245
+    },
+    {
+      "rank": 733,
+      "book": 1,
+      "book_rank": 733,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "temperantia",
+      "headword": "temperantia, ae, f.",
+      "pos": "Noun",
+      "definition": "self control; moderation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "temperantiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 246
+    },
+    {
+      "rank": 734,
+      "book": 1,
+      "book_rank": 734,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "supplicium",
+      "headword": "supplicium, i, n.",
+      "pos": "Noun",
+      "definition": "punishment, suffering; supplication; torture",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "supplicio"
+      },
+      "book_frequency": 3,
+      "total_frequency": 16,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 247
+    },
+    {
+      "rank": 735,
+      "book": 1,
+      "book_rank": 735,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "offendo",
+      "headword": "offendo, is, ere, fendi, fensum",
+      "pos": "Verb",
+      "definition": "strike/knock against; bump into; stumble upon; check, stop short; spoil/harm",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "offenderet"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 248
+    },
+    {
+      "rank": 736,
+      "book": 1,
+      "book_rank": 736,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "vereor",
+      "headword": "vereor, eris, eri, ueritus sum",
+      "pos": "Adverb",
+      "definition": "really, truly, actually, indeed; rightly, correctly, exactly; truthfully",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "verebatur"
+      },
+      "book_frequency": 4,
+      "total_frequency": 31,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 249
+    },
+    {
+      "rank": 737,
+      "book": 1,
+      "book_rank": 737,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "prius",
+      "headword": "prius, adv.",
+      "pos": "Noun",
+      "definition": "earlier times/events/actions; a logically prior proposition",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "prius"
+      },
+      "book_frequency": 4,
+      "total_frequency": 31,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 250
+    },
+    {
+      "rank": 738,
+      "book": 1,
+      "book_rank": 738,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "quicquam",
+      "headword": "quicquam",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "quicquam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 251
+    },
+    {
+      "rank": 739,
+      "book": 1,
+      "book_rank": 739,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "voco",
+      "headword": "voco, as, are",
+      "pos": "Verb",
+      "definition": "call, summon; name; call upon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "vocari"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 252
+    },
+    {
+      "rank": 740,
+      "book": 1,
+      "book_rank": 740,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "interpres",
+      "headword": "interpres, etis, m.",
+      "pos": "Noun",
+      "definition": "interpreter, translator",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "interpretibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 253
+    },
+    {
+      "rank": 741,
+      "book": 1,
+      "book_rank": 741,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "remotus",
+      "headword": "remotus, a, um",
+      "pos": "Adjective",
+      "definition": "remote; distant, far off; removed, withdrawn; removed/freed from",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "remotis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 6,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 254
+    },
+    {
+      "rank": 742,
+      "book": 1,
+      "book_rank": 742,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Ualerius",
+      "headword": "Ualerius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "Valerium"
+      },
+      "book_frequency": 5,
+      "total_frequency": 7,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 255
+    },
+    {
+      "rank": 743,
+      "book": 1,
+      "book_rank": 743,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "Troucillus",
+      "headword": "Troucillus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "Troucillum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 256
+    },
+    {
+      "rank": 744,
+      "book": 1,
+      "book_rank": 744,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "colloquor",
+      "headword": "colloquor, eris, i, cutus sum",
+      "pos": "Verb",
+      "definition": "talk/speak to/with; talk together/over; converse; discuss; confer, parley",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "conloquitur"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 257
+    },
+    {
+      "rank": 745,
+      "book": 1,
+      "book_rank": 745,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "simul",
+      "headword": "simul, adv.",
+      "pos": "Verb",
+      "definition": "imitate, copy; pretend ; look like; simulate; counterfeit; feint",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "simul"
+      },
+      "book_frequency": 1,
+      "total_frequency": 26,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 258
+    },
+    {
+      "rank": 746,
+      "book": 1,
+      "book_rank": 746,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "commonefacio",
+      "headword": "commonefacio, is, ere, fēci, factum",
+      "pos": "Verb",
+      "definition": "recall, remember; call to mind; remind , warn, admonish; impress upon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "commonefacit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 259
+    },
+    {
+      "rank": 747,
+      "book": 1,
+      "book_rank": 747,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "dictum",
+      "headword": "dictum, i, n.",
+      "pos": "Noun",
+      "definition": "words/utterance/remark; one's word/promise; saying/maxim; bon mot, witticism",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "dicta"
+      },
+      "book_frequency": 5,
+      "total_frequency": 11,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 260
+    },
+    {
+      "rank": 748,
+      "book": 1,
+      "book_rank": 748,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "separatim",
+      "headword": "separatim, adv.",
+      "pos": "Adverb",
+      "definition": "apart, separately",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "separatim"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 261
+    },
+    {
+      "rank": 749,
+      "book": 1,
+      "book_rank": 749,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "peto",
+      "headword": "peto, is, ere, iui, itum",
+      "pos": "Verb",
+      "definition": "attack; aim at; desire; beg, entreat, ask ; reach towards, make for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "Petit"
+      },
+      "book_frequency": 12,
+      "total_frequency": 77,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 262
+    },
+    {
+      "rank": 750,
+      "book": 1,
+      "book_rank": 750,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "hortor",
+      "headword": "hortor, aris, ari",
+      "pos": "Noun",
+      "definition": "garden, fruit/kitchen garden; pleasure garden; park",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "hortatur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 20,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 263
+    },
+    {
+      "rank": 751,
+      "book": 1,
+      "book_rank": 751,
+      "stage": "Book 1 Chunk 3",
+      "lemma": "offensio",
+      "headword": "offensio, ionis, f.",
+      "pos": "Noun",
+      "definition": "displeasure; accident",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 19,
+        "surface_form": "offensio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 3,
+      "chunk_title": "Defeat of the Tigurini & Treason of Dumnorix",
+      "chunk_rank": 264
+    }
+  ]
+}

@@ -1,0 +1,4531 @@
+{
+  "book": 1,
+  "chunk": 2,
+  "title": "Helvetian Departure & Defense of the Rhone",
+  "chapters": "Chapters 5–11",
+  "running_tokens": 887,
+  "new_word_count": 226,
+  "cumulative_book_1_words": 487,
+  "words": [
+    {
+      "rank": 262,
+      "book": 1,
+      "book_rank": 262,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "post",
+      "headword": "post, adv, prep. (+ acc.)",
+      "pos": "Adverb",
+      "definition": "behind , after ; subordinate to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Post"
+      },
+      "book_frequency": 2,
+      "total_frequency": 42,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 1
+    },
+    {
+      "rank": 263,
+      "book": 1,
+      "book_rank": 263,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nihilum",
+      "headword": "nihilum, i, n.",
+      "pos": "Noun",
+      "definition": "nothing; no; trifle/thing not worth mentioning; nonentity; nonsense; no concern",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "nihilo"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 2
+    },
+    {
+      "rank": 264,
+      "book": 1,
+      "book_rank": 264,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "e",
+      "headword": "e, prep. (+ abl.)",
+      "pos": "Preposition",
+      "definition": "out of, from; by reason of; according to; because of, as a result of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "e"
+      },
+      "book_frequency": 5,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 3
+    },
+    {
+      "rank": 265,
+      "book": 1,
+      "book_rank": 265,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ubi",
+      "headword": "ubi, adv. interr. ou rel.",
+      "pos": "Adverb",
+      "definition": "where; in what place;  when, whenever; as soon as; in which; with whom",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Ubi"
+      },
+      "book_frequency": 12,
+      "total_frequency": 58,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 4
+    },
+    {
+      "rank": 266,
+      "book": 1,
+      "book_rank": 266,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "iam",
+      "headword": "iam",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "iam"
+      },
+      "book_frequency": 8,
+      "total_frequency": 72,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 5
+    },
+    {
+      "rank": 267,
+      "book": 1,
+      "book_rank": 267,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "paratus",
+      "headword": "paratus, us, m.",
+      "pos": "Noun",
+      "definition": "prepared; ready; equipped, provided",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "paratos"
+      },
+      "book_frequency": 4,
+      "total_frequency": 19,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 6
+    },
+    {
+      "rank": 268,
+      "book": 1,
+      "book_rank": 268,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "oppidum",
+      "headword": "oppidum, i, n.",
+      "pos": "Noun",
+      "definition": "town",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "oppida"
+      },
+      "book_frequency": 15,
+      "total_frequency": 155,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 7
+    },
+    {
+      "rank": 269,
+      "book": 1,
+      "book_rank": 269,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "duodecim",
+      "headword": "duodecim, num.",
+      "pos": "Word",
+      "definition": "twelve",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "duodecim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 8
+    },
+    {
+      "rank": 270,
+      "book": 1,
+      "book_rank": 270,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "vicus",
+      "headword": "vicus, i, m.",
+      "pos": "Noun",
+      "definition": "turn, change, succession; exchange, interchange, repayment; plight, lot",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "vicos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 9
+    },
+    {
+      "rank": 271,
+      "book": 1,
+      "book_rank": 271,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "quadringentus",
+      "headword": "quadringentus, cf. quadringenti",
+      "pos": "Word",
+      "definition": "four hundred",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "quadringentos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 10
+    },
+    {
+      "rank": 272,
+      "book": 1,
+      "book_rank": 272,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "priuo",
+      "headword": "priuo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "privata"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 11
+    },
+    {
+      "rank": 273,
+      "book": 1,
+      "book_rank": 273,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "aedificium",
+      "headword": "aedificium, ii, n.",
+      "pos": "Noun",
+      "definition": "building; edifice, structure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "aedificia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 22,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 12
+    },
+    {
+      "rank": 274,
+      "book": 1,
+      "book_rank": 274,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "incendo",
+      "headword": "incendo, is, ere, cendi, censum",
+      "pos": "Verb",
+      "definition": "set on fire; set fire to, kindle, burn; cause to flame/burn; keep fire burning",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "incendunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 13
+    },
+    {
+      "rank": 275,
+      "book": 1,
+      "book_rank": 275,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "praeter",
+      "headword": "praeter, conj. coord., prep. (+ acc.)",
+      "pos": "Preposition",
+      "definition": "besides, except, contrary to; beyond , in front of, before; more than",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "praeter"
+      },
+      "book_frequency": 4,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 14
+    },
+    {
+      "rank": 276,
+      "book": 1,
+      "book_rank": 276,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "porto",
+      "headword": "porto, as, are",
+      "pos": "Verb",
+      "definition": "gate, entrance; city gates; door; avenue; goal",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "portaturi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 15
+    },
+    {
+      "rank": 277,
+      "book": 1,
+      "book_rank": 277,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "comburo",
+      "headword": "comburo, is, ere, ussi, ustum",
+      "pos": "Verb",
+      "definition": "burn up/away; ; consume/destroy w/fire; reduce to ash, cremate; scald",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "comburunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 16
+    },
+    {
+      "rank": 278,
+      "book": 1,
+      "book_rank": 278,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "domus",
+      "headword": "domus, us ou i, f.",
+      "pos": "Noun",
+      "definition": "house, building; home, household",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "domum"
+      },
+      "book_frequency": 15,
+      "total_frequency": 33,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 17
+    },
+    {
+      "rank": 279,
+      "book": 1,
+      "book_rank": 279,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "reditio",
+      "headword": "reditio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "returning; going back",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "reditionis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 18
+    },
+    {
+      "rank": 280,
+      "book": 1,
+      "book_rank": 280,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "spes",
+      "headword": "spes, ei, f.",
+      "pos": "Noun",
+      "definition": "hope/anticipation/expectation; prospect/hope/promise",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "spe"
+      },
+      "book_frequency": 10,
+      "total_frequency": 59,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 19
+    },
+    {
+      "rank": 281,
+      "book": 1,
+      "book_rank": 281,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "tollo",
+      "headword": "tollo, is, tollere, sustuli, sublatum",
+      "pos": "Verb",
+      "definition": "lift, raise; destroy; remove, steal; take/lift up/away",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "sublata"
+      },
+      "book_frequency": 4,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 20
+    },
+    {
+      "rank": 282,
+      "book": 1,
+      "book_rank": 282,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "periculum",
+      "headword": "periculum, i, n.",
+      "pos": "Noun",
+      "definition": "danger, peril; trial, attempt; risk; responsibility for damage, liability",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "pericula"
+      },
+      "book_frequency": 10,
+      "total_frequency": 74,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 21
+    },
+    {
+      "rank": 283,
+      "book": 1,
+      "book_rank": 283,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "subeo",
+      "headword": "subeo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "go/move/pass/sink/extend underneath/into; climb/come/go up, ascend; steal in on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "subeunda"
+      },
+      "book_frequency": 4,
+      "total_frequency": 42,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 22
+    },
+    {
+      "rank": 284,
+      "book": 1,
+      "book_rank": 284,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "mensis",
+      "headword": "mensis, is, m.",
+      "pos": "Noun",
+      "definition": "month",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "mensum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 23
+    },
+    {
+      "rank": 285,
+      "book": 1,
+      "book_rank": 285,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "molior",
+      "headword": "molior, iris, iri, itus sum",
+      "pos": "Verb",
+      "definition": "struggle, labor, labor at; construct, build; undertake, set in motion, plan",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "molita"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 24
+    },
+    {
+      "rank": 286,
+      "book": 1,
+      "book_rank": 286,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "cibarium",
+      "headword": "cibarium, ii, n.",
+      "pos": "Noun",
+      "definition": "ration/allowance of food ; food, provisions; food for animals, feed/fodder",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "cibaria"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 25
+    },
+    {
+      "rank": 287,
+      "book": 1,
+      "book_rank": 287,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "quis",
+      "headword": "quis, quid",
+      "pos": "Interrogative Pronoun",
+      "definition": "who?, what?, anyone, anything",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "quemque"
+      },
+      "book_frequency": 25,
+      "total_frequency": 155,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 26
+    },
+    {
+      "rank": 288,
+      "book": 1,
+      "book_rank": 288,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "effero",
+      "headword": "effero, fers, ferre, extuli, elatum",
+      "pos": "Verb",
+      "definition": "carry out; bring out; carry out for burial; raise",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "efferre"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 27
+    },
+    {
+      "rank": 289,
+      "book": 1,
+      "book_rank": 289,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "iubeo",
+      "headword": "iubeo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "iubent"
+      },
+      "book_frequency": 9,
+      "total_frequency": 86,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 28
+    },
+    {
+      "rank": 290,
+      "book": 1,
+      "book_rank": 290,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Rauraci",
+      "headword": "Rauraci, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Rauracis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 29
+    },
+    {
+      "rank": 291,
+      "book": 1,
+      "book_rank": 291,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Tulingi",
+      "headword": "Tulingi, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Tulingis"
+      },
+      "book_frequency": 4,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 30
+    },
+    {
+      "rank": 292,
+      "book": 1,
+      "book_rank": 292,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Latobrigi",
+      "headword": "Latobrigi, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Latobrigis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 31
+    },
+    {
+      "rank": 293,
+      "book": 1,
+      "book_rank": 293,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "utor",
+      "headword": "utor, eris, i, usus sum",
+      "pos": "Conjunction",
+      "definition": "to , in order that/to; how, as, when, while; even if",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "uti"
+      },
+      "book_frequency": 38,
+      "total_frequency": 133,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 32
+    },
+    {
+      "rank": 294,
+      "book": 1,
+      "book_rank": 294,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "consilium",
+      "headword": "consilium, ii, n.",
+      "pos": "Noun",
+      "definition": "debate/discussion/deliberation/consultation; advice/counsel/suggestion; adviser",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "consilio"
+      },
+      "book_frequency": 12,
+      "total_frequency": 149,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 33
+    },
+    {
+      "rank": 295,
+      "book": 1,
+      "book_rank": 295,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "vix",
+      "headword": "vix, adv.",
+      "pos": "Adverb",
+      "definition": "hardly, scarcely, barely, only just; with difficulty, not easily; reluctantly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "vicis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 34
+    },
+    {
+      "rank": 296,
+      "book": 1,
+      "book_rank": 296,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "exuro",
+      "headword": "exuro, is, ere, ussi, ustum",
+      "pos": "Verb",
+      "definition": "burn ; destroy/devastate by fire; dry up, parch; scald",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "exustis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 35
+    },
+    {
+      "rank": 297,
+      "book": 1,
+      "book_rank": 297,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Boii",
+      "headword": "Boii",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Boios"
+      },
+      "book_frequency": 3,
+      "total_frequency": 8,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 36
+    },
+    {
+      "rank": 298,
+      "book": 1,
+      "book_rank": 298,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Noricus",
+      "headword": "Noricus, a, um",
+      "pos": "Adjective",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Noricum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 37
+    },
+    {
+      "rank": 299,
+      "book": 1,
+      "book_rank": 299,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "transeo",
+      "headword": "transeo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "go over, cross",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "transierant"
+      },
+      "book_frequency": 15,
+      "total_frequency": 75,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 38
+    },
+    {
+      "rank": 300,
+      "book": 1,
+      "book_rank": 300,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Noreia",
+      "headword": "Noreia, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "Noreiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 39
+    },
+    {
+      "rank": 301,
+      "book": 1,
+      "book_rank": 301,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "oppugno",
+      "headword": "oppugno, as, are",
+      "pos": "Verb",
+      "definition": "attack, assault, storm, besiege",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "oppugnabant"
+      },
+      "book_frequency": 4,
+      "total_frequency": 27,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 40
+    },
+    {
+      "rank": 302,
+      "book": 1,
+      "book_rank": 302,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "recipio",
+      "headword": "recipio, is, ere, cepi, ceptum",
+      "pos": "Verb",
+      "definition": "keep back; recover; undertake; guarantee; accept, take in; take back",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "receptos"
+      },
+      "book_frequency": 10,
+      "total_frequency": 92,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 41
+    },
+    {
+      "rank": 303,
+      "book": 1,
+      "book_rank": 303,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "socius",
+      "headword": "socius, a, um",
+      "pos": "Noun",
+      "definition": "associate/partner ; companion/partner",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "socios"
+      },
+      "book_frequency": 9,
+      "total_frequency": 13,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 42
+    },
+    {
+      "rank": 304,
+      "book": 1,
+      "book_rank": 304,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ascisco",
+      "headword": "ascisco, is, ere, iui, itum",
+      "pos": "Verb",
+      "definition": "adopt, assume; receive, admit, approve of, associate; take over, claim",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 5,
+        "surface_form": "adsciscunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 43
+    },
+    {
+      "rank": 305,
+      "book": 1,
+      "book_rank": 305,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "omnino",
+      "headword": "omnino, adv.",
+      "pos": "Adverb",
+      "definition": "entirely, altogether",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "omnino"
+      },
+      "book_frequency": 7,
+      "total_frequency": 21,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 44
+    },
+    {
+      "rank": 306,
+      "book": 1,
+      "book_rank": 306,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "duo",
+      "headword": "duo, duae, duo",
+      "pos": "Numeral Adjective",
+      "definition": "two",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "duo"
+      },
+      "book_frequency": 12,
+      "total_frequency": 98,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 45
+    },
+    {
+      "rank": 307,
+      "book": 1,
+      "book_rank": 307,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "difficilis",
+      "headword": "difficilis, e",
+      "pos": "Adjective",
+      "definition": "difficult, troublesome; hard; hard to please/manage/deal with/carry out",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "difficile"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 46
+    },
+    {
+      "rank": 308,
+      "book": 1,
+      "book_rank": 308,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "singulus",
+      "headword": "singulus, cf. singuli",
+      "pos": "Adjective",
+      "definition": "apiece ; every; one each/at a time; individual/separate/single; several",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "singuli"
+      },
+      "book_frequency": 5,
+      "total_frequency": 39,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 47
+    },
+    {
+      "rank": 309,
+      "book": 1,
+      "book_rank": 309,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "impendo",
+      "headword": "impendo, is, ere, pendi, pensum",
+      "pos": "Verb",
+      "definition": "overhang, hang over; threaten; be imminent, impend",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "impendebat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 48
+    },
+    {
+      "rank": 310,
+      "book": 1,
+      "book_rank": 310,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "perpaucus",
+      "headword": "perpaucus, cf. perpauci",
+      "pos": "Noun",
+      "definition": "very few , very little",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "perpauci"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 49
+    },
+    {
+      "rank": 311,
+      "book": 1,
+      "book_rank": 311,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "expeditus",
+      "headword": "expeditus, a, um",
+      "pos": "Adjective",
+      "definition": "unencumbered; without baggage; light armed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "expeditius"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 50
+    },
+    {
+      "rank": 312,
+      "book": 1,
+      "book_rank": 312,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Allobroges",
+      "headword": "Allobroges, um, m. pl.",
+      "pos": "Noun",
+      "definition": "Allobroges",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "Allobrogum"
+      },
+      "book_frequency": 11,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 51
+    },
+    {
+      "rank": 313,
+      "book": 1,
+      "book_rank": 313,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nuper",
+      "headword": "nuper, adv.",
+      "pos": "Adverb",
+      "definition": "recently, not long ago; in recent years/our own time;  latest in series",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "nuper"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 52
+    },
+    {
+      "rank": 314,
+      "book": 1,
+      "book_rank": 314,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "pacatus",
+      "headword": "pacatus, a, um",
+      "pos": "Noun",
+      "definition": "friendly country",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "pacati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 53
+    },
+    {
+      "rank": 315,
+      "book": 1,
+      "book_rank": 315,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "fluo",
+      "headword": "fluo, is, ere, fluxi, fluxum",
+      "pos": "Verb",
+      "definition": "flow, stream; emanate, proceed from; fall gradually",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "fluit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 54
+    },
+    {
+      "rank": 316,
+      "book": 1,
+      "book_rank": 316,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nullus",
+      "headword": "nullus, a, um",
+      "pos": "Adjective",
+      "definition": "no; none, not any",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "nullis"
+      },
+      "book_frequency": 8,
+      "total_frequency": 83,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 55
+    },
+    {
+      "rank": 317,
+      "book": 1,
+      "book_rank": 317,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "vadum",
+      "headword": "vadum, i, n.",
+      "pos": "Noun",
+      "definition": "one who guarantees court appearance of defendant; surety; bail",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "vado"
+      },
+      "book_frequency": 2,
+      "total_frequency": 13,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 56
+    },
+    {
+      "rank": 318,
+      "book": 1,
+      "book_rank": 318,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Genaua",
+      "headword": "Genaua",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "Genava"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 57
+    },
+    {
+      "rank": 319,
+      "book": 1,
+      "book_rank": 319,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "pons",
+      "headword": "pons, pontis, m.",
+      "pos": "Noun",
+      "definition": "bridge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "pons"
+      },
+      "book_frequency": 3,
+      "total_frequency": 38,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 58
+    },
+    {
+      "rank": 320,
+      "book": 1,
+      "book_rank": 320,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "uel",
+      "headword": "uel",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "vel"
+      },
+      "book_frequency": 7,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 59
+    },
+    {
+      "rank": 321,
+      "book": 1,
+      "book_rank": 321,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nondum",
+      "headword": "nondum, adv.",
+      "pos": "Adverb",
+      "definition": "not yet",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "nondum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 60
+    },
+    {
+      "rank": 322,
+      "book": 1,
+      "book_rank": 322,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "bonus",
+      "headword": "bonus, a, um",
+      "pos": "Adjective",
+      "definition": "good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "bono"
+      },
+      "book_frequency": 5,
+      "total_frequency": 22,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 61
+    },
+    {
+      "rank": 323,
+      "book": 1,
+      "book_rank": 323,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "video",
+      "headword": "video, es, ere, uidi, uisum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "viderentur"
+      },
+      "book_frequency": 13,
+      "total_frequency": 141,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 62
+    },
+    {
+      "rank": 324,
+      "book": 1,
+      "book_rank": 324,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "existimo",
+      "headword": "existimo, as, are",
+      "pos": "Verb",
+      "definition": "value/esteem; form/hold opinion/view; think/suppose; estimate; judge/consider",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "existimabant"
+      },
+      "book_frequency": 13,
+      "total_frequency": 96,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 63
+    },
+    {
+      "rank": 325,
+      "book": 1,
+      "book_rank": 325,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "eo",
+      "headword": "eo, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "therefore, for that reason, consequently; by that degree; so much the more/less",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "ire"
+      },
+      "book_frequency": 10,
+      "total_frequency": 26,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 64
+    },
+    {
+      "rank": 326,
+      "book": 1,
+      "book_rank": 326,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "patior",
+      "headword": "patior, eris, i, passus sum",
+      "pos": "Verb",
+      "definition": "suffer; allow; undergo, endure; permit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "paterentur"
+      },
+      "book_frequency": 8,
+      "total_frequency": 40,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 65
+    },
+    {
+      "rank": 327,
+      "book": 1,
+      "book_rank": 327,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "dies",
+      "headword": "dies, ei, m. et f.",
+      "pos": "Noun",
+      "definition": "quarter tone; first audible note of instrument",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "diem"
+      },
+      "book_frequency": 36,
+      "total_frequency": 198,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 66
+    },
+    {
+      "rank": 328,
+      "book": 1,
+      "book_rank": 328,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ripa",
+      "headword": "ripa, ae, f.",
+      "pos": "Noun",
+      "definition": "bank",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "ripam"
+      },
+      "book_frequency": 5,
+      "total_frequency": 19,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 67
+    },
+    {
+      "rank": 329,
+      "book": 1,
+      "book_rank": 329,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "convenio",
+      "headword": "convenio, is, ire, ueni, uentum",
+      "pos": "Verb",
+      "definition": "be appropriate to, fit, be correctly shaped/consistent; harmonize, agree, tally",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "conveniant"
+      },
+      "book_frequency": 8,
+      "total_frequency": 75,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 68
+    },
+    {
+      "rank": 330,
+      "book": 1,
+      "book_rank": 330,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Kal",
+      "headword": "Kal, n.",
+      "pos": "Noun",
+      "definition": "Kalends , 1st of month; abb. Kal./Kl.; day of proclamation, interest due",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "Kal"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 69
+    },
+    {
+      "rank": 331,
+      "book": 1,
+      "book_rank": 331,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Apr",
+      "headword": "Apr, contr.",
+      "pos": "Noun",
+      "definition": "boar, wild boar ; a fish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "Apr"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 70
+    },
+    {
+      "rank": 332,
+      "book": 1,
+      "book_rank": 332,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Gabinius",
+      "headword": "Gabinius, i, m.",
+      "pos": "Proper Noun",
+      "definition": "Gabinus, Roman gens",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 6,
+        "surface_form": "Gabinio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 71
+    },
+    {
+      "rank": 333,
+      "book": 1,
+      "book_rank": 333,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Caesar",
+      "headword": "Caesar, Caesaris, m.",
+      "pos": "Proper Noun",
+      "definition": "Gaius Julius Caesar (Roman proconsul, general, and author of the Gallic Wars)",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Caesari"
+      },
+      "book_frequency": 87,
+      "total_frequency": 490,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 72
+    },
+    {
+      "rank": 334,
+      "book": 1,
+      "book_rank": 334,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nuntio",
+      "headword": "nuntio, a, are",
+      "pos": "Verb",
+      "definition": "announce/report/bring word/give warning; convey/deliver/relate message/greeting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "nuntiatum"
+      },
+      "book_frequency": 6,
+      "total_frequency": 34,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 73
+    },
+    {
+      "rank": 335,
+      "book": 1,
+      "book_rank": 335,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "maturo",
+      "headword": "maturo, as, are",
+      "pos": "Verb",
+      "definition": "early, speedy; ripe; mature, mellow; timely, seasonable",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "maturat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 74
+    },
+    {
+      "rank": 336,
+      "book": 1,
+      "book_rank": 336,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "urbs",
+      "headword": "urbs, urbis, f.",
+      "pos": "Noun",
+      "definition": "city; City of Rome",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "urbe"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 75
+    },
+    {
+      "rank": 337,
+      "book": 1,
+      "book_rank": 337,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ulterior",
+      "headword": "ulterior, oris",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "ulteriorem"
+      },
+      "book_frequency": 4,
+      "total_frequency": 10,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 76
+    },
+    {
+      "rank": 338,
+      "book": 1,
+      "book_rank": 338,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "pervenio",
+      "headword": "pervenio, is, ire, ueni, uentum",
+      "pos": "Verb",
+      "definition": "come to; reach; arrive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "pervenit"
+      },
+      "book_frequency": 8,
+      "total_frequency": 60,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 77
+    },
+    {
+      "rank": 339,
+      "book": 1,
+      "book_rank": 339,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Provincia",
+      "headword": "Provincia, ae, f.",
+      "pos": "Noun",
+      "definition": "province; office; duty; command",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Provinciae"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 78
+    },
+    {
+      "rank": 340,
+      "book": 1,
+      "book_rank": 340,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "totum",
+      "headword": "totum, i, n.",
+      "pos": "Noun",
+      "definition": "as/so often, so many times, such a great number of times; that number of times",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "toti"
+      },
+      "book_frequency": 7,
+      "total_frequency": 30,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 79
+    },
+    {
+      "rank": 341,
+      "book": 1,
+      "book_rank": 341,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "miles",
+      "headword": "miles, itis, m.",
+      "pos": "Noun",
+      "definition": "soldier; foot soldier; soldiery; knight ; knight's fee/service",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "militum"
+      },
+      "book_frequency": 17,
+      "total_frequency": 177,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 80
+    },
+    {
+      "rank": 342,
+      "book": 1,
+      "book_rank": 342,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "impero",
+      "headword": "impero, as, are",
+      "pos": "Verb",
+      "definition": "order, command, levy; rule",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "imperat"
+      },
+      "book_frequency": 9,
+      "total_frequency": 76,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 81
+    },
+    {
+      "rank": 343,
+      "book": 1,
+      "book_rank": 343,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "legio",
+      "headword": "legio, onis, f.",
+      "pos": "Noun",
+      "definition": "legion; army",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "legio"
+      },
+      "book_frequency": 20,
+      "total_frequency": 263,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 82
+    },
+    {
+      "rank": 344,
+      "book": 1,
+      "book_rank": 344,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "rescindo",
+      "headword": "rescindo, is, ere; scidi, scissum",
+      "pos": "Verb",
+      "definition": "cut out; cut down, destroy; annul; rescind",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "rescindi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 83
+    },
+    {
+      "rank": 345,
+      "book": 1,
+      "book_rank": 345,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "adventus",
+      "headword": "adventus, us, m.",
+      "pos": "Noun",
+      "definition": "arrival, approach; visit, appearance, advent; ripening; invasion, incursion",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "adventu"
+      },
+      "book_frequency": 7,
+      "total_frequency": 57,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 84
+    },
+    {
+      "rank": 346,
+      "book": 1,
+      "book_rank": 346,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "certus",
+      "headword": "certus, a, um",
+      "pos": "Noun",
+      "definition": "that which is fixed/regular/definite/specified/certain/fact/reliable/settled",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "certiores"
+      },
+      "book_frequency": 7,
+      "total_frequency": 60,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 85
+    },
+    {
+      "rank": 347,
+      "book": 1,
+      "book_rank": 347,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "legatus",
+      "headword": "legatus, i, m.",
+      "pos": "Noun",
+      "definition": "envoy, ambassador, legate; commander of a legion; officer; deputy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "legatos"
+      },
+      "book_frequency": 23,
+      "total_frequency": 141,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 86
+    },
+    {
+      "rank": 348,
+      "book": 1,
+      "book_rank": 348,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "mitto",
+      "headword": "mitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "send, throw, hurl, cast; let out, release, dismiss; disregard",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "mittunt"
+      },
+      "book_frequency": 26,
+      "total_frequency": 195,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 87
+    },
+    {
+      "rank": 349,
+      "book": 1,
+      "book_rank": 349,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Nammeius",
+      "headword": "Nammeius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Nammeius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 88
+    },
+    {
+      "rank": 350,
+      "book": 1,
+      "book_rank": 350,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Verucloetius",
+      "headword": "Verucloetius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Verucloetius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 89
+    },
+    {
+      "rank": 351,
+      "book": 1,
+      "book_rank": 351,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "princeps",
+      "headword": "princeps, ipis, adj.",
+      "pos": "Noun",
+      "definition": "leader/chief, first/leading member/citizen/man; master/expert; founder/proposer",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "principem"
+      },
+      "book_frequency": 9,
+      "total_frequency": 59,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 90
+    },
+    {
+      "rank": 352,
+      "book": 1,
+      "book_rank": 352,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "sine",
+      "headword": "sine, prep. (+ abl.)",
+      "pos": "Preposition",
+      "definition": "without; ; lack",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "sine"
+      },
+      "book_frequency": 12,
+      "total_frequency": 64,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 91
+    },
+    {
+      "rank": 353,
+      "book": 1,
+      "book_rank": 353,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ullus",
+      "headword": "ullus, a, um",
+      "pos": "Adjective",
+      "definition": "any",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "ullo"
+      },
+      "book_frequency": 5,
+      "total_frequency": 34,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 92
+    },
+    {
+      "rank": 354,
+      "book": 1,
+      "book_rank": 354,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "maleficium",
+      "headword": "maleficium, i, n.",
+      "pos": "Noun",
+      "definition": "crime/misdeed/offense; injury/hurt/wrong; fraud/deception ; sorcery; pest",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "maleficio"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 93
+    },
+    {
+      "rank": 355,
+      "book": 1,
+      "book_rank": 355,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "rogo",
+      "headword": "rogo, as, are",
+      "pos": "Verb",
+      "definition": "ask, ask for; invite; introduce",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "rogare"
+      },
+      "book_frequency": 5,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 94
+    },
+    {
+      "rank": 356,
+      "book": 1,
+      "book_rank": 356,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "voluntas",
+      "headword": "voluntas, atis, f.",
+      "pos": "Noun",
+      "definition": "will, desire; purpose; good will; wish, favor, consent",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "voluntate"
+      },
+      "book_frequency": 10,
+      "total_frequency": 22,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 95
+    },
+    {
+      "rank": 357,
+      "book": 1,
+      "book_rank": 357,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "liceo",
+      "headword": "liceo, v. impers.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "liceat"
+      },
+      "book_frequency": 8,
+      "total_frequency": 20,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 96
+    },
+    {
+      "rank": 358,
+      "book": 1,
+      "book_rank": 358,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "memoria",
+      "headword": "memoria, ae, f.",
+      "pos": "Noun",
+      "definition": "memory, recollection; history; time within memory",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "memoria"
+      },
+      "book_frequency": 6,
+      "total_frequency": 22,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 97
+    },
+    {
+      "rank": 359,
+      "book": 1,
+      "book_rank": 359,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "teneo",
+      "headword": "teneo, es, ere, ui, tentum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "tenebat"
+      },
+      "book_frequency": 13,
+      "total_frequency": 54,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 98
+    },
+    {
+      "rank": 360,
+      "book": 1,
+      "book_rank": 360,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Cassius",
+      "headword": "Cassius, i, m.",
+      "pos": "Noun",
+      "definition": "cinnamon ; aromatic shrub",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Cassium"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 99
+    },
+    {
+      "rank": 361,
+      "book": 1,
+      "book_rank": 361,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "pello",
+      "headword": "pello, is, ere, pepuli, pulsum",
+      "pos": "Verb",
+      "definition": "beat; drive out; push; banish, strike, defeat, drive away, rout",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "pulsum"
+      },
+      "book_frequency": 8,
+      "total_frequency": 24,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 100
+    },
+    {
+      "rank": 362,
+      "book": 1,
+      "book_rank": 362,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "sub",
+      "headword": "sub, prep. (+ acc.) / abl.",
+      "pos": "Verb",
+      "definition": "be underneath/a basis for discussion/close at hand as a reserve, be near",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "sub"
+      },
+      "book_frequency": 7,
+      "total_frequency": 42,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 101
+    },
+    {
+      "rank": 363,
+      "book": 1,
+      "book_rank": 363,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "jugum",
+      "headword": "jugum, i, n.",
+      "pos": "Noun",
+      "definition": "yoke; team, pair ; ridge , summit, chain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "iugum"
+      },
+      "book_frequency": 4,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 102
+    },
+    {
+      "rank": 364,
+      "book": 1,
+      "book_rank": 364,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "concedo",
+      "headword": "concedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "relinquish/give up/concede; depart; pardon; submit, allow/grant/permit/condone",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "concedendum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 103
+    },
+    {
+      "rank": 365,
+      "book": 1,
+      "book_rank": 365,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "puto",
+      "headword": "puto, as, are",
+      "pos": "Verb",
+      "definition": "think, believe, suppose, hold; reckon, estimate, value; clear up, settle",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "putabat"
+      },
+      "book_frequency": 7,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 104
+    },
+    {
+      "rank": 366,
+      "book": 1,
+      "book_rank": 366,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "inimicus",
+      "headword": "inimicus, a, um",
+      "pos": "Adjective",
+      "definition": "unfriendly, hostile, harmful",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "inimico"
+      },
+      "book_frequency": 2,
+      "total_frequency": 15,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 105
+    },
+    {
+      "rank": 367,
+      "book": 1,
+      "book_rank": 367,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "facultas",
+      "headword": "facultas, atis, f.",
+      "pos": "Noun",
+      "definition": "means; ability, skill; opportunity, chance; resources , supplies",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "facultate"
+      },
+      "book_frequency": 5,
+      "total_frequency": 33,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 106
+    },
+    {
+      "rank": 368,
+      "book": 1,
+      "book_rank": 368,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "tempero",
+      "headword": "tempero, as, are",
+      "pos": "Verb",
+      "definition": "combine, blend, temper; make mild; refrain from; control oneself",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "temperaturos"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 107
+    },
+    {
+      "rank": 369,
+      "book": 1,
+      "book_rank": 369,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "injuria",
+      "headword": "injuria, ae, f.",
+      "pos": "Noun",
+      "definition": "injury; injustice, wrong, offense; insult, abuse; sexual assault",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "iniuria"
+      },
+      "book_frequency": 16,
+      "total_frequency": 32,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 108
+    },
+    {
+      "rank": 370,
+      "book": 1,
+      "book_rank": 370,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "tamen",
+      "headword": "tamen, adv.",
+      "pos": "Adverb",
+      "definition": "yet, nevertheless, still",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "Tamen"
+      },
+      "book_frequency": 9,
+      "total_frequency": 112,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 109
+    },
+    {
+      "rank": 371,
+      "book": 1,
+      "book_rank": 371,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "spatium",
+      "headword": "spatium, ii, n.",
+      "pos": "Noun",
+      "definition": "interval, time, extent, period, term; duration; distance; area; size; bulk",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "spatium"
+      },
+      "book_frequency": 5,
+      "total_frequency": 46,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 110
+    },
+    {
+      "rank": 372,
+      "book": 1,
+      "book_rank": 372,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "intercedo",
+      "headword": "intercedo, is, ere, cessi, cessum, ere",
+      "pos": "Verb",
+      "definition": "intervene;  intercede, interrupt; hinder; veto; exist/come between",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "intercedere"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 111
+    },
+    {
+      "rank": 373,
+      "book": 1,
+      "book_rank": 373,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "dum",
+      "headword": "dum, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "while, as long as, until; provided that",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "dum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 29,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 112
+    },
+    {
+      "rank": 374,
+      "book": 1,
+      "book_rank": 374,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "respondeo",
+      "headword": "respondeo, es, ere, di, sum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "respondit"
+      },
+      "book_frequency": 10,
+      "total_frequency": 21,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 113
+    },
+    {
+      "rank": 375,
+      "book": 1,
+      "book_rank": 375,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "delibero",
+      "headword": "delibero, as, are",
+      "pos": "Verb",
+      "definition": "weigh/consider/deliberate/consult ; ponder/think over; resolve/decide on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "deliberandum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 114
+    },
+    {
+      "rank": 376,
+      "book": 1,
+      "book_rank": 376,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "sumo",
+      "headword": "sumo, is, ere, sumpsi, sumptum",
+      "pos": "Verb",
+      "definition": "take up; begin; suppose, assume; select; purchase; exact ; obtain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "sumpturum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 11,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 115
+    },
+    {
+      "rank": 377,
+      "book": 1,
+      "book_rank": 377,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "si",
+      "headword": "sī",
+      "pos": "Conjunction",
+      "definition": "if, whether",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "si"
+      },
+      "book_frequency": 54,
+      "total_frequency": 211,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 116
+    },
+    {
+      "rank": 378,
+      "book": 1,
+      "book_rank": 378,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "vello",
+      "headword": "vello, is, ere, uelli/uulsi, uulsum",
+      "pos": "Verb",
+      "definition": "pluck/pull/tear out; extract; pull hair/plants; uproot; depilate; demolish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "vellent"
+      },
+      "book_frequency": 11,
+      "total_frequency": 24,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 117
+    },
+    {
+      "rank": 379,
+      "book": 1,
+      "book_rank": 379,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "April",
+      "headword": "April",
+      "pos": "Adjective",
+      "definition": "April ; abb. Apr.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "April"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 118
+    },
+    {
+      "rank": 380,
+      "book": 1,
+      "book_rank": 380,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "revertor",
+      "headword": "revertor, eris, i, reuersus sum",
+      "pos": "Verb",
+      "definition": "turn back, go back, return; recur",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 7,
+        "surface_form": "reverterentur"
+      },
+      "book_frequency": 4,
+      "total_frequency": 28,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 119
+    },
+    {
+      "rank": 381,
+      "book": 1,
+      "book_rank": 381,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "interea",
+      "headword": "interea, adv.",
+      "pos": "Adverb",
+      "definition": "meanwhile",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "Interea"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 120
+    },
+    {
+      "rank": 382,
+      "book": 1,
+      "book_rank": 382,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "influo",
+      "headword": "influo, is, ere",
+      "pos": "Verb",
+      "definition": "flow into; flow",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "influit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 121
+    },
+    {
+      "rank": 383,
+      "book": 1,
+      "book_rank": 383,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "murus",
+      "headword": "murus, i, m.",
+      "pos": "Noun",
+      "definition": "wall, city wall",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "murum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 50,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 122
+    },
+    {
+      "rank": 384,
+      "book": 1,
+      "book_rank": 384,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "altitudo",
+      "headword": "altitudo, dinis, f.",
+      "pos": "Noun",
+      "definition": "height, altitude; depth; loftiness, profundity, noblemindedness, secrecy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "altitudinem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 28,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 123
+    },
+    {
+      "rank": 385,
+      "book": 1,
+      "book_rank": 385,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "pes",
+      "headword": "pes, pedis, m.",
+      "pos": "Noun",
+      "definition": "foot",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "pedum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 48,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 124
+    },
+    {
+      "rank": 386,
+      "book": 1,
+      "book_rank": 386,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "sedecim",
+      "headword": "sedecim, num.",
+      "pos": "Word",
+      "definition": "sixteen",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "sedecim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 125
+    },
+    {
+      "rank": 387,
+      "book": 1,
+      "book_rank": 387,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "fossa",
+      "headword": "fossa, ae, f.",
+      "pos": "Noun",
+      "definition": "ditch, trench, canal; moat; dike, fosse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "fossam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 29,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 126
+    },
+    {
+      "rank": 388,
+      "book": 1,
+      "book_rank": 388,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "perduco",
+      "headword": "perduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead, guide; prolong; induce, conduct, bring through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "perducit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 127
+    },
+    {
+      "rank": 389,
+      "book": 1,
+      "book_rank": 389,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "opus",
+      "headword": "opus, operis, n.",
+      "pos": "Noun",
+      "definition": "need; work; fortifications , works",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "opere"
+      },
+      "book_frequency": 5,
+      "total_frequency": 72,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 128
+    },
+    {
+      "rank": 390,
+      "book": 1,
+      "book_rank": 390,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "praesidium",
+      "headword": "praesidium, ii, n.",
+      "pos": "Noun",
+      "definition": "protection; help; guard; garrison, detachment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "praesidia"
+      },
+      "book_frequency": 6,
+      "total_frequency": 81,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 129
+    },
+    {
+      "rank": 391,
+      "book": 1,
+      "book_rank": 391,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "dispono",
+      "headword": "dispono, is, ere, posui, positum",
+      "pos": "Verb",
+      "definition": "dispose, place here and there, distribute; set/lay out; administer/manage/order",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "disponit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 29,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 130
+    },
+    {
+      "rank": 392,
+      "book": 1,
+      "book_rank": 392,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "castellum",
+      "headword": "castellum, i, n.",
+      "pos": "Noun",
+      "definition": "redoubt, fortress, stronghold, fortified settlement, refuge; castle, citadel",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "castella"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 131
+    },
+    {
+      "rank": 393,
+      "book": 1,
+      "book_rank": 393,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "communio",
+      "headword": "communio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "community, mutual participation; association; sharing; fellowship; communion",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "communit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 132
+    },
+    {
+      "rank": 394,
+      "book": 1,
+      "book_rank": 394,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "invitus",
+      "headword": "invitus, a, um",
+      "pos": "Verb",
+      "definition": "invite, summon; challenge, incite; encourage; attract, allure, entice",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "invito"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 133
+    },
+    {
+      "rank": 395,
+      "book": 1,
+      "book_rank": 395,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ueneo",
+      "headword": "ueneo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "venit"
+      },
+      "book_frequency": 10,
+      "total_frequency": 41,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 134
+    },
+    {
+      "rank": 396,
+      "book": 1,
+      "book_rank": 396,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "reverto",
+      "headword": "reverto, is, ere, i, sum",
+      "pos": "Verb",
+      "definition": "turn back, go back, return; recur",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "reverterunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 135
+    },
+    {
+      "rank": 397,
+      "book": 1,
+      "book_rank": 397,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nego",
+      "headword": "nego, as, are",
+      "pos": "Verb",
+      "definition": "deny, refuse; say ... not",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "negat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 136
+    },
+    {
+      "rank": 398,
+      "book": 1,
+      "book_rank": 398,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "exemplum",
+      "headword": "exemplum, i, n.",
+      "pos": "Noun",
+      "definition": "pattern, model; parallel, analogy; archetype; copy/reproduction, transcription",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "exemplo"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 137
+    },
+    {
+      "rank": 399,
+      "book": 1,
+      "book_rank": 399,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ostendo",
+      "headword": "ostendo, is, ere, tendi, tentum",
+      "pos": "Verb",
+      "definition": "show; reveal; make clear, point out, display, exhibit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "ostendit"
+      },
+      "book_frequency": 5,
+      "total_frequency": 21,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 138
+    },
+    {
+      "rank": 400,
+      "book": 1,
+      "book_rank": 400,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "deicio",
+      "headword": "deicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "throw/pour/jump/send/put/push/force/knock/bring down; cause to fall/drop; hang",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "deiecti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 139
+    },
+    {
+      "rank": 401,
+      "book": 1,
+      "book_rank": 401,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "navis",
+      "headword": "navis, is, f.",
+      "pos": "Noun",
+      "definition": "ship",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "navibus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 105,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 140
+    },
+    {
+      "rank": 402,
+      "book": 1,
+      "book_rank": 402,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "jungo",
+      "headword": "jungo, is, ere, iunxi, iunctum",
+      "pos": "Verb",
+      "definition": "join, unite; bring together, clasp ; connect, yoke, harness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "iunctis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 141
+    },
+    {
+      "rank": 403,
+      "book": 1,
+      "book_rank": 403,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ratis",
+      "headword": "ratis, is, f.",
+      "pos": "Noun",
+      "definition": "raft; ship, boat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "ratibus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 142
+    },
+    {
+      "rank": 404,
+      "book": 1,
+      "book_rank": 404,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "complures",
+      "headword": "complures, ium",
+      "pos": "Noun",
+      "definition": "many/several things/items, a fair/good number of things",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "compluribus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 56,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 143
+    },
+    {
+      "rank": 405,
+      "book": 1,
+      "book_rank": 405,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "numquam",
+      "headword": "numquam, adv.",
+      "pos": "Adverb",
+      "definition": "never",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "numquam"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 144
+    },
+    {
+      "rank": 406,
+      "book": 1,
+      "book_rank": 406,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "interdiu",
+      "headword": "interdiu, adv.",
+      "pos": "Adverb",
+      "definition": "in the daytime, by day",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "interdiu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 145
+    },
+    {
+      "rank": 407,
+      "book": 1,
+      "book_rank": 407,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "noctu",
+      "headword": "noctu, adv.",
+      "pos": "Adverb",
+      "definition": "by night, at night",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "noctu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 146
+    },
+    {
+      "rank": 408,
+      "book": 1,
+      "book_rank": 408,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "perrumpo",
+      "headword": "perrumpo, is, ere, rupi, ruptum",
+      "pos": "Verb",
+      "definition": "break through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "perrumpere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 147
+    },
+    {
+      "rank": 409,
+      "book": 1,
+      "book_rank": 409,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "munitio",
+      "headword": "munitio, ionis, f.",
+      "pos": "Noun",
+      "definition": "fortifying; fortification",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "munitio"
+      },
+      "book_frequency": 3,
+      "total_frequency": 79,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 148
+    },
+    {
+      "rank": 410,
+      "book": 1,
+      "book_rank": 410,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "concurro",
+      "headword": "concurro, is, ere, curri, cursum",
+      "pos": "Verb",
+      "definition": "run/assemble/knock/snap together; agree, fit, concur; coincide; make same claim",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "concursu"
+      },
+      "book_frequency": 2,
+      "total_frequency": 24,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 149
+    },
+    {
+      "rank": 411,
+      "book": 1,
+      "book_rank": 411,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "telum",
+      "headword": "telum, i, n.",
+      "pos": "Noun",
+      "definition": "dart, spear; weapon, javelin; bullet",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "telis"
+      },
+      "book_frequency": 5,
+      "total_frequency": 46,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 150
+    },
+    {
+      "rank": 412,
+      "book": 1,
+      "book_rank": 412,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "repello",
+      "headword": "repello, is, ere, rep(p)uli, repulsum",
+      "pos": "Verb",
+      "definition": "drive/push/thrust back/away; repel/rebuff/spurn; fend off; exclude/bar; refute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "repulsi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 151
+    },
+    {
+      "rank": 413,
+      "book": 1,
+      "book_rank": 413,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "desisto",
+      "headword": "desisto, is, ere, destiti, destitum",
+      "pos": "Verb",
+      "definition": "stop/cease/desist ; give up, leave/stand off; dissociate oneself",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 8,
+        "surface_form": "destiterunt"
+      },
+      "book_frequency": 4,
+      "total_frequency": 13,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 152
+    },
+    {
+      "rank": 414,
+      "book": 1,
+      "book_rank": 414,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "relinquo",
+      "headword": "relinquo, is, ere, reliqui, relictum",
+      "pos": "Verb",
+      "definition": "leave behind, abandon;  be left, remain; bequeath",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "Relinquebatur"
+      },
+      "book_frequency": 7,
+      "total_frequency": 97,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 153
+    },
+    {
+      "rank": 415,
+      "book": 1,
+      "book_rank": 415,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "via",
+      "headword": "via, ae, f.",
+      "pos": "Verb",
+      "definition": "plait, weave; bend/twist into basketwork",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "via"
+      },
+      "book_frequency": 3,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 154
+    },
+    {
+      "rank": 416,
+      "book": 1,
+      "book_rank": 416,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "propter",
+      "headword": "propter, prep. (+ acc.)",
+      "pos": "Preposition",
+      "definition": "near; on account of; by means of; because of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "propter"
+      },
+      "book_frequency": 12,
+      "total_frequency": 69,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 155
+    },
+    {
+      "rank": 417,
+      "book": 1,
+      "book_rank": 417,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "angustia",
+      "headword": "angustia, ae, f.",
+      "pos": "Verb",
+      "definition": "narrow, reduce width/size/amount, constrict, limit; choke, crowd together/hamper",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "angustias"
+      },
+      "book_frequency": 4,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 156
+    },
+    {
+      "rank": 418,
+      "book": 1,
+      "book_rank": 418,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "sponte",
+      "headword": "sponte, adv.",
+      "pos": "Adverb",
+      "definition": "of one's own will; voluntarily; for one's own sake",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "sponte"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 157
+    },
+    {
+      "rank": 419,
+      "book": 1,
+      "book_rank": 419,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "deprecator",
+      "headword": "deprecator, oris, m.",
+      "pos": "Noun",
+      "definition": "intercessor, one pleading for mercy; go-between; champion/advocate; mediator",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "deprecatore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 158
+    },
+    {
+      "rank": 420,
+      "book": 1,
+      "book_rank": 420,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "impetro",
+      "headword": "impetro, as, are",
+      "pos": "Verb",
+      "definition": "obtain/procure ; succeed/achieve/be granted; obtain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "impetrarent"
+      },
+      "book_frequency": 5,
+      "total_frequency": 18,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 159
+    },
+    {
+      "rank": 421,
+      "book": 1,
+      "book_rank": 421,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "gratia",
+      "headword": "gratia, ae, f.",
+      "pos": "Noun",
+      "definition": "favor/goodwill/kindness/friendship; influence; gratitude; thanks ; Graces",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "gratia"
+      },
+      "book_frequency": 13,
+      "total_frequency": 40,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 160
+    },
+    {
+      "rank": 422,
+      "book": 1,
+      "book_rank": 422,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "largitio",
+      "headword": "largitio, ionis, f.",
+      "pos": "Noun",
+      "definition": "generosity, lavish giving, largess; bribery; distribution of dole/land",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "largitio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 161
+    },
+    {
+      "rank": 423,
+      "book": 1,
+      "book_rank": 423,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "noui",
+      "headword": "noui",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "novis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 162
+    },
+    {
+      "rank": 424,
+      "book": 1,
+      "book_rank": 424,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "studeo",
+      "headword": "studeo, es, ere, ui",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "studebat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 163
+    },
+    {
+      "rank": 425,
+      "book": 1,
+      "book_rank": 425,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "beneficium",
+      "headword": "beneficium, ii, n.",
+      "pos": "Noun",
+      "definition": "kindness, favor, benefit, service, help; privilege, right",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "beneficio"
+      },
+      "book_frequency": 7,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 164
+    },
+    {
+      "rank": 426,
+      "book": 1,
+      "book_rank": 426,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "obstringo",
+      "headword": "obstringo, is, ere, strinxi, strictum",
+      "pos": "Verb",
+      "definition": "confine; involve; oblige, put under an obligation, bind, bind by oath",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "obstrictas"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 165
+    },
+    {
+      "rank": 427,
+      "book": 1,
+      "book_rank": 427,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "volo",
+      "headword": "volo, uis, uelle, uolui",
+      "pos": "Noun",
+      "definition": "volunteers",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "volebat"
+      },
+      "book_frequency": 8,
+      "total_frequency": 35,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 166
+    },
+    {
+      "rank": 428,
+      "book": 1,
+      "book_rank": 428,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ita",
+      "headword": "ita, adv.",
+      "pos": "Adverb",
+      "definition": "thus, so; therefore",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "Itaque"
+      },
+      "book_frequency": 23,
+      "total_frequency": 111,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 167
+    },
+    {
+      "rank": 429,
+      "book": 1,
+      "book_rank": 429,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "obsideo",
+      "headword": "obsideo, es, ere, edi, essum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 9,
+        "surface_form": "obsides"
+      },
+      "book_frequency": 14,
+      "total_frequency": 63,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 168
+    },
+    {
+      "rank": 430,
+      "book": 1,
+      "book_rank": 430,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "renuntio",
+      "headword": "renuntio, as, are",
+      "pos": "Verb",
+      "definition": "report, announce; reject",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "renuntiatur"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 169
+    },
+    {
+      "rank": 431,
+      "book": 1,
+      "book_rank": 431,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Haedui",
+      "headword": "Haeduī, -ōrum, m. pl.",
+      "pos": "Proper Noun",
+      "definition": "the Aedui/Haedui (influential Celtic tribe allied with Rome)",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Haeduorum"
+      },
+      "book_frequency": 39,
+      "total_frequency": 124,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 170
+    },
+    {
+      "rank": 432,
+      "book": 1,
+      "book_rank": 432,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Santones",
+      "headword": "Santones, um, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Santonum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 171
+    },
+    {
+      "rank": 433,
+      "book": 1,
+      "book_rank": 433,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Tolosates",
+      "headword": "Tolosates, ium, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Tolosatium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 172
+    },
+    {
+      "rank": 434,
+      "book": 1,
+      "book_rank": 434,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "intellego",
+      "headword": "intellego, is, ere, lexi, lectum",
+      "pos": "Verb",
+      "definition": "understand; realize",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "intellegebat"
+      },
+      "book_frequency": 13,
+      "total_frequency": 49,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 173
+    },
+    {
+      "rank": 435,
+      "book": 1,
+      "book_rank": 435,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "bellicosus",
+      "headword": "bellicosus, a, um",
+      "pos": "Adjective",
+      "definition": "warlike, fierce; fond of war",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "bellicosos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 174
+    },
+    {
+      "rank": 436,
+      "book": 1,
+      "book_rank": 436,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "frumentarius",
+      "headword": "frumentarius, a, um",
+      "pos": "Adjective",
+      "definition": "grain producing; of/concerning grain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "frumentariis"
+      },
+      "book_frequency": 7,
+      "total_frequency": 30,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 175
+    },
+    {
+      "rank": 437,
+      "book": 1,
+      "book_rank": 437,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "T",
+      "headword": "T",
+      "pos": "Proper Noun",
+      "definition": "you ; thou/thine/thee/thy ; yourself/thyself",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "T"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 176
+    },
+    {
+      "rank": 438,
+      "book": 1,
+      "book_rank": 438,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Labienus",
+      "headword": "Labiēnus, -ī, m.",
+      "pos": "Proper Noun",
+      "definition": "Titus Labienus (Caesar's most trusted legatus and second-in-command during the Gallic Wars)",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Labienum"
+      },
+      "book_frequency": 7,
+      "total_frequency": 64,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 177
+    },
+    {
+      "rank": 439,
+      "book": 1,
+      "book_rank": 439,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "praeficio",
+      "headword": "praeficio, is, ere, feci, fectum",
+      "pos": "Verb",
+      "definition": "put in charge, place in command",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "praeficit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 178
+    },
+    {
+      "rank": 440,
+      "book": 1,
+      "book_rank": 440,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Italia",
+      "headword": "Italia, ae, f.",
+      "pos": "Noun",
+      "definition": "Italy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Italiam"
+      },
+      "book_frequency": 3,
+      "total_frequency": 34,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 179
+    },
+    {
+      "rank": 441,
+      "book": 1,
+      "book_rank": 441,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "ibi",
+      "headword": "ibi, adv.",
+      "pos": "Adverb",
+      "definition": "there, in that place; thereupon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "ibi"
+      },
+      "book_frequency": 7,
+      "total_frequency": 68,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 180
+    },
+    {
+      "rank": 442,
+      "book": 1,
+      "book_rank": 442,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "conscribo",
+      "headword": "conscribo, is, ere, scripsi, scriptum",
+      "pos": "Verb",
+      "definition": "enroll/enlist/raise ; write on/down, commit to/cover with writing; compose",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "conscribit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 181
+    },
+    {
+      "rank": 443,
+      "book": 1,
+      "book_rank": 443,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "circum",
+      "headword": "circum, adv.",
+      "pos": "Verb",
+      "definition": "encircle, surround; border; skirt; circulate/wander through; go/measure round",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "circum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 182
+    },
+    {
+      "rank": 444,
+      "book": 1,
+      "book_rank": 444,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Aquileja",
+      "headword": "Aquileja",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Aquileiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 183
+    },
+    {
+      "rank": 445,
+      "book": 1,
+      "book_rank": 445,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "hiemo",
+      "headword": "hiemo, as, are",
+      "pos": "Verb",
+      "definition": "winter, pass the winter, keep winter quarters; be wintry/frozen/stormy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "hiemabant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 21,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 184
+    },
+    {
+      "rank": 446,
+      "book": 1,
+      "book_rank": 446,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "hiberna",
+      "headword": "hiberna, orum, n. pl.",
+      "pos": "Noun",
+      "definition": "wintry; stormy, of/for winter time/rainy season",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "hibernis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 69,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 185
+    },
+    {
+      "rank": 447,
+      "book": 1,
+      "book_rank": 447,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "educo",
+      "headword": "educo, as, are",
+      "pos": "Verb",
+      "definition": "lead out; draw up; bring up; rear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "educit"
+      },
+      "book_frequency": 4,
+      "total_frequency": 26,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 186
+    },
+    {
+      "rank": 448,
+      "book": 1,
+      "book_rank": 448,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Alpis",
+      "headword": "Alpis, is, f.",
+      "pos": "Noun",
+      "definition": "Alps , mountains to the north of Italy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Alpes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 187
+    },
+    {
+      "rank": 449,
+      "book": 1,
+      "book_rank": 449,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Ceutrones",
+      "headword": "Ceutrones, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Ceutrones"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 188
+    },
+    {
+      "rank": 450,
+      "book": 1,
+      "book_rank": 450,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Graioceli",
+      "headword": "Graioceli, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Graioceli"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 189
+    },
+    {
+      "rank": 451,
+      "book": 1,
+      "book_rank": 451,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Caturiges",
+      "headword": "Caturiges, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Caturiges"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 190
+    },
+    {
+      "rank": 452,
+      "book": 1,
+      "book_rank": 452,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "superus",
+      "headword": "superus, a, um",
+      "pos": "Verb",
+      "definition": "overcome, conquer; survive; outdo; surpass, be above, have the upper hand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "superioribus"
+      },
+      "book_frequency": 5,
+      "total_frequency": 84,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 191
+    },
+    {
+      "rank": 453,
+      "book": 1,
+      "book_rank": 453,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Ocelum",
+      "headword": "Ocelum, i, n.",
+      "pos": "Noun",
+      "definition": "Ocelum, city in Cisalpine Gaul",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Ocelo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 192
+    },
+    {
+      "rank": 454,
+      "book": 1,
+      "book_rank": 454,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "citerior",
+      "headword": "citerior, oris",
+      "pos": "Noun",
+      "definition": "clown; effigy/caricature carried in procession at the games",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "citerioris"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 193
+    },
+    {
+      "rank": 455,
+      "book": 1,
+      "book_rank": 455,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Vocontii",
+      "headword": "Vocontii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Vocontiorum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 194
+    },
+    {
+      "rank": 456,
+      "book": 1,
+      "book_rank": 456,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "septimus",
+      "headword": "septimus, a, um",
+      "pos": "Adjective",
+      "definition": "seven",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "septimo"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 195
+    },
+    {
+      "rank": 457,
+      "book": 1,
+      "book_rank": 457,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "inde",
+      "headword": "inde, adv.",
+      "pos": "Adverb",
+      "definition": "thence, thenceforth; from that place/time/cause; thereupon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "inde"
+      },
+      "book_frequency": 2,
+      "total_frequency": 16,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 196
+    },
+    {
+      "rank": 458,
+      "book": 1,
+      "book_rank": 458,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Segusiaui",
+      "headword": "Segusiaui",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "Segusiavos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 197
+    },
+    {
+      "rank": 459,
+      "book": 1,
+      "book_rank": 459,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "extra",
+      "headword": "extra, prep. (+ acc.)",
+      "pos": "Preposition",
+      "definition": "outside of, beyond, without, beside; except",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "extra"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 198
+    },
+    {
+      "rank": 460,
+      "book": 1,
+      "book_rank": 460,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "primus",
+      "headword": "primus, a, um",
+      "pos": "Adjective",
+      "definition": "first, foremost/best, chief, principal; nearest/next",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 10,
+        "surface_form": "primi"
+      },
+      "book_frequency": 15,
+      "total_frequency": 117,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 199
+    },
+    {
+      "rank": 461,
+      "book": 1,
+      "book_rank": 461,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "traduco",
+      "headword": "traduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "bring across/over, move/transfer; convert; cause to cross/to extend across area",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "traduxerant"
+      },
+      "book_frequency": 9,
+      "total_frequency": 36,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 200
+    },
+    {
+      "rank": 462,
+      "book": 1,
+      "book_rank": 462,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "populor",
+      "headword": "populor, aris, atus sum",
+      "pos": "Noun",
+      "definition": "people, nation, State; public/populace/multitude/crowd; a following",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "populabantur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 201
+    },
+    {
+      "rank": 463,
+      "book": 1,
+      "book_rank": 463,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "defendo",
+      "headword": "defendo, is, ere, fendi, fensum",
+      "pos": "Verb",
+      "definition": "defend/guard/protect, look after; act/speak/plead/write for defense; prosecute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "defendere"
+      },
+      "book_frequency": 4,
+      "total_frequency": 36,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 202
+    },
+    {
+      "rank": 464,
+      "book": 1,
+      "book_rank": 464,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "auxilium",
+      "headword": "auxilium, ii, n.",
+      "pos": "Noun",
+      "definition": "help, assistance; remedy/antidote; supporting resource/force; auxiliaries",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "auxilium"
+      },
+      "book_frequency": 12,
+      "total_frequency": 81,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 203
+    },
+    {
+      "rank": 465,
+      "book": 1,
+      "book_rank": 465,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "mereo",
+      "headword": "mereo, es, ere, rui, ritum (mereri, eor, itus sum)",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "meritos"
+      },
+      "book_frequency": 4,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 204
+    },
+    {
+      "rank": 466,
+      "book": 1,
+      "book_rank": 466,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "paene",
+      "headword": "paene, adv.",
+      "pos": "Adverb",
+      "definition": "nearly, almost; mostly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "paene"
+      },
+      "book_frequency": 3,
+      "total_frequency": 22,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 205
+    },
+    {
+      "rank": 467,
+      "book": 1,
+      "book_rank": 467,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "conspectus",
+      "headword": "conspectus, us, m.",
+      "pos": "Noun",
+      "definition": "visible, open to view; remarkable/striking/eminent/distinguished; conspicuous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "conspectu"
+      },
+      "book_frequency": 3,
+      "total_frequency": 25,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 206
+    },
+    {
+      "rank": 468,
+      "book": 1,
+      "book_rank": 468,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "vasto",
+      "headword": "vasto, as, are",
+      "pos": "Verb",
+      "definition": "lay waste, ravage, devastate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "vastari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 207
+    },
+    {
+      "rank": 469,
+      "book": 1,
+      "book_rank": 469,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "liberi",
+      "headword": "liberi, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "liberi"
+      },
+      "book_frequency": 3,
+      "total_frequency": 23,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 208
+    },
+    {
+      "rank": 470,
+      "book": 1,
+      "book_rank": 470,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "servitus",
+      "headword": "servitus, utis, f.",
+      "pos": "Noun",
+      "definition": "slavery; slaves; servitude",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "servitutem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 15,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 209
+    },
+    {
+      "rank": 471,
+      "book": 1,
+      "book_rank": 471,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "abduco",
+      "headword": "abduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead away, carry off; detach, attract away, entice, seduce, charm; withdraw",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "abduci"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 210
+    },
+    {
+      "rank": 472,
+      "book": 1,
+      "book_rank": 472,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "expugno",
+      "headword": "expugno, as, are",
+      "pos": "Verb",
+      "definition": "assault, storm; conquer, plunder; accomplish; persuade",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "expugnari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 211
+    },
+    {
+      "rank": 473,
+      "book": 1,
+      "book_rank": 473,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "debeo",
+      "headword": "debeo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "debuerint"
+      },
+      "book_frequency": 5,
+      "total_frequency": 17,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 212
+    },
+    {
+      "rank": 474,
+      "book": 1,
+      "book_rank": 474,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Ambarri",
+      "headword": "Ambarri, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "Ambarri"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 213
+    },
+    {
+      "rank": 475,
+      "book": 1,
+      "book_rank": 475,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "necessarius",
+      "headword": "necessarius, i, m.",
+      "pos": "Noun",
+      "definition": "relative; connection, one closely connected by friendship/family/obligation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "necessarii"
+      },
+      "book_frequency": 5,
+      "total_frequency": 20,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 214
+    },
+    {
+      "rank": 476,
+      "book": 1,
+      "book_rank": 476,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "consanguineus",
+      "headword": "consanguineus, a, um",
+      "pos": "Adjective",
+      "definition": "of the same blood; related by blood; kindred; fraternal; brotherly/sisterly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "consanguinei"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 215
+    },
+    {
+      "rank": 477,
+      "book": 1,
+      "book_rank": 477,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "depopulor",
+      "headword": "depopulor, aris, atus sum",
+      "pos": "Verb",
+      "definition": "sack/plunder/pillage/rob/despoil; ravage/devastate/destroy/lay waste; overgraze",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "depopulatis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 216
+    },
+    {
+      "rank": 478,
+      "book": 1,
+      "book_rank": 478,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "hostis",
+      "headword": "hostis, is, m.",
+      "pos": "Noun",
+      "definition": "enemy ; stranger, foreigner; the enemy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "hostium"
+      },
+      "book_frequency": 38,
+      "total_frequency": 338,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 217
+    },
+    {
+      "rank": 479,
+      "book": 1,
+      "book_rank": 479,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "possessio",
+      "headword": "possessio, onis, f.",
+      "pos": "Noun",
+      "definition": "possession, property",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "possessiones"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 218
+    },
+    {
+      "rank": 480,
+      "book": 1,
+      "book_rank": 480,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "fuga",
+      "headword": "fuga, ae, f.",
+      "pos": "Verb",
+      "definition": "put to flight, rout; chase away; drive into exile",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "fuga"
+      },
+      "book_frequency": 12,
+      "total_frequency": 82,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 219
+    },
+    {
+      "rank": 481,
+      "book": 1,
+      "book_rank": 481,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "demonstro",
+      "headword": "demonstro, as, are",
+      "pos": "Verb",
+      "definition": "point out/at/to, draw attention to; explain/describe/show, give an account of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "demonstrant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 38,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 220
+    },
+    {
+      "rank": 482,
+      "book": 1,
+      "book_rank": 482,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "nihil",
+      "headword": "nihil, pron.",
+      "pos": "Noun",
+      "definition": "nothing; no; trifle/thing not worth mentioning; nonentity; nonsense; no concern",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "nihil"
+      },
+      "book_frequency": 6,
+      "total_frequency": 53,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 221
+    },
+    {
+      "rank": 483,
+      "book": 1,
+      "book_rank": 483,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "exspecto",
+      "headword": "exspecto, as, are, aui, atum",
+      "pos": "Verb",
+      "definition": "lookout for, await; expect, anticipate, hope for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "expectandum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 34,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 222
+    },
+    {
+      "rank": 484,
+      "book": 1,
+      "book_rank": 484,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "statuo",
+      "headword": "statuo, is, ere, statui, statutum",
+      "pos": "Verb",
+      "definition": "set up, establish, set, place, build; decide, think",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "statuit"
+      },
+      "book_frequency": 5,
+      "total_frequency": 26,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 223
+    },
+    {
+      "rank": 485,
+      "book": 1,
+      "book_rank": 485,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "fortuna",
+      "headword": "fortuna, ae, f.",
+      "pos": "Noun",
+      "definition": "chance, luck, fate; prosperity; condition, wealth, property",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "fortunis"
+      },
+      "book_frequency": 6,
+      "total_frequency": 41,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 224
+    },
+    {
+      "rank": 486,
+      "book": 1,
+      "book_rank": 486,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "consumo",
+      "headword": "consumo, is, ere, sumpsi, sumptum",
+      "pos": "Verb",
+      "definition": "devour/swallow up/consume/eat/use up/exhaust/expend; spend; squander/waste",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "consumptis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 225
+    },
+    {
+      "rank": 487,
+      "book": 1,
+      "book_rank": 487,
+      "stage": "Book 1 Chunk 2",
+      "lemma": "Santoni",
+      "headword": "Santoni, orum, m. cf. Santones",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 11,
+        "surface_form": "Santonos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 2,
+      "chunk_title": "Helvetian Departure & Defense of the Rhone",
+      "chunk_rank": 226
+    }
+  ]
+}

@@ -1,0 +1,4411 @@
+{
+  "book": 1,
+  "chunk": 5,
+  "title": "The German Threat & Mutiny at Vesontio",
+  "chapters": "Chapters 30–40",
+  "running_tokens": 2119,
+  "new_word_count": 220,
+  "cumulative_book_1_words": 1174,
+  "words": [
+    {
+      "rank": 955,
+      "book": 1,
+      "book_rank": 955,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "gratulor",
+      "headword": "gratulor, aris, ari",
+      "pos": "Verb",
+      "definition": "congratulate; rejoice, be glad; thank, give/render thanks",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "gratulatum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 1
+    },
+    {
+      "rank": 956,
+      "book": 1,
+      "book_rank": 956,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tametsi",
+      "headword": "tametsi, conj.",
+      "pos": "Conjunction",
+      "definition": "even if, although, though",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "tametsi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 2
+    },
+    {
+      "rank": 957,
+      "book": 1,
+      "book_rank": 957,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "uetus",
+      "headword": "uetus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "veteribus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 3
+    },
+    {
+      "rank": 958,
+      "book": 1,
+      "book_rank": 958,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "repeto",
+      "headword": "repeto, is, ere, iui/ii, titum",
+      "pos": "Verb",
+      "definition": "return to; get back; demand back/again; repeat; recall; claim",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "repetisset"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 4
+    },
+    {
+      "rank": 959,
+      "book": 1,
+      "book_rank": 959,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "terra",
+      "headword": "terra, ae, f.",
+      "pos": "Noun",
+      "definition": "earth, land, ground; country, region",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "terrae"
+      },
+      "book_frequency": 2,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 5
+    },
+    {
+      "rank": 960,
+      "book": 1,
+      "book_rank": 960,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "florens",
+      "headword": "florens, entis",
+      "pos": "Adjective",
+      "definition": "blooming/in bloom, flowering; flowery, bright/shining; flourishing, prosperous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "florentissimis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 6
+    },
+    {
+      "rank": 961,
+      "book": 1,
+      "book_rank": 961,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "domicilium",
+      "headword": "domicilium, i, n.",
+      "pos": "Noun",
+      "definition": "residence, home, dwelling, abode",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "domicilio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 7
+    },
+    {
+      "rank": 962,
+      "book": 1,
+      "book_rank": 962,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "oportunus",
+      "headword": "oportunus, a, um",
+      "pos": "Adjective",
+      "definition": "suitable; advantageous; useful, fit, favorable/opportune, ready; liable/exposed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "oportunissimum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 8
+    },
+    {
+      "rank": 963,
+      "book": 1,
+      "book_rank": 963,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "fructuosus",
+      "headword": "fructuosus, a, um",
+      "pos": "Adjective",
+      "definition": "fruitful, productive, abounding in fruit; profitable, advantageous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "fructuosissimum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 9
+    },
+    {
+      "rank": 964,
+      "book": 1,
+      "book_rank": 964,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "stipendiarius",
+      "headword": "stipendiarius, a, um",
+      "pos": "Adjective",
+      "definition": "mercenary; paying tribute in the form of cash",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "stipendiarias"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 10
+    },
+    {
+      "rank": 965,
+      "book": 1,
+      "book_rank": 965,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "indico",
+      "headword": "indico, is, ere, dixi, dictum",
+      "pos": "Verb",
+      "definition": "point out, show, indicate, expose, betray, reveal; inform against, accuse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "indicere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 11
+    },
+    {
+      "rank": 966,
+      "book": 1,
+      "book_rank": 966,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "quidam",
+      "headword": "quidam, quaedam, quoddam/quiddam",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "quasdam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 12
+    },
+    {
+      "rank": 967,
+      "book": 1,
+      "book_rank": 967,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "communis",
+      "headword": "communis, e",
+      "pos": "Noun",
+      "definition": "common feature, characteristic, general rule/terms; general; common lot/remedy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "communi"
+      },
+      "book_frequency": 4,
+      "total_frequency": 30,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 13
+    },
+    {
+      "rank": 968,
+      "book": 1,
+      "book_rank": 968,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "consensus",
+      "headword": "consensus, us, m.",
+      "pos": "Noun",
+      "definition": "agreement , consent, harmony; unanimity; conclusion, plot, conspiracy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "consensu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 14
+    },
+    {
+      "rank": 969,
+      "book": 1,
+      "book_rank": 969,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "permitto",
+      "headword": "permitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "let through; let go through; relinquish; permit, allow; entrust; hurl",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "permissa"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 15
+    },
+    {
+      "rank": 970,
+      "book": 1,
+      "book_rank": 970,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "sancio",
+      "headword": "sancio, is, ire, sanxi, sanctum",
+      "pos": "Verb",
+      "definition": "confirm, ratify; sanction; fulfill ; enact ; ordain; dedicate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 30,
+        "surface_form": "sanxerunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 16
+    },
+    {
+      "rank": 971,
+      "book": 1,
+      "book_rank": 971,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "occultus",
+      "headword": "occultus, a, um",
+      "pos": "Noun",
+      "definition": "secrecy; hiding",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "occulto"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 17
+    },
+    {
+      "rank": 972,
+      "book": 1,
+      "book_rank": 972,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "laboro",
+      "headword": "laboro, as, are",
+      "pos": "Verb",
+      "definition": "preoccupation/concern; struggle/suffering/distress/hardship/stress; wear+tear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "laborare"
+      },
+      "book_frequency": 2,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 18
+    },
+    {
+      "rank": 973,
+      "book": 1,
+      "book_rank": 973,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cruciatus",
+      "headword": "cruciatus, us, m.",
+      "pos": "Noun",
+      "definition": "torture/cruelty; torture form/apparatus; suffering, severe physical/mental pain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "cruciatum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 19
+    },
+    {
+      "rank": 974,
+      "book": 1,
+      "book_rank": 974,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "factio",
+      "headword": "factio, onis, f.",
+      "pos": "Noun",
+      "definition": "party, faction; partisanship",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "factiones"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 20
+    },
+    {
+      "rank": 975,
+      "book": 1,
+      "book_rank": 975,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Arverni",
+      "headword": "Arverni, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Arvernos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 27,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 21
+    },
+    {
+      "rank": 976,
+      "book": 1,
+      "book_rank": 976,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tantopere",
+      "headword": "tantopere, adv.",
+      "pos": "Adverb",
+      "definition": "so much, so hard",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "tantopere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 22
+    },
+    {
+      "rank": 977,
+      "book": 1,
+      "book_rank": 977,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "potentatus",
+      "headword": "potentatus, us, m.",
+      "pos": "Noun",
+      "definition": "rule; political power",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "potentatu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 23
+    },
+    {
+      "rank": 978,
+      "book": 1,
+      "book_rank": 978,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "merces",
+      "headword": "merces, edis, f.",
+      "pos": "Noun",
+      "definition": "pay, recompense, hire, salary, reward; rent, price; bribe",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "mercede"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 24
+    },
+    {
+      "rank": 979,
+      "book": 1,
+      "book_rank": 979,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "arcesso",
+      "headword": "arcesso, is, ere, iui, itum",
+      "pos": "Verb",
+      "definition": "send for, summon; indict/accuse; fetch, import; invite; invoke; bring on oneself",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "arcesserentur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 16,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 25
+    },
+    {
+      "rank": 980,
+      "book": 1,
+      "book_rank": 980,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "ferio",
+      "headword": "ferio, is, ire",
+      "pos": "Verb",
+      "definition": "rest from work/labor; keep/celebrate holiday; be idle; abstain from",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "feri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 26
+    },
+    {
+      "rank": 981,
+      "book": 1,
+      "book_rank": 981,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "barbarus",
+      "headword": "barbarus, a, um",
+      "pos": "Adjective",
+      "definition": "foreign, of/used by/typical of foreigners; cruel, savage; uncivilized, uncouth",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "barbari"
+      },
+      "book_frequency": 5,
+      "total_frequency": 42,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 27
+    },
+    {
+      "rank": 982,
+      "book": 1,
+      "book_rank": 982,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "adamo",
+      "headword": "adamo, as, are",
+      "pos": "Verb",
+      "definition": "fall in love/lust with; love passionately/adulterously; admire greatly; covet",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "adamassent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 28
+    },
+    {
+      "rank": 983,
+      "book": 1,
+      "book_rank": 983,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "nunc",
+      "headword": "nunc, adv.",
+      "pos": "Adverb",
+      "definition": "now, today, at present",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "nunc"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 29
+    },
+    {
+      "rank": 984,
+      "book": 1,
+      "book_rank": 984,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "semel",
+      "headword": "semel, adv.",
+      "pos": "Adverb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "semel"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 30
+    },
+    {
+      "rank": 985,
+      "book": 1,
+      "book_rank": 985,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "iterum",
+      "headword": "iterum, adv.",
+      "pos": "Adverb",
+      "definition": "again; a second time; for the second time",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "iterum"
+      },
+      "book_frequency": 5,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 31
+    },
+    {
+      "rank": 986,
+      "book": 1,
+      "book_rank": 986,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "frango",
+      "headword": "frango, is, ere, fregi, fractum",
+      "pos": "Verb",
+      "definition": "break, shatter, crush; dishearten, subdue, weaken; move, discourage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "fractos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 32
+    },
+    {
+      "rank": 987,
+      "book": 1,
+      "book_rank": 987,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "hospitium",
+      "headword": "hospitium, i, n.",
+      "pos": "Noun",
+      "definition": "hospitality, entertainment; lodging; guest room/lodging; inn",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "hospitio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 33
+    },
+    {
+      "rank": 988,
+      "book": 1,
+      "book_rank": 988,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "imploro",
+      "headword": "imploro, as, are",
+      "pos": "Verb",
+      "definition": "appeal to, invoke; beg, beseech, implore; ask for help/favor/protection",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "imploraturos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 34
+    },
+    {
+      "rank": 989,
+      "book": 1,
+      "book_rank": 989,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "recuso",
+      "headword": "recuso, as, are",
+      "pos": "Verb",
+      "definition": "reject, refuse, refuse to; object; decline",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "recusaturos"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 35
+    },
+    {
+      "rank": 990,
+      "book": 1,
+      "book_rank": 990,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "perpetuus",
+      "headword": "perpetuus, a, um",
+      "pos": "Adjective",
+      "definition": "continuous, uninterpreted; whole; perpetual, lasting; everlasting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "perpetuo"
+      },
+      "book_frequency": 3,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 36
+    },
+    {
+      "rank": 991,
+      "book": 1,
+      "book_rank": 991,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "dicio",
+      "headword": "dicio, onis, f.",
+      "pos": "Noun",
+      "definition": "authority, power, control; rule, domain, sway",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "dicio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 37
+    },
+    {
+      "rank": 992,
+      "book": 1,
+      "book_rank": 992,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "iuro",
+      "headword": "iuro",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "iuraret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 38
+    },
+    {
+      "rank": 993,
+      "book": 1,
+      "book_rank": 993,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "profugio",
+      "headword": "profugio, is, ere, profugi, profugitum",
+      "pos": "Verb",
+      "definition": "escape, escape from; run away from",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "profugisse"
+      },
+      "book_frequency": 2,
+      "total_frequency": 17,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 39
+    },
+    {
+      "rank": 994,
+      "book": 1,
+      "book_rank": 994,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Roma",
+      "headword": "Roma, ae, f.",
+      "pos": "Noun",
+      "definition": "Rome",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Romam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 40
+    },
+    {
+      "rank": 995,
+      "book": 1,
+      "book_rank": 995,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "postulo",
+      "headword": "postulo, as, are",
+      "pos": "Verb",
+      "definition": "demand, claim; require; ask/pray for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "postulatum"
+      },
+      "book_frequency": 12,
+      "total_frequency": 23,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 41
+    },
+    {
+      "rank": 996,
+      "book": 1,
+      "book_rank": 996,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "solus",
+      "headword": "solus, a, um",
+      "pos": "Verb",
+      "definition": "solace, console, comfort; soothe, ease, lighten, relieve, assuage, mitigate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "solus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 42
+    },
+    {
+      "rank": 997,
+      "book": 1,
+      "book_rank": 997,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "malus",
+      "headword": "malus, a, um",
+      "pos": "Noun",
+      "definition": "evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "peius"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 43
+    },
+    {
+      "rank": 998,
+      "book": 1,
+      "book_rank": 998,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "victor",
+      "headword": "victor, oris, m.",
+      "pos": "Noun",
+      "definition": "conqueror; victor",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "victoribus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 44
+    },
+    {
+      "rank": 999,
+      "book": 1,
+      "book_rank": 999,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Ariovistus",
+      "headword": "Ariovistus, -ī, m.",
+      "pos": "Proper Noun",
+      "definition": "Ariovistus (German king of the Suebi who invaded eastern Gaul)",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Ariovistus"
+      },
+      "book_frequency": 42,
+      "total_frequency": 46,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 45
+    },
+    {
+      "rank": 1000,
+      "book": 1,
+      "book_rank": 1000,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "rex",
+      "headword": "rex, regis, m.",
+      "pos": "Noun",
+      "definition": "king",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "rex"
+      },
+      "book_frequency": 4,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 46
+    },
+    {
+      "rank": 1001,
+      "book": 1,
+      "book_rank": 1001,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "decedo",
+      "headword": "decedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "withdraw/retire, go off/away, depart, leave; relinquish/cease; desert/abandon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "decedere"
+      },
+      "book_frequency": 3,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 47
+    },
+    {
+      "rank": 1002,
+      "book": 1,
+      "book_rank": 1002,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Harudes",
+      "headword": "Harudes, um, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Harudum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 48
+    },
+    {
+      "rank": 1003,
+      "book": 1,
+      "book_rank": 1003,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "sedes",
+      "headword": "sedes, is, f.",
+      "pos": "Noun",
+      "definition": "seat; home, residence; settlement, habitation; chair",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "sedes"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 49
+    },
+    {
+      "rank": 1004,
+      "book": 1,
+      "book_rank": 1004,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "paro",
+      "headword": "paro, as, are",
+      "pos": "Verb",
+      "definition": "prepare; furnish/supply/provide; produce; obtain/get; buy; raise; put up; plan",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "pararentur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 23,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 50
+    },
+    {
+      "rank": 1005,
+      "book": 1,
+      "book_rank": 1005,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "consuetudo",
+      "headword": "consuetudo, dinis, f.",
+      "pos": "Noun",
+      "definition": "habit/custom/usage/way; normal/general/customary practice, tradition/convention",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "consuetudinem"
+      },
+      "book_frequency": 6,
+      "total_frequency": 42,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 51
+    },
+    {
+      "rank": 1006,
+      "book": 1,
+      "book_rank": 1006,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Magetobriga",
+      "headword": "Magetobriga, ae, f.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Magetobrigam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 52
+    },
+    {
+      "rank": 1007,
+      "book": 1,
+      "book_rank": 1007,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "superbus",
+      "headword": "superbus, a, um",
+      "pos": "Verb",
+      "definition": "show pride or disdain on account ; be proud/haughty; be splendid",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "superbe"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 53
+    },
+    {
+      "rank": 1008,
+      "book": 1,
+      "book_rank": 1008,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "crudeliter",
+      "headword": "crudeliter, adv.",
+      "pos": "Adverb",
+      "definition": "cruelly, savagely, relentlessly; with cruel effect",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "crudeliter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 54
+    },
+    {
+      "rank": 1009,
+      "book": 1,
+      "book_rank": 1009,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "edo",
+      "headword": "edo, edis, esse, edi, esum",
+      "pos": "Verb",
+      "definition": "publish; disclose, tell, relate, make known; declare, make formal statement",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "edere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 55
+    },
+    {
+      "rank": 1010,
+      "book": 1,
+      "book_rank": 1010,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "nutus",
+      "headword": "nutus, us, m.",
+      "pos": "Noun",
+      "definition": "nod; command, will",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "nutum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 56
+    },
+    {
+      "rank": 1011,
+      "book": 1,
+      "book_rank": 1011,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "iracundus",
+      "headword": "iracundus, a, um",
+      "pos": "Adjective",
+      "definition": "angry; hot-tempered; enraged; furious",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "iracundum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 57
+    },
+    {
+      "rank": 1012,
+      "book": 1,
+      "book_rank": 1012,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "temerarius",
+      "headword": "temerarius, a, um",
+      "pos": "Adjective",
+      "definition": "casual, rash, accidental; reckless",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "temerarium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 58
+    },
+    {
+      "rank": 1013,
+      "book": 1,
+      "book_rank": 1013,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Nisus",
+      "headword": "Nisus, us, m.",
+      "pos": "Noun",
+      "definition": "pressing upon/down; pressure, push; endeavor; exertion; strong muscular effort",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "Nisi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 59
+    },
+    {
+      "rank": 1014,
+      "book": 1,
+      "book_rank": 1014,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "emigro",
+      "headword": "emigro, as, are",
+      "pos": "Verb",
+      "definition": "move out; depart",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "emigrent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 60
+    },
+    {
+      "rank": 1015,
+      "book": 1,
+      "book_rank": 1015,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "quicumque",
+      "headword": "quicumque, quae-, quod- (-cun-)",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "quaecumque"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 61
+    },
+    {
+      "rank": 1016,
+      "book": 1,
+      "book_rank": 1016,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "experior",
+      "headword": "experior, iris, iri, expertus sum",
+      "pos": "Verb",
+      "definition": "test, put to the test; find out; attempt, try; prove, experience",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 31,
+        "surface_form": "experiantur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 62
+    },
+    {
+      "rank": 1017,
+      "book": 1,
+      "book_rank": 1017,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "ceterus",
+      "headword": "ceterus, a, um",
+      "pos": "Adjective",
+      "definition": "the_other; the_others . the_remaining/rest, all the_rest",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "ceteri"
+      },
+      "book_frequency": 2,
+      "total_frequency": 19,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 63
+    },
+    {
+      "rank": 1018,
+      "book": 1,
+      "book_rank": 1018,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tristis",
+      "headword": "tristis, e",
+      "pos": "Verb",
+      "definition": "be sad/grieved/downcast/dejected",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "tristes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 64
+    },
+    {
+      "rank": 1019,
+      "book": 1,
+      "book_rank": 1019,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "demitto",
+      "headword": "demitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "bring/strike down; plunge/insert/thrust/plant; dismiss/demote; depose; absorb",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "demisso"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 65
+    },
+    {
+      "rank": 1020,
+      "book": 1,
+      "book_rank": 1020,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "intueor",
+      "headword": "intueor, eris, eri, itus sum",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "intueri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 66
+    },
+    {
+      "rank": 1021,
+      "book": 1,
+      "book_rank": 1021,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "miror",
+      "headword": "miror, aris, ari",
+      "pos": "Adjective",
+      "definition": "wonderful, strange, remarkable, amazing, surprising, extraordinary",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "miratus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 67
+    },
+    {
+      "rank": 1022,
+      "book": 1,
+      "book_rank": 1022,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tristitia",
+      "headword": "tristitia, ae, f.",
+      "pos": "Noun",
+      "definition": "sadness; sorrow",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "tristitia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 68
+    },
+    {
+      "rank": 1023,
+      "book": 1,
+      "book_rank": 1023,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "permaneo",
+      "headword": "permaneo, es, ere, mansi, mansum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "permanere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 69
+    },
+    {
+      "rank": 1024,
+      "book": 1,
+      "book_rank": 1024,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "vox",
+      "headword": "vox, uocis, f.",
+      "pos": "Noun",
+      "definition": "voice, tone, expression",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "vocem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 70
+    },
+    {
+      "rank": 1025,
+      "book": 1,
+      "book_rank": 1025,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "exprimo",
+      "headword": "exprimo, is, ere, pressi, pressum",
+      "pos": "Verb",
+      "definition": "squeeze, squeeze/press out; imitate, copy; portray; pronounce, express",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "exprimere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 71
+    },
+    {
+      "rank": 1026,
+      "book": 1,
+      "book_rank": 1026,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "miser",
+      "headword": "miser, a, um",
+      "pos": "Verb",
+      "definition": "it distresses/grieves me; I am moved to pity, I feel sorry for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "miseriorem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 72
+    },
+    {
+      "rank": 1027,
+      "book": 1,
+      "book_rank": 1027,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "crudelitas",
+      "headword": "crudelitas, atis, f.",
+      "pos": "Noun",
+      "definition": "cruelty/barbarity, harshness/severity, savagery/inhumanity; instance of cruelty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "crudelitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 73
+    },
+    {
+      "rank": 1028,
+      "book": 1,
+      "book_rank": 1028,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "uelut",
+      "headword": "uelut",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "velut"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 74
+    },
+    {
+      "rank": 1029,
+      "book": 1,
+      "book_rank": 1029,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cora",
+      "headword": "cora",
+      "pos": "Noun",
+      "definition": "heart; mind/soul/spirit; intellect/judgment; sweetheart; souls/persons",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "cora"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 75
+    },
+    {
+      "rank": 1030,
+      "book": 1,
+      "book_rank": 1030,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "horreo",
+      "headword": "horreo, es, ere, horrui, -",
+      "pos": "Verb",
+      "definition": "storehouse; barn",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "horrerent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 76
+    },
+    {
+      "rank": 1031,
+      "book": 1,
+      "book_rank": 1031,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "intra",
+      "headword": "intra, prep. (+ acc.)",
+      "pos": "Adverb",
+      "definition": "within, inside, on the inside; during; under; fewer than",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 32,
+        "surface_form": "intra"
+      },
+      "book_frequency": 1,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 77
+    },
+    {
+      "rank": 1032,
+      "book": 1,
+      "book_rank": 1032,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cura",
+      "headword": "cura, ae, f.",
+      "pos": "Noun",
+      "definition": "concern, worry, anxiety, trouble; attention, care, pains, zeal; cure, treatment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "curae"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 78
+    },
+    {
+      "rank": 1033,
+      "book": 1,
+      "book_rank": 1033,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cogito",
+      "headword": "cogito, as, are",
+      "pos": "Verb",
+      "definition": "think; consider, reflect on, ponder; imagine, picture; intend, look forward to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "cogitandam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 79
+    },
+    {
+      "rank": 1034,
+      "book": 1,
+      "book_rank": 1034,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "turpis",
+      "headword": "turpis, e",
+      "pos": "Adjective",
+      "definition": "ugly; nasty; disgraceful; indecent; base, shameful, disgusting, repulsive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "turpissimum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 80
+    },
+    {
+      "rank": 1035,
+      "book": 1,
+      "book_rank": 1035,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "paulatim",
+      "headword": "paulatim, adv.",
+      "pos": "Adverb",
+      "definition": "little by little, by degrees, gradually; a small amount at a time, bit by bit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "Paulatim"
+      },
+      "book_frequency": 2,
+      "total_frequency": 15,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 81
+    },
+    {
+      "rank": 1036,
+      "book": 1,
+      "book_rank": 1036,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "periculosus",
+      "headword": "periculosus, a, um",
+      "pos": "Adjective",
+      "definition": "dangerous, hazardous, perilous; threatening",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "periculosum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 82
+    },
+    {
+      "rank": 1037,
+      "book": 1,
+      "book_rank": 1037,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "ferus",
+      "headword": "ferus, i",
+      "pos": "Verb",
+      "definition": "bring, bear; tell/speak of; consider; carry off, win, receive, produce; get",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "feros"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 83
+    },
+    {
+      "rank": 1038,
+      "book": 1,
+      "book_rank": 1038,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Cimbri",
+      "headword": "Cimbri, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "Cimbri"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 84
+    },
+    {
+      "rank": 1039,
+      "book": 1,
+      "book_rank": 1039,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Teutoni",
+      "headword": "Teutoni, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "Teutoni"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 85
+    },
+    {
+      "rank": 1040,
+      "book": 1,
+      "book_rank": 1040,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "occurro",
+      "headword": "occurro, is, ere, curri, cursum",
+      "pos": "Verb",
+      "definition": "run to meet; oppose, resist; come to mind, occur",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "occurrendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 86
+    },
+    {
+      "rank": 1041,
+      "book": 1,
+      "book_rank": 1041,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "spiritus",
+      "headword": "spiritus, us, m.",
+      "pos": "Noun",
+      "definition": "breath, breathing, air, soul, life",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "spiritus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 87
+    },
+    {
+      "rank": 1042,
+      "book": 1,
+      "book_rank": 1042,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "adrogantia",
+      "headword": "adrogantia, ae, f.",
+      "pos": "Noun",
+      "definition": "insolence, arrogance, conceit, haughtiness; presumption",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 33,
+        "surface_form": "arrogantiam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 88
+    },
+    {
+      "rank": 1043,
+      "book": 1,
+      "book_rank": 1043,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "placeo",
+      "headword": "placeo, es, ere, cui, citum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "placuit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 89
+    },
+    {
+      "rank": 1044,
+      "book": 1,
+      "book_rank": 1044,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "colloquium",
+      "headword": "colloquium, ii, n.",
+      "pos": "Noun",
+      "definition": "talk, conversation; colloquy/discussion; interview; meeting/conference; parley",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "conloquio"
+      },
+      "book_frequency": 13,
+      "total_frequency": 19,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 90
+    },
+    {
+      "rank": 1045,
+      "book": 1,
+      "book_rank": 1045,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "vellus",
+      "headword": "vellus, ĕris, n.",
+      "pos": "Noun",
+      "definition": "fleece",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "velle"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 91
+    },
+    {
+      "rank": 1046,
+      "book": 1,
+      "book_rank": 1046,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praeterea",
+      "headword": "praeterea, adv.",
+      "pos": "Adverb",
+      "definition": "besides, thereafter; in addition",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "Praeterea"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 92
+    },
+    {
+      "rank": 1047,
+      "book": 1,
+      "book_rank": 1047,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "possideo",
+      "headword": "possideo, es, ere, sedi, sessum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "possideret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 93
+    },
+    {
+      "rank": 1048,
+      "book": 1,
+      "book_rank": 1048,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "commeatus",
+      "headword": "commeatus, us, m.",
+      "pos": "Noun",
+      "definition": "supplies/provisions; goods; voyage; passage; convoy/caravan; furlough/leave",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "commeatu"
+      },
+      "book_frequency": 4,
+      "total_frequency": 24,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 94
+    },
+    {
+      "rank": 1049,
+      "book": 1,
+      "book_rank": 1049,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "molimentum",
+      "headword": "molimentum, i, n.",
+      "pos": "Noun",
+      "definition": "exertion, labor",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "molimento"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 95
+    },
+    {
+      "rank": 1050,
+      "book": 1,
+      "book_rank": 1050,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "contraho",
+      "headword": "contraho, is, ere, traxi, tractum",
+      "pos": "Verb",
+      "definition": "enter into/upon relationship/agreement/business/marriage/loan/battle, deal with",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "contrahere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 96
+    },
+    {
+      "rank": 1051,
+      "book": 1,
+      "book_rank": 1051,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "mirus",
+      "headword": "mirus, a, um",
+      "pos": "Adjective",
+      "definition": "wonderful, strange, remarkable, amazing, surprising, extraordinary",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "mirum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 97
+    },
+    {
+      "rank": 1052,
+      "book": 1,
+      "book_rank": 1052,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "negotium",
+      "headword": "negotium, ii, n.",
+      "pos": "Noun",
+      "definition": "pain, trouble, annoyance, distress; work, business, activity, job",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 34,
+        "surface_form": "negotii"
+      },
+      "book_frequency": 2,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 98
+    },
+    {
+      "rank": 1053,
+      "book": 1,
+      "book_rank": 1053,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "quoniam",
+      "headword": "quoniam, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "because, since, seeing that",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "quoniam"
+      },
+      "book_frequency": 4,
+      "total_frequency": 19,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 99
+    },
+    {
+      "rank": 1054,
+      "book": 1,
+      "book_rank": 1054,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "consulatus",
+      "headword": "consulatus, us, m.",
+      "pos": "Noun",
+      "definition": "consulship/consulate;  office of consul; actions/acts as consul",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "consulatu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 100
+    },
+    {
+      "rank": 1055,
+      "book": 1,
+      "book_rank": 1055,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "invito",
+      "headword": "invito, as, are",
+      "pos": "Verb",
+      "definition": "invite, summon; challenge, incite; encourage; attract, allure, entice",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "invitatus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 101
+    },
+    {
+      "rank": 1056,
+      "book": 1,
+      "book_rank": 1056,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "gravor",
+      "headword": "gravor, aris, ari",
+      "pos": "Verb",
+      "definition": "show/bear with reluctance/annoyance; be burdened/vexed; take amiss; hesitate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "gravaretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 102
+    },
+    {
+      "rank": 1057,
+      "book": 1,
+      "book_rank": 1057,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "reddo",
+      "headword": "reddo, is, ere, ddidi, dditum",
+      "pos": "Verb",
+      "definition": "return; restore; deliver; hand over, pay back, render, give back; translate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "redderet"
+      },
+      "book_frequency": 4,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 103
+    },
+    {
+      "rank": 1058,
+      "book": 1,
+      "book_rank": 1058,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "commodum",
+      "headword": "commodum, i, n.",
+      "pos": "Noun",
+      "definition": "just, a very short time before; that/this very minute; even now, at this moment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "commodo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 104
+    },
+    {
+      "rank": 1059,
+      "book": 1,
+      "book_rank": 1059,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "lacio",
+      "headword": "lacio",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "lacere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 105
+    },
+    {
+      "rank": 1060,
+      "book": 1,
+      "book_rank": 1060,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "negligo",
+      "headword": "negligo, is, ere, glexi, glectum",
+      "pos": "Verb",
+      "definition": "disregard, neglect, ignore, regard of no consequence; do nothing about; despise",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 35,
+        "surface_form": "neglecturum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 106
+    },
+    {
+      "rank": 1061,
+      "book": 1,
+      "book_rank": 1061,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "modus",
+      "headword": "modus, i, m.",
+      "pos": "Noun",
+      "definition": "manner, mode, way, method; rule, rhythm, beat, measure, size; bound, limit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "modum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 18,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 107
+    },
+    {
+      "rank": 1062,
+      "book": 1,
+      "book_rank": 1062,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praescribo",
+      "headword": "praescribo, is, ere, scripsi, scriptum",
+      "pos": "Verb",
+      "definition": "order, direct",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "praescriptum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 108
+    },
+    {
+      "rank": 1063,
+      "book": 1,
+      "book_rank": 1063,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "arbitrium",
+      "headword": "arbitrium, i, n.",
+      "pos": "Noun",
+      "definition": "arbitration; choice, judgment, decision; sentence; will, mastery, authority",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "arbitrium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 109
+    },
+    {
+      "rank": 1064,
+      "book": 1,
+      "book_rank": 1064,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "congredior",
+      "headword": "congredior, eris, i, essus sum",
+      "pos": "Verb",
+      "definition": "meet, approach, near; join in battle, come to grips; contend/engage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "congressi"
+      },
+      "book_frequency": 4,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 110
+    },
+    {
+      "rank": 1065,
+      "book": 1,
+      "book_rank": 1065,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "stipendiarii",
+      "headword": "stipendiarii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "stipendiarios"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 111
+    },
+    {
+      "rank": 1066,
+      "book": 1,
+      "book_rank": 1066,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "deterior",
+      "headword": "deterior, ius",
+      "pos": "Verb",
+      "definition": "make worse; deteriorate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "deteriora"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 112
+    },
+    {
+      "rank": 1067,
+      "book": 1,
+      "book_rank": 1067,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "maneo",
+      "headword": "maneo, es, ere, mansi, mansum",
+      "pos": "Verb",
+      "definition": "in the morning; early in the morning",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "manerent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 113
+    },
+    {
+      "rank": 1068,
+      "book": 1,
+      "book_rank": 1068,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "stipendium",
+      "headword": "stipendium, ii, n.",
+      "pos": "Noun",
+      "definition": "tribute, stipend; pay, wages; military service",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "stipendium"
+      },
+      "book_frequency": 5,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 114
+    },
+    {
+      "rank": 1069,
+      "book": 1,
+      "book_rank": 1069,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "quotannis",
+      "headword": "quotannis, adv.",
+      "pos": "Adverb",
+      "definition": "every year, yearly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "quotannis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 115
+    },
+    {
+      "rank": 1070,
+      "book": 1,
+      "book_rank": 1070,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "pendeo",
+      "headword": "pendeo, es, ere, pependi, -",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "penderent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 116
+    },
+    {
+      "rank": 1071,
+      "book": 1,
+      "book_rank": 1071,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "denuntio",
+      "headword": "denuntio, as, are",
+      "pos": "Verb",
+      "definition": "give notice, warn/foretell; threaten/enjoin/declare intent to injure; intimate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "denuntiaret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 117
+    },
+    {
+      "rank": 1072,
+      "book": 1,
+      "book_rank": 1072,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "invictus",
+      "headword": "invictus, a, um",
+      "pos": "Adjective",
+      "definition": "unconquered; unconquerable, invincible",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "invicti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 118
+    },
+    {
+      "rank": 1073,
+      "book": 1,
+      "book_rank": 1073,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "exercitatus",
+      "headword": "exercitatus, a, um",
+      "pos": "Adjective",
+      "definition": "trained, practiced, skilled; disciplined; troubled",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "exercitatissimi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 119
+    },
+    {
+      "rank": 1074,
+      "book": 1,
+      "book_rank": 1074,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tectum",
+      "headword": "tectum, i, n.",
+      "pos": "Noun",
+      "definition": "covered, roofed; hidden, secret; concealed/disguised; guarded/secretive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 36,
+        "surface_form": "tectum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 120
+    },
+    {
+      "rank": 1075,
+      "book": 1,
+      "book_rank": 1075,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Treviri",
+      "headword": "Treviri, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "Treveris"
+      },
+      "book_frequency": 2,
+      "total_frequency": 43,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 121
+    },
+    {
+      "rank": 1076,
+      "book": 1,
+      "book_rank": 1076,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "transporto",
+      "headword": "transporto, as, are",
+      "pos": "Verb",
+      "definition": "carry across, transport",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "transportati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 122
+    },
+    {
+      "rank": 1077,
+      "book": 1,
+      "book_rank": 1077,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "centum",
+      "headword": "centum, num.",
+      "pos": "Word",
+      "definition": "one hundred",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "centum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 123
+    },
+    {
+      "rank": 1078,
+      "book": 1,
+      "book_rank": 1078,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Suebi",
+      "headword": "Suebi, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "Sueborum"
+      },
+      "book_frequency": 4,
+      "total_frequency": 24,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 124
+    },
+    {
+      "rank": 1079,
+      "book": 1,
+      "book_rank": 1079,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Remi",
+      "headword": "Remi, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "Rhemum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 31,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 125
+    },
+    {
+      "rank": 1080,
+      "book": 1,
+      "book_rank": 1080,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Nasua",
+      "headword": "Nasua",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "Nasuam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 126
+    },
+    {
+      "rank": 1081,
+      "book": 1,
+      "book_rank": 1081,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Cimberius",
+      "headword": "Cimberius",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "Cimberium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 127
+    },
+    {
+      "rank": 1082,
+      "book": 1,
+      "book_rank": 1082,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "vehementer",
+      "headword": "vehementer, adv.",
+      "pos": "Adverb",
+      "definition": "vehemently, vigorously; exceedingly, very much",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "vehementer"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 128
+    },
+    {
+      "rank": 1083,
+      "book": 1,
+      "book_rank": 1083,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "nouo",
+      "headword": "nouo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "nova"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 129
+    },
+    {
+      "rank": 1084,
+      "book": 1,
+      "book_rank": 1084,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "conjungo",
+      "headword": "conjungo, is, ere, iunxi, iunctum",
+      "pos": "Verb",
+      "definition": "unite ; place/bring side-by-side; juxtapose; share; add; associate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "coniunxisset"
+      },
+      "book_frequency": 2,
+      "total_frequency": 31,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 130
+    },
+    {
+      "rank": 1085,
+      "book": 1,
+      "book_rank": 1085,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "celer",
+      "headword": "celer, eris, ere",
+      "pos": "Verb",
+      "definition": "quicken/accelerate; make haste, act quickly/be quick; hasten, hurry, do quickly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 37,
+        "surface_form": "celerrime"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 131
+    },
+    {
+      "rank": 1086,
+      "book": 1,
+      "book_rank": 1086,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "procedo",
+      "headword": "procedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "proceed; advance; appear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "processisset"
+      },
+      "book_frequency": 2,
+      "total_frequency": 23,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 132
+    },
+    {
+      "rank": 1087,
+      "book": 1,
+      "book_rank": 1087,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Vesontio",
+      "headword": "Vesontio, ōnis, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "Vesontionem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 133
+    },
+    {
+      "rank": 1088,
+      "book": 1,
+      "book_rank": 1088,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praecaveo",
+      "headword": "praecaveo, es, ere, caui, cautum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "praecavendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 134
+    },
+    {
+      "rank": 1089,
+      "book": 1,
+      "book_rank": 1089,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "usus",
+      "headword": "usus, us, m.",
+      "pos": "Noun",
+      "definition": "use, enjoyment; experience, skill, advantage; custom",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "usui"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 135
+    },
+    {
+      "rank": 1090,
+      "book": 1,
+      "book_rank": 1090,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "sic",
+      "headword": "sic, adv.",
+      "pos": "Adverb",
+      "definition": "thus, so; as follows; in another way; in such a way",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "sic"
+      },
+      "book_frequency": 2,
+      "total_frequency": 36,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 136
+    },
+    {
+      "rank": 1091,
+      "book": 1,
+      "book_rank": 1091,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "alduas",
+      "headword": "alduas",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "alduas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 137
+    },
+    {
+      "rank": 1092,
+      "book": 1,
+      "book_rank": 1092,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Dubis",
+      "headword": "Dubis, is, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "Dubis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 138
+    },
+    {
+      "rank": 1093,
+      "book": 1,
+      "book_rank": 1093,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "circinus",
+      "headword": "circinus, i, m.",
+      "pos": "Verb",
+      "definition": "bend/make circular/round; traverse circular course, wheel through; take round",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "circino"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 139
+    },
+    {
+      "rank": 1094,
+      "book": 1,
+      "book_rank": 1094,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "circumduco",
+      "headword": "circumduco, xi, ctum, 3",
+      "pos": "Verb",
+      "definition": "lead out of the way/round about; cheat, mislead, trick out of; take/go around",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "circumductum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 140
+    },
+    {
+      "rank": 1095,
+      "book": 1,
+      "book_rank": 1095,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cingo",
+      "headword": "cingo, is, ere, cinxi, cinctum",
+      "pos": "Verb",
+      "definition": "surround/encircle/ring; enclose; beleaguer; accompany; gird, equip; ring",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "cingit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 141
+    },
+    {
+      "rank": 1096,
+      "book": 1,
+      "book_rank": 1096,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "radix",
+      "headword": "radix, icis, f.",
+      "pos": "Noun",
+      "definition": "root; base; square-root",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "radices"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 142
+    },
+    {
+      "rank": 1097,
+      "book": 1,
+      "book_rank": 1097,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "contingo",
+      "headword": "contingo, is, ere, tigi, tactum",
+      "pos": "Verb",
+      "definition": "color/stain; lay hands on, appropriate; smite; affect emotionally, move/touch",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "contingant"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 143
+    },
+    {
+      "rank": 1098,
+      "book": 1,
+      "book_rank": 1098,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "circumdo",
+      "headword": "circumdo, as, are, dedi, datum",
+      "pos": "Verb",
+      "definition": "surround; envelop, post/put/place/build around; enclose; beset; pass around",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "circumdatus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 144
+    },
+    {
+      "rank": 1099,
+      "book": 1,
+      "book_rank": 1099,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "arx",
+      "headword": "arx, arcis, f.",
+      "pos": "Noun",
+      "definition": "citadel, stronghold, city; height, hilltop; Capitoline hill; defense, refuge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "arcem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 145
+    },
+    {
+      "rank": 1100,
+      "book": 1,
+      "book_rank": 1100,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "efficio",
+      "headword": "efficio, is, ere, effeci, effectum",
+      "pos": "Verb",
+      "definition": "bring about; effect, execute, cause; accomplish; make, produce; prove",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "efficit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 33,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 146
+    },
+    {
+      "rank": 1101,
+      "book": 1,
+      "book_rank": 1101,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "huc",
+      "headword": "huc, adv.",
+      "pos": "Adverb",
+      "definition": "here, to this place; to this point",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "Huc"
+      },
+      "book_frequency": 1,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 147
+    },
+    {
+      "rank": 1102,
+      "book": 1,
+      "book_rank": 1102,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "nocturnus",
+      "headword": "nocturnus, a, um",
+      "pos": "Adjective",
+      "definition": "nocturnal, of night, at night, by night",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "nocturnis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 148
+    },
+    {
+      "rank": 1103,
+      "book": 1,
+      "book_rank": 1103,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "diurnus",
+      "headword": "diurnus, a, um",
+      "pos": "Adjective",
+      "definition": "by day, of the day; daily",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 38,
+        "surface_form": "diurnis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 149
+    },
+    {
+      "rank": 1104,
+      "book": 1,
+      "book_rank": 1104,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "percontatio",
+      "headword": "percontatio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "questioning, inquiry",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "percontatio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 150
+    },
+    {
+      "rank": 1105,
+      "book": 1,
+      "book_rank": 1105,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "ingens",
+      "headword": "ingens, entis",
+      "pos": "Adjective",
+      "definition": "not natural, immoderate; huge, vast, enormous; mighty; remarkable, momentous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "ingenti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 151
+    },
+    {
+      "rank": 1106,
+      "book": 1,
+      "book_rank": 1106,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "magnitudo",
+      "headword": "magnitudo, dinis, f.",
+      "pos": "Noun",
+      "definition": "size, magnitude, bulk; greatness. importance, intensity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "magnitudine"
+      },
+      "book_frequency": 2,
+      "total_frequency": 30,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 152
+    },
+    {
+      "rank": 1107,
+      "book": 1,
+      "book_rank": 1107,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "exercitatio",
+      "headword": "exercitatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "exercise, training, practice; discipline",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "exercitatio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 153
+    },
+    {
+      "rank": 1108,
+      "book": 1,
+      "book_rank": 1108,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praedico",
+      "headword": "praedico, as, are",
+      "pos": "Verb",
+      "definition": "proclaim/declare/make known/publish/announce formally; praise/recommend; preach",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "praedicabant"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 154
+    },
+    {
+      "rank": 1109,
+      "book": 1,
+      "book_rank": 1109,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "vultus",
+      "headword": "vultus, us, m.",
+      "pos": "Noun",
+      "definition": "face, expression; looks",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "vultum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 155
+    },
+    {
+      "rank": 1110,
+      "book": 1,
+      "book_rank": 1110,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "mediocriter",
+      "headword": "mediocriter, adv.",
+      "pos": "Adverb",
+      "definition": "to moderate/subdued extent/degree, ordinarily/moderately/tolerably; not very",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "mediocriter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 156
+    },
+    {
+      "rank": 1111,
+      "book": 1,
+      "book_rank": 1111,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "mens",
+      "headword": "mens, entis, f.",
+      "pos": "Noun",
+      "definition": "mind; reason, intellect, judgment; plan, intention, frame of mind; courage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "mentes"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 157
+    },
+    {
+      "rank": 1112,
+      "book": 1,
+      "book_rank": 1112,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "perturbo",
+      "headword": "perturbo, as, are",
+      "pos": "Verb",
+      "definition": "confuse, throw into confusion; disturb, perturb, trouble; alarm",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "perturbaret"
+      },
+      "book_frequency": 2,
+      "total_frequency": 24,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 158
+    },
+    {
+      "rank": 1113,
+      "book": 1,
+      "book_rank": 1113,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tribunus",
+      "headword": "tribunus, i, m.",
+      "pos": "Noun",
+      "definition": "tribune",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "tribunis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 23,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 159
+    },
+    {
+      "rank": 1114,
+      "book": 1,
+      "book_rank": 1114,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praefectus",
+      "headword": "praefectus, i, m.",
+      "pos": "Noun",
+      "definition": "commander; prefect",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "praefectis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 160
+    },
+    {
+      "rank": 1115,
+      "book": 1,
+      "book_rank": 1115,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "pudor",
+      "headword": "pudor, oris, m.",
+      "pos": "Noun",
+      "definition": "decency, shame; sense of honor; modesty; bashfulness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "pudore"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 161
+    },
+    {
+      "rank": 1116,
+      "book": 1,
+      "book_rank": 1116,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "remaneo",
+      "headword": "remaneo, es, ere, mansi, mansum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "remanebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 162
+    },
+    {
+      "rank": 1117,
+      "book": 1,
+      "book_rank": 1117,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "fingo",
+      "headword": "fingo, is, ere, finxi, fictum",
+      "pos": "Verb",
+      "definition": "mold, form, shape; create, invent; produce; imagine; compose; devise, contrive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "fingere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 163
+    },
+    {
+      "rank": 1118,
+      "book": 1,
+      "book_rank": 1118,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tabernaculum",
+      "headword": "tabernaculum, i, n.",
+      "pos": "Noun",
+      "definition": "tabernacle; canopy, covered shrine, niche; reliquary; receptacle for Host",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "tabernaculis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 164
+    },
+    {
+      "rank": 1119,
+      "book": 1,
+      "book_rank": 1119,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "fatum",
+      "headword": "fatum, i, n.",
+      "pos": "Noun",
+      "definition": "utterance, oracle; fate, destiny; natural term of life; doom, death, calamity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "fatum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 165
+    },
+    {
+      "rank": 1120,
+      "book": 1,
+      "book_rank": 1120,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "miseror",
+      "headword": "miseror, aris, ari",
+      "pos": "Verb",
+      "definition": "it distresses/grieves me; I am moved to pity, I feel sorry for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "miserabantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 166
+    },
+    {
+      "rank": 1121,
+      "book": 1,
+      "book_rank": 1121,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "testamentum",
+      "headword": "testamentum, i, n.",
+      "pos": "Noun",
+      "definition": "will, testament; covenant",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "testamenta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 167
+    },
+    {
+      "rank": 1122,
+      "book": 1,
+      "book_rank": 1122,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "obsigno",
+      "headword": "obsigno, asz, are",
+      "pos": "Verb",
+      "definition": "sign, seal",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "obsignabantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 168
+    },
+    {
+      "rank": 1123,
+      "book": 1,
+      "book_rank": 1123,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "centurio",
+      "headword": "centurio, ionis, m.",
+      "pos": "Noun",
+      "definition": "centurion, captain/commander  of a century/company",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "centuriones"
+      },
+      "book_frequency": 3,
+      "total_frequency": 26,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 169
+    },
+    {
+      "rank": 1124,
+      "book": 1,
+      "book_rank": 1124,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "timidus",
+      "headword": "timidus, a, um",
+      "pos": "Adjective",
+      "definition": "timid; cowardly; fearful, apprehensive; without courage; afraid to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "timidos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 170
+    },
+    {
+      "rank": 1125,
+      "book": 1,
+      "book_rank": 1125,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "supporto",
+      "headword": "supporto, as, are",
+      "pos": "Verb",
+      "definition": "carry up, transport",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "supportari"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 171
+    },
+    {
+      "rank": 1126,
+      "book": 1,
+      "book_rank": 1126,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "audio",
+      "headword": "audio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "hear, listen, accept, agree with; obey; harken, pay attention; be able to hear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 39,
+        "surface_form": "audientes"
+      },
+      "book_frequency": 3,
+      "total_frequency": 37,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 172
+    },
+    {
+      "rank": 1127,
+      "book": 1,
+      "book_rank": 1127,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "ordo",
+      "headword": "ordo, inis, m.",
+      "pos": "Noun",
+      "definition": "row, order/rank; succession; series; class; bank ; order",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "ordinum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 29,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 173
+    },
+    {
+      "rank": 1128,
+      "book": 1,
+      "book_rank": 1128,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "incuso",
+      "headword": "incuso, as, are",
+      "pos": "Verb",
+      "definition": "accuse, blame, criticize, condemn",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "incusavit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 174
+    },
+    {
+      "rank": 1129,
+      "book": 1,
+      "book_rank": 1129,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "adpeto",
+      "headword": "adpeto, is, ere, petivi (petii), petitum",
+      "pos": "Verb",
+      "definition": "one who is covetous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "adpetisse"
+      },
+      "book_frequency": 3,
+      "total_frequency": 6,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 175
+    },
+    {
+      "rank": 1130,
+      "book": 1,
+      "book_rank": 1130,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cur",
+      "headword": "cur, adv.",
+      "pos": "Noun",
+      "definition": "concern, worry, anxiety, trouble; attention, care, pains, zeal; cure, treatment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "cur"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 176
+    },
+    {
+      "rank": 1131,
+      "book": 1,
+      "book_rank": 1131,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "temere",
+      "headword": "temere, adv.",
+      "pos": "Adverb",
+      "definition": "rashly, blindly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "temere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 177
+    },
+    {
+      "rank": 1132,
+      "book": 1,
+      "book_rank": 1132,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "officium",
+      "headword": "officium, ii, n.",
+      "pos": "Noun",
+      "definition": "duty, obligation; kindness; service, office",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "officio"
+      },
+      "book_frequency": 4,
+      "total_frequency": 21,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 178
+    },
+    {
+      "rank": 1133,
+      "book": 1,
+      "book_rank": 1133,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "aequitas",
+      "headword": "aequitas, atis, f.",
+      "pos": "Noun",
+      "definition": "justice, equity, fairness, impartiality; symmetry, conformity; evenness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "aequitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 179
+    },
+    {
+      "rank": 1134,
+      "book": 1,
+      "book_rank": 1134,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "perspicio",
+      "headword": "perspicio, is, ere, spexi, spectum",
+      "pos": "Verb",
+      "definition": "see through; examine; observe",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "perspecta"
+      },
+      "book_frequency": 2,
+      "total_frequency": 24,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 180
+    },
+    {
+      "rank": 1135,
+      "book": 1,
+      "book_rank": 1135,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "repudio",
+      "headword": "repudio, as, are",
+      "pos": "Verb",
+      "definition": "repudiation/rejection of prospective spouse, notification of; divorce",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "repudiaturum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 181
+    },
+    {
+      "rank": 1136,
+      "book": 1,
+      "book_rank": 1136,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "furor",
+      "headword": "furor, oris, m.",
+      "pos": "Noun",
+      "definition": "madness, rage, fury, frenzy; passionate love",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "furore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 182
+    },
+    {
+      "rank": 1137,
+      "book": 1,
+      "book_rank": 1137,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "amens",
+      "headword": "amens, entis",
+      "pos": "Adjective",
+      "definition": "insane, demented, out of one's mind; very excited, frantic, distracted; foolish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "amentia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 183
+    },
+    {
+      "rank": 1138,
+      "book": 1,
+      "book_rank": 1138,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "impello",
+      "headword": "impello, is, ere, puli, pulsum",
+      "pos": "Verb",
+      "definition": "drive/persuade/impel; urge on/action; push/thrust/strike against; overthrow",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "impulsum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 184
+    },
+    {
+      "rank": 1139,
+      "book": 1,
+      "book_rank": 1139,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "diligo",
+      "headword": "diligo, is, ere, legi, lectum",
+      "pos": "Verb",
+      "definition": "love, hold dear; value/esteem/favor; have special regard for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "diligentia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 14,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 185
+    },
+    {
+      "rank": 1140,
+      "book": 1,
+      "book_rank": 1140,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Marius",
+      "headword": "Marius, i, m.",
+      "pos": "Noun",
+      "definition": "Marius, Roman gens",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "Mario"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 186
+    },
+    {
+      "rank": 1141,
+      "book": 1,
+      "book_rank": 1141,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "laus",
+      "headword": "laus, laudis, f.",
+      "pos": "Noun",
+      "definition": "praise, approval, merit; glory; renown",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "laudem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 187
+    },
+    {
+      "rank": 1142,
+      "book": 1,
+      "book_rank": 1142,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "imperator",
+      "headword": "imperator, oris, m.",
+      "pos": "Noun",
+      "definition": "emperor; general; ruler; commander",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "imperator"
+      },
+      "book_frequency": 3,
+      "total_frequency": 17,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 188
+    },
+    {
+      "rank": 1143,
+      "book": 1,
+      "book_rank": 1143,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "servilis",
+      "headword": "servilis, e",
+      "pos": "Adjective",
+      "definition": "servile, of slaves",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "servili"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 189
+    },
+    {
+      "rank": 1144,
+      "book": 1,
+      "book_rank": 1144,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "tumultus",
+      "headword": "tumultus, us, m.",
+      "pos": "Noun",
+      "definition": "commotion, confusion, uproar; rebellion, uprising, disturbance",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "tumultu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 190
+    },
+    {
+      "rank": 1145,
+      "book": 1,
+      "book_rank": 1145,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "disciplina",
+      "headword": "disciplina, ae, f.",
+      "pos": "Noun",
+      "definition": "teaching, instruction, education; training; discipline; method, science, study",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "disciplina"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 191
+    },
+    {
+      "rank": 1146,
+      "book": 1,
+      "book_rank": 1146,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "inermis",
+      "headword": "inermis, e",
+      "pos": "Adjective",
+      "definition": "unarmed, without weapons; defenseless; toothless, without a sting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "inermes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 192
+    },
+    {
+      "rank": 1147,
+      "book": 1,
+      "book_rank": 1147,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "armatus",
+      "headword": "armatus, a, um",
+      "pos": "Adjective",
+      "definition": "armed, equipped; defensively armed, armor clad; fortified; of the use of arms",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "armatos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 22,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 193
+    },
+    {
+      "rank": 1148,
+      "book": 1,
+      "book_rank": 1148,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "plerumque",
+      "headword": "plerumque, adv.",
+      "pos": "Adverb",
+      "definition": "generally, commonly; mostly, for the most part; often, frequently",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "plerumque"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 194
+    },
+    {
+      "rank": 1149,
+      "book": 1,
+      "book_rank": 1149,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "diuturnitas",
+      "headword": "diuturnitas, atis, f.",
+      "pos": "Noun",
+      "definition": "long duration",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "diuturnitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 195
+    },
+    {
+      "rank": 1150,
+      "book": 1,
+      "book_rank": 1150,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "defatigo",
+      "headword": "defatigo, as, are",
+      "pos": "Verb",
+      "definition": "tire , exhaust; break force of;  lose heart, weary, be discouraged",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "defatigatis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 196
+    },
+    {
+      "rank": 1151,
+      "book": 1,
+      "book_rank": 1151,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "palus",
+      "headword": "palus, udis, f.",
+      "pos": "Noun",
+      "definition": "swamp, marsh",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "paludibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 33,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 197
+    },
+    {
+      "rank": 1152,
+      "book": 1,
+      "book_rank": 1152,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "dispergo",
+      "headword": "dispergo, is, ere, spersi, spersum",
+      "pos": "Verb",
+      "definition": "scatter , disperse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "dispersos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 198
+    },
+    {
+      "rank": 1153,
+      "book": 1,
+      "book_rank": 1153,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "imperitus",
+      "headword": "imperitus, a, um",
+      "pos": "Adjective",
+      "definition": "unskilled, inexperienced ; unfamiliar, ignorant",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "imperitos"
+      },
+      "book_frequency": 2,
+      "total_frequency": 10,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 199
+    },
+    {
+      "rank": 1154,
+      "book": 1,
+      "book_rank": 1154,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "simulatio",
+      "headword": "simulatio, onis, f.",
+      "pos": "Noun",
+      "definition": "pretense, deceit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "simulationem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 200
+    },
+    {
+      "rank": 1155,
+      "book": 1,
+      "book_rank": 1155,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "adroganter",
+      "headword": "adroganter, adv.",
+      "pos": "Adverb",
+      "definition": "insolently, arrogantly, haughtily; presumptuously; in a conceited manner",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "arroganter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 201
+    },
+    {
+      "rank": 1156,
+      "book": 1,
+      "book_rank": 1156,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Leuci",
+      "headword": "Leuci, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "Leucos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 202
+    },
+    {
+      "rank": 1157,
+      "book": 1,
+      "book_rank": 1157,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "subministro",
+      "headword": "subministro, as, are",
+      "pos": "Verb",
+      "definition": "supply, furnish, afford",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "subministrare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 203
+    },
+    {
+      "rank": 1158,
+      "book": 1,
+      "book_rank": 1158,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "brevis",
+      "headword": "brevis, e",
+      "pos": "Noun",
+      "definition": "short catalog, summary document",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "brevi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 204
+    },
+    {
+      "rank": 1159,
+      "book": 1,
+      "book_rank": 1159,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "quibuscum",
+      "headword": "quibuscum, pron. contr.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "quibuscum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 205
+    },
+    {
+      "rank": 1160,
+      "book": 1,
+      "book_rank": 1160,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "desum",
+      "headword": "desum, es, esse, defui",
+      "pos": "Verb",
+      "definition": "choose, pick out, select, take; pick ; take for/upon one's self",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "defuisse"
+      },
+      "book_frequency": 2,
+      "total_frequency": 15,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 206
+    },
+    {
+      "rank": 1161,
+      "book": 1,
+      "book_rank": 1161,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "facinus",
+      "headword": "facinus, oris, n.",
+      "pos": "Noun",
+      "definition": "deed; crime; outrage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "facinore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 207
+    },
+    {
+      "rank": 1162,
+      "book": 1,
+      "book_rank": 1162,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "auaritia",
+      "headword": "auaritia",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "avaritiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 208
+    },
+    {
+      "rank": 1163,
+      "book": 1,
+      "book_rank": 1163,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "convinco",
+      "headword": "convinco, is, ere, uici, uictum",
+      "pos": "Verb",
+      "definition": "conquer, establish; convince; overcome, demonstrate, prove clearly; grant",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "convictam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 209
+    },
+    {
+      "rank": 1164,
+      "book": 1,
+      "book_rank": 1164,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "Sue",
+      "headword": "Sue",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "Suam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 210
+    },
+    {
+      "rank": 1165,
+      "book": 1,
+      "book_rank": 1165,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "innocentia",
+      "headword": "innocentia, ae, f.",
+      "pos": "Noun",
+      "definition": "harmlessness; innocence, integrity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "innocentiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 211
+    },
+    {
+      "rank": 1166,
+      "book": 1,
+      "book_rank": 1166,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "felicitas",
+      "headword": "felicitas, atis, f.",
+      "pos": "Noun",
+      "definition": "luck, good fortune; happiness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "felicitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 212
+    },
+    {
+      "rank": 1167,
+      "book": 1,
+      "book_rank": 1167,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "repraesento",
+      "headword": "repraesento, as, are",
+      "pos": "Verb",
+      "definition": "represent, depict; show, exhibit, display; manifest; pay down, pay in cash",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "repraesentaturum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 213
+    },
+    {
+      "rank": 1168,
+      "book": 1,
+      "book_rank": 1168,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "utrum",
+      "headword": "utrum, ūtrum",
+      "pos": "Adverb",
+      "definition": "whether",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "utrum"
+      },
+      "book_frequency": 3,
+      "total_frequency": 8,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 214
+    },
+    {
+      "rank": 1169,
+      "book": 1,
+      "book_rank": 1169,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "an",
+      "headword": "an, conj.",
+      "pos": "Noun",
+      "definition": "old woman; hag; matron; old maid; sibyl, sorceress; foolish/cringing person",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "an"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 215
+    },
+    {
+      "rank": 1170,
+      "book": 1,
+      "book_rank": 1170,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "decimus",
+      "headword": "decimus, a, um",
+      "pos": "Noun",
+      "definition": "tithe; tenth part; ; tax/right to collect 10%; 10th hour",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "decima"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 216
+    },
+    {
+      "rank": 1171,
+      "book": 1,
+      "book_rank": 1171,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praetorius",
+      "headword": "praetorius, a, um",
+      "pos": "Noun",
+      "definition": "general's tent; headquarters; governor's residence, government house; palace",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "praetoriam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 217
+    },
+    {
+      "rank": 1172,
+      "book": 1,
+      "book_rank": 1172,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "cohors",
+      "headword": "cohors, ortis, f.",
+      "pos": "Noun",
+      "definition": "court; enclosure/yard/pen, farmyard; attendants, retinue, staff; circle; crowd",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "cohortem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 53,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 218
+    },
+    {
+      "rank": 1173,
+      "book": 1,
+      "book_rank": 1173,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "indulgeo",
+      "headword": "indulgeo, es, ere, dulsi, dultum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "indulserat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 219
+    },
+    {
+      "rank": 1174,
+      "book": 1,
+      "book_rank": 1174,
+      "stage": "Book 1 Chunk 5",
+      "lemma": "praecipue",
+      "headword": "praecipue, adv.",
+      "pos": "Adverb",
+      "definition": "especially; chiefly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 40,
+        "surface_form": "praecipue"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 5,
+      "chunk_title": "The German Threat & Mutiny at Vesontio",
+      "chunk_rank": 220
+    }
+  ]
+}

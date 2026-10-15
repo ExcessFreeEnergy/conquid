@@ -15,7 +15,23 @@ All conjugated verbs, declined nouns, adjectives, and pronouns are automatically
 
 ## Vocabulary Progression Summary
 
-Across all 8 books (**53,676 total words**), there are **3,290 unique dictionary headwords**.
+### 1. Book 1 Micro-Chunk Breakdown (~200–260 New Words per Step)
+
+To make learning Caesar accessible from day one, Book 1 is partitioned into **6 micro-chunks** of roughly equal learning load (~200–260 new words each). Notice how the text unlocked expands rapidly with each chunk:
+
+| Stage | Chapters | Description | Text Read | New Words | Cumulative Vocab | % of Book 1 Unlocked |
+| :--- | :---: | :--- | :---: | :---: | :---: | :---: |
+| **Chunk 1.1** | Ch 1–4 | Gaul & The Orgetorix Conspiracy | 595 words | **261** | 261 | 19.3% |
+| **Chunk 1.2** | Ch 5–11 | Helvetian Departure & Defense of the Rhone | 887 words | **226** | 487 | 36.0% |
+| **Chunk 1.3** | Ch 12–19 | Defeat of the Tigurini & Treason of Dumnorix | 1,283 words | **264** | 751 | 55.5% |
+| **Chunk 1.4** | Ch 20–29 | Battle of Bibracte & Helvetian Surrender | 1,263 words | **203** | 954 | 70.5% |
+| **Chunk 1.5** | Ch 30–40 | The German Threat & Mutiny at Vesontio | 2,119 words | **220** | 1,174 | 86.7% |
+| **Chunk 1.6** | Ch 41–54 | Parley & Decisive Defeat of Ariovistus | 2,093 words | **180** | 1,354 | 100.0% |
+| **Book 1 Total** | **Ch 1–54** | **Complete Helvetian & German Campaigns** | **8,240 words** | **1,354** | **1,354** | **100.0%** |
+
+### 2. Entire Work Overview (Books 1–8)
+
+Once the 1,354-word baseline of Book 1 is established, every subsequent book requires memorizing only **180–370 new words**:
 
 | Book | Running Words (Tokens) | New Unique Headwords to Memorize | Cumulative Vocabulary | % of Total Lexicon |
 | :--- | :---: | :---: | :---: | :---: |
@@ -29,20 +45,21 @@ Across all 8 books (**53,676 total words**), there are **3,290 unique dictionary
 | **Book 8** | 8,132 | **182** | 3,290 | 100.0% |
 | **Total** | **53,676** | **3,290** | **3,290** | **100.0%** |
 
-*Key takeaway: Mastering Book 1 gives you immediate mastery of over 41% of Caesar's entire vocabulary. Each subsequent book requires only ~180 to 370 new words.*
-
 ---
 
 ## Output Data Files
 
 All generated datasets are located in [`data/output/`](file:///home/gauss/code/latin/data/output):
 
+* **[`book_1_chunk_1_vocab.json`](file:///home/gauss/code/latin/data/output/book_1_chunk_1_vocab.json) ... [`book_1_chunk_6_vocab.json`](file:///home/gauss/code/latin/data/output/book_1_chunk_6_vocab.json)**:
+  Dedicated vocabulary packs for Book 1's 6 learning stages.
 * **[`book_1_vocab.json`](file:///home/gauss/code/latin/data/output/book_1_vocab.json) ... [`book_8_vocab.json`](file:///home/gauss/code/latin/data/output/book_8_vocab.json)**:
   Per-book lists of new unique words in exact reading order.
 * **[`gallic_wars_full_vocab.json`](file:///home/gauss/code/latin/data/output/gallic_wars_full_vocab.json)**:
-  Master cumulative vocabulary list (3,290 entries) with full metadata.
+  Master cumulative vocabulary list (3,290 entries) with full metadata and chunk/stage annotations.
 * **[`gallic_wars_anki.csv`](file:///home/gauss/code/latin/data/output/gallic_wars_anki.csv)**:
-  Spaced-repetition deck ready to import into Anki or any flashcard app.
+  Spaced-repetition deck ready to import into Anki (tagged with stages `Book 1 Chunk 1` through `Book 8`).
+
 
 ### Entry Schema
 

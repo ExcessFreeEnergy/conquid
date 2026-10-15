@@ -1,0 +1,4071 @@
+{
+  "book": 1,
+  "chunk": 4,
+  "title": "Battle of Bibracte & Helvetian Surrender",
+  "chapters": "Chapters 20–29",
+  "running_tokens": 1263,
+  "new_word_count": 203,
+  "cumulative_book_1_words": 954,
+  "words": [
+    {
+      "rank": 752,
+      "book": 1,
+      "book_rank": 752,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "lacrima",
+      "headword": "lacrima, ae, f.",
+      "pos": "Noun",
+      "definition": "tear; exuded gum/sap; bit of lead; quicksilver from ore; weeping ; dirge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "lacrimis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 1
+    },
+    {
+      "rank": 753,
+      "book": 1,
+      "book_rank": 753,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "complector",
+      "headword": "complector, eris, i, complexus sum",
+      "pos": "Verb",
+      "definition": "embrace, hug; welcome; encircle, encompass; attain; include, bring in, involve",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "complexus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 2
+    },
+    {
+      "rank": 754,
+      "book": 1,
+      "book_rank": 754,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "obsecro",
+      "headword": "obsecro, as, are",
+      "pos": "Verb",
+      "definition": "entreat/beseech/implore/pray",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "obsecrare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 3
+    },
+    {
+      "rank": 755,
+      "book": 1,
+      "book_rank": 755,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "scio",
+      "headword": "scio, is, ire, sciui, scitum",
+      "pos": "Verb",
+      "definition": "cognizant, possessing knowledge; skilled/expert",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "scire"
+      },
+      "book_frequency": 4,
+      "total_frequency": 27,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 4
+    },
+    {
+      "rank": 756,
+      "book": 1,
+      "book_rank": 756,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nec",
+      "headword": "nec, adv.",
+      "pos": "Verb",
+      "definition": "kill/murder; put to death; suppress, destroy; kill ; quench/drown",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "nec"
+      },
+      "book_frequency": 3,
+      "total_frequency": 43,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 5
+    },
+    {
+      "rank": 757,
+      "book": 1,
+      "book_rank": 757,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "quisquam",
+      "headword": "quisquam, quaequam, quidquam ou quic-",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "quemquam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 32,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 6
+    },
+    {
+      "rank": 758,
+      "book": 1,
+      "book_rank": 758,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "adulescentia",
+      "headword": "adulescentia, ae, f.",
+      "pos": "Noun",
+      "definition": "youth, young manhood; characteristic of being young, youthfulness; the young",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "adulescentiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 7
+    },
+    {
+      "rank": 759,
+      "book": 1,
+      "book_rank": 759,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "cerno",
+      "headword": "cerno, is, ere, creui, cretum",
+      "pos": "Verb",
+      "definition": "sift, separate, distinguish, discern, resolve, determine; see; examine; decide",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "crevisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 8
+    },
+    {
+      "rank": 760,
+      "book": 1,
+      "book_rank": 760,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ops",
+      "headword": "ops, opis, f.",
+      "pos": "Noun",
+      "definition": "power, might; help; influence; resources/wealth",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "opibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 9
+    },
+    {
+      "rank": 761,
+      "book": 1,
+      "book_rank": 761,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nervus",
+      "headword": "nervus, i, m.",
+      "pos": "Noun",
+      "definition": "strength; vigor, nerve, force, power; sexual power, virility; penis",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "nervis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 10
+    },
+    {
+      "rank": 762,
+      "book": 1,
+      "book_rank": 762,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "minuo",
+      "headword": "minuo, is, ere, ui, utum",
+      "pos": "Verb",
+      "definition": "lessen, reduce, diminish, impair, abate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "minuendam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 11
+    },
+    {
+      "rank": 763,
+      "book": 1,
+      "book_rank": 763,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pernicies",
+      "headword": "pernicies, iei, f.",
+      "pos": "Noun",
+      "definition": "ruin; disaster; pest, bane; curse; destruction, calamity; mischief",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "perniciem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 12
+    },
+    {
+      "rank": 764,
+      "book": 1,
+      "book_rank": 764,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "amor",
+      "headword": "amor, oris, m.",
+      "pos": "Noun",
+      "definition": "love; affection; the beloved; Cupid; affair; sexual/illicit/homosexual passion",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "amore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 13
+    },
+    {
+      "rank": 765,
+      "book": 1,
+      "book_rank": 765,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "fraternus",
+      "headword": "fraternus, a, um",
+      "pos": "Adjective",
+      "definition": "brotherly/brother's; of/belonging to a brother; fraternal; friendly; of cousin",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "fraterno"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 14
+    },
+    {
+      "rank": 766,
+      "book": 1,
+      "book_rank": 766,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "existimatio",
+      "headword": "existimatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "opinion ; reputation/name; esteem; judgment/view/estimation; credit",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "existimatio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 15
+    },
+    {
+      "rank": 767,
+      "book": 1,
+      "book_rank": 767,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vulgus",
+      "headword": "vulgus, i, n.",
+      "pos": "Noun",
+      "definition": "common people/general public/multitude/common herd/rabble/crowd/mob; flock",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "vulgi"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 16
+    },
+    {
+      "rank": 768,
+      "book": 1,
+      "book_rank": 768,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "verbum",
+      "headword": "verbum, i, n.",
+      "pos": "Noun",
+      "definition": "word; proverb",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "verbis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 17
+    },
+    {
+      "rank": 769,
+      "book": 1,
+      "book_rank": 769,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "fleo",
+      "headword": "fleo, es, ere, fleui, fletum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "flens"
+      },
+      "book_frequency": 5,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 18
+    },
+    {
+      "rank": 770,
+      "book": 1,
+      "book_rank": 770,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "dextra",
+      "headword": "dextra, ou dextera, ae, f.",
+      "pos": "Noun",
+      "definition": "on the right of; on the right-hand side of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "dextram"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 19
+    },
+    {
+      "rank": 771,
+      "book": 1,
+      "book_rank": 771,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "prendo",
+      "headword": "prendo, is, ere, prendi, prensum",
+      "pos": "Verb",
+      "definition": "catch/capture; take hold of/possession of/in hand, arrest; occupy; seize/grasp",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "prendit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 20
+    },
+    {
+      "rank": 772,
+      "book": 1,
+      "book_rank": 772,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "consolor",
+      "headword": "consolor, aris, ari",
+      "pos": "Verb",
+      "definition": "console,  comfort/solace; soothe; alleviate/allay/assuage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "consolatus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 21
+    },
+    {
+      "rank": 773,
+      "book": 1,
+      "book_rank": 773,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "oro",
+      "headword": "oro, as, are",
+      "pos": "Verb",
+      "definition": "be born/created; be born of, descend/spring from; proceed/be derived",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "orandi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 22
+    },
+    {
+      "rank": 774,
+      "book": 1,
+      "book_rank": 774,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "tantum",
+      "headword": "tantum, adv.",
+      "pos": "Adverb",
+      "definition": "so much, so far; hardly, only",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "tanti"
+      },
+      "book_frequency": 7,
+      "total_frequency": 94,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 23
+    },
+    {
+      "rank": 775,
+      "book": 1,
+      "book_rank": 775,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "condono",
+      "headword": "condono, as, are",
+      "pos": "Verb",
+      "definition": "give ; present; make present of; forgive/pardon/absolve; sacrifice to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "condonet"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 24
+    },
+    {
+      "rank": 776,
+      "book": 1,
+      "book_rank": 776,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "adhibeo",
+      "headword": "adhibeo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "adhibet"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 25
+    },
+    {
+      "rank": 777,
+      "book": 1,
+      "book_rank": 777,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "reprehendo",
+      "headword": "reprehendo, is, ere, di, sum",
+      "pos": "Verb",
+      "definition": "hold back, seize, catch; blame",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "reprehendat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 26
+    },
+    {
+      "rank": 778,
+      "book": 1,
+      "book_rank": 778,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "moneo",
+      "headword": "moneo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "monet"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 27
+    },
+    {
+      "rank": 779,
+      "book": 1,
+      "book_rank": 779,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "uito",
+      "headword": "uito",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "vitet"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 28
+    },
+    {
+      "rank": 780,
+      "book": 1,
+      "book_rank": 780,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "praeteritus",
+      "headword": "praeteritus, a, um",
+      "pos": "Noun",
+      "definition": "past ; past times; bygone events",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "praeterita"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 29
+    },
+    {
+      "rank": 781,
+      "book": 1,
+      "book_rank": 781,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "custos",
+      "headword": "custos, odis, m.",
+      "pos": "Noun",
+      "definition": "jailer, warden; poll watcher; spy; garrison; container; replacement vine shoot",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "custodes"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 30
+    },
+    {
+      "rank": 782,
+      "book": 1,
+      "book_rank": 782,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "loquor",
+      "headword": "loquor, eris, i, locutus sum",
+      "pos": "Verb",
+      "definition": "speak, tell; talk; mention; say, utter; phrase",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 20,
+        "surface_form": "loquatur"
+      },
+      "book_frequency": 4,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 31
+    },
+    {
+      "rank": 783,
+      "book": 1,
+      "book_rank": 783,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "consido",
+      "headword": "consido, is, ere, sedi, sessum",
+      "pos": "Verb",
+      "definition": "encamp/bivouac; take up a position; stop/stay, make one's home, settle; lodge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "consedisse"
+      },
+      "book_frequency": 5,
+      "total_frequency": 25,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 32
+    },
+    {
+      "rank": 784,
+      "book": 1,
+      "book_rank": 784,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "octo",
+      "headword": "octo, num.",
+      "pos": "Word",
+      "definition": "eight",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "octo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 33
+    },
+    {
+      "rank": 785,
+      "book": 1,
+      "book_rank": 785,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "qualis",
+      "headword": "qualis, e",
+      "pos": "Adjective",
+      "definition": "what kind/sort/condition ; what is  like; what/how excellent a ...",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "qualis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 34
+    },
+    {
+      "rank": 786,
+      "book": 1,
+      "book_rank": 786,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "circumeo",
+      "headword": "circumeo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "encircle, surround; border; skirt; circulate/wander through; go/measure round",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "circuitu"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 35
+    },
+    {
+      "rank": 787,
+      "book": 1,
+      "book_rank": 787,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ascendo",
+      "headword": "ascendo, is, ere, ascendi, ascensum",
+      "pos": "Verb",
+      "definition": "climb; go/climb up; mount, scale; mount up, embark; rise, ascend, move upward",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "ascensus"
+      },
+      "book_frequency": 2,
+      "total_frequency": 20,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 36
+    },
+    {
+      "rank": 788,
+      "book": 1,
+      "book_rank": 788,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "facilis",
+      "headword": "facilis, e",
+      "pos": "Adjective",
+      "definition": "easy, easy to do, without difficulty, ready, quick, good natured, courteous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "facilem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 37
+    },
+    {
+      "rank": 789,
+      "book": 1,
+      "book_rank": 789,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "praetor",
+      "headword": "praetor, oris, m.",
+      "pos": "Noun",
+      "definition": "praetor ; abb. pr.",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "praetore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 38
+    },
+    {
+      "rank": 790,
+      "book": 1,
+      "book_rank": 790,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Considius",
+      "headword": "Considius, i, m.",
+      "pos": "Noun",
+      "definition": "court of justice",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "Considius"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 39
+    },
+    {
+      "rank": 791,
+      "book": 1,
+      "book_rank": 791,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "militaris",
+      "headword": "militaris, e",
+      "pos": "Noun",
+      "definition": "military man; soldier, warrior",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "militaris"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 40
+    },
+    {
+      "rank": 792,
+      "book": 1,
+      "book_rank": 792,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "peritus",
+      "headword": "peritus, a, um",
+      "pos": "Adjective",
+      "definition": "skilled, skillful; experienced, expert; with gen",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "peritissimus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 41
+    },
+    {
+      "rank": 793,
+      "book": 1,
+      "book_rank": 793,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Sulla",
+      "headword": "Sulla, ae, m.",
+      "pos": "Noun",
+      "definition": "Sulla",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "Sullae"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 42
+    },
+    {
+      "rank": 794,
+      "book": 1,
+      "book_rank": 794,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "postea",
+      "headword": "postea, adv.",
+      "pos": "Adverb",
+      "definition": "afterwards",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "postea"
+      },
+      "book_frequency": 6,
+      "total_frequency": 18,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 43
+    },
+    {
+      "rank": 795,
+      "book": 1,
+      "book_rank": 795,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Crassus",
+      "headword": "Crassus, a, um",
+      "pos": "Adjective",
+      "definition": "fat/stout; rude, coarse, rough, harsh, heavy, gross; stupid, crass/insensitive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 21,
+        "surface_form": "Crassi"
+      },
+      "book_frequency": 2,
+      "total_frequency": 30,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 44
+    },
+    {
+      "rank": 796,
+      "book": 1,
+      "book_rank": 796,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "lux",
+      "headword": "lux, lucis, f.",
+      "pos": "Verb",
+      "definition": "sprain , dislocate; displace, force out of position; put out of joint",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "luce"
+      },
+      "book_frequency": 1,
+      "total_frequency": 20,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 45
+    },
+    {
+      "rank": 797,
+      "book": 1,
+      "book_rank": 797,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Lucius",
+      "headword": "Lucius, i, m.",
+      "pos": "Noun",
+      "definition": "Lucius",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "Lucio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 46
+    },
+    {
+      "rank": 798,
+      "book": 1,
+      "book_rank": 798,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "longus",
+      "headword": "longus, a, um",
+      "pos": "Adjective",
+      "definition": "long; tall; tedious, taking long time; boundless; far; of specific length/time",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "longius"
+      },
+      "book_frequency": 3,
+      "total_frequency": 65,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 47
+    },
+    {
+      "rank": 799,
+      "book": 1,
+      "book_rank": 799,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "captivus",
+      "headword": "captivus, a, um",
+      "pos": "Adjective",
+      "definition": "caught, taken captive; captured , imprisoned; conquered; of captives",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "captivis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 25,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 48
+    },
+    {
+      "rank": 800,
+      "book": 1,
+      "book_rank": 800,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "comperio",
+      "headword": "comperio, is, ire, peri, pertum",
+      "pos": "Verb",
+      "definition": "learn/discover/find ; verify/know for certain; find guilty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "comperit"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 49
+    },
+    {
+      "rank": 801,
+      "book": 1,
+      "book_rank": 801,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "equus",
+      "headword": "equus, i, m.",
+      "pos": "Noun",
+      "definition": "horse; steed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "equo"
+      },
+      "book_frequency": 8,
+      "total_frequency": 38,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 50
+    },
+    {
+      "rank": 802,
+      "book": 1,
+      "book_rank": 802,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "admitto",
+      "headword": "admitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "urge on, put to a gallop; let in, admit, receive; grant, permit, let go",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "admisso"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 51
+    },
+    {
+      "rank": 803,
+      "book": 1,
+      "book_rank": 803,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "accurro",
+      "headword": "accurro, is, ere, curri, cursum",
+      "pos": "Verb",
+      "definition": "run/hasten to ; come/rush up ; charge, rush to attack",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "accurrit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 52
+    },
+    {
+      "rank": 804,
+      "book": 1,
+      "book_rank": 804,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Gallicus",
+      "headword": "Gallicus, a, um",
+      "pos": "Adjective",
+      "definition": "Gallic, of Gaul, of the Gauls",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "Gallicis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 17,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 53
+    },
+    {
+      "rank": 805,
+      "book": 1,
+      "book_rank": 805,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "collis",
+      "headword": "collis, is, m.",
+      "pos": "Noun",
+      "definition": "hill, hillock, eminence, hill-top; mound; high ground; mountains",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "collem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 23,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 54
+    },
+    {
+      "rank": 806,
+      "book": 1,
+      "book_rank": 806,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "subduco",
+      "headword": "subduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead up, carry off; transfer; haul",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "subducit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 55
+    },
+    {
+      "rank": 807,
+      "book": 1,
+      "book_rank": 807,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "acies",
+      "headword": "acies, ei, f.",
+      "pos": "Noun",
+      "definition": "sharpness, sharp edge, point; battle line/array; sight, glance; pupil of eye",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "aciem"
+      },
+      "book_frequency": 18,
+      "total_frequency": 50,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 56
+    },
+    {
+      "rank": 808,
+      "book": 1,
+      "book_rank": 808,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "instruo",
+      "headword": "instruo, is, ere, struxi, structum",
+      "pos": "Verb",
+      "definition": "construct, build; prepare, draw up; fit out; instruct, teach",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "instruit"
+      },
+      "book_frequency": 6,
+      "total_frequency": 30,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 57
+    },
+    {
+      "rank": 809,
+      "book": 1,
+      "book_rank": 809,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "praeceptum",
+      "headword": "praeceptum, i, n.",
+      "pos": "Noun",
+      "definition": "teaching, lesson, precept; order, command",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "praeceptum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 58
+    },
+    {
+      "rank": 810,
+      "book": 1,
+      "book_rank": 810,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nisi",
+      "headword": "nisi, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "if not; except, unless",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "nisi"
+      },
+      "book_frequency": 4,
+      "total_frequency": 26,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 59
+    },
+    {
+      "rank": 811,
+      "book": 1,
+      "book_rank": 811,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "prope",
+      "headword": "prope, adv., prep. (+ acc.)",
+      "pos": "Adverb",
+      "definition": "near, nearly; close by; almost",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "prope"
+      },
+      "book_frequency": 1,
+      "total_frequency": 23,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 60
+    },
+    {
+      "rank": 812,
+      "book": 1,
+      "book_rank": 812,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "uiso",
+      "headword": "uiso",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "visae"
+      },
+      "book_frequency": 5,
+      "total_frequency": 23,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 61
+    },
+    {
+      "rank": 813,
+      "book": 1,
+      "book_rank": 813,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "impetus",
+      "headword": "impetus, us, m.",
+      "pos": "Noun",
+      "definition": "attack, assault, charge; attempt; impetus, vigor; violent mental urge, fury",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "impetus"
+      },
+      "book_frequency": 8,
+      "total_frequency": 54,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 62
+    },
+    {
+      "rank": 814,
+      "book": 1,
+      "book_rank": 814,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "abstineo",
+      "headword": "abstineo, es, ere, tinui, tentum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "abstinebat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 63
+    },
+    {
+      "rank": 815,
+      "book": 1,
+      "book_rank": 815,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "denique",
+      "headword": "denique, adv.",
+      "pos": "Adverb",
+      "definition": "finally, in the end; and then; at worst; in short, to sum up; in fact, indeed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "denique"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 64
+    },
+    {
+      "rank": 816,
+      "book": 1,
+      "book_rank": 816,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "timor",
+      "headword": "timor, oris, m.",
+      "pos": "Noun",
+      "definition": "fear; dread",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "timore"
+      },
+      "book_frequency": 9,
+      "total_frequency": 50,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 65
+    },
+    {
+      "rank": 817,
+      "book": 1,
+      "book_rank": 817,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "intervallum",
+      "headword": "intervallum, i, n.",
+      "pos": "Noun",
+      "definition": "interval, space, distance; respite",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 22,
+        "surface_form": "intervallo"
+      },
+      "book_frequency": 3,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 66
+    },
+    {
+      "rank": 818,
+      "book": 1,
+      "book_rank": 818,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "postridie",
+      "headword": "postridie, adv.",
+      "pos": "Adverb",
+      "definition": "on the following day",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "Postridie"
+      },
+      "book_frequency": 3,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 67
+    },
+    {
+      "rank": 819,
+      "book": 1,
+      "book_rank": 819,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "biduum",
+      "headword": "biduum, i, n.",
+      "pos": "Noun",
+      "definition": "continuing for two days, of/for two days",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "biduum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 68
+    },
+    {
+      "rank": 820,
+      "book": 1,
+      "book_rank": 820,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "supersum",
+      "headword": "supersum, es, esse, fui",
+      "pos": "Verb",
+      "definition": "be left over; survive; be in excess/superfluous ; remain to be performed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "supererat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 69
+    },
+    {
+      "rank": 821,
+      "book": 1,
+      "book_rank": 821,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Bibrax",
+      "headword": "Bibrax, actis, f.",
+      "pos": "Noun",
+      "definition": "Bibrax, a town of the Remi in central Gaul",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "Bibracte"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 70
+    },
+    {
+      "rank": 822,
+      "book": 1,
+      "book_rank": 822,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "copiosus",
+      "headword": "copiosus, a, um",
+      "pos": "Adjective",
+      "definition": "plentiful/copious/abundant; well supplied/equipped, w/ample resources; prolific",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "copiosissimo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 71
+    },
+    {
+      "rank": 823,
+      "book": 1,
+      "book_rank": 823,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "prospicio",
+      "headword": "prospicio, is, ere, spexi, spectum",
+      "pos": "Verb",
+      "definition": "foresee; see far off; watch for, provide for, look out for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "prospiciendum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 72
+    },
+    {
+      "rank": 824,
+      "book": 1,
+      "book_rank": 824,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "fugitiuus",
+      "headword": "fugitiuus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "fugitivos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 73
+    },
+    {
+      "rank": 825,
+      "book": 1,
+      "book_rank": 825,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Aemilius",
+      "headword": "Aemilius, i, m.",
+      "pos": "Noun",
+      "definition": "Aemilian; of Aemilius gens",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "Aemilii"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 74
+    },
+    {
+      "rank": 826,
+      "book": 1,
+      "book_rank": 826,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "decurio",
+      "headword": "decurio, onis, m.",
+      "pos": "Noun",
+      "definition": "member of municipal senate/governing committee of decuria; councillor",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "decurionis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 75
+    },
+    {
+      "rank": 827,
+      "book": 1,
+      "book_rank": 827,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "seu",
+      "headword": "seu, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "or if; or",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "seu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 76
+    },
+    {
+      "rank": 828,
+      "book": 1,
+      "book_rank": 828,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pridie",
+      "headword": "pridie, adv.",
+      "pos": "Adverb",
+      "definition": "day before",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "pridie"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 77
+    },
+    {
+      "rank": 829,
+      "book": 1,
+      "book_rank": 829,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "intercludo",
+      "headword": "intercludo, is, ere, clūsi, clūsum",
+      "pos": "Verb",
+      "definition": "cut off; blockade; hinder, block up",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "intercludi"
+      },
+      "book_frequency": 2,
+      "total_frequency": 13,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 78
+    },
+    {
+      "rank": 830,
+      "book": 1,
+      "book_rank": 830,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "confido",
+      "headword": "confido, is, ere, confisus sum",
+      "pos": "Verb",
+      "definition": "have confidence in, rely on, trust ; believe, be confident/assured; be sure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "confiderent"
+      },
+      "book_frequency": 4,
+      "total_frequency": 26,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 79
+    },
+    {
+      "rank": 831,
+      "book": 1,
+      "book_rank": 831,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "commuto",
+      "headword": "commuto, as, are",
+      "pos": "Verb",
+      "definition": "change; alter wholly, rearrange, replace; transform; exchange, barter, sell",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "commutato"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 80
+    },
+    {
+      "rank": 832,
+      "book": 1,
+      "book_rank": 832,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "converto",
+      "headword": "converto, is, ere, uerti, uersum",
+      "pos": "Verb",
+      "definition": "turn upside down/side-to-side; invert/transpose/convulse; turn over /dig",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 23,
+        "surface_form": "converso"
+      },
+      "book_frequency": 3,
+      "total_frequency": 16,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 81
+    },
+    {
+      "rank": 833,
+      "book": 1,
+      "book_rank": 833,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "postquam",
+      "headword": "postquam, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "after",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "Postquam"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 82
+    },
+    {
+      "rank": 834,
+      "book": 1,
+      "book_rank": 834,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "adverto",
+      "headword": "adverto, (aduorto) is, ere, uerti, uersum",
+      "pos": "Verb",
+      "definition": "turn/face to/towards; direct/draw one's attention to; steer/pilot",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "advertit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 83
+    },
+    {
+      "rank": 835,
+      "book": 1,
+      "book_rank": 835,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "sustineo",
+      "headword": "sustineo, es, ere, tinui, tentum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "sustineret"
+      },
+      "book_frequency": 4,
+      "total_frequency": 45,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 84
+    },
+    {
+      "rank": 836,
+      "book": 1,
+      "book_rank": 836,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "medius",
+      "headword": "medius, a, um",
+      "pos": "Adjective",
+      "definition": "middle, middle of, mid; common, neutral, ordinary, moderate; ambiguous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "medio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 31,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 85
+    },
+    {
+      "rank": 837,
+      "book": 1,
+      "book_rank": 837,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "triplex",
+      "headword": "triplex, icis",
+      "pos": "Adjective",
+      "definition": "threefold, triple; three",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "triplicem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 86
+    },
+    {
+      "rank": 838,
+      "book": 1,
+      "book_rank": 838,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ueteranus",
+      "headword": "ueteranus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "veteranarum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 87
+    },
+    {
+      "rank": 839,
+      "book": 1,
+      "book_rank": 839,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "supra",
+      "headword": "supra, adv.",
+      "pos": "Adverb",
+      "definition": "above, beyond; over; more than; in charge of, in authority over",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "supra"
+      },
+      "book_frequency": 1,
+      "total_frequency": 27,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 88
+    },
+    {
+      "rank": 840,
+      "book": 1,
+      "book_rank": 840,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "compleo",
+      "headword": "compleo, es, ere, pleui, pletum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "compleret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 21,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 89
+    },
+    {
+      "rank": 841,
+      "book": 1,
+      "book_rank": 841,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "impedimentum",
+      "headword": "impedimentum, i, n.",
+      "pos": "Noun",
+      "definition": "hindrance, impediment; heavy baggage",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "impedimenta"
+      },
+      "book_frequency": 6,
+      "total_frequency": 59,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 90
+    },
+    {
+      "rank": 842,
+      "book": 1,
+      "book_rank": 842,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "sarcina",
+      "headword": "sarcina, ae, f.",
+      "pos": "Noun",
+      "definition": "pack, bundle, soldier's kit; baggage , belongings, chattels; load, burden",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "sarcinas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 91
+    },
+    {
+      "rank": 843,
+      "book": 1,
+      "book_rank": 843,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "munio",
+      "headword": "munio, is, ire, iui, itum",
+      "pos": "Verb",
+      "definition": "fortify; strengthen; protect, defend, safeguard; build",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "muniri"
+      },
+      "book_frequency": 5,
+      "total_frequency": 45,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 92
+    },
+    {
+      "rank": 844,
+      "book": 1,
+      "book_rank": 844,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "jusso",
+      "headword": "jusso, ere",
+      "pos": "Verb",
+      "definition": "order, command, decree, ordinance, law; physician's prescription",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "iussit"
+      },
+      "book_frequency": 5,
+      "total_frequency": 30,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 93
+    },
+    {
+      "rank": 845,
+      "book": 1,
+      "book_rank": 845,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "confertus",
+      "headword": "confertus, a, um",
+      "pos": "Adjective",
+      "definition": "crowded/pressed together/thronging; in close order ; dense/compact",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "confertissima"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 94
+    },
+    {
+      "rank": 846,
+      "book": 1,
+      "book_rank": 846,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "reicio",
+      "headword": "reicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "throw back; drive back; repulse, repel; refuse, reject, scorn",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "reiecto"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 95
+    },
+    {
+      "rank": 847,
+      "book": 1,
+      "book_rank": 847,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "phalanx",
+      "headword": "phalanx, angis, f.",
+      "pos": "Noun",
+      "definition": "phalanx, compact body of heavy infantry; battalion; men in battle formation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "phalange"
+      },
+      "book_frequency": 3,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 96
+    },
+    {
+      "rank": 848,
+      "book": 1,
+      "book_rank": 848,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "succedo",
+      "headword": "succedo, is, ere, cessi, cessum",
+      "pos": "Verb",
+      "definition": "climb; advance; follow; succeed in",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 24,
+        "surface_form": "successerunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 17,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 97
+    },
+    {
+      "rank": 849,
+      "book": 1,
+      "book_rank": 849,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "deinde",
+      "headword": "deinde, adv.",
+      "pos": "Adverb",
+      "definition": "then/next/afterward; thereon/henceforth/from there/then; in next position/place",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "deinde"
+      },
+      "book_frequency": 4,
+      "total_frequency": 13,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 98
+    },
+    {
+      "rank": 850,
+      "book": 1,
+      "book_rank": 850,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "aequo",
+      "headword": "aequo, as, are",
+      "pos": "Verb",
+      "definition": "level, even, equal, like; just, kind, impartial, fair; patient, contented",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "aequato"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 99
+    },
+    {
+      "rank": 851,
+      "book": 1,
+      "book_rank": 851,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "cohortor",
+      "headword": "cohortor, aris, ari",
+      "pos": "Noun",
+      "definition": "court; enclosure/yard/pen, farmyard; attendants, retinue, staff; circle; crowd",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "cohortatus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 22,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 100
+    },
+    {
+      "rank": 852,
+      "book": 1,
+      "book_rank": 852,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pilum",
+      "headword": "pilum, i, n.",
+      "pos": "Noun",
+      "definition": "squared pillar; pier, pile; low pillar monument; funerary monument w/cavity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "pilis"
+      },
+      "book_frequency": 4,
+      "total_frequency": 14,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 101
+    },
+    {
+      "rank": 853,
+      "book": 1,
+      "book_rank": 853,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "perfringo",
+      "headword": "perfringo, is, ere, fregi, fractum",
+      "pos": "Verb",
+      "definition": "break through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "perfregerunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 102
+    },
+    {
+      "rank": 854,
+      "book": 1,
+      "book_rank": 854,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "disicio",
+      "headword": "disicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "break up; scatter; drive apart; separate into two halves, halve, divide",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "disiecta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 103
+    },
+    {
+      "rank": 855,
+      "book": 1,
+      "book_rank": 855,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "gladius",
+      "headword": "gladius, i, m.",
+      "pos": "Noun",
+      "definition": "swordfish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "gladiis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 104
+    },
+    {
+      "rank": 856,
+      "book": 1,
+      "book_rank": 856,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "destringo",
+      "headword": "destringo, is, ere, strinxi, strictum",
+      "pos": "Verb",
+      "definition": "scour ; draw ; graze; touch lightly; censure/criticize/satirize",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "destrictis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 105
+    },
+    {
+      "rank": 857,
+      "book": 1,
+      "book_rank": 857,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pugna",
+      "headword": "pugna, ae, f.",
+      "pos": "Verb",
+      "definition": "fight; dispute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "pugnam"
+      },
+      "book_frequency": 3,
+      "total_frequency": 35,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 106
+    },
+    {
+      "rank": 858,
+      "book": 1,
+      "book_rank": 858,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "scutum",
+      "headword": "scutum, i, n.",
+      "pos": "Noun",
+      "definition": "shield",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "scutis"
+      },
+      "book_frequency": 3,
+      "total_frequency": 10,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 107
+    },
+    {
+      "rank": 859,
+      "book": 1,
+      "book_rank": 859,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ictus",
+      "headword": "ictus, us, m.",
+      "pos": "Noun",
+      "definition": "blow, stroke; musical/metrical beat; measure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "ictu"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 108
+    },
+    {
+      "rank": 860,
+      "book": 1,
+      "book_rank": 860,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "transfigo",
+      "headword": "transfigo, is, ere, fixi, fixum",
+      "pos": "Verb",
+      "definition": "transfix, pierce through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "transfixis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 109
+    },
+    {
+      "rank": 861,
+      "book": 1,
+      "book_rank": 861,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "colligo",
+      "headword": "colligo, is, ere, legi, lectum",
+      "pos": "Verb",
+      "definition": "bind/tie/pack together/up, connect, unite/unify; fetter/bind; immobilize, stop",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "conligatis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 110
+    },
+    {
+      "rank": 862,
+      "book": 1,
+      "book_rank": 862,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ferrum",
+      "headword": "ferrum, i, n.",
+      "pos": "Noun",
+      "definition": "iron; any tool of iron; weapon, sword",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "ferrum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 111
+    },
+    {
+      "rank": 863,
+      "book": 1,
+      "book_rank": 863,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "inflecto",
+      "headword": "inflecto, is, ere, flexi, flexum",
+      "pos": "Verb",
+      "definition": "unmourned; not wept for",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "inflexisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 112
+    },
+    {
+      "rank": 864,
+      "book": 1,
+      "book_rank": 864,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "evello",
+      "headword": "evello, is, ere, uolsi (uulsi), uulsum",
+      "pos": "Verb",
+      "definition": "pull/pluck/tear/root out",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "evellere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 113
+    },
+    {
+      "rank": 865,
+      "book": 1,
+      "book_rank": 865,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "sinister",
+      "headword": "sinister, tra, trum",
+      "pos": "Adjective",
+      "definition": "left, improper,adverse; inauspicious",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "sinistra"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 114
+    },
+    {
+      "rank": 866,
+      "book": 1,
+      "book_rank": 866,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "commodus",
+      "headword": "commodus, a, um",
+      "pos": "Adjective",
+      "definition": "suitable, convenient, obliging; opportune/timely; favorable/lucky; advantageous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "commode"
+      },
+      "book_frequency": 3,
+      "total_frequency": 14,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 115
+    },
+    {
+      "rank": 867,
+      "book": 1,
+      "book_rank": 867,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pugno",
+      "headword": "pugno, as, are",
+      "pos": "Verb",
+      "definition": "fight; dispute",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "pugnare"
+      },
+      "book_frequency": 10,
+      "total_frequency": 59,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 116
+    },
+    {
+      "rank": 868,
+      "book": 1,
+      "book_rank": 868,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "bracchium",
+      "headword": "bracchium, ii, n.",
+      "pos": "Noun",
+      "definition": "arm; lower arm, forearm; claw; branch, shoot; earthwork connecting forts",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "bracchio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 117
+    },
+    {
+      "rank": 869,
+      "book": 1,
+      "book_rank": 869,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "praeopto",
+      "headword": "praeopto, as, are",
+      "pos": "Verb",
+      "definition": "prefer",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "praeoptarent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 118
+    },
+    {
+      "rank": 870,
+      "book": 1,
+      "book_rank": 870,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "manus",
+      "headword": "manus, us, f.",
+      "pos": "Noun",
+      "definition": "shades/ghosts of dead ; gods of Lower World; corpse/remains; underworld",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "manu"
+      },
+      "book_frequency": 5,
+      "total_frequency": 56,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 119
+    },
+    {
+      "rank": 871,
+      "book": 1,
+      "book_rank": 871,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "emitto",
+      "headword": "emitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "hurl; let go; utter; send out; drive; force; cast; discharge; expel; publish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "emittere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 120
+    },
+    {
+      "rank": 872,
+      "book": 1,
+      "book_rank": 872,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nudus",
+      "headword": "nudus, a, um",
+      "pos": "Verb",
+      "definition": "lay bare, strip; leave unprotected",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "nudo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 121
+    },
+    {
+      "rank": 873,
+      "book": 1,
+      "book_rank": 873,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "corpus",
+      "headword": "corpus, oris, n.",
+      "pos": "Noun",
+      "definition": "substantial/material/concrete object/body; particle/atom; corporation, guild",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "corpore"
+      },
+      "book_frequency": 2,
+      "total_frequency": 14,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 122
+    },
+    {
+      "rank": 874,
+      "book": 1,
+      "book_rank": 874,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "tandem",
+      "headword": "tandem, adv.",
+      "pos": "Adverb",
+      "definition": "finally; at last, in the end; after some time, eventually; at length",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "Tandem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 123
+    },
+    {
+      "rank": 875,
+      "book": 1,
+      "book_rank": 875,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vulnus",
+      "headword": "vulnus, ĕris, n.",
+      "pos": "Noun",
+      "definition": "wound; mental/emotional hurt; injury to one's interests; wound of love",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "vulneribus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 25,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 124
+    },
+    {
+      "rank": 876,
+      "book": 1,
+      "book_rank": 876,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "defessus",
+      "headword": "defessus, a, um",
+      "pos": "Adjective",
+      "definition": "worn out, weary, exhausted, tired; weakened",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "defessi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 125
+    },
+    {
+      "rank": 877,
+      "book": 1,
+      "book_rank": 877,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "refero",
+      "headword": "refero, fers, ferre, tuli, latum",
+      "pos": "Verb",
+      "definition": "bring/carry back/again/home; move/draw/force back, withdraw; go back, return",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "referre"
+      },
+      "book_frequency": 6,
+      "total_frequency": 22,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 126
+    },
+    {
+      "rank": 878,
+      "book": 1,
+      "book_rank": 878,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "subsum",
+      "headword": "subsum, es, esse, fui",
+      "pos": "Verb",
+      "definition": "be underneath/a basis for discussion/close at hand as a reserve, be near",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "suberit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 127
+    },
+    {
+      "rank": 879,
+      "book": 1,
+      "book_rank": 879,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Boi",
+      "headword": "Boi",
+      "pos": "Noun",
+      "definition": "Boli , a people of Cisalpine Gaul - in Caesar's \"Gallic War\"",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "Boi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 128
+    },
+    {
+      "rank": 880,
+      "book": 1,
+      "book_rank": 880,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "claudo",
+      "headword": "claudo, (cludo) is, ere, clausi, clausum",
+      "pos": "Verb",
+      "definition": "limping, lame; defective/crippled/imperfect; uneven/halting/wavering/uncertain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "claudebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 129
+    },
+    {
+      "rank": 881,
+      "book": 1,
+      "book_rank": 881,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "aperio",
+      "headword": "aperio, is, ire, ui, apertum",
+      "pos": "Verb",
+      "definition": "uncover, open, disclose; explain, recount; reveal; found; excavate; spread out",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "aperto"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 130
+    },
+    {
+      "rank": 882,
+      "book": 1,
+      "book_rank": 882,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "circumvenio",
+      "headword": "circumvenio, is, ire, ueni, uentum",
+      "pos": "Verb",
+      "definition": "encircle, surround; assail, beset; enclose; circumvent; defraud/trick; surpass",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "circumvenire"
+      },
+      "book_frequency": 3,
+      "total_frequency": 28,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 131
+    },
+    {
+      "rank": 883,
+      "book": 1,
+      "book_rank": 883,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "conspicor",
+      "headword": "conspicor, aris, ari",
+      "pos": "Verb",
+      "definition": "observe/see/witness; notice; watch; gaze/stare on; catch/be in sight of; face",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "conspicati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 132
+    },
+    {
+      "rank": 884,
+      "book": 1,
+      "book_rank": 884,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "rursus",
+      "headword": "rursus, adv.",
+      "pos": "Adverb",
+      "definition": "turned back, backward; on the contrary/other hand, in return, in turn, again",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "rursus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 27,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 133
+    },
+    {
+      "rank": 885,
+      "book": 1,
+      "book_rank": 885,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "redintegro",
+      "headword": "redintegro, as, are",
+      "pos": "Verb",
+      "definition": "renew; revive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "redintegrare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 134
+    },
+    {
+      "rank": 886,
+      "book": 1,
+      "book_rank": 886,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "signum",
+      "headword": "signum, i, n.",
+      "pos": "Noun",
+      "definition": "battle standard; indication; seal; sign, proof; signal; image, statue",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "signa"
+      },
+      "book_frequency": 5,
+      "total_frequency": 49,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 135
+    },
+    {
+      "rank": 887,
+      "book": 1,
+      "book_rank": 887,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "bipertito",
+      "headword": "bipertito, adv.",
+      "pos": "Adverb",
+      "definition": "in two parts/divisions/ways",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "bipertito"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 136
+    },
+    {
+      "rank": 888,
+      "book": 1,
+      "book_rank": 888,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vinco",
+      "headword": "vinco, is, ere, uici, uictum",
+      "pos": "Verb",
+      "definition": "conquer, defeat, excel; outlast; succeed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "victis"
+      },
+      "book_frequency": 11,
+      "total_frequency": 27,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 137
+    },
+    {
+      "rank": 889,
+      "book": 1,
+      "book_rank": 889,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "submoveo",
+      "headword": "submoveo, es, ere, moui, motum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "submotis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 138
+    },
+    {
+      "rank": 890,
+      "book": 1,
+      "book_rank": 890,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "resisto",
+      "headword": "resisto, is, ere, stiti",
+      "pos": "Verb",
+      "definition": "pause; continue; resist, oppose; reply; withstand, stand ; make a stand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "resisteret"
+      },
+      "book_frequency": 2,
+      "total_frequency": 31,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 139
+    },
+    {
+      "rank": 891,
+      "book": 1,
+      "book_rank": 891,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "venio",
+      "headword": "venio, is, ire, ueni, uentum",
+      "pos": "Verb",
+      "definition": "go for sale, be sold , be disposed of for  gain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 25,
+        "surface_form": "venientes"
+      },
+      "book_frequency": 14,
+      "total_frequency": 109,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 140
+    },
+    {
+      "rank": 892,
+      "book": 1,
+      "book_rank": 892,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "anceps",
+      "headword": "anceps, cipitis",
+      "pos": "Adjective",
+      "definition": "two headed/fold/edged/meanings; faces two/opposite directions/fronts; twofold",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "ancipiti"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 141
+    },
+    {
+      "rank": 893,
+      "book": 1,
+      "book_rank": 893,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "acriter",
+      "headword": "acriter, adv.",
+      "pos": "Adverb",
+      "definition": "sharply, vigilantly, fiercely; severely, steadfastly; keenly, accurately",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "acriter"
+      },
+      "book_frequency": 3,
+      "total_frequency": 15,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 142
+    },
+    {
+      "rank": 894,
+      "book": 1,
+      "book_rank": 894,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "hora",
+      "headword": "hora, ae, f.",
+      "pos": "Noun",
+      "definition": "hour; time; season",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "hora"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 143
+    },
+    {
+      "rank": 895,
+      "book": 1,
+      "book_rank": 895,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vesper",
+      "headword": "vesper, eri et eris, m.",
+      "pos": "Noun",
+      "definition": "evening; evening star; west",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "vesperum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 144
+    },
+    {
+      "rank": 896,
+      "book": 1,
+      "book_rank": 896,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nox",
+      "headword": "nox, noctis, f.",
+      "pos": "Noun",
+      "definition": "hurt, injury; crime; punishment, harm",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "noctem"
+      },
+      "book_frequency": 6,
+      "total_frequency": 50,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 145
+    },
+    {
+      "rank": 897,
+      "book": 1,
+      "book_rank": 897,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vallum",
+      "headword": "vallum, i, n.",
+      "pos": "Noun",
+      "definition": "wall, rampart; entrenchment, line of palisades, stakes",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "vallo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 43,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 146
+    },
+    {
+      "rank": 898,
+      "book": 1,
+      "book_rank": 898,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "obicio",
+      "headword": "obicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "throw before/to, cast; object, oppose; upbraid; throw in one's teeth; present",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "obiecerunt"
+      },
+      "book_frequency": 2,
+      "total_frequency": 6,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 147
+    },
+    {
+      "rank": 899,
+      "book": 1,
+      "book_rank": 899,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "coicio",
+      "headword": "coicio, is, ere",
+      "pos": "Verb",
+      "definition": "throw/put/pile together; conclude, infer, guess; assign, make go; classify, put",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "coiciebant"
+      },
+      "book_frequency": 4,
+      "total_frequency": 12,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 148
+    },
+    {
+      "rank": 900,
+      "book": 1,
+      "book_rank": 900,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "rota",
+      "headword": "rota, ae, f.",
+      "pos": "Verb",
+      "definition": "whirl round; revolve, rotate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "rotas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 149
+    },
+    {
+      "rank": 901,
+      "book": 1,
+      "book_rank": 901,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "matara",
+      "headword": "matara, ae, f.",
+      "pos": "Noun",
+      "definition": "javelin, spear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "mataras"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 150
+    },
+    {
+      "rank": 902,
+      "book": 1,
+      "book_rank": 902,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "tragula",
+      "headword": "tragula, ae, f.",
+      "pos": "Noun",
+      "definition": "dart, javelin",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "tragulas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 151
+    },
+    {
+      "rank": 903,
+      "book": 1,
+      "book_rank": 903,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "subicio",
+      "headword": "subicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "throw under, place under; make subject; expose",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "subiciebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 152
+    },
+    {
+      "rank": 904,
+      "book": 1,
+      "book_rank": 904,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "vulnero",
+      "headword": "vulnero, as, are",
+      "pos": "Verb",
+      "definition": "wound; mental/emotional hurt; injury to one's interests; wound of love",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "vulnerabant"
+      },
+      "book_frequency": 2,
+      "total_frequency": 20,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 153
+    },
+    {
+      "rank": 905,
+      "book": 1,
+      "book_rank": 905,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "intermitto",
+      "headword": "intermitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "interrupt;  omit; stop; leave off ; leave a gap",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "intermisso"
+      },
+      "book_frequency": 5,
+      "total_frequency": 37,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 154
+    },
+    {
+      "rank": 906,
+      "book": 1,
+      "book_rank": 906,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Lingo",
+      "headword": "Lingo, is, ĕre, xī, ctum",
+      "pos": "Verb",
+      "definition": "lick; lick up",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "Lingonum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 155
+    },
+    {
+      "rank": 907,
+      "book": 1,
+      "book_rank": 907,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "sepelio",
+      "headword": "sepelio, is, ire, iui (ii), ultum",
+      "pos": "Verb",
+      "definition": "bury/inter; ; submerge, overcome; suppress; ruin",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "sepulturam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 156
+    },
+    {
+      "rank": 908,
+      "book": 1,
+      "book_rank": 908,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "triduum",
+      "headword": "triduum, i, n.",
+      "pos": "Noun",
+      "definition": "three days",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "triduum"
+      },
+      "book_frequency": 4,
+      "total_frequency": 10,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 157
+    },
+    {
+      "rank": 909,
+      "book": 1,
+      "book_rank": 909,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "moror",
+      "headword": "moror, aris, ari",
+      "pos": "Verb",
+      "definition": "die, expire, pass/die/wither away/out; fail, come to an end; decay",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "morati"
+      },
+      "book_frequency": 2,
+      "total_frequency": 29,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 158
+    },
+    {
+      "rank": 910,
+      "book": 1,
+      "book_rank": 910,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Lingones",
+      "headword": "Lingones, um, m. pl.",
+      "pos": "Noun",
+      "definition": "Lingones , a people of W Cen. Gaul - in Caesar's \"Gallic War\"",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "Lingonas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 159
+    },
+    {
+      "rank": 911,
+      "book": 1,
+      "book_rank": 911,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "littera",
+      "headword": "littera, ae, f.",
+      "pos": "Noun",
+      "definition": "letter ;  letter, epistle; literature, books, records, account",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "litteras"
+      },
+      "book_frequency": 2,
+      "total_frequency": 28,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 160
+    },
+    {
+      "rank": 912,
+      "book": 1,
+      "book_rank": 912,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nuntius",
+      "headword": "nuntius, ii, m.",
+      "pos": "Verb",
+      "definition": "announce/report/bring word/give warning; convey/deliver/relate message/greeting",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "nuntios"
+      },
+      "book_frequency": 2,
+      "total_frequency": 34,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 161
+    },
+    {
+      "rank": 913,
+      "book": 1,
+      "book_rank": 913,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "iuuo",
+      "headword": "iuuo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 26,
+        "surface_form": "iuvarent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 162
+    },
+    {
+      "rank": 914,
+      "book": 1,
+      "book_rank": 914,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "inopia",
+      "headword": "inopia, ae, f.",
+      "pos": "Noun",
+      "definition": "lack, need; poverty, destitution, dearth, want, scarcity",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "inopia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 25,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 163
+    },
+    {
+      "rank": 915,
+      "book": 1,
+      "book_rank": 915,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "deditio",
+      "headword": "deditio, onis, f.",
+      "pos": "Noun",
+      "definition": "surrender ; cession of right/title",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "deditio"
+      },
+      "book_frequency": 2,
+      "total_frequency": 21,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 164
+    },
+    {
+      "rank": 916,
+      "book": 1,
+      "book_rank": 916,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "proicio",
+      "headword": "proicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "throw down, throw out; abandon; throw away",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "proiecissent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 165
+    },
+    {
+      "rank": 917,
+      "book": 1,
+      "book_rank": 917,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "suppliciter",
+      "headword": "suppliciter, adv.",
+      "pos": "Adverb",
+      "definition": "suppliantly, in an attitude of humble entreaty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "suppliciter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 166
+    },
+    {
+      "rank": 918,
+      "book": 1,
+      "book_rank": 918,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "pareo",
+      "headword": "pareo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "paruerunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 167
+    },
+    {
+      "rank": 919,
+      "book": 1,
+      "book_rank": 919,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "servos",
+      "headword": "servos, cf. seruus",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "servos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 168
+    },
+    {
+      "rank": 920,
+      "book": 1,
+      "book_rank": 920,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "perfugio",
+      "headword": "perfugio, is, ere, fugi, -",
+      "pos": "Verb",
+      "definition": "flee, desert; take refuge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "perfugissent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 169
+    },
+    {
+      "rank": 921,
+      "book": 1,
+      "book_rank": 921,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "posco",
+      "headword": "posco, is, ere, poposci",
+      "pos": "Verb",
+      "definition": "ask, demand",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "poposcit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 170
+    },
+    {
+      "rank": 922,
+      "book": 1,
+      "book_rank": 922,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "conquiro",
+      "headword": "conquiro, is, ere, quisiui, quisitum",
+      "pos": "Verb",
+      "definition": "seek out; hunt/rake up; investigate; collect; search out/down/for diligently",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "conquiruntur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 171
+    },
+    {
+      "rank": 923,
+      "book": 1,
+      "book_rank": 923,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Verbigenus",
+      "headword": "Verbigenus, us, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "Verbigenus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 172
+    },
+    {
+      "rank": 924,
+      "book": 1,
+      "book_rank": 924,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "trado",
+      "headword": "trado, is, ere, didi, ditum",
+      "pos": "Verb",
+      "definition": "hand over, surrender; deliver; bequeath; relate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "traditis"
+      },
+      "book_frequency": 4,
+      "total_frequency": 37,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 173
+    },
+    {
+      "rank": 925,
+      "book": 1,
+      "book_rank": 925,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "salus",
+      "headword": "salus, utis, f.",
+      "pos": "Noun",
+      "definition": "health; prosperity; good wish; greeting; salvation, safety",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "salutis"
+      },
+      "book_frequency": 5,
+      "total_frequency": 52,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 174
+    },
+    {
+      "rank": 926,
+      "book": 1,
+      "book_rank": 926,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "dediticius",
+      "headword": "dediticius, a, um",
+      "pos": "Adjective",
+      "definition": "surrendered; having surrendered; ; of surrender/capitulation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "dediticiorum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 175
+    },
+    {
+      "rank": 927,
+      "book": 1,
+      "book_rank": 927,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "occulto",
+      "headword": "occulto, as, are",
+      "pos": "Verb",
+      "definition": "secrecy; hiding",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "occultari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 176
+    },
+    {
+      "rank": 928,
+      "book": 1,
+      "book_rank": 928,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ignoro",
+      "headword": "ignoro, as, are",
+      "pos": "Verb",
+      "definition": "not know; be unfamiliar with; disregard; ignore; be ignorant of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "ignorari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 177
+    },
+    {
+      "rank": 929,
+      "book": 1,
+      "book_rank": 929,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "egredior",
+      "headword": "egredior, eris, i, egressus sum",
+      "pos": "Verb",
+      "definition": "go/march/come out; set sail; land, disembark; surpass, go beyond",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 27,
+        "surface_form": "egressi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 21,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 178
+    },
+    {
+      "rank": 930,
+      "book": 1,
+      "book_rank": 930,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "rescio",
+      "headword": "rescio, is, ire, ii-iui, itum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "resciit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 179
+    },
+    {
+      "rank": 931,
+      "book": 1,
+      "book_rank": 931,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "reduco",
+      "headword": "reduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead back, bring back; restore; reduce",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "reducerent"
+      },
+      "book_frequency": 6,
+      "total_frequency": 28,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 180
+    },
+    {
+      "rank": 932,
+      "book": 1,
+      "book_rank": 932,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "purgo",
+      "headword": "purgo, as, are",
+      "pos": "Verb",
+      "definition": "make clean, cleanse; excuse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "purgati"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 181
+    },
+    {
+      "rank": 933,
+      "book": 1,
+      "book_rank": 933,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "obses",
+      "headword": "obses, idis, m.",
+      "pos": "Noun",
+      "definition": "hostage; pledge, security",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "obsidibus"
+      },
+      "book_frequency": 4,
+      "total_frequency": 28,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 182
+    },
+    {
+      "rank": 934,
+      "book": 1,
+      "book_rank": 934,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "perfuga",
+      "headword": "perfuga, ae, m.",
+      "pos": "Verb",
+      "definition": "flee, desert; take refuge",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "perfugis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 183
+    },
+    {
+      "rank": 935,
+      "book": 1,
+      "book_rank": 935,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "unde",
+      "headword": "unde, adv. interr. ou rel.",
+      "pos": "Adverb",
+      "definition": "from where, whence, from what or which place; from which; from whom",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "unde"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 184
+    },
+    {
+      "rank": 936,
+      "book": 1,
+      "book_rank": 936,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "frux",
+      "headword": "frux, cf. fruges",
+      "pos": "Noun",
+      "definition": "crops , fruits, produce, legumes; honest men",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "frugibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 185
+    },
+    {
+      "rank": 937,
+      "book": 1,
+      "book_rank": 937,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "amitto",
+      "headword": "amitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "lose; lose by death; send away, dismiss; part with; let go/slip/fall, drop",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "amissis"
+      },
+      "book_frequency": 2,
+      "total_frequency": 24,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 186
+    },
+    {
+      "rank": 938,
+      "book": 1,
+      "book_rank": 938,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "fames",
+      "headword": "fames, is, f.",
+      "pos": "Noun",
+      "definition": "hunger; famine; want; craving",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "famem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 187
+    },
+    {
+      "rank": 939,
+      "book": 1,
+      "book_rank": 939,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "tolero",
+      "headword": "tolero, as, are",
+      "pos": "Verb",
+      "definition": "bear, endure, tolerate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "tolerarent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 188
+    },
+    {
+      "rank": 940,
+      "book": 1,
+      "book_rank": 940,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "ratio",
+      "headword": "ratio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "account, reckoning, invoice; plan; prudence; method; reasoning; rule; regard",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "ratio"
+      },
+      "book_frequency": 5,
+      "total_frequency": 48,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 189
+    },
+    {
+      "rank": 941,
+      "book": 1,
+      "book_rank": 941,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "uaco",
+      "headword": "uaco",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "vacare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 190
+    },
+    {
+      "rank": 942,
+      "book": 1,
+      "book_rank": 942,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "bonitas",
+      "headword": "bonitas, atis, f.",
+      "pos": "Noun",
+      "definition": "goodness, integrity, moral excellence; kindness, benevolence, tenderness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "bonitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 191
+    },
+    {
+      "rank": 943,
+      "book": 1,
+      "book_rank": 943,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "par",
+      "headword": "par, paris",
+      "pos": "Verb",
+      "definition": "prepare; furnish/supply/provide; produce; obtain/get; buy; raise; put up; plan",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "parem"
+      },
+      "book_frequency": 4,
+      "total_frequency": 21,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 192
+    },
+    {
+      "rank": 944,
+      "book": 1,
+      "book_rank": 944,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "condicio",
+      "headword": "condicio, onis, f.",
+      "pos": "Noun",
+      "definition": "agreement/contract; terms, proposal/option/alternative; situation; stipulation",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 28,
+        "surface_form": "condicionem"
+      },
+      "book_frequency": 3,
+      "total_frequency": 24,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 193
+    },
+    {
+      "rank": 945,
+      "book": 1,
+      "book_rank": 945,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "tabula",
+      "headword": "tabula, ae, f.",
+      "pos": "Noun",
+      "definition": "picture, painting; wood panel for painting; metal/stone tablet/panel w/text",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "tabulae"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 194
+    },
+    {
+      "rank": 946,
+      "book": 1,
+      "book_rank": 946,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "Graeci",
+      "headword": "Graeci, orum, m.",
+      "pos": "Noun",
+      "definition": "Greece",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "Graecis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 195
+    },
+    {
+      "rank": 947,
+      "book": 1,
+      "book_rank": 947,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nominatim",
+      "headword": "nominatim, adv.",
+      "pos": "Adverb",
+      "definition": "by name",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "nominatim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 196
+    },
+    {
+      "rank": 948,
+      "book": 1,
+      "book_rank": 948,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "quot",
+      "headword": "quot, pron.",
+      "pos": "Adjective",
+      "definition": "what number of?; how many?; what ever number of, as many as; the number that",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "quot"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 197
+    },
+    {
+      "rank": 949,
+      "book": 1,
+      "book_rank": 949,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "puer",
+      "headword": "puer, eri, m.",
+      "pos": "Noun",
+      "definition": "boy, lad, young man; servant;  child",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "pueri"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 198
+    },
+    {
+      "rank": 950,
+      "book": 1,
+      "book_rank": 950,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "mulier",
+      "headword": "mulier, is, f.",
+      "pos": "Noun",
+      "definition": "woman; wife; mistress",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "mulieres"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 199
+    },
+    {
+      "rank": 951,
+      "book": 1,
+      "book_rank": 951,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "caput",
+      "headword": "caput, itis, n.",
+      "pos": "Noun",
+      "definition": "head; person; life; leader; top; source/mouth ; capital",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "capitum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 200
+    },
+    {
+      "rank": 952,
+      "book": 1,
+      "book_rank": 952,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "nonaginta",
+      "headword": "nonaginta, indecl.",
+      "pos": "Word",
+      "definition": "ninety",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "nonaginta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 201
+    },
+    {
+      "rank": 953,
+      "book": 1,
+      "book_rank": 953,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "redeo",
+      "headword": "redeo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "return, go back, give back; fall back on, revert to; respond, pay back",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "redierunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 19,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 202
+    },
+    {
+      "rank": 954,
+      "book": 1,
+      "book_rank": 954,
+      "stage": "Book 1 Chunk 4",
+      "lemma": "censeo",
+      "headword": "censeo, es, ere, censui, censum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 29,
+        "surface_form": "censu"
+      },
+      "book_frequency": 2,
+      "total_frequency": 9,
+      "chunk": 4,
+      "chunk_title": "Battle of Bibracte & Helvetian Surrender",
+      "chunk_rank": 203
+    }
+  ]
+}

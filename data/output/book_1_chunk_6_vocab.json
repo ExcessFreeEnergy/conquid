@@ -1,0 +1,3611 @@
+{
+  "book": 1,
+  "chunk": 6,
+  "title": "Parley & Decisive Defeat of Ariovistus",
+  "chapters": "Chapters 41–54",
+  "running_tokens": 2093,
+  "new_word_count": 180,
+  "cumulative_book_1_words": 1354,
+  "words": [
+    {
+      "rank": 1175,
+      "book": 1,
+      "book_rank": 1175,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "alacritas",
+      "headword": "alacritas, atis, f.",
+      "pos": "Noun",
+      "definition": "eagerness, enthusiasm, ardor, alacrity; cheerfulness, liveliness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "alacritas"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 1
+    },
+    {
+      "rank": 1176,
+      "book": 1,
+      "book_rank": 1176,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "innascor",
+      "headword": "innascor, eris, i, nātus sum, intr.",
+      "pos": "Verb",
+      "definition": "be born",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "innata"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 2
+    },
+    {
+      "rank": 1177,
+      "book": 1,
+      "book_rank": 1177,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "umquam",
+      "headword": "umquam, adv.",
+      "pos": "Adverb",
+      "definition": "ever, at any time",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "umquam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 3
+    },
+    {
+      "rank": 1178,
+      "book": 1,
+      "book_rank": 1178,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "satisfactio",
+      "headword": "satisfactio, ōnis, f.",
+      "pos": "Noun",
+      "definition": "penalty; satisfaction for an offense",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "satisfactio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 4
+    },
+    {
+      "rank": 1179,
+      "book": 1,
+      "book_rank": 1179,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "exquiro",
+      "headword": "exquiro, is, ere, iui, itum",
+      "pos": "Verb",
+      "definition": "seek out, search for, hunt up; inquire into",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "exquisito"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 5
+    },
+    {
+      "rank": 1180,
+      "book": 1,
+      "book_rank": 1180,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "quinquaginta",
+      "headword": "quinquaginta, num.",
+      "pos": "Word",
+      "definition": "fifty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "quinquaginta"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 6
+    },
+    {
+      "rank": 1181,
+      "book": 1,
+      "book_rank": 1181,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Septimus",
+      "headword": "Septimus, a, um",
+      "pos": "Adjective",
+      "definition": "seven",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 41,
+        "surface_form": "Septimo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 7
+    },
+    {
+      "rank": 1182,
+      "book": 1,
+      "book_rank": 1182,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "respuo",
+      "headword": "respuo, is, ere, ui, -",
+      "pos": "Verb",
+      "definition": "reject, spit, spew out; turn away, repel; reject, destain, spurn, refuse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "respuit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 8
+    },
+    {
+      "rank": 1183,
+      "book": 1,
+      "book_rank": 1183,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "sanitas",
+      "headword": "sanitas, atis, f.",
+      "pos": "Noun",
+      "definition": "sanity, reason; health",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "sanitatem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 9
+    },
+    {
+      "rank": 1184,
+      "book": 1,
+      "book_rank": 1184,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "denego",
+      "headword": "denego, as, are",
+      "pos": "Verb",
+      "definition": "deny ; say that ... not; deny/refuse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "denegasset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 10
+    },
+    {
+      "rank": 1185,
+      "book": 1,
+      "book_rank": 1185,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ultro",
+      "headword": "ultro, adv.",
+      "pos": "Adverb",
+      "definition": "besides, beyond; to/on the further/other side; voluntarily, unaided; wantonly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "ultro"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 11
+    },
+    {
+      "rank": 1186,
+      "book": 1,
+      "book_rank": 1186,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "pertinacia",
+      "headword": "pertinacia, ae, f.",
+      "pos": "Noun",
+      "definition": "determination/perseverance; persistence; obstinacy, stubbornness, defiance",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "pertinacia"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 12
+    },
+    {
+      "rank": 1187,
+      "book": 1,
+      "book_rank": 1187,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "quintus",
+      "headword": "quintus, a, um",
+      "pos": "Adjective",
+      "definition": "July ; abb. Quint.??; renamed to Julius in 44 BC",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "quintus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 13
+    },
+    {
+      "rank": 1188,
+      "book": 1,
+      "book_rank": 1188,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "citro",
+      "headword": "citro, adv.",
+      "pos": "Adverb",
+      "definition": "to this side; on/by both sides/parties",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "citro"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 14
+    },
+    {
+      "rank": 1189,
+      "book": 1,
+      "book_rank": 1189,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "pedes",
+      "headword": "pedes, itis, m.",
+      "pos": "Noun",
+      "definition": "foot soldier, infantryman; pedestrian, who goes on foot; infantry",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "peditem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 22,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 15
+    },
+    {
+      "rank": 1190,
+      "book": 1,
+      "book_rank": 1190,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "uterque",
+      "headword": "uterque, utraque, utrumque",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "uterque"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 16
+    },
+    {
+      "rank": 1191,
+      "book": 1,
+      "book_rank": 1191,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "interpono",
+      "headword": "interpono, is, ere, posui, positum",
+      "pos": "Verb",
+      "definition": "insert, introduce; admit;  allege; interpose",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "interposita"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 17
+    },
+    {
+      "rank": 1192,
+      "book": 1,
+      "book_rank": 1192,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "detraho",
+      "headword": "detraho, is, ere, traxi, tractum",
+      "pos": "Verb",
+      "definition": "drag/pull/strip/take down/away/off; remove; exclude, omit, cut out; subtract",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "detractis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 18
+    },
+    {
+      "rank": 1193,
+      "book": 1,
+      "book_rank": 1193,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "legionarius",
+      "headword": "legionarius, a, um",
+      "pos": "Adjective",
+      "definition": "legionary, of a legion",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "legionarios"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 19
+    },
+    {
+      "rank": 1194,
+      "book": 1,
+      "book_rank": 1194,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "impono",
+      "headword": "impono, is, ere, sui, situm",
+      "pos": "Verb",
+      "definition": "impose, put upon; establish; inflict; assign/place in command; set",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "imponere"
+      },
+      "book_frequency": 3,
+      "total_frequency": 9,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 20
+    },
+    {
+      "rank": 1195,
+      "book": 1,
+      "book_rank": 1195,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "irridicule",
+      "headword": "irridicule, adv.",
+      "pos": "Adverb",
+      "definition": "without wit; unwittingly; unamusingly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "inridicule"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 21
+    },
+    {
+      "rank": 1196,
+      "book": 1,
+      "book_rank": 1196,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "rescribo",
+      "headword": "rescribo, is, ere, scripsi, scriptum",
+      "pos": "Verb",
+      "definition": "write back in reply",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 42,
+        "surface_form": "rescribere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 22
+    },
+    {
+      "rank": 1197,
+      "book": 1,
+      "book_rank": 1197,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "planities",
+      "headword": "planities, ei, f.",
+      "pos": "Noun",
+      "definition": "plain, plateau, a flat/plane/level surface; a plane ; flatness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "Planities"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 23
+    },
+    {
+      "rank": 1198,
+      "book": 1,
+      "book_rank": 1198,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "tumulus",
+      "headword": "tumulus, i, m.",
+      "pos": "Noun",
+      "definition": "mound, hillock; mound, tomb",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "tumulus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 24
+    },
+    {
+      "rank": 1199,
+      "book": 1,
+      "book_rank": 1199,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "terrenus",
+      "headword": "terrenus, a, um",
+      "pos": "Adjective",
+      "definition": "of earth, earthly; earthy; terrestrial",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "terrenus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 25
+    },
+    {
+      "rank": 1200,
+      "book": 1,
+      "book_rank": 1200,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "grandis",
+      "headword": "grandis, e",
+      "pos": "Adjective",
+      "definition": "full-grown, grown up; large, great, grand, tall, lofty; powerful; aged, old",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "grandis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 26
+    },
+    {
+      "rank": 1201,
+      "book": 1,
+      "book_rank": 1201,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "aequus",
+      "headword": "aequus, a, um",
+      "pos": "Adjective",
+      "definition": "level, even, equal, like; just, kind, impartial, fair; patient, contented",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "aequum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 27
+    },
+    {
+      "rank": 1202,
+      "book": 1,
+      "book_rank": 1202,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "deueho",
+      "headword": "deueho",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "devexerat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 28
+    },
+    {
+      "rank": 1203,
+      "book": 1,
+      "book_rank": 1203,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "deni",
+      "headword": "deni, ae, a, pl.",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "denos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 29
+    },
+    {
+      "rank": 1204,
+      "book": 1,
+      "book_rank": 1204,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ventus",
+      "headword": "ventus, i, m.",
+      "pos": "Noun",
+      "definition": "wind",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "ventum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 30
+    },
+    {
+      "rank": 1205,
+      "book": 1,
+      "book_rank": 1205,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "munus",
+      "headword": "munus, eris, n.",
+      "pos": "Noun",
+      "definition": "service; duty, office, function; gift; tribute, offering; bribes",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "munera"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 31
+    },
+    {
+      "rank": 1206,
+      "book": 1,
+      "book_rank": 1206,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "doceo",
+      "headword": "doceo, es, ere, cui, ctum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "docebat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 26,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 32
+    },
+    {
+      "rank": 1207,
+      "book": 1,
+      "book_rank": 1207,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "adeo",
+      "headword": "adeo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "to such a degree/pass/point; precisely, exactly; thus far; indeed, truly, even",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "aditum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 46,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 33
+    },
+    {
+      "rank": 1208,
+      "book": 1,
+      "book_rank": 1208,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "justus",
+      "headword": "justus, a, um",
+      "pos": "Noun",
+      "definition": "justice; what is fair/equitable/right/due/proper; funeral rites/offerings",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "iustam"
+      },
+      "book_frequency": 3,
+      "total_frequency": 12,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 34
+    },
+    {
+      "rank": 1209,
+      "book": 1,
+      "book_rank": 1209,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "praemium",
+      "headword": "praemium, ii, n.",
+      "pos": "Noun",
+      "definition": "prize, reward; gift; recompense",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "praemia"
+      },
+      "book_frequency": 3,
+      "total_frequency": 22,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 35
+    },
+    {
+      "rank": 1210,
+      "book": 1,
+      "book_rank": 1210,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "necessitudo",
+      "headword": "necessitudo, inis, f.",
+      "pos": "Noun",
+      "definition": "obligation; bond, connection, affinity; compulsion; needs; poverty; relative",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "necessitudinis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 36
+    },
+    {
+      "rank": 1211,
+      "book": 1,
+      "book_rank": 1211,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "consulo",
+      "headword": "consulo, is, ere, sului, sultum",
+      "pos": "Verb",
+      "definition": "ask information/advice of; consult, take counsel; deliberate/consider; advise",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "consulta"
+      },
+      "book_frequency": 2,
+      "total_frequency": 27,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 37
+    },
+    {
+      "rank": 1212,
+      "book": 1,
+      "book_rank": 1212,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "quotiens",
+      "headword": "quotiens, adv.",
+      "pos": "Adverb",
+      "definition": "how often; as often as",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "quotiens"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 38
+    },
+    {
+      "rank": 1213,
+      "book": 1,
+      "book_rank": 1213,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "honorificus",
+      "headword": "honorificus, a, um",
+      "pos": "Adjective",
+      "definition": "honorific; that does honor; conferring/showing honor",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "honorifica"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 39
+    },
+    {
+      "rank": 1214,
+      "book": 1,
+      "book_rank": 1214,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "deperdo",
+      "headword": "deperdo, is, ere, didi, ditum",
+      "pos": "Verb",
+      "definition": "lose permanently/utterly ; be deprived/desperate; destroy, ruin",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "deperdere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 40
+    },
+    {
+      "rank": 1215,
+      "book": 1,
+      "book_rank": 1215,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "dignitas",
+      "headword": "dignitas, atis, f.",
+      "pos": "Noun",
+      "definition": "rank/status; merit; dignity; position/authority/office; dignitaries",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "dignitate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 27,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 41
+    },
+    {
+      "rank": 1216,
+      "book": 1,
+      "book_rank": 1216,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "auctus",
+      "headword": "auctus, us, m.",
+      "pos": "Noun",
+      "definition": "growth, increase, enlargement, act of increasing; accession; prosperity; bulk",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "auctiores"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 42
+    },
+    {
+      "rank": 1217,
+      "book": 1,
+      "book_rank": 1217,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "adfero",
+      "headword": "adfero, fers, ferre, adttuli att-, adlatum all-",
+      "pos": "Verb",
+      "definition": "bring to, carry, convey; report, bring word, allege, announce; produce, cause",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "attulissent"
+      },
+      "book_frequency": 2,
+      "total_frequency": 21,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 43
+    },
+    {
+      "rank": 1218,
+      "book": 1,
+      "book_rank": 1218,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "remitto",
+      "headword": "remitto, is, ere, misi, missum",
+      "pos": "Verb",
+      "definition": "send back, remit; throw back, relax, diminish",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "remittere"
+      },
+      "book_frequency": 2,
+      "total_frequency": 23,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 44
+    },
+    {
+      "rank": 1219,
+      "book": 1,
+      "book_rank": 1219,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "at",
+      "headword": "at, conj. coord.",
+      "pos": "Conjunction",
+      "definition": "but, but on the other hand; on the contrary; while, whereas; but yet; at least",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 43,
+        "surface_form": "at"
+      },
+      "book_frequency": 2,
+      "total_frequency": 38,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 45
+    },
+    {
+      "rank": 1220,
+      "book": 1,
+      "book_rank": 1220,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "decerto",
+      "headword": "decerto, as, are",
+      "pos": "Verb",
+      "definition": "fight ; contend/dispute/argue; struggle/compete over",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "decertare"
+      },
+      "book_frequency": 2,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 46
+    },
+    {
+      "rank": 1221,
+      "book": 1,
+      "book_rank": 1221,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "iniquus",
+      "headword": "iniquus, a, um",
+      "pos": "Adjective",
+      "definition": "unjust, unfair; disadvantageous, uneven; unkind, hostile",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "iniquum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 47
+    },
+    {
+      "rank": 1222,
+      "book": 1,
+      "book_rank": 1222,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ornamentum",
+      "headword": "ornamentum, i, n.",
+      "pos": "Noun",
+      "definition": "equipment; decoration; jewel; ornament, trappings",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "ornamento"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 48
+    },
+    {
+      "rank": 1223,
+      "book": 1,
+      "book_rank": 1223,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "detrimentum",
+      "headword": "detrimentum, i, n.",
+      "pos": "Noun",
+      "definition": "diminishment, material reduction; detriment; harm/loss/damage; reverse/defeat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "detrimento"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 49
+    },
+    {
+      "rank": 1224,
+      "book": 1,
+      "book_rank": 1224,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "subtraho",
+      "headword": "subtraho, is, ere, traxi, tractum",
+      "pos": "Verb",
+      "definition": "carry off; take away; subtract",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "subtrahantur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 50
+    },
+    {
+      "rank": 1225,
+      "book": 1,
+      "book_rank": 1225,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "libenter",
+      "headword": "libenter, adv.",
+      "pos": "Adverb",
+      "definition": "willingly; gladly, with pleasure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "libenter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 51
+    },
+    {
+      "rank": 1226,
+      "book": 1,
+      "book_rank": 1226,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "testimonium",
+      "headword": "testimonium, i, n.",
+      "pos": "Noun",
+      "definition": "testimony; deposition; evidence; witness",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "testimonium"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 52
+    },
+    {
+      "rank": 1227,
+      "book": 1,
+      "book_rank": 1227,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "egressus",
+      "headword": "egressus, us, m.",
+      "pos": "Noun",
+      "definition": "landing place; egress; departure; flight; landing; mouth",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "egressum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 53
+    },
+    {
+      "rank": 1228,
+      "book": 1,
+      "book_rank": 1228,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "sicut",
+      "headword": "sicut, adv.",
+      "pos": "Adverb",
+      "definition": "as, just as; like; in same way; as if; as it certainly is; as it were",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "sicut"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 54
+    },
+    {
+      "rank": 1229,
+      "book": 1,
+      "book_rank": 1229,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "interpello",
+      "headword": "interpello, as, are",
+      "pos": "Verb",
+      "definition": "interrupt, break in on; interpose an objection; disturb, hinder, obstruct",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "interpellaremus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 55
+    },
+    {
+      "rank": 1230,
+      "book": 1,
+      "book_rank": 1230,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "contentio",
+      "headword": "contentio, onis, f.",
+      "pos": "Noun",
+      "definition": "competition, struggle, effort, exertion; controversy, contention, contrast",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "contentionibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 56
+    },
+    {
+      "rank": 1231,
+      "book": 1,
+      "book_rank": 1231,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "suspicor",
+      "headword": "suspicor, aris, ari",
+      "pos": "Verb",
+      "definition": "mistrust, suspect; suppose",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "suspicari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 57
+    },
+    {
+      "rank": 1232,
+      "book": 1,
+      "book_rank": 1232,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "simulo",
+      "headword": "simulo, as, are",
+      "pos": "Verb",
+      "definition": "imitate, copy; pretend ; look like; simulate; counterfeit; feint",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "simulata"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 58
+    },
+    {
+      "rank": 1233,
+      "book": 1,
+      "book_rank": 1233,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "opprimo",
+      "headword": "opprimo, is, ere, pressi, pressum",
+      "pos": "Verb",
+      "definition": "press down; suppress; overthrow; crush, overwhelm, fall upon, oppress",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "opprimendi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 59
+    },
+    {
+      "rank": 1234,
+      "book": 1,
+      "book_rank": 1234,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "deduco",
+      "headword": "deduco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead/draw//pull/bring/stretch down/away/out/off; escort; eject/evict",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "deducat"
+      },
+      "book_frequency": 2,
+      "total_frequency": 42,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 60
+    },
+    {
+      "rank": 1235,
+      "book": 1,
+      "book_rank": 1235,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "regio",
+      "headword": "regio, onis, f.",
+      "pos": "Noun",
+      "definition": "area, region; neighborhood; district, country; direction",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "regionibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 48,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 61
+    },
+    {
+      "rank": 1236,
+      "book": 1,
+      "book_rank": 1236,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "gratus",
+      "headword": "gratus, a, um",
+      "pos": "Adjective",
+      "definition": "pleasing, acceptable, agreeable, welcome; dear, beloved; grateful, thankful",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "gratum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 62
+    },
+    {
+      "rank": 1237,
+      "book": 1,
+      "book_rank": 1237,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "remuneror",
+      "headword": "remuneror, aris, ari",
+      "pos": "Verb",
+      "definition": "reward; repay, recompense, remunerate; requite; pay back, retaliate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "remuneraturum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 63
+    },
+    {
+      "rank": 1238,
+      "book": 1,
+      "book_rank": 1238,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "labor",
+      "headword": "labor, eris, i, lapsus sum",
+      "pos": "Noun",
+      "definition": "preoccupation/concern; struggle/suffering/distress/hardship/stress; wear+tear",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 44,
+        "surface_form": "labore"
+      },
+      "book_frequency": 1,
+      "total_frequency": 31,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 64
+    },
+    {
+      "rank": 1239,
+      "book": 1,
+      "book_rank": 1239,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "sententia",
+      "headword": "sententia, ae, f.",
+      "pos": "Noun",
+      "definition": "opinion, feeling, way of thinking; thought, meaning, sentence/period; purpose",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "sententiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 26,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 65
+    },
+    {
+      "rank": 1240,
+      "book": 1,
+      "book_rank": 1240,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "desero",
+      "headword": "desero, is, ere, ui, desertum",
+      "pos": "Verb",
+      "definition": "leave/depart/quit/desert; forsake/abandon/give up; withdraw support, let down",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "desereret"
+      },
+      "book_frequency": 1,
+      "total_frequency": 11,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 66
+    },
+    {
+      "rank": 1241,
+      "book": 1,
+      "book_rank": 1241,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "potius",
+      "headword": "potius, adv.",
+      "pos": "Adverb",
+      "definition": "rather, more, preferably",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "potius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 67
+    },
+    {
+      "rank": 1242,
+      "book": 1,
+      "book_rank": 1242,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Ruteni",
+      "headword": "Ruteni, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "Rutenos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 68
+    },
+    {
+      "rank": 1243,
+      "book": 1,
+      "book_rank": 1243,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Q",
+      "headword": "Q",
+      "pos": "Noun",
+      "definition": "Quintus",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "Q"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 69
+    },
+    {
+      "rank": 1244,
+      "book": 1,
+      "book_rank": 1244,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Fabius",
+      "headword": "Fabius, i, m.",
+      "pos": "Noun",
+      "definition": "Fabius, Roman gens; Q. Fabius Maximus Cunctator, hero of second Punic War",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "Fabio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 26,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 70
+    },
+    {
+      "rank": 1245,
+      "book": 1,
+      "book_rank": 1245,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Maximus",
+      "headword": "Maximus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "Maximo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 71
+    },
+    {
+      "rank": 1246,
+      "book": 1,
+      "book_rank": 1246,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ignosco",
+      "headword": "ignosco, is, ere, noui, notum",
+      "pos": "Verb",
+      "definition": "pardon, forgive",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "ignovisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 72
+    },
+    {
+      "rank": 1247,
+      "book": 1,
+      "book_rank": 1247,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "redigo",
+      "headword": "redigo, is, ere, egi, actum",
+      "pos": "Verb",
+      "definition": "drive back; reduce; render",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "redegisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 73
+    },
+    {
+      "rank": 1248,
+      "book": 1,
+      "book_rank": 1248,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "observo",
+      "headword": "observo, as, are",
+      "pos": "Verb",
+      "definition": "watch, observe; heed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 45,
+        "surface_form": "observari"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 74
+    },
+    {
+      "rank": 1249,
+      "book": 1,
+      "book_rank": 1249,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "adequito",
+      "headword": "adequito, as, are",
+      "pos": "Verb",
+      "definition": "ride up to/towards/near, gallop up",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "adequitare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 75
+    },
+    {
+      "rank": 1250,
+      "book": 1,
+      "book_rank": 1250,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "lapis",
+      "headword": "lapis, idis, m.",
+      "pos": "Noun",
+      "definition": "stone; milestone; jewel",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "lapides"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 76
+    },
+    {
+      "rank": 1251,
+      "book": 1,
+      "book_rank": 1251,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "etsi",
+      "headword": "etsi, conj. sub.",
+      "pos": "Conjunction",
+      "definition": "although, though, even if; albeit; I know that but",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "etsi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 28,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 77
+    },
+    {
+      "rank": 1252,
+      "book": 1,
+      "book_rank": 1252,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ecfero",
+      "headword": "ecfero, cf. effero",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "elatum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 78
+    },
+    {
+      "rank": 1253,
+      "book": 1,
+      "book_rank": 1253,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "interdico",
+      "headword": "interdico, is, ere, dixi, dictum",
+      "pos": "Verb",
+      "definition": "forbid, interdict, prohibit; debar",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "interdixisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 79
+    },
+    {
+      "rank": 1254,
+      "book": 1,
+      "book_rank": 1254,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "dirimo",
+      "headword": "dirimo, is, ere, emi, emptum",
+      "pos": "Verb",
+      "definition": "divide; separate/cut off/remove; delay/interrupt temporally/put off/frustrate",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "diremisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 80
+    },
+    {
+      "rank": 1255,
+      "book": 1,
+      "book_rank": 1255,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "inicio",
+      "headword": "inicio, is, ere, ieci, iectum",
+      "pos": "Verb",
+      "definition": "hurl/throw/strike in/into; inject; put on; inspire, instill",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 46,
+        "surface_form": "iniectum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 81
+    },
+    {
+      "rank": 1256,
+      "book": 1,
+      "book_rank": 1256,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "fera",
+      "headword": "fera, ae, f.",
+      "pos": "Verb",
+      "definition": "bring, bear; tell/speak of; consider; carry off, win, receive, produce; get",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "feris"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 82
+    },
+    {
+      "rank": 1257,
+      "book": 1,
+      "book_rank": 1257,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Commodus",
+      "headword": "Commodus, a, um",
+      "pos": "Adjective",
+      "definition": "suitable, convenient, obliging; opportune/timely; favorable/lucky; advantageous",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "Commodissimum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 83
+    },
+    {
+      "rank": 1258,
+      "book": 1,
+      "book_rank": 1258,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Procillus",
+      "headword": "Procillus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "Procillum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 84
+    },
+    {
+      "rank": 1259,
+      "book": 1,
+      "book_rank": 1259,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Caburus",
+      "headword": "Caburus, i, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "Caburi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 85
+    },
+    {
+      "rank": 1260,
+      "book": 1,
+      "book_rank": 1260,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "adulescens",
+      "headword": "adulescens, entis, m.",
+      "pos": "Noun",
+      "definition": "young man, youth; youthful person; young woman/girl",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "adulescentem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 86
+    },
+    {
+      "rank": 1261,
+      "book": 1,
+      "book_rank": 1261,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Flaccus",
+      "headword": "Flaccus, i, m.",
+      "pos": "Verb",
+      "definition": "be flabby; fail. flag",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "Flacco"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 87
+    },
+    {
+      "rank": 1262,
+      "book": 1,
+      "book_rank": 1262,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "dono",
+      "headword": "dono, as, are",
+      "pos": "Verb",
+      "definition": "present, grant; forgive; give , bestow",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "donatus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 88
+    },
+    {
+      "rank": 1263,
+      "book": 1,
+      "book_rank": 1263,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "scientia",
+      "headword": "scientia, ae, f.",
+      "pos": "Noun",
+      "definition": "knowledge, science; skill",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "scientiam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 89
+    },
+    {
+      "rank": 1264,
+      "book": 1,
+      "book_rank": 1264,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "longinquus",
+      "headword": "longinquus, a, um",
+      "pos": "Verb",
+      "definition": "put far off, remove to a distance; put far away from",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "longinqua"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 90
+    },
+    {
+      "rank": 1265,
+      "book": 1,
+      "book_rank": 1265,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "pecco",
+      "headword": "pecco, as, are",
+      "pos": "Verb",
+      "definition": "make mistake; make slip in speaking; act incorrectly; go wrong, be faulty",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "peccandi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 91
+    },
+    {
+      "rank": 1266,
+      "book": 1,
+      "book_rank": 1266,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Metius",
+      "headword": "Metius, ii, m.",
+      "pos": "Verb",
+      "definition": "measure, estimate; distribute, mete; traverse, sail/walk through",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "Metium"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 92
+    },
+    {
+      "rank": 1267,
+      "book": 1,
+      "book_rank": 1267,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "conspicio",
+      "headword": "conspicio, is, ere, spexi, spectum",
+      "pos": "Verb",
+      "definition": "looking/observing/discerning, action of looking",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "conspexisset"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 93
+    },
+    {
+      "rank": 1268,
+      "book": 1,
+      "book_rank": 1268,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "conclamo",
+      "headword": "conclamo, as, are",
+      "pos": "Verb",
+      "definition": "cry/shout aloud/out; make resound w/shouts; give a signal; summon; bewail/mourn",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "conclamavit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 94
+    },
+    {
+      "rank": 1269,
+      "book": 1,
+      "book_rank": 1269,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "speculor",
+      "headword": "speculor, aris, ari",
+      "pos": "Noun",
+      "definition": "lookout; watch tower, raised structure/high place for it; observing, spying on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "speculandi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 95
+    },
+    {
+      "rank": 1270,
+      "book": 1,
+      "book_rank": 1270,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "catena",
+      "headword": "catena, ae, f.",
+      "pos": "Verb",
+      "definition": "chain/bind/tie/shackle together; secure with bonds/chains/fetters",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "catenas"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 96
+    },
+    {
+      "rank": 1271,
+      "book": 1,
+      "book_rank": 1271,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "conicio",
+      "headword": "conicio, is, ere, jēci, jectum",
+      "pos": "Verb",
+      "definition": "throw/put/pile together; conclude, infer/guess; assign, make go; classify, put",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 47,
+        "surface_form": "coniecit"
+      },
+      "book_frequency": 2,
+      "total_frequency": 33,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 97
+    },
+    {
+      "rank": 1272,
+      "book": 1,
+      "book_rank": 1272,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "promoueo",
+      "headword": "promoueo",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "promovit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 98
+    },
+    {
+      "rank": 1273,
+      "book": 1,
+      "book_rank": 1273,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ultra",
+      "headword": "ultra, adv.",
+      "pos": "Adverb",
+      "definition": "beyond, further; on the other side; more, more than, in addition, besides",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "ultra"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 99
+    },
+    {
+      "rank": 1274,
+      "book": 1,
+      "book_rank": 1274,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "continuus",
+      "headword": "continuus, a, um",
+      "pos": "Adjective",
+      "definition": "incessant/unremitting, constantly repeated/recurring; successive, next in line",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "continuos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 100
+    },
+    {
+      "rank": 1275,
+      "book": 1,
+      "book_rank": 1275,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "produco",
+      "headword": "produco, is, ere, duxi, ductum",
+      "pos": "Verb",
+      "definition": "lead forward, bring out; reveal; induce; promote; stretch out; prolong; bury",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "produxit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 15,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 101
+    },
+    {
+      "rank": 1276,
+      "book": 1,
+      "book_rank": 1276,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "genus",
+      "headword": "genus, eris, n.",
+      "pos": "Noun",
+      "definition": "birth/descent/origin; race/family/house/stock/ancestry; offspring/descent",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "Genus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 37,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 102
+    },
+    {
+      "rank": 1277,
+      "book": 1,
+      "book_rank": 1277,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "exerceo",
+      "headword": "exerceo, es, ere, cui, citum",
+      "pos": "Verb",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "exercuerant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 103
+    },
+    {
+      "rank": 1278,
+      "book": 1,
+      "book_rank": 1278,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "totidem",
+      "headword": "totidem, adv.",
+      "pos": "Adjective",
+      "definition": "as many; just so/as many; the equivalent number of, same",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "totidem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 104
+    },
+    {
+      "rank": 1279,
+      "book": 1,
+      "book_rank": 1279,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "velox",
+      "headword": "velox, ocis",
+      "pos": "Adjective",
+      "definition": "swift, quick, fleet, rapid, speedy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "velocissimi"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 105
+    },
+    {
+      "rank": 1280,
+      "book": 1,
+      "book_rank": 1280,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "versor",
+      "headword": "versor, aris, ari, atus sum",
+      "pos": "Verb",
+      "definition": "keep turning/going round, spin, whirl; turn over and over; stir; maneuver",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "versabantur"
+      },
+      "book_frequency": 2,
+      "total_frequency": 11,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 106
+    },
+    {
+      "rank": 1281,
+      "book": 1,
+      "book_rank": 1281,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "durus",
+      "headword": "durus, a, um",
+      "pos": "Verb",
+      "definition": "harden, make hard; become hard/stern; bear, last, remain, continue; endure",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "durius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 107
+    },
+    {
+      "rank": 1282,
+      "book": 1,
+      "book_rank": 1282,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "decido",
+      "headword": "decido, is, ere, cidi",
+      "pos": "Verb",
+      "definition": "detach, cut off/out/down; fell; cut/notch/carve to delineate; flog thoroughly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "deciderat"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 108
+    },
+    {
+      "rank": 1283,
+      "book": 1,
+      "book_rank": 1283,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "circumsisto",
+      "headword": "circumsisto, is, ere, steti",
+      "pos": "Verb",
+      "definition": "stand/gather/crowd/take a stand around; surround, beset; be on either side",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "circumsistebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 109
+    },
+    {
+      "rank": 1284,
+      "book": 1,
+      "book_rank": 1284,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "prodeo",
+      "headword": "prodeo, is, ire, prodii, proditum",
+      "pos": "Verb",
+      "definition": "go/come forth/out, advance; appear; sprout/spring up; issue/extend/project",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "prodeundum"
+      },
+      "book_frequency": 2,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 110
+    },
+    {
+      "rank": 1285,
+      "book": 1,
+      "book_rank": 1285,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "celeritas",
+      "headword": "celeritas, atis, f.",
+      "pos": "Noun",
+      "definition": "speed, quickness, rapidity; speed of action, dispatch; haste; early date",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "celeritas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 34,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 111
+    },
+    {
+      "rank": 1286,
+      "book": 1,
+      "book_rank": 1286,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "iuba",
+      "headword": "iuba",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "iubis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 112
+    },
+    {
+      "rank": 1287,
+      "book": 1,
+      "book_rank": 1287,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "cursus",
+      "headword": "cursus, us, m.",
+      "pos": "Noun",
+      "definition": "course/direction, line of advance, orbit; voyage/passage; race; career; series",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "cursum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 14,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 113
+    },
+    {
+      "rank": 1288,
+      "book": 1,
+      "book_rank": 1288,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "adaequo",
+      "headword": "adaequo, as, are",
+      "pos": "Verb",
+      "definition": "equalize, make equal in height, come up to level; compare ; be equal; raze",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 48,
+        "surface_form": "adaequarent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 114
+    },
+    {
+      "rank": 1289,
+      "book": 1,
+      "book_rank": 1289,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "idoneus",
+      "headword": "idoneus, a, um",
+      "pos": "Adjective",
+      "definition": "suitable, appropriate, adequate, having right qualities; qualified, able; apt",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 49,
+        "surface_form": "idoneum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 22,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 115
+    },
+    {
+      "rank": 1290,
+      "book": 1,
+      "book_rank": 1290,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "expedio",
+      "headword": "expedio, is, ire, i(u)i , itum",
+      "pos": "Verb",
+      "definition": "disengage, loose, set free; be expedient; procure, obtain, make ready",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 49,
+        "surface_form": "expedita"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 116
+    },
+    {
+      "rank": 1291,
+      "book": 1,
+      "book_rank": 1291,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "terreo",
+      "headword": "terreo, es, ere, ui, itum",
+      "pos": "Verb",
+      "definition": "one born of the earth",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 49,
+        "surface_form": "terrerent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 117
+    },
+    {
+      "rank": 1292,
+      "book": 1,
+      "book_rank": 1292,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "setius",
+      "headword": "setius, adv.",
+      "pos": "Adverb",
+      "definition": "less, worse",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 49,
+        "surface_form": "setius"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 118
+    },
+    {
+      "rank": 1293,
+      "book": 1,
+      "book_rank": 1293,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "propulso",
+      "headword": "propulso, as, are",
+      "pos": "Verb",
+      "definition": "repulse, drive back/off; ward off, repel, avert; pound, batter",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 49,
+        "surface_form": "propulsare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 119
+    },
+    {
+      "rank": 1294,
+      "book": 1,
+      "book_rank": 1294,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "paulum",
+      "headword": "paulum, adv.",
+      "pos": "Adverb",
+      "definition": "little/bit; to a small extent, somewhat; only a small amount/short while",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "paulum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 18,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 120
+    },
+    {
+      "rank": 1295,
+      "book": 1,
+      "book_rank": 1295,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "progredior",
+      "headword": "progredior, eris, i, gressus sum",
+      "pos": "Verb",
+      "definition": "go, come forth, go forward, march forward; advance. proceed. make progress",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "progressus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 30,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 121
+    },
+    {
+      "rank": 1296,
+      "book": 1,
+      "book_rank": 1296,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "meridies",
+      "headword": "meridies, ei, m.",
+      "pos": "Noun",
+      "definition": "noon; midday; south",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "meridiem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 7,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 122
+    },
+    {
+      "rank": 1297,
+      "book": 1,
+      "book_rank": 1297,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "utrimque",
+      "headword": "utrimque, adv.",
+      "pos": "Adverb",
+      "definition": "on/from both sides/parts; at both ends; on one side and on the other",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "utrimque"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 123
+    },
+    {
+      "rank": 1298,
+      "book": 1,
+      "book_rank": 1298,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "usque",
+      "headword": "usque, prep. (+ acc.)",
+      "pos": "Adverb",
+      "definition": "all the way, right on; all the time, continuously, at every point, always",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "usque"
+      },
+      "book_frequency": 2,
+      "total_frequency": 12,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 124
+    },
+    {
+      "rank": 1299,
+      "book": 1,
+      "book_rank": 1299,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Soli",
+      "headword": "Soli, orum, m.",
+      "pos": "Noun",
+      "definition": "throne, seat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "Solis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 125
+    },
+    {
+      "rank": 1300,
+      "book": 1,
+      "book_rank": 1300,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "sors",
+      "headword": "sors, sortis, f.",
+      "pos": "Noun",
+      "definition": "lot, fate; oracular response",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "sortibus"
+      },
+      "book_frequency": 3,
+      "total_frequency": 5,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 126
+    },
+    {
+      "rank": 1301,
+      "book": 1,
+      "book_rank": 1301,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "vaticinatio",
+      "headword": "vaticinatio, ionis, f.",
+      "pos": "Noun",
+      "definition": "prophecy, prediction",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "vaticinationibus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 127
+    },
+    {
+      "rank": 1302,
+      "book": 1,
+      "book_rank": 1302,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "declaro",
+      "headword": "declaro, as, are",
+      "pos": "Verb",
+      "definition": "declare/announce/make known; indicate, reveal, testify, show/prove; mean",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "declararent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 128
+    },
+    {
+      "rank": 1303,
+      "book": 1,
+      "book_rank": 1303,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "fas",
+      "headword": "fas, n. indécl.",
+      "pos": "Noun",
+      "definition": "divine/heaven's law/will/command; that which is right/lawful/moral/allowed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "fas"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 129
+    },
+    {
+      "rank": 1304,
+      "book": 1,
+      "book_rank": 1304,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "luna",
+      "headword": "luna, ae, f.",
+      "pos": "Verb",
+      "definition": "make crescent-shaped, curve",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 50,
+        "surface_form": "lunam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 130
+    },
+    {
+      "rank": 1305,
+      "book": 1,
+      "book_rank": 1305,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "alarius",
+      "headword": "alarius, a, um",
+      "pos": "Noun",
+      "definition": "auxiliary troops , posted on the wings of the army",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "alarios"
+      },
+      "book_frequency": 2,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 131
+    },
+    {
+      "rank": 1306,
+      "book": 1,
+      "book_rank": 1306,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "species",
+      "headword": "species, ei, f",
+      "pos": "Noun",
+      "definition": "sight, appearance, show; splendor, beauty; kind, type",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "speciem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 132
+    },
+    {
+      "rank": 1307,
+      "book": 1,
+      "book_rank": 1307,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "generatim",
+      "headword": "generatim, adv.",
+      "pos": "Adverb",
+      "definition": "by tribes/kinds; generally",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "generatim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 133
+    },
+    {
+      "rank": 1308,
+      "book": 1,
+      "book_rank": 1308,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Marcomani",
+      "headword": "Marcomani, orum, m. pl.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "Marcomanos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 134
+    },
+    {
+      "rank": 1309,
+      "book": 1,
+      "book_rank": 1309,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Triboci",
+      "headword": "Triboci, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "Tribocos"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 135
+    },
+    {
+      "rank": 1310,
+      "book": 1,
+      "book_rank": 1310,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Vangiones",
+      "headword": "Vangiones, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "Vangiones"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 136
+    },
+    {
+      "rank": 1311,
+      "book": 1,
+      "book_rank": 1311,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Nemetes",
+      "headword": "Nemetes, um, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "Nemetes"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 137
+    },
+    {
+      "rank": 1312,
+      "book": 1,
+      "book_rank": 1312,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Sedusii",
+      "headword": "Sedusii, orum, m.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "Sedusios"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 138
+    },
+    {
+      "rank": 1313,
+      "book": 1,
+      "book_rank": 1313,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "raeda",
+      "headword": "raeda, raeda (rēda), ae, f.",
+      "pos": "Noun",
+      "definition": "four wheeled wagon",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 51,
+        "surface_form": "raedis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 139
+    },
+    {
+      "rank": 1314,
+      "book": 1,
+      "book_rank": 1314,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "quaestor",
+      "headword": "quaestor, oris, m.",
+      "pos": "Noun",
+      "definition": "quaestor; state treasurer; quartermaster general",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "quaestorem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 140
+    },
+    {
+      "rank": 1315,
+      "book": 1,
+      "book_rank": 1315,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "dexter",
+      "headword": "dexter, tra, trum",
+      "pos": "Adjective",
+      "definition": "favorable/fortunate/pretentious; opportune ; proper/fitting/suitable",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "dextro"
+      },
+      "book_frequency": 2,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 141
+    },
+    {
+      "rank": 1316,
+      "book": 1,
+      "book_rank": 1316,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "cornu",
+      "headword": "cornu, us, n.",
+      "pos": "Noun",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "cornu"
+      },
+      "book_frequency": 3,
+      "total_frequency": 14,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 142
+    },
+    {
+      "rank": 1317,
+      "book": 1,
+      "book_rank": 1317,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "repente",
+      "headword": "repente, adv.",
+      "pos": "Adverb",
+      "definition": "suddenly, unexpectedly",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "repente"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 143
+    },
+    {
+      "rank": 1318,
+      "book": 1,
+      "book_rank": 1318,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "procurro",
+      "headword": "procurro, is, ere, curri (cucurri), cursum",
+      "pos": "Verb",
+      "definition": "run out ahead, run forward, advance; jut out",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "procurrerunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 144
+    },
+    {
+      "rank": 1319,
+      "book": 1,
+      "book_rank": 1319,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "comminus",
+      "headword": "comminus, adv.",
+      "pos": "Adverb",
+      "definition": "hand to hand , in close combat/quarters; close at hand; in presence of",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "comminus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 145
+    },
+    {
+      "rank": 1320,
+      "book": 1,
+      "book_rank": 1320,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "excipio",
+      "headword": "excipio, is, ere, cepi, ceptum",
+      "pos": "Verb",
+      "definition": "take out; remove; follow; receive; ward off, relieve",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "exceperunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 17,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 146
+    },
+    {
+      "rank": 1321,
+      "book": 1,
+      "book_rank": 1321,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "phalanga",
+      "headword": "phalanga",
+      "pos": "Noun",
+      "definition": "roller to move ships/military engines; carrying pole; cut length of wood/rod",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "phalanga"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 147
+    },
+    {
+      "rank": 1322,
+      "book": 1,
+      "book_rank": 1322,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "insilio",
+      "headword": "insilio, is, ire, silŭi, sultum",
+      "pos": "Verb",
+      "definition": "come/leap upon/in; leap/spring up/at; attack/throw oneself upon; bound; mount",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "insilirent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 148
+    },
+    {
+      "rank": 1323,
+      "book": 1,
+      "book_rank": 1323,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "revello",
+      "headword": "revello, is, ere, velli, vulsum",
+      "pos": "Verb",
+      "definition": "tear away/loose/out/from/down/up; wrench off; remove; raise/pull up/back",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "revellerent"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 149
+    },
+    {
+      "rank": 1324,
+      "book": 1,
+      "book_rank": 1324,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "desuper",
+      "headword": "desuper, adv.",
+      "pos": "Adverb",
+      "definition": "from above, from overhead; up above",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "desuper"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 150
+    },
+    {
+      "rank": 1325,
+      "book": 1,
+      "book_rank": 1325,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "premo",
+      "headword": "premo, is, ere, pressi, pressum",
+      "pos": "Verb",
+      "definition": "press, press hard, pursue; oppress; overwhelm",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "premebant"
+      },
+      "book_frequency": 1,
+      "total_frequency": 25,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 151
+    },
+    {
+      "rank": 1326,
+      "book": 1,
+      "book_rank": 1326,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "subsidium",
+      "headword": "subsidium, ii, n.",
+      "pos": "Noun",
+      "definition": "help, relief; reinforcement",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 52,
+        "surface_form": "subsidio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 27,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 152
+    },
+    {
+      "rank": 1327,
+      "book": 1,
+      "book_rank": 1327,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "tergum",
+      "headword": "tergum, i, n.",
+      "pos": "Noun",
+      "definition": "back, rear; reverse/far side; outer covering/surface",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "terga"
+      },
+      "book_frequency": 1,
+      "total_frequency": 12,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 153
+    },
+    {
+      "rank": 1328,
+      "book": 1,
+      "book_rank": 1328,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "verto",
+      "headword": "verto, is, ere, uerti, uersum",
+      "pos": "Verb",
+      "definition": "turn, turn around; change, alter; overthrow, destroy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "verterunt"
+      },
+      "book_frequency": 1,
+      "total_frequency": 13,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 154
+    },
+    {
+      "rank": 1329,
+      "book": 1,
+      "book_rank": 1329,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "fugio",
+      "headword": "fugio, is, ere, fugi",
+      "pos": "Verb",
+      "definition": "flee, fly, run away; avoid, shun; go into exile",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "fugere"
+      },
+      "book_frequency": 1,
+      "total_frequency": 20,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 155
+    },
+    {
+      "rank": 1330,
+      "book": 1,
+      "book_rank": 1330,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "vis",
+      "headword": "vis, -, f.",
+      "pos": "Noun",
+      "definition": "vision; that which is seen, appearance, sight; visual/mental image",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "viribus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 19,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 156
+    },
+    {
+      "rank": 1331,
+      "book": 1,
+      "book_rank": 1331,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "trano",
+      "headword": "trano, as, are",
+      "pos": "Verb",
+      "definition": "swim across",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "tranare"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 157
+    },
+    {
+      "rank": 1332,
+      "book": 1,
+      "book_rank": 1332,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "invenio",
+      "headword": "invenio, is, ire, ueni, uentum",
+      "pos": "Verb",
+      "definition": "come upon; discover, find; invent, contrive; reach, manage to get",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "inventis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 10,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 158
+    },
+    {
+      "rank": 1333,
+      "book": 1,
+      "book_rank": 1333,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "navicula",
+      "headword": "navicula, ae, f.",
+      "pos": "Noun",
+      "definition": "small ship",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "naviculam"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 159
+    },
+    {
+      "rank": 1334,
+      "book": 1,
+      "book_rank": 1334,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "nanciscor",
+      "headword": "nanciscor, eris, i, nactus sum",
+      "pos": "Verb",
+      "definition": "obtain, get; find, meet with, receive, stumble on, light on",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "nactus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 160
+    },
+    {
+      "rank": 1335,
+      "book": 1,
+      "book_rank": 1335,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Suebus",
+      "headword": "Suebus, a, um",
+      "pos": "Noun",
+      "definition": "Swabian",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "Sueba"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 161
+    },
+    {
+      "rank": 1336,
+      "book": 1,
+      "book_rank": 1336,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "natio",
+      "headword": "natio, onis, f.",
+      "pos": "Noun",
+      "definition": "nation, people; birth; race, class, set; gentiles; heathens",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "natio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 16,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 162
+    },
+    {
+      "rank": 1337,
+      "book": 1,
+      "book_rank": 1337,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "Voccio",
+      "headword": "Voccio",
+      "pos": "Word",
+      "definition": "Definition to be reviewed",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "Voccionis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 163
+    },
+    {
+      "rank": 1338,
+      "book": 1,
+      "book_rank": 1338,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "pereo",
+      "headword": "pereo, is, ire, ii, itum",
+      "pos": "Verb",
+      "definition": "die, pass away; be ruined, be destroyed; go to waste",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "periit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 164
+    },
+    {
+      "rank": 1339,
+      "book": 1,
+      "book_rank": 1339,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "trinus",
+      "headword": "trinus, a, um",
+      "pos": "Adjective",
+      "definition": "three each/apiece/times/fold; triple; three in any case; three at a time",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "trinis"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 165
+    },
+    {
+      "rank": 1340,
+      "book": 1,
+      "book_rank": 1340,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "vincio",
+      "headword": "vincio, is, ire, uinxi, uinctum",
+      "pos": "Verb",
+      "definition": "bind, fetter; restrain",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "vinctus"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 166
+    },
+    {
+      "rank": 1341,
+      "book": 1,
+      "book_rank": 1341,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "traho",
+      "headword": "traho, is, ere, traxi, tractum",
+      "pos": "Verb",
+      "definition": "draw, drag, haul; derive, get",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "traheretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 167
+    },
+    {
+      "rank": 1342,
+      "book": 1,
+      "book_rank": 1342,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "incido",
+      "headword": "incido, is, ere, cidi (in + cado)",
+      "pos": "Verb",
+      "definition": "cut into, cut open; inscribe, engrave inscription; break off",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "incidit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 8,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 168
+    },
+    {
+      "rank": 1343,
+      "book": 1,
+      "book_rank": 1343,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "voluptas",
+      "headword": "voluptas, atis, f.",
+      "pos": "Noun",
+      "definition": "pleasure, delight, enjoyment",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "voluptatem"
+      },
+      "book_frequency": 2,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 169
+    },
+    {
+      "rank": 1344,
+      "book": 1,
+      "book_rank": 1344,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "honestus",
+      "headword": "honestus, a, um",
+      "pos": "Adjective",
+      "definition": "distinguished, reputable, respected, honorable, upright, honest; worthy",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "honestissimum"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 170
+    },
+    {
+      "rank": 1345,
+      "book": 1,
+      "book_rank": 1345,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "hospes",
+      "headword": "hospes, itis, m.",
+      "pos": "Noun",
+      "definition": "host; guest, visitor, stranger; soldier in billets; one who billets soldiers",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "hospitem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 171
+    },
+    {
+      "rank": 1346,
+      "book": 1,
+      "book_rank": 1346,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "gratulatio",
+      "headword": "gratulatio, onis n.f.",
+      "pos": "Noun",
+      "definition": "congratulation; rejoicing",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "gratulatio"
+      },
+      "book_frequency": 1,
+      "total_frequency": 3,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 172
+    },
+    {
+      "rank": 1347,
+      "book": 1,
+      "book_rank": 1347,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "ter",
+      "headword": "ter, adv.",
+      "pos": "Adverb",
+      "definition": "three times; on three occasions",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "ter"
+      },
+      "book_frequency": 1,
+      "total_frequency": 1,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 173
+    },
+    {
+      "rank": 1348,
+      "book": 1,
+      "book_rank": 1348,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "statim",
+      "headword": "statim, adv.",
+      "pos": "Adverb",
+      "definition": "at once, immediately",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "statim"
+      },
+      "book_frequency": 1,
+      "total_frequency": 9,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 174
+    },
+    {
+      "rank": 1349,
+      "book": 1,
+      "book_rank": 1349,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "neco",
+      "headword": "neco, as, are",
+      "pos": "Verb",
+      "definition": "kill/murder; put to death; suppress, destroy; kill ; quench/drown",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "necaretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 6,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 175
+    },
+    {
+      "rank": 1350,
+      "book": 1,
+      "book_rank": 1350,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "reservo",
+      "headword": "reservo, as, are",
+      "pos": "Verb",
+      "definition": "reserve; spare; hold on to",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "reservaretur"
+      },
+      "book_frequency": 1,
+      "total_frequency": 4,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 176
+    },
+    {
+      "rank": 1351,
+      "book": 1,
+      "book_rank": 1351,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "incolumis",
+      "headword": "incolumis, e",
+      "pos": "Adjective",
+      "definition": "unharmed, uninjured; alive, safe; unimpaired",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 53,
+        "surface_form": "incolumem"
+      },
+      "book_frequency": 1,
+      "total_frequency": 19,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 177
+    },
+    {
+      "rank": 1352,
+      "book": 1,
+      "book_rank": 1352,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "aestas",
+      "headword": "aestas, tatis, f.",
+      "pos": "Noun",
+      "definition": "summer; summer heat/weather; a year",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 54,
+        "surface_form": "aestate"
+      },
+      "book_frequency": 1,
+      "total_frequency": 14,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 178
+    },
+    {
+      "rank": 1353,
+      "book": 1,
+      "book_rank": 1353,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "paulo",
+      "headword": "paulo, adv.",
+      "pos": "Adverb",
+      "definition": "by a little; by only a small amount; a little; somewhat",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 54,
+        "surface_form": "paulo"
+      },
+      "book_frequency": 1,
+      "total_frequency": 34,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 179
+    },
+    {
+      "rank": 1354,
+      "book": 1,
+      "book_rank": 1354,
+      "stage": "Book 1 Chunk 6",
+      "lemma": "praepono",
+      "headword": "praepono, is, ere, posui, positum",
+      "pos": "Verb",
+      "definition": "place in command, in front of or before; put X  in front of Y",
+      "first_appearance": {
+        "book": 1,
+        "chapter": 54,
+        "surface_form": "praeposuit"
+      },
+      "book_frequency": 1,
+      "total_frequency": 2,
+      "chunk": 6,
+      "chunk_title": "Parley & Decisive Defeat of Ariovistus",
+      "chunk_rank": 180
+    }
+  ]
+}
