@@ -70,6 +70,10 @@ class CaesarApp {
     this.scribeDirection = 'e2l';
     this.clozeDirection = 'l2e';
 
+    // Interleaved spaced-repetition scheduler state
+    this.recentWordIds = [];        // Recent word IDs to prevent immediate repeats
+    this.lastDirectionByWord = {};  // Tracks last tested direction per word to enforce balance
+
     // Gauntlet Big Cumulative Review Runtime State
     this.gauntletState = {
       active: false,
@@ -141,6 +145,8 @@ class CaesarApp {
     // Stage Selector Event
     this.elStageSelect.addEventListener('change', (e) => {
       this.state.selectedStage = e.target.value;
+      this.recentWordIds = [];
+      this.lastDirectionByWord = {};
       this.syncActivePool();
       this.saveProgress();
       this.updateUI();
@@ -316,6 +322,8 @@ class CaesarApp {
         this.state.activePool = [];
         this.state.streak = 0;
         this.state.chapterTriumphs = {};
+        this.recentWordIds = [];
+        this.lastDirectionByWord = {};
         this.syncActivePool();
         this.updateUI();
         this.loadCurrentMode();
@@ -529,6 +537,8 @@ class CaesarApp {
         this.state.currentMode = parsed.currentMode || 'cards';
         this.state.streak = parsed.streak || 0;
         this.state.totalReviewed = parsed.totalReviewed || 0;
+        this.recentWordIds = Array.isArray(parsed.recentWordIds) ? parsed.recentWordIds : [];
+        this.lastDirectionByWord = parsed.lastDirectionByWord || {};
       } else {
         this.state.selectedStage = this.stages[0] || 'Book 1 Subsection 1';
       }
@@ -550,6 +560,8 @@ class CaesarApp {
         streak: this.state.streak,
         totalReviewed: this.state.totalReviewed,
         chapterTriumphs: this.state.chapterTriumphs,
+        recentWordIds: this.recentWordIds.slice(-15),
+        lastDirectionByWord: this.lastDirectionByWord,
       };
       localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
     } catch (e) {
@@ -594,7 +606,8 @@ class CaesarApp {
 
   /**
    * Sample word and determine direction.
-   * Prioritizes whichever direction (l2e or e2l) has lower mastery score.
+   * Interleaves all words across the 10-word active pool with cooldowns,
+   * weighted urgency, and balanced bidirectional validation.
    */
   sampleActiveOrReview() {
     this.syncActivePool();
@@ -608,11 +621,48 @@ class CaesarApp {
     let isReview = false;
 
     if (shouldReview) {
-      const idx = Math.floor(Math.random() * masteredInStage.length);
-      word = masteredInStage[idx];
+      // Pick a review word, avoiding repeating the immediate last tested word
+      const lastId = this.recentWordIds.length > 0 ? this.recentWordIds[this.recentWordIds.length - 1] : null;
+      let reviewCandidates = masteredInStage.filter((w) => w.r !== lastId);
+      if (reviewCandidates.length === 0) reviewCandidates = masteredInStage;
+      const idx = Math.floor(Math.random() * reviewCandidates.length);
+      word = reviewCandidates[idx];
       isReview = true;
     } else if (this.state.activePool.length > 0) {
-      word = this.wordsById.get(this.state.activePool[0]);
+      const pool = this.state.activePool;
+      // Cooldown of up to 3 words (or pool.length - 1 if smaller)
+      const cooldownSize = Math.max(0, Math.min(3, pool.length - 1));
+      const cooldownSet = new Set(this.recentWordIds.slice(-cooldownSize));
+
+      let candidates = pool.filter((id) => !cooldownSet.has(id));
+      if (candidates.length === 0) {
+        // Fallback: exclude at least the immediate previous word if possible
+        const lastId = this.recentWordIds.length > 0 ? this.recentWordIds[this.recentWordIds.length - 1] : null;
+        candidates = pool.filter((id) => id !== lastId);
+      }
+      if (candidates.length === 0) {
+        candidates = pool;
+      }
+
+      // Weight candidates by need: words with fewer total validation points are prioritized
+      const weights = candidates.map((id) => {
+        const sc = normalizeScore(this.state.masteryScores[id]);
+        const pts = sc.l2e + sc.e2l;
+        return Math.max(1, 5 - pts); // 0 pts -> weight 5, 1 pt -> weight 4, etc.
+      });
+
+      const totalWeight = weights.reduce((a, b) => a + b, 0);
+      let r = Math.random() * totalWeight;
+      let chosenId = candidates[0];
+      for (let i = 0; i < candidates.length; i++) {
+        r -= weights[i];
+        if (r <= 0) {
+          chosenId = candidates[i];
+          break;
+        }
+      }
+
+      word = this.wordsById.get(chosenId);
       isReview = false;
     }
 
@@ -622,7 +672,7 @@ class CaesarApp {
 
     // Bidirectional selection:
     // If review: random 50/50
-    // If active: prioritize whichever direction has fewer validations
+    // If active: prioritize whichever direction has fewer validations, or alternate from last direction
     let direction = 'l2e';
     if (isReview) {
       direction = Math.random() < 0.5 ? 'l2e' : 'e2l';
@@ -633,9 +683,17 @@ class CaesarApp {
       } else if (scores.e2l < scores.l2e) {
         direction = 'e2l';
       } else {
-        direction = Math.random() < 0.5 ? 'l2e' : 'e2l';
+        const lastDir = this.lastDirectionByWord[word.r];
+        direction = (lastDir === 'l2e') ? 'e2l' : 'l2e';
       }
     }
+
+    // Record in recent cooldown buffer
+    this.recentWordIds.push(word.r);
+    if (this.recentWordIds.length > 15) {
+      this.recentWordIds.shift();
+    }
+    this.lastDirectionByWord[word.r] = direction;
 
     return { word, isReview, direction };
   }
@@ -820,20 +878,11 @@ class CaesarApp {
       }
     } else {
       if (points === 0) {
-        // Forgot: reset score for current direction, cycle to back of active pool
+        // Forgot: reset score for current direction
         this.updateWordScore(this.currentWord.r, this.currentDirection, -1, true);
-        const idx = this.state.activePool.indexOf(this.currentWord.r);
-        if (idx !== -1) {
-          this.state.activePool.splice(idx, 1);
-          this.state.activePool.push(this.currentWord.r);
-        }
       } else if (points === 1) {
-        // Hard: keep in active pool, cycle to back
-        const idx = this.state.activePool.indexOf(this.currentWord.r);
-        if (idx !== -1) {
-          this.state.activePool.splice(idx, 1);
-          this.state.activePool.push(this.currentWord.r);
-        }
+        // Hard: keep in active pool without advancing score
+        this.updateWordScore(this.currentWord.r, this.currentDirection, 0);
       } else {
         // Mastered this direction step
         this.updateWordScore(this.currentWord.r, this.currentDirection, 1);
@@ -924,12 +973,14 @@ class CaesarApp {
   // ==========================================
   loadMatchMode() {
     this.syncActivePool();
-    let available = this.state.activePool.slice(0, 5).map((id) => this.wordsById.get(id)).filter(Boolean);
-
-    if (available.length < 2) {
-      const stageWords = this.getAvailableWords();
-      available = stageWords.slice(0, 5);
+    let poolCandidates = [...this.state.activePool];
+    if (poolCandidates.length < 2) {
+      poolCandidates = this.getAvailableWords().map((w) => w.r);
     }
+
+    // Shuffle pool candidates so all 10 active words get practiced in Match
+    const shuffledPool = poolCandidates.sort(() => 0.5 - Math.random());
+    let available = shuffledPool.slice(0, 5).map((id) => this.wordsById.get(id)).filter(Boolean);
 
     if (available.length < 2) {
       this.elMatchLatin.innerHTML = `<div class="p-4 text-gray-400">Not enough words to match. Select another stage.</div>`;
